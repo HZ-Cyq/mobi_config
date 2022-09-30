@@ -1,0 +1,18 @@
+<root>
+<MapAnim id="1" group_id="1" sub_quest_id="1201" type="4" param="0.05;0.8" callback_delay="0.8" remark="看向整个大地图"/>
+<MapAnim id="2" group_id="1" sub_quest_id="1201" type="1" param="test_3Dmap.整体介绍" callback_delay="0.3" remark="整体介绍安江市"/>
+<MapAnim id="3" group_id="1" sub_quest_id="1201" type="4" param="0.5;0.6" callback_delay="0.0" remark="镜头拉回"/>
+<MapAnim id="4" group_id="1" sub_quest_id="1201" type="2" param="1001" callback_delay="0.4" remark=""/>
+<MapAnim id="5" group_id="1" sub_quest_id="1201" type="3" param="1001" callback_delay="2.0" remark=""/>
+<MapAnim id="6" group_id="1" sub_quest_id="1201" type="1" param="test_3Dmap.泉舜公寓1" callback_delay="0.5" remark=""/>
+<MapAnim id="7" group_id="1" sub_quest_id="1201" type="2" param="2002" callback_delay="0.4" remark=""/>
+<MapAnim id="8" group_id="1" sub_quest_id="1201" type="3" param="2002" callback_delay="2.0" remark=""/>
+<MapAnim id="9" group_id="1" sub_quest_id="1201" type="1" param="test_3Dmap.天目剧院1" callback_delay="0.5" remark=""/>
+<MapAnim id="10" group_id="1" sub_quest_id="1201" type="2" param="3001" callback_delay="0.4" remark=""/>
+<MapAnim id="11" group_id="1" sub_quest_id="1201" type="3" param="3001" callback_delay="2.0" remark=""/>
+<MapAnim id="12" group_id="1" sub_quest_id="1201" type="2" param="3101" callback_delay="0.4" remark=""/>
+<MapAnim id="13" group_id="1" sub_quest_id="1201" type="3" param="3002" callback_delay="0.1" remark=""/>
+<MapAnim id="14" group_id="1" sub_quest_id="1201" type="3" param="3101" callback_delay="2.0" remark=""/>
+<MapAnim id="15" group_id="1" sub_quest_id="1201" type="1" param="test_3Dmap.整个地图1" callback_delay="0.5" remark=""/>
+<MapAnim id="16" group_id="1" sub_quest_id="1201" type="2" param="1001" callback_delay="0.5" remark=""/>
+</root>

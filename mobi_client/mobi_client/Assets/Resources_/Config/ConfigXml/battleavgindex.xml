@@ -1,0 +1,11 @@
+<root>
+<BattleAvgIndex id="1" avgScript="Intro_C0_battle01" avgPosition="" avgLabel="开始"/>
+<BattleAvgIndex id="2" avgScript="Intro_C0_battle01" avgPosition="" avgLabel="召唤电桩少女"/>
+<BattleAvgIndex id="3" avgScript="Intro_C0_battle01_2" avgPosition="" avgLabel="开始"/>
+<BattleAvgIndex id="4" avgScript="Intro_C0_battle01_2" avgPosition="" avgLabel="引导涂凌技能"/>
+<BattleAvgIndex id="5" avgScript="Intro_C0_battle02" avgPosition="" avgLabel="开始"/>
+<BattleAvgIndex id="6" avgScript="Intro_C0_battle02_2" avgPosition="" avgLabel="开始"/>
+<BattleAvgIndex id="7" avgScript="Intro_C1_battle01_layout" avgLabel="开始"/>
+<BattleAvgIndex id="8" avgScript="Intro_C1_ScpLevelUp" avgLabel="开始"/>
+<BattleAvgIndex id="9" avgScript="Intro_C1_battle05" avgLabel="开始"/>
+</root>

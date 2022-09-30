@@ -1,0 +1,13 @@
+<root>
+<SkillLevelUp id="1" cost_skill02="0" cost_skill03="0" cost_skill04="0"/>
+<SkillLevelUp id="2" cost_skill02="1" cost_skill03="1" cost_skill04="1"/>
+<SkillLevelUp id="3" cost_skill02="2" cost_skill03="2" cost_skill04="2"/>
+<SkillLevelUp id="4" cost_skill02="4" cost_skill03="4" cost_skill04="4"/>
+<SkillLevelUp id="5" cost_skill02="6" cost_skill03="6" cost_skill04="6"/>
+<SkillLevelUp id="6" cost_skill02="8" cost_skill03="8" cost_skill04="8"/>
+<SkillLevelUp id="7" cost_skill02="10" cost_skill03="10" cost_skill04="10"/>
+<SkillLevelUp id="8" cost_skill02="12" cost_skill03="12" cost_skill04="12"/>
+<SkillLevelUp id="9" cost_skill02="14" cost_skill03="14" cost_skill04="14"/>
+<SkillLevelUp id="10" cost_skill02="16" cost_skill03="16" cost_skill04="16"/>
+<SkillLevelUp id="11" cost_skill02="20" cost_skill03="20" cost_skill04="20"/>
+</root>

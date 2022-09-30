@@ -1,0 +1,42 @@
+<root>
+<Jump id="2001" type="3" param="1|2001" describe="在清理泉舜公寓一号楼101时获得"/>
+<Jump id="2002" type="3" param="1|2002" describe="在清理泉舜公寓一号楼102时获得"/>
+<Jump id="2003" type="3" param="1|2003" describe="在清理泉舜公寓一号楼103时获得"/>
+<Jump id="2004" type="3" param="1|2004" describe="在清理泉舜公寓一号楼201时获得"/>
+<Jump id="2005" type="3" param="1|2005" describe="在清理泉舜公寓一号楼202时获得"/>
+<Jump id="2006" type="3" param="1|2006" describe="在清理泉舜公寓一号楼203时获得"/>
+<Jump id="2011" type="3" param="2|2011" describe="在清理泉舜公寓二号楼101时获得"/>
+<Jump id="2012" type="3" param="2|2012" describe="在清理泉舜公寓二号楼102时获得"/>
+<Jump id="2013" type="3" param="2|2013" describe="在清理泉舜公寓二号楼103时获得"/>
+<Jump id="2014" type="3" param="2|2014" describe="在清理泉舜公寓二号楼201时获得"/>
+<Jump id="2015" type="3" param="2|2015" describe="在清理泉舜公寓二号楼202时获得"/>
+<Jump id="2016" type="3" param="2|2016" describe="在清理泉舜公寓二号楼203时获得"/>
+<Jump id="2017" type="3" param="2|2017" describe="在清理泉舜公寓二号楼301时获得"/>
+<Jump id="2018" type="3" param="2|2018" describe="在清理泉舜公寓二号楼302时获得"/>
+<Jump id="2021" type="3" param="3|2021" describe="在清理泉舜公寓三号楼101时获得"/>
+<Jump id="2022" type="3" param="3|2022" describe="在清理泉舜公寓三号楼102时获得"/>
+<Jump id="2023" type="3" param="3|2023" describe="在清理泉舜公寓三号楼103时获得"/>
+<Jump id="2024" type="3" param="3|2024" describe="在清理泉舜公寓三号楼201时获得"/>
+<Jump id="2025" type="3" param="3|2025" describe="在清理泉舜公寓三号楼202时获得"/>
+<Jump id="2026" type="3" param="3|2026" describe="在清理泉舜公寓三号楼203时获得"/>
+<Jump id="2027" type="3" param="3|2027" describe="在清理泉舜公寓三号楼301时获得"/>
+<Jump id="2028" type="3" param="3|2028" describe="在清理泉舜公寓三号楼302时获得"/>
+<Jump id="2029" type="3" param="3|2029" describe="在清理泉舜公寓三号楼303时获得"/>
+<Jump id="2030" type="3" param="3|2030" describe="在清理泉舜公寓三号楼304时获得"/>
+<Jump id="10001" type="0" param="" describe="暂无获得来源，敬请期待"/>
+<Jump id="10002" type="0" param="" describe="获得同名异质物时自动分解获得"/>
+<Jump id="10003" type="0" param="" describe="通过异质物探索获得"/>
+<Jump id="10004" type="0" param="" describe="序章故事中获得"/>
+<Jump id="10005" type="0" param="" describe="第一章故事中获得"/>
+<Jump id="10006" type="0" param="" describe="第二章故事中获得"/>
+<Jump id="10007" type="1" param="1001" describe="在泉舜公寓中进行清理时掉落"/>
+<Jump id="10008" type="2" param="11|2002" describe="挑战天目剧院副本获得"/>
+<Jump id="10009" type="2" param="11|2003" describe="挑战克雷研究所副本获得"/>
+<Jump id="10010" type="0" param="" describe="当前版本未放出，敬请期待"/>
+<Jump id="10011" type="2" param="16" describe="可在道具商店中购买"/>
+<Jump id="10012" describe="随时间自然恢复，每5分钟恢复1点"/>
+<Jump id="10013" type="2" param="17" describe="跳转抽卡界面"/>
+<Jump id="10014" describe="在城市的各个地点中收集"/>
+<Jump id="10015" describe="充值功能暂未开启"/>
+<Jump id="10016" type="2" param="16" describe="等级达到7级后可在道具商店中购买"/>
+</root>
