@@ -1,0 +1,58 @@
+<root>
+<quest_99001 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="1" originalRow="1" groupSign="对话_领取任务问候" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="duheng" param="quest_99001.对话_特定闲聊" param2="" param3=""/>
+<quest_99001 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="duheng" param="..." param2="" param3=""/>
+<quest_99001 id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<quest_99001 id="5" originalRow="5" groupSign="对话_领取任务" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="6" originalRow="6" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<quest_99001 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<quest_99001 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="quest_99001.对话领取任务" param2="" param3=""/>
+<quest_99001 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="..." param2="" param3=""/>
+<quest_99001 id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<quest_99001 id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="12" originalRow="12" groupSign="对话_领取任务_条件不满足" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="13" originalRow="13" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<quest_99001 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<quest_99001 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="duheng" param="quest_99001.对话_领取任务_条件不满足" param2="" param3=""/>
+<quest_99001 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="..." param2="" param3=""/>
+<quest_99001 id="17" originalRow="17" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<quest_99001 id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="19" originalRow="19" groupSign="问候_凯瑟琳_xt_9001001" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="20" originalRow="20" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<quest_99001 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<quest_99001 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="duheng" param="问候_凯瑟琳_xt_9001001" param2="" param3=""/>
+<quest_99001 id="23" originalRow="23" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<quest_99001 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="25" originalRow="25" groupSign="问候_杜衡_xt_9001001" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="26" originalRow="26" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<quest_99001 id="27" originalRow="27" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<quest_99001 id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="29" originalRow="29" groupSign="" debugClose="" action="跳转-标签" data="rqs_o_xt9900103 == 1" param="杜衡_o_9900103" param2="" param3=""/>
+<quest_99001 id="30" originalRow="30" groupSign="" debugClose="" action="跳转-标签" data="rqs_o_xt9900151 == 1" param="杜衡_o_9900151" param2="" param3=""/>
+<quest_99001 id="31" originalRow="31" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡_default" param2="" param3=""/>
+<quest_99001 id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="33" originalRow="33" groupSign="杜衡_o_9900103" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="duheng" param="杜衡_9900103 已激活" param2="" param3=""/>
+<quest_99001 id="35" originalRow="35" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<quest_99001 id="36" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="38" originalRow="38" groupSign="杜衡_o_9900151" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="duheng" param="杜衡_9900151 已激活" param2="" param3=""/>
+<quest_99001 id="40" originalRow="40" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<quest_99001 id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="42" originalRow="42" groupSign="杜衡_default" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="duheng" param="问候_杜衡_xt_9001001_default" param2="" param3=""/>
+<quest_99001 id="44" originalRow="44" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<quest_99001 id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="46" originalRow="46" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="47" originalRow="47" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="48" originalRow="48" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="50" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="52" originalRow="52" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="53" originalRow="53" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="54" originalRow="54" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<quest_99001 id="55" originalRow="55" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

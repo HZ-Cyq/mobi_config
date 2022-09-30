@@ -1,0 +1,72 @@
+<root>
+<kelei_part2 id="0" originalRow="0" groupSign="开始"/>
+<kelei_part2 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<kelei_part2 id="2" originalRow="2" action="语法-数值" data="rqs_2003001前往克雷研究所=2"/>
+<kelei_part2 id="3" originalRow="3" groupSign="" debugClose="" action="播放音效" data="amb_kelei" param="" param2=""/>
+<kelei_part2 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_disccusion2}" param2=""/>
+<kelei_part2 id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=0" param2=""/>
+<kelei_part2 id="6" originalRow="6" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}克雷博士！你在吗？"/>
+<kelei_part2 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=1" param2="聂总_思考_动作_开始_01"/>
+<kelei_part2 id="8" originalRow="8" action="角色台词" data="niefei" param="以一名士兵的直觉来看，这里不太对劲。"/>
+<kelei_part2 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=2" param2="涂凌_严肃_动作_开始_01"/>
+<kelei_part2 id="10" originalRow="10" action="角色台词" data="tuling" param="{#涂凌平静表情}检测出了频繁的异质物现象。"/>
+<kelei_part2 id="11" originalRow="11" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}{#涂凌严肃动作恢复}{#涂凌待机表情}但是对于研究所来说，有异质物现象才是正常的吧。"/>
+<kelei_part2 id="12" originalRow="12" action="角色台词" data="wo" param="凯瑟琳，那个克雷博士，{#凯瑟琳2思考动作恢复}{#凯瑟琳2待机表情}是一个什么样的人呢？"/>
+<kelei_part2 id="13" originalRow="13" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}我很敬佩他，作为同行来讲。"/>
+<kelei_part2 id="14" originalRow="14" action="角色台词" data="kaiselin02" param="他有着崇高和远大的科学理想……"/>
+<kelei_part2 id="15" originalRow="15" action="角色台词" data="kaiselin02" param="他想要一个能让异质物和人类和谐共存的世界，并且一直为之而努力。"/>
+<kelei_part2 id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=1" param2="聂总_思考_动作_开始_01"/>
+<kelei_part2 id="17" originalRow="17" action="角色台词" data="niefei" param="{#聂飞严肃表情}听起来怎么有点反派的味道了？"/>
+<kelei_part2 id="18" originalRow="18" action="角色台词" data="kaiselin02" param="{#闪白震slash}{#凯瑟琳2严肃动作}{#凯瑟琳2严肃表情}小飞飞！注意你的言辞！"/>
+<kelei_part2 id="19" originalRow="19" action="角色台词" data="wo" param="我看看，这里的设备全部都在正常运转，不像是人不在的样子……"/>
+<kelei_part2 id="20" originalRow="20" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}这样子，反而会更奇怪吧……"/>
+<kelei_part2 id="21" originalRow="21" action="角色台词" param="凯瑟琳狠狠地瞪了聂飞一眼。"/>
+<kelei_part2 id="22" originalRow="22" action="角色台词" data="wo" param="啊……好啦好啦……"/>
+<kelei_part2 id="23" originalRow="23" action="角色台词" data="kaiselin02" param="{#闪白震slash}博士很有可能是遇到了什么危险，我们必须去紧急营救他！"/>
+<kelei_part2 id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=2" param2="涂凌_紧张_动作_开始_01"/>
+<kelei_part2 id="25" originalRow="25" action="角色台词" data="tuling" param="异质物的信号越来越强了，前方就存在危险。"/>
+<kelei_part2 id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=1" param2="聂总_思考_动作_开始_01"/>
+<kelei_part2 id="27" originalRow="27" action="角色台词" data="niefei" param="{#聂飞严肃表情}做好战斗准备！"/>
+<kelei_part2 id="28" originalRow="28" action="角色台词" data="kaiselin02" param="克雷博士，我们来救你了！{#凯瑟琳2严肃动作恢复}"/>
+<kelei_part2 id="29" originalRow="29" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<kelei_part2 id="30" originalRow="30" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=0" param2="STS科研人员_待机_动作_循环_02"/>
+<kelei_part2 id="31" originalRow="31" action="角色台词" data="keyanrenyuan" param="等等！救救我吧！我可以给你们带路。" param3="name=STS工作人员"/>
+<kelei_part2 id="32" originalRow="32" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="凯瑟琳_思考_动作_开始_01"/>
+<kelei_part2 id="33" originalRow="33" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}怎么又是你？"/>
+<kelei_part2 id="34" originalRow="34" action="角色台词" data="keyanrenyuan" param="{#npc标准男01紧张动作}{#npc标准男01紧张表情}什么又是我？我们之前有见过吗？我才刚来第一天……" param3="name=STS工作人员"/>
+<kelei_part2 id="35" originalRow="35" action="角色台词" data="wo" param="喂，你有没有发现你讲的话前后矛盾啊！"/>
+<kelei_part2 id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#npc标准男01紧张动作恢复}是不是这张脸的人都很神经刀啊……算了我们先走吧……{music=off}" param2=""/>
+<kelei_part2 id="37" originalRow="37" groupSign="" debugClose="" action="停止音效" data="amb_kelei" param="" param2=""/>
+<kelei_part2 id="38" originalRow="38" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<kelei_part2 id="39" originalRow="39" action="语法-数值" data="rqs_2003002通关克雷研究所1=1"/>
+<kelei_part2 id="40" originalRow="40" action="跳转-标签" param="结束"/>
+<kelei_part2 id="41" originalRow="41" groupSign="结束"/>
+<kelei_part2 id="42" originalRow="42"/>
+<kelei_part2 id="43" originalRow="43"/>
+<kelei_part2 id="44" originalRow="44"/>
+<kelei_part2 id="45" originalRow="45"/>
+<kelei_part2 id="46" originalRow="46"/>
+<kelei_part2 id="47" originalRow="47"/>
+<kelei_part2 id="48" originalRow="48"/>
+<kelei_part2 id="49" originalRow="49"/>
+<kelei_part2 id="50" originalRow="50"/>
+<kelei_part2 id="51" originalRow="51"/>
+<kelei_part2 id="52" originalRow="52"/>
+<kelei_part2 id="53" originalRow="53"/>
+<kelei_part2 id="54" originalRow="54"/>
+<kelei_part2 id="55" originalRow="55"/>
+<kelei_part2 id="56" originalRow="56"/>
+<kelei_part2 id="57" originalRow="57" data=""/>
+<kelei_part2 id="58" originalRow="58"/>
+<kelei_part2 id="59" originalRow="59"/>
+<kelei_part2 id="60" originalRow="60" data=""/>
+<kelei_part2 id="61" originalRow="61"/>
+<kelei_part2 id="62" originalRow="62"/>
+<kelei_part2 id="63" originalRow="63"/>
+<kelei_part2 id="64" originalRow="64"/>
+<kelei_part2 id="65" originalRow="65"/>
+<kelei_part2 id="66" originalRow="66" data=""/>
+<kelei_part2 id="67" originalRow="67"/>
+<kelei_part2 id="68" originalRow="68"/>
+<kelei_part2 id="69" originalRow="69" groupSign=""/>
+</root>

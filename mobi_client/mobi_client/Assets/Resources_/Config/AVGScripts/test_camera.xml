@@ -1,0 +1,41 @@
+<root>
+<Test_Camera id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<Test_Camera id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<Test_Camera id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=" "/>
+<Test_Camera id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
+<Test_Camera id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=右" param2="" param3=""/>
+<Test_Camera id="5" originalRow="5" groupSign="2&gt;&gt;" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Camera id="6" originalRow="6" groupSign="5&gt;&gt;" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2=" " param3=""/>
+<Test_Camera id="7" originalRow="7" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL01" param2="" param3=""/>
+<Test_Camera id="8" originalRow="8" groupSign="2&gt;&gt;" debugClose="" action="角色镜头关闭" data="kaiselin" param="" param2="" param3=""/>
+<Test_Camera id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="10" originalRow="10" groupSign="" debugClose="1" action="播放timeline" data="cartoonTimeLine" param="" param2="" param3=""/>
+<Test_Camera id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<Test_Camera id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="~！" param2="" param3=""/>
+<Test_Camera id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="" param3=""/>
+<Test_Camera id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="~！" param2="" param3=""/>
+<Test_Camera id="15" originalRow="15" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2="" param3=""/>
+<Test_Camera id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=右" param2="" param3=""/>
+<Test_Camera id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="~！" param2="" param3=""/>
+<Test_Camera id="18" originalRow="18" groupSign="" debugClose="1" action="设置角色" data="tuling" param="pos=1" param2="" param3=""/>
+<Test_Camera id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="~！" param2="" param3=""/>
+<Test_Camera id="20" originalRow="20" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2="" param3=""/>
+<Test_Camera id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="tuling" param="~！" param2="" param3=""/>
+<Test_Camera id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="29" originalRow="29" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="33" originalRow="33" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="35" originalRow="35" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="36" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Camera id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

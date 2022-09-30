@@ -1,0 +1,23 @@
+<root>
+<scpDevelop id="0" originalRow="0" groupSign="开始" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<scpDevelop id="1" originalRow="1" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
+<scpDevelop id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<scpDevelop id="3" originalRow="3" debugClose="1" action="角色台词" data="" param="{music=low}" param2="" param3=""/>
+<scpDevelop id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<scpDevelop id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2="" param3=""/>
+<scpDevelop id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌待机表情}喔~{0.4}获得的这些材料可以用于异质物的&lt;color=#ECFE1E&gt;深度开发&lt;/color&gt;" param2="" param3=""/>
+<scpDevelop id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="异质物开发？" param2="" param3=""/>
+<scpDevelop id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="在异质物界面中，点击右下角的&lt;color=#ECFE1E&gt;深度开发&lt;/color&gt;，便可以通过消耗对应的材料来获得较大的提升~" param2="" param3=""/>
+<scpDevelop id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌严肃动作}{#涂凌平静表情}我帮你直接打开异质物信息界面吧~
+然后你找到深度开发并进行研究。" param2="" param3=""/>
+<scpDevelop id="10" originalRow="10" groupSign="" debugClose="" action="系统-打开界面" data="ui_unit_info" param="105"/>
+<scpDevelop id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作恢复}刚刚有没有好好把获得的材料用掉？" param2="" param3=""/>
+<scpDevelop id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}如果用掉了，就继续进行训练，来试试效果吧~" param2="" param3=""/>
+<scpDevelop id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<scpDevelop id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="cailiao_part4.引导完成"/>
+<scpDevelop id="15" originalRow="15" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1"/>
+<scpDevelop id="16" originalRow="16" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1"/>
+<scpDevelop id="17" originalRow="17" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
+<scpDevelop id="18" originalRow="18" debugClose="1" action="角色台词" data="" param="{music=high}"/>
+<scpDevelop id="19" originalRow="19" groupSign="结束"/>
+</root>

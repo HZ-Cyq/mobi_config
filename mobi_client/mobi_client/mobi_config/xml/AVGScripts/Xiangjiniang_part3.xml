@@ -1,0 +1,65 @@
+<root>
+<xiangjiniang_part3 id="0" originalRow="0" groupSign="开始"/>
+<xiangjiniang_part3 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xiangjiniang_part3 id="2" originalRow="2" groupSign="" action="角色台词" data="" param="{music=bgm_trapped}我们到了1715门口，按下了门铃。" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="3" originalRow="3" action="角色台词" data="" param="门被一个稍显邋遢，有些肥胖的男青年打开了。" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part3 id="5" originalRow="5" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="6" originalRow="6" action="角色台词" data="yuanan" param="我不买保险。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="7" originalRow="7" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part3 id="8" originalRow="8" action="角色台词" data="" param="男青年表情冷漠地准备关上门，" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="9" originalRow="9" action="角色台词" data="" param="凯瑟琳眼疾手快地凑了上去。" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part3 id="11" originalRow="11" action="角色台词" data="kaiselin02" param="请问您是余阿南吗~" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=右" param2="" param3=""/>
+<xiangjiniang_part3 id="13" originalRow="13" action="角色台词" data="yuanan" param="……对。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="14" originalRow="14" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}我们想向你了解一些情况。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="15" originalRow="15" action="角色台词" data="yuanan" param="无可奉告。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="16" originalRow="16" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part3 id="17" originalRow="17" action="角色台词" data="" param="余阿南再次准备关门，凯瑟琳伸手握住了门。" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<xiangjiniang_part3 id="19" originalRow="19" action="角色台词" data="tuling" param="{#涂凌平静表情}我们还没说是关于什么的情况……" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="20" originalRow="20" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part3 id="21" originalRow="21" action="角色台词" data="yuanan" param="没有兴趣。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_愤怒_动作_开始_01" param3=""/>
+<xiangjiniang_part3 id="23" originalRow="23" action="角色台词" data="niefei" param="{#聂飞愤怒表情}臭小子，不要不识抬举！" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="24" originalRow="24" action="角色台词" data="niefei" param="{#聂飞愤怒动作恢复}{#聂飞严肃表情}关于拍立得异质物你都知道什么？" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="25" originalRow="25" action="角色台词" data="wo" param="&lt;z=blue&gt;(不要这么直球啊！！）&lt;/z&gt;" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="26" originalRow="26" action="角色台词" data="" param="余阿南眼角跳动，似乎有些意外。" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="27" originalRow="27" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part3 id="28" originalRow="28" action="角色台词" data="yuanan" param="你们是警察？" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_得意_动作_开始_01" param3=""/>
+<xiangjiniang_part3 id="30" originalRow="30" action="角色台词" data="niefei" param="{#聂飞得意表情}比警察更厉害，说出来吓死你！唔——" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part3 id="32" originalRow="32" action="角色台词" data="" param="{#凯瑟琳2严肃表情}凯瑟琳捂住聂总的嘴，把聂总丢到了一边。" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="33" originalRow="33" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}小猫猫的话别往心里去~" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="34" originalRow="34" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}你是什么时候见到拍立得异质物的？" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="35" originalRow="35" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=右" param2="" param3=""/>
+<xiangjiniang_part3 id="36" originalRow="36" action="角色台词" data="yuanan" param="我什么都不记得了。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="37" originalRow="37" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作恢复}{#凯瑟琳2严肃表情}警方报告里可是提到了你的自述。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="38" originalRow="38" action="角色台词" data="kaiselin02" param="“5月2日下午，我在摄影店门口遇到了她”。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="39" originalRow="39" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="40" originalRow="40" action="角色台词" data="yuanan" param="既然你们能拿到警方报告，去问警察好了。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="41" originalRow="41" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}我们在帮助警方寻找异质物，希望你配合调查。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="42" originalRow="42" action="角色台词" data="" param="余阿南有一丝警觉。" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="43" originalRow="43" action="角色台词" data="kaiselin02" param="{#凯瑟琳2待机表情}{#凯瑟琳2严肃动作恢复}嘛，现在是我们在问你问题哦~" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="44" originalRow="44" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param=""/>
+<xiangjiniang_part3 id="45" originalRow="45" action="角色台词" data="yuanan" param="我现在就生活得很好。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="46" originalRow="46" action="角色台词" data="yuanan" param="我马上要辞职去我女友的城市。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="47" originalRow="47" action="角色台词" data="yuanan" param="她是我的博士生导师，她最近跟丈夫离完婚……" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="48" originalRow="48" action="角色台词" data="yuanan" param="我们已经决定正式在一起了。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="49" originalRow="49" action="角色台词" data="yuanan" param="{#npc标准男02紧张动作}至于你们说的神秘少女……" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="50" originalRow="50" action="角色台词" data="yuanan" param="{#npc标准男02紧张动作恢复}她的确说过能给我带来幸福。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="51" originalRow="51" action="角色台词" data="yuanan" param="但对于过去而言，我当下的生活才是最幸福的。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="52" originalRow="52" action="角色台词" data="yuanan" param="我完全不需要那种东西，所以拒绝了她。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="53" originalRow="53" action="角色台词" data="wo" param="你的认为你现在的生活就是最幸福的？" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="54" originalRow="54" action="角色台词" data="yuanan" param="当然。" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="55" originalRow="55" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part3 id="56" originalRow="56" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xiangjiniang_part3 id="57" originalRow="57" action="角色台词" data="" param="似乎再也问不出别的，我们只能先告辞。{music=off}" param2="" param3="type=1"/>
+<xiangjiniang_part3 id="58" originalRow="58" action="" data="" param="" param2="" param3=""/>
+<xiangjiniang_part3 id="59" originalRow="59" action="语法-数值" data="rqs_3006002相机娘支线2=2" param="" param2="" param3=""/>
+<xiangjiniang_part3 id="60" originalRow="60" groupSign="" action="语法-数值" data="rqs_3006003相机娘支线3=1" param="" param2="" param3=""/>
+<xiangjiniang_part3 id="61" originalRow="61" action="存档" data="" param="" param2="" param3=""/>
+<xiangjiniang_part3 id="62" originalRow="62" groupSign="结束" action="" data="" param="" param2="" param3=""/>
+</root>

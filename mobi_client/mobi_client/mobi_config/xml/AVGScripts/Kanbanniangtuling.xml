@@ -1,0 +1,149 @@
+<root>
+<kanbanniangtuling id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<kanbanniangtuling id="1" originalRow="1" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param=""/>
+<kanbanniangtuling id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param=""/>
+<kanbanniangtuling id="3" originalRow="3" groupSign="" debugClose="" action="镜头切换" data="camchar0" param=""/>
+<kanbanniangtuling id="4" originalRow="4" groupSign="1" debugClose="" action="RPGActor" data="ActTuling" param="150"/>
+<kanbanniangtuling id="5" originalRow="5" groupSign="2.1" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_站起_动作_结束_01"/>
+<kanbanniangtuling id="6" originalRow="6" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_打字_动作_循环_01" param2="" param3=""/>
+<kanbanniangtuling id="7" originalRow="7" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_打字_上脸_开始_01;涂凌_打字_下嘴_开始_01" param2="" param3=""/>
+<kanbanniangtuling id="8" originalRow="8" groupSign="询问" debugClose="" action="可选对话框" data="" param="(xuanxiang1&lt;1)$$你没事吧？==&gt;你没事吧？\n(xuanxiang1==1&amp;&amp;xuanxiang2&lt;1)$$一起在附近逛逛吧。==&gt;一起在附近逛逛吧。\n$$没事了。==&gt;结束" param2=""/>
+<kanbanniangtuling id="9" originalRow="9" groupSign="你没事吧？" debugClose=""/>
+<kanbanniangtuling id="10" originalRow="10" action="播放音乐" data="bgm_tuling" param="TRUE" param2="2|2" param3=""/>
+<kanbanniangtuling id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="没有摔到哪里吧？" param2="周易_没有摔"/>
+<kanbanniangtuling id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,tuling,涂凌_打字_动作_循环_01}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_思考_下嘴_开始_01;涂凌_上看_眼睛_开始_01}{眨眼速度,tuling,3}……" param2="VO_tuling_115"/>
+<kanbanniangtuling id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="{角色转头,tuling,下小} {角色表情,tuling,涂凌_打字_上脸_开始_01;涂凌_思考_下嘴_开始_01;}这个戴鲨鱼帽的女孩没有理会我。"/>
+<kanbanniangtuling id="12" originalRow="12" groupSign="" debugClose="1" action="角色台词" data="" param="她的{#涂凌休闲动作}右手从宽大的外套袖筒中只露出五个指尖，\n飞快地敲击着笔记本电脑的键盘。"/>
+<kanbanniangtuling id="13" originalRow="13" groupSign="" debugClose="1" action="角色台词" data="wo" param="（好像没听见我说话……{#涂凌平静}\n{#涂凌紧张}鲨鱼帽尾巴随着打字动作在颤抖，还挺可爱。）{#涂凌紧张恢复}{#涂凌平静}"/>
+<kanbanniangtuling id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="你是……"/>
+<kanbanniangtuling id="15" originalRow="15" groupSign="6.2" debugClose="" action="角色台词" data="wo" param="涂{特殊-闪白效果,1}{镜头震动,1}{播放音效,voice_lightpunch}{角色转头,tuling,无}{#涂凌动漫惊讶}{角色表情,tuling,涂凌_惊讶_上脸_开始_01;涂凌_惊讶_下嘴_开始_01;涂凌_待机_眼睛_开始_01}{0.2}{角色动作,tuling,涂凌_惊讶_动作_开始_01}{sleep=1}{s=0.2}凌…………吗？"/>
+<kanbanniangtuling id="16" originalRow="16" groupSign="" debugClose="1" action="角色台词" data="tuling" param="欸欸欸？"/>
+<kanbanniangtuling id="17" originalRow="17" groupSign="" debugClose="1" action="角色台词" data="" param="凃绫吓了一大跳，手里的电脑都丢了出去。"/>
+<kanbanniangtuling id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="不、不好意思！……{角色动作,tuling,涂凌_惊讶_动作_结束_01}{1.7}{角色表情,tuling,涂凌_打字_上脸_循环_01;涂凌_打字_下嘴_循环_01}难道吓到你了？" param2="周易_不好意思1"/>
+<kanbanniangtuling id="19" originalRow="19" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_紧张_动作_开始_01"/>
+<kanbanniangtuling id="20" originalRow="20" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_紧张_上脸_开始_01;涂凌_紧张_下嘴_开始_01"/>
+<kanbanniangtuling id="21" originalRow="21" groupSign="1.2" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;（好像更紧张了……）&lt;/color&gt;{播放音效,voice_typing}{1.2}{角色表情,tuling,涂凌_紧张_上脸_开始_01;涂凌_紧张_下嘴_开始_01}"/>
+<kanbanniangtuling id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;（是不是转移一下话题比较好……)&lt;/color&gt;"/>
+<kanbanniangtuling id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="你的鲨鱼帽子好酷，在哪里买的？" param2="周易_鲨鱼帽子"/>
+<kanbanniangtuling id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="tuling" param="…………" param2="VO_tuling_116"/>
+<kanbanniangtuling id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.08}………………" param2="周易_额啊2"/>
+<kanbanniangtuling id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;size=50&gt;喂！！{播放音效,voice_lightpunch}{特殊-闪白效果,1}{shake=1}{角色表情,tuling,涂凌_憋气_上脸_开始_01;涂凌_憋气_下嘴_开始_01;}" param2="周易_喂1"/>
+<kanbanniangtuling id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="" param="{角色动作,tuling,涂凌_憋气_动作_开始_01}涂凌突然纹丝不动。"/>
+<kanbanniangtuling id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="" param="我把食指伸到她鼻子下面探她鼻息，{sleep=0.6}\n{播放音效,voice_inspiration}{特殊-闪白效果,1}{shake=1}还、还真的不出气了！！"/>
+<kanbanniangtuling id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="wo" param="我脑海中不禁浮现出遇到熊立刻倒地装死的小动物的画面。"/>
+<kanbanniangtuling id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;（怎么感觉她是想装死躲过去……{sleep=0.3}\n  干脆逗逗她吧。）&lt;/color&gt;"/>
+<kanbanniangtuling id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.07}我听说，{#涂凌动漫震动背景慢}{sleep=1.2}{s=0.11}一般人憋气的极限不能超过一分钟。" param2="周易_我听说2"/>
+<kanbanniangtuling id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.11}憋气时要消耗{#涂凌动漫紧张}氧气对抗呼吸本能，{0.6}所以大脑很快就会开始缺氧……" param2="周易_憋气时要消耗2"/>
+<kanbanniangtuling id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫震动背景慢关闭}{s=0.11}这种{#涂凌动漫颤抖}{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中}缺氧会损伤神经，\n{0.6}{s=0.1}而且造成的伤害是不可逆而且难以察觉的。" param2="周易_这种缺氧1"/>
+<kanbanniangtuling id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.07}就是说{sleep=0.7}{s=0.08}会在不知不觉的情况下{#涂凌动漫颤抖关闭}{#涂凌动漫颤抖}{sleep=0.5}{s=0.2}逐渐{sleep=1}{s=0.5}变成笨蛋。" param2="周易_就是说2"/>
+<kanbanniangtuling id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="wo" param="我看看时间，{sleep=1}{特殊-闪白效果,1}{播放音效,voice_ding}哎呀，{sleep=0.3}{s=0.05}{#涂凌动漫颤抖}已经49秒了耶！" param2="周易_我看看时间2"/>
+<kanbanniangtuling id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜………………{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="VO_tuling_117"/>
+<kanbanniangtuling id="37" originalRow="37" groupSign="" debugClose="1" action="角色镜头关闭" data="tuling" param="" param2=""/>
+<kanbanniangtuling id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="" param="她终于破防，{角色动作,tuling,涂凌_憋气_动作_结束_01}{角色表情,tuling,涂凌_喘气_上脸_开始_01;涂凌_喘气_下嘴_开始_01;}{0.8}{#涂凌动漫哈字}{#涂凌动漫出窍}{#涂凌动漫震动背景快关闭}{播放音效,voice_lightpunch}{特殊-闪白效果,1}{角色镜头关闭,tuling}{shake=1}{播放音效,涂凌_喘气2}大口大口的喘着气。{2.5}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_思考_下嘴_开始_01;}" param2="" param3="type=1"/>
+<kanbanniangtuling id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫哈字关闭}{#涂凌动漫出窍关闭}抱歉，我是开玩笑的！{角色动作,tuling,涂凌_待机_动作_开始_02} {角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_循环_01;}{角色转头,tuling,下中}{#涂凌动漫愤怒}哈哈哈，你刚刚不会真的相信了吧？" param2="周易_抱歉，开玩笑的"/>
+<kanbanniangtuling id="40" originalRow="40" groupSign="" debugClose="1" action="角色台词" data="wo" param="{角色转头,tuling,下中}{#涂凌动漫愤怒}哈哈哈，你刚刚不会真的相信了吧？" param2=""/>
+<kanbanniangtuling id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌平静}涂凌半信半疑地快速滑动着电脑的触摸板——{#涂凌动漫愤怒关闭}"/>
+<kanbanniangtuling id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="" param="忽然在一处停了下来，轻轻发出“咕”的一声。"/>
+<kanbanniangtuling id="43" originalRow="43" groupSign="" debugClose="" action="移除角色" data="tuling" param=""/>
+<kanbanniangtuling id="44" originalRow="44" groupSign="" debugClose="" action="系统-打开界面" data="ui_phone_calling" param="2|1029"/>
+<kanbanniangtuling id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="" param="咦？有消息？" param2="周易_有消息"/>
+<kanbanniangtuling id="46" originalRow="46" groupSign="手机对话开始电脑" debugClose="" action="手机开关" data="TRUE" param="Shannon" param3="offx=0.7"/>
+<kanbanniangtuling id="47" originalRow="47" groupSign="" debugClose="" action="镜头切换" data="camchar0" param=""/>
+<kanbanniangtuling id="48" originalRow="48" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=1" param3="FALSE;TRUE;TRUE"/>
+<kanbanniangtuling id="49" originalRow="49" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_紧张_动作_开始_01"/>
+<kanbanniangtuling id="50" originalRow="50" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_紧张_上脸_开始_01;涂凌_紧张_下嘴_开始_01"/>
+<kanbanniangtuling id="51" originalRow="51" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="52" originalRow="52" groupSign="0.5" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}(」゜ロ゜)」大变态大坏蛋щ(゜ロ゜щ){autoend}" param2="hero_13"/>
+<kanbanniangtuling id="53" originalRow="53" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="54" originalRow="54" groupSign="0.5" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}(」゜ロ゜)」大变态大坏蛋щ(゜ロ゜щ){autoend}" param2="hero_13"/>
+<kanbanniangtuling id="55" originalRow="55" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="56" originalRow="56" groupSign="0.5" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}(」゜ロ゜)」大变态大坏蛋щ(゜ロ゜щ){autoend}" param2="hero_13"/>
+<kanbanniangtuling id="57" originalRow="57" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="58" originalRow="58" groupSign="0.5" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}啊啊啊啊啊啊啊啊啊啊！！！щ(゜ロ゜щ){autoend}" param2="hero_13"/>
+<kanbanniangtuling id="59" originalRow="59" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_打字_上脸_循环_01;涂凌_思考_下嘴_开始_01;涂凌_待机_眼睛_开始_01"/>
+<kanbanniangtuling id="60" originalRow="60" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_紧张_动作_结束_01"/>
+<kanbanniangtuling id="61" originalRow="61" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_紧张_上脸_循环_01;涂凌_思考_下嘴_开始_01"/>
+<kanbanniangtuling id="62" originalRow="62" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_思考_动作_开始_01"/>
+<kanbanniangtuling id="63" originalRow="63" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="64" originalRow="64" groupSign="0.7" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}杜杜怎么会招你这种变态\n你才是傻子!白痴！笨蛋！ヽ(ﾟДﾟ)ﾉ{autoend}" param2="hero_13"/>
+<kanbanniangtuling id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="wo" param="（......）{角色动作,tuling,涂凌_思考_动作_开始_01}{角色表情,tuling,涂凌_打字_上脸_循环_01;涂凌_思考_下嘴_开始_01;}"/>
+<kanbanniangtuling id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="wo" param="难{s=0.3}道……{0.6}{播放音效,voice_slash}{特殊-闪白效果,1}{shake=1}{s=0.02}你黑进了我的手机？" param2="周易_黑进手机1"/>
+<kanbanniangtuling id="67" originalRow="67" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_紧张_动作_开始_01"/>
+<kanbanniangtuling id="68" originalRow="68" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_思考_动作_结束_01"/>
+<kanbanniangtuling id="69" originalRow="69" groupSign="" debugClose="" action="角色动作" data="tuling" param="10010;20070;30000"/>
+<kanbanniangtuling id="70" originalRow="70" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_紧张_上脸_开始_01;涂凌_紧张_下嘴_开始_01"/>
+<kanbanniangtuling id="71" originalRow="71" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_紧张_动作_开始_01"/>
+<kanbanniangtuling id="72" originalRow="72" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="73" originalRow="73" groupSign="0.5" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}魂淡，就是我！{autoend}" param2="hero_13"/>
+<kanbanniangtuling id="74" originalRow="74" groupSign="" debugClose="" action="角色挂件" data="tuling" param="涂凌_动漫_愤怒" param3="TRUE"/>
+<kanbanniangtuling id="75" originalRow="75" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="76" originalRow="76" groupSign="0.5" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}离我远点，3米！！！不对5米，5米以上！！！{autoend}" param2="hero_13"/>
+<kanbanniangtuling id="77" originalRow="77" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="78" originalRow="78" groupSign="0.7" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}警告，不要超越安全范围！！┻━┻︵╰(‵□′)╯︵┻━┻\n距离保持！！！！！{autoend}" param2="hero_13"/>
+<kanbanniangtuling id="79" originalRow="79" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_思考_动作_开始_01"/>
+<kanbanniangtuling id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="wo" param="好好好……" param2="周易_好好好"/>
+<kanbanniangtuling id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="wo" param="不喜欢面对面聊天，打字却出奇地词汇量丰富啊……"/>
+<kanbanniangtuling id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="wo" param="而且，{0.5}{s=0.05}ID居然不是图灵（Turing）而是香农（Shannon）{#闪白ding}……"/>
+<kanbanniangtuling id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="wo" param="我打字没有你快，咱们商量一下——能不能我说话，你打字？" param2="周易_打字没你快"/>
+<kanbanniangtuling id="84" originalRow="84" groupSign="" debugClose="1" action="角色台词" data="wo" param="能不能我说话，你打字？"/>
+<kanbanniangtuling id="85" originalRow="85" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_打字_动作_循环_01"/>
+<kanbanniangtuling id="86" originalRow="86" groupSign="" debugClose="" action="播放音效" data="voice_message" param=""/>
+<kanbanniangtuling id="87" originalRow="87" groupSign="1.5" debugClose="" action="手机对话" data="0" param="{播放音效,voice_message}不能，滚！！！\n没有基本常识吗？{autoend}" param2="hero_13"/>
+<kanbanniangtuling id="88" originalRow="88" groupSign="" debugClose="" action="停止音乐" data="" param="" param2=""/>
+<kanbanniangtuling id="89" originalRow="89" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_思考_动作_开始_01"/>
+<kanbanniangtuling id="90" originalRow="90" groupSign="" debugClose="" action="角色挂件" data="tuling" param="涂凌_动漫_愤怒" param3="FALSE"/>
+<kanbanniangtuling id="91" originalRow="91" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3="TRUE;TRUE;TRUE"/>
+<kanbanniangtuling id="92" originalRow="92" groupSign="" debugClose="" action="语法-数值" data="xuanxiang1=1" param="" param2="" param3=""/>
+<kanbanniangtuling id="93" originalRow="93" groupSign="" debugClose="" action="手机开关" data="FALSE" param="" param2=""/>
+<kanbanniangtuling id="94" originalRow="94" groupSign="" debugClose="" action="可选对话框" data="" param="$$_(:3」∠ )_==&gt;询问"/>
+<kanbanniangtuling id="95" originalRow="95"/>
+<kanbanniangtuling id="96" originalRow="96" groupSign="一起在附近逛逛吧。" debugClose="1" action="设置场号" data="avg_basic_scene" param=""/>
+<kanbanniangtuling id="97" originalRow="97" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param=""/>
+<kanbanniangtuling id="98" originalRow="98" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param3="TRUE;TRUE;TRUE"/>
+<kanbanniangtuling id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="wo" param="看你工作好久了，{0.5}\n{s=0.07}要不要{0.3}{s=0.04}出去逛逛放松放松？" param2="周易_一起逛逛"/>
+<kanbanniangtuling id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="tuling" param="{播放音效,voice_lightpunch}{特殊-闪白效果,1}{shake=1}{角色转头,tuling,左极大}{#涂凌惊讶表情}{#涂凌拒绝动作}&lt;size=50&gt;{s=0.02}不要&lt;(－︿－)&gt;!!!" param2="VO_tuling_118"/>
+<kanbanniangtuling id="101" originalRow="101" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;（拒、{0.4}拒绝的{shake=1}好干脆！）&lt;/color&gt;"/>
+<kanbanniangtuling id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色转头,tuling,无}{#涂凌拒绝恢复}初来乍到，{0.6}我对附近一无所知。" param2="周易_初来乍到"/>
+<kanbanniangtuling id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="wo" param="听说你来STS很久了，{#涂凌思考表情}{#涂凌动漫黑线}你应该很熟悉周围的环境吧？" param2="周易_你来很久了"/>
+<kanbanniangtuling id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫黑线关闭}嗯嗯。" param2="VO_tuling_119"/>
+<kanbanniangtuling id="105" originalRow="105" groupSign="" debugClose="1" action="角色台词" data="wo" param="{播放音效,voice_ding}{特殊-闪白效果,1}太好了！"/>
+<kanbanniangtuling id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="wo" param="太好了！{s=0.03}刚刚我在基地里转了一圈，完全找不到方向。" param2="周易_找不到方向2"/>
+<kanbanniangtuling id="107" originalRow="107" groupSign="" debugClose="" action="播放音乐" data="bgm_tuling2" param="TRUE" param2="1|1" param3=""/>
+<kanbanniangtuling id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.03}{#涂凌动漫出窍}{播放音效,voice_inspiration}{角色转头,tuling,上中}{#涂凌无聊表情}现在是工作时间，怎么也没看到什么人？" param2="周易_工作时间1"/>
+<kanbanniangtuling id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="tuling" param="{新角色镜头,tuling,char_camTL摇镜头尝试}嗯嗯。" param2="VO_tuling_120"/>
+<kanbanniangtuling id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.03}{#涂凌动漫出窍关闭}杜博士出现了一下就消失了。" param2="周易_杜博士消失了1"/>
+<kanbanniangtuling id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.03}我还以为第一天上班就被放养，能碰到你真是太好了……" param2="周易_被放养1"/>
+<kanbanniangtuling id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="tuling" param="嗯嗯。" param2="VO_tuling_121"/>
+<kanbanniangtuling id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.03}基地这么大，我们先去哪里？" param2="周易_基地这么大2"/>
+<kanbanniangtuling id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="tuling" param="{s=0.05}......{#涂凌动漫出窍}" param2="VO_tuling_122"/>
+<kanbanniangtuling id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.08}............{#涂凌动漫出窍关闭}" param2="周易_额啊2"/>
+<kanbanniangtuling id="116" originalRow="116" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="1|1"/>
+<kanbanniangtuling id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="wo" param="你在{播放音效,voice_lightpunch}{#涂凌动漫惊讶}{#涂凌紧张}{角色转头,tuling,无}听吗？{角色镜头关闭,tuling}" param2="周易_你在听吗1"/>
+<kanbanniangtuling id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="tuling" param="{s=0.02}......{#涂凌动漫惊讶关闭}" param2="涂凌_啊2"/>
+<kanbanniangtuling id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="tuling" param="哦哦，{#涂凌点赞动作}{#涂凌无聊表情}{0.6}{播放音效,voice_ding}{特殊-闪白效果,1}挺好的！" param2="VO_tuling_123"/>
+<kanbanniangtuling id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;(......好敷衍！）&lt;/color&gt;"/>
+<kanbanniangtuling id="121" originalRow="121" groupSign="" debugClose="" action="角色台词" data="wo" param="{播放音效,voice_slash}{特殊-闪白效果,1}{shake=1}(根本就没在听嘛！）&lt;/color&gt;{#涂凌平静}"/>
+<kanbanniangtuling id="122" originalRow="122" groupSign="" debugClose="" action="播放音乐" data="bgm_tuling1" param="TRUE" param2="1|1" param3=""/>
+<kanbanniangtuling id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,tuling,涂凌_紧张_动作_开始_01}{#涂凌思考表情}我是不是打扰你工作了，{播放音效,voice_typing}你正在忙吗？" param2="周易_你正在忙吗？1"/>
+<kanbanniangtuling id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转头,tuling,上中}{#涂凌惊讶表情}哦哦没有！{1.5}\n{角色转头,tuling,无}{#涂凌思考表情}不忙，小事~" param2="VO_tuling_124"/>
+<kanbanniangtuling id="125" originalRow="125" groupSign="1" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;（...呼，那就好。）&lt;/color&gt;"/>
+<kanbanniangtuling id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌忧伤}帮杜博士一点小忙。" param2="VO_tuling_125"/>
+<kanbanniangtuling id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="tuling" param="把银行安全储存库数据中心的密码破解掉。" param2="VO_tuling_126"/>
+<kanbanniangtuling id="128" originalRow="128" groupSign="1.2" debugClose="" action="角色台词" data="tuling" param="我看看，{#涂凌思考动作}{#涂凌思考表情}安全等级S++级……" param2="VO_tuling_127"/>
+<kanbanniangtuling id="129" originalRow="129" groupSign="" debugClose="" action="角色台词" data="wo" param="{播放音效,voice_ding}{特殊-闪白效果,1}{shake=1}（……！！）"/>
+<kanbanniangtuling id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;（那不是最高级别的安全级别吗？！）&lt;/color&gt;"/>
+<kanbanniangtuling id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌思考动作恢复}{#涂凌待机表情}凃绫面无表情地盯着电脑屏幕，指尖飞快地在键盘上敲击着。"/>
+<kanbanniangtuling id="132" originalRow="132" groupSign="" debugClose="" action="角色台词" data="" param="一分钟后，{#涂凌紧张}鲨鱼帽的鳍兴奋地抖动了一下。"/>
+<kanbanniangtuling id="133" originalRow="133" groupSign="" debugClose="" action="角色台词" data="tuling" param="{播放音效,voice_inspiration}{特殊-闪白效果,1}{#涂凌平静表情}{#涂凌开心动作}好啦，搞定！" param2="VO_tuling_128"/>
+<kanbanniangtuling id="134" originalRow="134" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色表情,tuling,涂凌_憋气_上脸_开始_02}唔，用时3分20秒，{0.6}好像比上次慢了5秒。（＝。＝）" param2="VO_tuling_129"/>
+<kanbanniangtuling id="135" originalRow="135" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机表情}{播放音效,voice_lightpunch}{特殊-闪白效果,1}{shake=1}&lt;color=#1ed5fe&gt;（好、{0.3}好强！）&lt;/color&gt;{播放音效,voice_girlchoke}{1}"/>
+<kanbanniangtuling id="136" originalRow="136" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心恢复}{#涂凌待机2动作}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01}{0.5}{#涂凌动漫愤怒}真是的，杜杜总是让我做这样的事情。{#涂凌动漫愤怒关闭}" param2="VO_tuling_130"/>
+<kanbanniangtuling id="137" originalRow="137" groupSign="" debugClose="" action="角色台词" data="tuling" param="{播放音效,voice_ding}{特殊-闪白效果,1}{#涂凌开心}下次得让她请我吃薯片才行！" param2="VO_tuling_131"/>
+<kanbanniangtuling id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="tuling" param="你刚刚说什么？{播放音效,voice_inspiration}{#涂凌无聊表情}\n{0.8}什么放羊？" param2="VO_tuling_132"/>
+<kanbanniangtuling id="139" originalRow="139" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;color=#1ed5fe&gt;（{s=0.08}真的{0.4}根本没听啊……）&lt;/color&gt;"/>
+<kanbanniangtuling id="140" originalRow="140" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="1|1"/>
+<kanbanniangtuling id="141" originalRow="141" groupSign="" debugClose="" action="语法-数值" data="xuanxiang2=1" param="" param2="" param3=""/>
+<kanbanniangtuling id="142" originalRow="142" groupSign="" debugClose="" action="可选对话框" data="" param="$$没事了==&gt;结束"/>
+<kanbanniangtuling id="143" originalRow="143" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<kanbanniangtuling id="144" originalRow="144" groupSign="结束"/>
+</root>

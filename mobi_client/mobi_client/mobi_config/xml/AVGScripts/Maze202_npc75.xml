@@ -1,0 +1,12 @@
+<root>
+<maze202_npc75 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<maze202_npc75 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<maze202_npc75 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="机关上印着一行字。" param2=""/>
+<maze202_npc75 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="爱情的心门其实只有一扇。对了，我叫小思，就是“十年生死两茫茫，不思量，自相忘”的思。" param2=""/>
+<maze202_npc75 id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze202_npc75 id="5" originalRow="5" groupSign="触发" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze202_npc75 id="6" originalRow="6" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze202_npc75 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="打开机关" param2="" param3=""/>
+<maze202_npc75 id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze202_npc75 id="9" originalRow="9" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+</root>

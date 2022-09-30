@@ -1,0 +1,31 @@
+<root>
+<First_duheng id="0" originalRow="0" groupSign="0.1&gt;&gt;" action="角色台词" data="duheng" param="看见回话。"/>
+<First_duheng id="1" originalRow="1" action="可选对话框" data="" param="$$Boss，有什么事么？==&gt;继续1
+$$在。==&gt;继续2"/>
+<First_duheng id="2" originalRow="2" groupSign="继续1" action="" data="" param=""/>
+<First_duheng id="3" originalRow="3" action="角色台词" data="wo" param="Boss，有什么事么？"/>
+<First_duheng id="4" originalRow="4" action="跳转-标签" data="" param="杜衡1"/>
+<First_duheng id="5" originalRow="5" action="" data="" param=""/>
+<First_duheng id="6" originalRow="6" groupSign="继续2" action="" data="" param=""/>
+<First_duheng id="7" originalRow="7" action="角色台词" data="wo" param="在。"/>
+<First_duheng id="8" originalRow="8" groupSign="杜衡1" action="" data="" param=""/>
+<First_duheng id="9" originalRow="9" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="忘了提醒你了，交给你的异质物要保管好。"/>
+<First_duheng id="10" originalRow="10" action="可选对话框" data="" param="$$如果遗失了呢？==&gt;继续3
+$$我会保管好的。==&gt;继续4"/>
+<First_duheng id="11" originalRow="11" groupSign="继续3" action="" data="" param=""/>
+<First_duheng id="12" originalRow="12" action="角色台词" data="wo" param="如果遗失了呢？"/>
+<First_duheng id="13" originalRow="13" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="随意丢弃异质物，或者遗失的话可是1级重罪，视情节会判处你100年以上有期徒刑哦。"/>
+<First_duheng id="14" originalRow="14" action="跳转-标签" data="" param="结束"/>
+<First_duheng id="15" originalRow="15" groupSign="继续4" action="" data="" param=""/>
+<First_duheng id="16" originalRow="16" action="" data="" param=""/>
+<First_duheng id="17" originalRow="17" groupSign="1.5&gt;&gt;" action="角色台词" data="wo" param="我会保管好的。"/>
+<First_duheng id="18" originalRow="18" action="角色台词" data="duheng" param="嗯，弄丢也无所谓了，百年起步而已。"/>
+<First_duheng id="19" originalRow="19" action="可选对话框" data="" param="$$百年什么起步？==&gt;继续5"/>
+<First_duheng id="20" originalRow="20" groupSign="继续5"/>
+<First_duheng id="21" originalRow="21" action="角色台词" data="wo" param="百年什么起步？"/>
+<First_duheng id="22" originalRow="22" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="百年徒刑啊。"/>
+<First_duheng id="23" originalRow="23" action="跳转-标签" data="" param="结束"/>
+<First_duheng id="24" originalRow="24"/>
+<First_duheng id="25" originalRow="25" groupSign="结束"/>
+<First_duheng id="26" originalRow="26"/>
+</root>

@@ -1,0 +1,33 @@
+<root>
+<hezhongshaonv222_duheng id="0" originalRow="0" groupSign="开始"/>
+<hezhongshaonv222_duheng id="1" originalRow="1" groupSign="" action="角色台词" data="duheng" param="@周易 周易，收到回答。"/>
+<hezhongshaonv222_duheng id="2" originalRow="2" action="可选对话框" data="" param="$$不回复==&gt;任务发布2
+$$报告老板，在的！==&gt;任务发布1"/>
+<hezhongshaonv222_duheng id="3" originalRow="3" groupSign="任务发布1" action="角色台词" data="wo" param="报告老板，在的！"/>
+<hezhongshaonv222_duheng id="4" originalRow="4" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="测试一下你有没有摸鱼，果然在认真工作呢。"/>
+<hezhongshaonv222_duheng id="5" originalRow="5" action="角色台词" data="wo" param="嗐，不要做这种无聊的测试啊喂。"/>
+<hezhongshaonv222_duheng id="6" originalRow="6" groupSign="2&gt;&gt;" action="角色台词" data="duheng" param="嘛，也不是完全没事。警方那边遇到了一点麻烦。"/>
+<hezhongshaonv222_duheng id="7" originalRow="7" action="角色台词" data="wo" param="请指示！"/>
+<hezhongshaonv222_duheng id="8" originalRow="8" action="角色台词" data="duheng" param="安太公寓最近有三名住户疑似遭遇了异质物的袭击。"/>
+<hezhongshaonv222_duheng id="9" originalRow="9" action="角色台词" data="duheng" param="据说是躲藏在礼物盒里诱骗人类的少女，代号叫作“盒中少女”。"/>
+<hezhongshaonv222_duheng id="10" originalRow="10" action="角色台词" data="duheng" param="详细情况我已经发给你了，你们快去看看吧。"/>
+<hezhongshaonv222_duheng id="11" originalRow="11" action="语法-数值" data="QUEST_STS172盒中少女=1"/>
+<hezhongshaonv222_duheng id="12" originalRow="12" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="报告者是住在安太公寓，和@周易 一样的社畜独居男青年。"/>
+<hezhongshaonv222_duheng id="13" originalRow="13" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="报告里也说的很模糊，总之你们现在就去看看吧。"/>
+<hezhongshaonv222_duheng id="14" originalRow="14" action="可选对话框" data="" param="$$不回复==&gt;结束
+$$好的！我现在就去！==&gt;结束1"/>
+<hezhongshaonv222_duheng id="15" originalRow="15"/>
+<hezhongshaonv222_duheng id="16" originalRow="16" groupSign="结束1" action="角色台词" data="wo" param="好的！我现在就去！"/>
+<hezhongshaonv222_duheng id="17" originalRow="17" groupSign="" debugClose="" action="语法-数值" data="rqs_1030001寻找盒中少女=1" param="" param2=""/>
+<hezhongshaonv222_duheng id="18" originalRow="18" action="跳转-标签" data="" param="结束"/>
+<hezhongshaonv222_duheng id="19" originalRow="19" action="" data="" param=""/>
+<hezhongshaonv222_duheng id="20" originalRow="20" groupSign="任务发布2" action="角色台词" data="duheng" param="我从警方那里收到了一份异质物目击报告，据说是专门袭击独居青年的“盒中少女”。"/>
+<hezhongshaonv222_duheng id="21" originalRow="21" action="语法-数值" data="QUEST_STS172盒中少女=1" param=""/>
+<hezhongshaonv222_duheng id="22" originalRow="22" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="报告者是住在安太公寓，和@周易 一样的社畜独居男青年。报告里也说的很模糊。"/>
+<hezhongshaonv222_duheng id="23" originalRow="23" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="任务已经发到你那里去了，你们现在就去看看吧。"/>
+<hezhongshaonv222_duheng id="24" originalRow="24" action="可选对话框" data="" param="$$不回复==&gt;结束
+$$好的！我现在就去！==&gt;结束1"/>
+<hezhongshaonv222_duheng id="25" originalRow="25" groupSign="" debugClose="" action="语法-数值" data="rqs_1030001寻找盒中少女=1" param="" param2=""/>
+<hezhongshaonv222_duheng id="26" originalRow="26" action="跳转-标签" data="" param="结束"/>
+<hezhongshaonv222_duheng id="27" originalRow="27" groupSign="结束"/>
+</root>

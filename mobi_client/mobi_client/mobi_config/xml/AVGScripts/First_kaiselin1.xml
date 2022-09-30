@@ -1,0 +1,37 @@
+<root>
+<First_kaiselin1 id="0" originalRow="0" groupSign="0.1&gt;&gt;" action="角色台词" data="kaiselin" param="周易，你上次的体检报告出来了。"/>
+<First_kaiselin1 id="1" originalRow="1" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="根据报告的显示，你经常熬夜，睡眠不足，身体多项指标异常。"/>
+<First_kaiselin1 id="2" originalRow="2" action="可选对话框" data="" param="$$啊，这个。==&gt;继续1
+$$年轻人现在都这样吧。==&gt;继续2"/>
+<First_kaiselin1 id="3" originalRow="3" groupSign="继续1" action="" data="" param=""/>
+<First_kaiselin1 id="4" originalRow="4" action="角色台词" data="wo" param="啊，这个。"/>
+<First_kaiselin1 id="5" originalRow="5" action="跳转-标签" data="" param="凯瑟琳1"/>
+<First_kaiselin1 id="6" originalRow="6" groupSign="继续2" action="角色台词" data="wo" param="年轻人现在都这样吧。"/>
+<First_kaiselin1 id="7" originalRow="7" groupSign="凯瑟琳1" action="角色台词" data="kaiselin" param="如果你还想多活一段时间的话，我建议你还是调整一下你的作息时间。"/>
+<First_kaiselin1 id="8" originalRow="8" action="可选对话框" data="" param="$$可是最近刚出了新的游戏。==&gt;继续3
+$$诶，没关系吧。==&gt;继续4"/>
+<First_kaiselin1 id="9" originalRow="9" groupSign="继续3" action="" data="" param=""/>
+<First_kaiselin1 id="10" originalRow="10" action="角色台词" data="wo" param="可是最近刚出了新的游戏。"/>
+<First_kaiselin1 id="11" originalRow="11" action="跳转-标签" data="" param="凯瑟琳2"/>
+<First_kaiselin1 id="12" originalRow="12" groupSign="继续4" action="角色台词" data="wo" param="诶，没关系吧。"/>
+<First_kaiselin1 id="13" originalRow="13" groupSign="凯瑟琳2" action="" data="" param=""/>
+<First_kaiselin1 id="14" originalRow="14" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="无所谓，如果你自己难以调整的话，我可以帮你进行调整。"/>
+<First_kaiselin1 id="15" originalRow="15" action="可选对话框" data="" param="$$怎么帮？==&gt;继续5
+$$我能问问具体你会怎么帮我吗？==&gt;继续6"/>
+<First_kaiselin1 id="16" originalRow="16"/>
+<First_kaiselin1 id="17" originalRow="17" groupSign="继续5"/>
+<First_kaiselin1 id="18" originalRow="18" action="角色台词" data="wo" param="怎么帮？"/>
+<First_kaiselin1 id="19" originalRow="19" action="跳转-标签" data="" param="凯瑟琳3"/>
+<First_kaiselin1 id="20" originalRow="20" groupSign="继续6" action="角色台词" data="wo" param="我能问问具体你会怎么帮我吗？"/>
+<First_kaiselin1 id="21" originalRow="21" groupSign="凯瑟琳3" action="" data="" param=""/>
+<First_kaiselin1 id="22" originalRow="22" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="很简单，每天暗示给你固定的帮助睡眠的药物，将你的生物钟强行调整回来。"/>
+<First_kaiselin1 id="23" originalRow="23" action="可选对话框" data="" param="$$快住手！你这根本不叫帮助！==&gt;继续7
+$$那不是安眠药嘛！饶命！我会自己调整的！==&gt;继续8"/>
+<First_kaiselin1 id="24" originalRow="24" groupSign="继续7" action="" data=""/>
+<First_kaiselin1 id="25" originalRow="25" action="角色台词" data="wo" param="怎么帮？"/>
+<First_kaiselin1 id="26" originalRow="26" action="跳转-标签" data="" param="结束"/>
+<First_kaiselin1 id="27" originalRow="27" groupSign="继续8" action="角色台词" data="" param="$那不是安眠药嘛！饶命！我会自己调整的！"/>
+<First_kaiselin1 id="28" originalRow="28" action="" data=""/>
+<First_kaiselin1 id="29" originalRow="29" action="" data="" param=""/>
+<First_kaiselin1 id="30" originalRow="30" groupSign="结束"/>
+</root>

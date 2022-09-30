@@ -1,0 +1,40 @@
+<root>
+<maze101_part2 id="0" originalRow="0" groupSign="开始"/>
+<maze101_part2 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<maze101_part2 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<maze101_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这里就是成型的巢的内部吗……连我也是第一次进来。" param2=""/>
+<maze101_part2 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
+<maze101_part2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="根据情报，巢是由人们未尽的愿望化作的异质物聚集地。每一个巢都有属于自己的巢主。如果要类比的话……" param2=""/>
+<maze101_part2 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="就像是蜂巢里的蜂后一样！" param2=""/>
+<maze101_part2 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<maze101_part2 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="所以，只要找到并且消灭那个巢主，这个巢的问题就能被解决了吧！" param2=""/>
+<maze101_part2 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="可以这么理解，但关键是，这里错综复杂地就像迷宫一样……" param2=""/>
+<maze101_part2 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="想找到巢主想必并不是一件容易的事。" param2=""/>
+<maze101_part2 id="11" originalRow="11" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
+<maze101_part2 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="" param="聂飞朝四周观望，目光定在了入口。" param2=""/>
+<maze101_part2 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
+<maze101_part2 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="放心，入口并没有被封闭，如果我们想出去的话，是可以随时出去的。" param2=""/>
+<maze101_part2 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="本大爷可是男子汉！才没有害怕到想出去呢！前进！周易，走，我们出发！" param2=""/>
+<maze101_part2 id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<maze101_part2 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="先别急，巢主不一定就在这里。刚刚我们进来之前还有两个入口封锁着，这也是我担心的点。" param2=""/>
+<maze101_part2 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="而且这里的每一扇门背后，都不知道会藏着危险还是惊喜~想想还真是刺激呢~尽可能把每一扇门都打开吧！哈哈~" param2=""/>
+<maze101_part2 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="凯瑟琳说得对，在这里探索得越完整深入，越有利于后续的调查。前进吧。" param2=""/>
+<maze101_part2 id="20" originalRow="20" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<maze101_part2 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="niefei" param="前面就有一扇门！先从那里开始吧！" param2=""/>
+<maze101_part2 id="22" originalRow="22" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<maze101_part2 id="23" originalRow="23" groupSign="结束"/>
+<maze101_part2 id="24" originalRow="24"/>
+<maze101_part2 id="25" originalRow="25"/>
+<maze101_part2 id="26" originalRow="26"/>
+<maze101_part2 id="27" originalRow="27"/>
+<maze101_part2 id="28" originalRow="28"/>
+<maze101_part2 id="29" originalRow="29"/>
+<maze101_part2 id="30" originalRow="30"/>
+<maze101_part2 id="31" originalRow="31"/>
+<maze101_part2 id="32" originalRow="32"/>
+<maze101_part2 id="33" originalRow="33"/>
+<maze101_part2 id="34" originalRow="34"/>
+<maze101_part2 id="35" originalRow="35" data=""/>
+<maze101_part2 id="36" originalRow="36"/>
+<maze101_part2 id="37" originalRow="37" groupSign=""/>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<chat_qiqiu id="0" originalRow="0" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="有任务给你，收到请回复。"/>
+<chat_qiqiu id="1" originalRow="1" action="可选对话框" param="$$怎么了，杜博士？==&gt;选A"/>
+<chat_qiqiu id="2" originalRow="2" groupSign="选A" action=""/>
+<chat_qiqiu id="3" originalRow="3" action="角色台词" data="wo" param="怎么了，杜博士？"/>
+<chat_qiqiu id="4" originalRow="4" groupSign="2.0&gt;&gt;" action="角色台词" data="duheng" param="接到报案称康新嘉苑有凶杀案发生。"/>
+<chat_qiqiu id="5" originalRow="5" groupSign="2.0&gt;&gt;" action="角色台词" data="wo" param="是因为异质物的原因吗？"/>
+<chat_qiqiu id="6" originalRow="6" groupSign="2.0&gt;&gt;" action="角色台词" data="wo" param="这种案件不是应该交给警察管吗？"/>
+<chat_qiqiu id="7" originalRow="7" groupSign="2.0&gt;&gt;" action="角色台词" data="duheng" param="详细情况等你去了就知道了。"/>
+<chat_qiqiu id="8" originalRow="8" groupSign="2.0&gt;&gt;" action="角色台词" data="duheng" param="其他的小队成员已经在那里了，尽快过去吧。"/>
+<chat_qiqiu id="9" originalRow="9" action="语法-数值" data="QUEST_调查凶杀案=1" param=""/>
+<chat_qiqiu id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<chat_qiqiu id="11" originalRow="11"/>
+<chat_qiqiu id="12" originalRow="12" groupSign="结束"/>
+</root>

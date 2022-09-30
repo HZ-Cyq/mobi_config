@@ -1,0 +1,31 @@
+<root>
+<spical_shop id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="1" originalRow="1" groupSign="问候" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<spical_shop id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<spical_shop id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="rqs_特殊商店隐藏子任务==2" param="复数次问候" param2="" param3=""/>
+<spical_shop id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="@char_1" param="pos=中" param2="" param3=""/>
+<spical_shop id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="@char_1" param="有人在的地方，就有江湖。有我在的地方，就有宝贝。" param2="" param3=""/>
+<spical_shop id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<spical_shop id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="9" originalRow="9" groupSign="你是谁" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="10" originalRow="10" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<spical_shop id="11" originalRow="11" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<spical_shop id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="@char_1" param="pos=中" param2="" param3=""/>
+<spical_shop id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="@char_1" param="我漂泊于安江市，居无定所。不必打听我是谁，多说无益……" param2="" param3=""/>
+<spical_shop id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="@char_1" param="这位客人，有钱就是有缘，啊不，相遇就是有缘，来看看我的货吧。" param2="" param3=""/>
+<spical_shop id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="@char_1" param="我这里有异质物源种和共生型异质物，其他地方可找不到啊。" param2="" param3=""/>
+<spical_shop id="16" originalRow="16" groupSign="" debugClose="" action="系统-打开界面" data="ui_shop/ui_shop" param="1" param2="1" param3=""/>
+<spical_shop id="17" originalRow="17" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<spical_shop id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="19" originalRow="19" groupSign="复数次问候" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="20" originalRow="20" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<spical_shop id="21" originalRow="21" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<spical_shop id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="@char_1" param="pos=中" param2="" param3=""/>
+<spical_shop id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="@char_1" param="有人在的地方，就有江湖。有我在的地方，就有宝贝。" param2="" param3=""/>
+<spical_shop id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="@char_1" param="又相遇了，有钱人，啊不，有缘人。今天货是这些。" param2="" param3=""/>
+<spical_shop id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<spical_shop id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="27" originalRow="27" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<spical_shop id="28" originalRow="28" groupSign="" action="" data="" param="" param2="" param3=""/>
+</root>

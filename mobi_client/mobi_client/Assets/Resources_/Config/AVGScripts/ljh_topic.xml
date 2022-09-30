@@ -1,0 +1,15 @@
+<root>
+<LJH_topic id="0" originalRow="0" groupSign="0.1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="来工作了" param2="" param3=""/>
+<LJH_topic id="1" originalRow="1" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="接到名为李加虎的市民报警，在顶石大厦顶楼的一间办公室里发生异常现象，赶紧去看看去"/>
+<LJH_topic id="2" originalRow="2" action="可选对话框" data="" param="$$不回复（debug：直接结束）==&gt;结束
+$$李加虎？该不会是我认识的那个吊儿郎当的同学？==&gt;认识"/>
+<LJH_topic id="3" originalRow="3" groupSign="认识" action="角色台词" data="wo" param="李加虎？该不会是我认识的那个吊儿郎当的同学？"/>
+<LJH_topic id="4" originalRow="4" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="你和报案人认识？那太好了，赶快去顶石大厦看看吧"/>
+<LJH_topic id="5" originalRow="5" action="可选对话框" data="" param="$$不回复（debug：直接结束）==&gt;结束
+$$好的==&gt;收到"/>
+<LJH_topic id="6" originalRow="6"/>
+<LJH_topic id="7" originalRow="7" groupSign="收到" action="角色台词" data="wo" param="好的"/>
+<LJH_topic id="8" originalRow="8" groupSign="结束" action="语法-数值" data="QUEST_支线_顶石大厦事件=1"/>
+<LJH_topic id="9" originalRow="9"/>
+<LJH_topic id="10" originalRow="10"/>
+</root>

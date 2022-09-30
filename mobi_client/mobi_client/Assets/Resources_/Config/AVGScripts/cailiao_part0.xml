@@ -1,0 +1,36 @@
+<root>
+<cailiao_part0 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<cailiao_part0 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<cailiao_part0 id="2" originalRow="2" groupSign="1" debugClose="" action="故事板" data="" param="……次日作战室" param2="ui_videotelephone"/>
+<cailiao_part0 id="3" originalRow="3" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="2" param2=""/>
+<cailiao_part0 id="4" originalRow="4" groupSign="" debugClose="" action="播放音乐" data="bgm_niefei1" param="" param2=""/>
+<cailiao_part0 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="大家好早啊。" param2=""/>
+<cailiao_part0 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（居然就我没到……STS上班这么卷么！）&lt;/z&gt;" param2=""/>
+<cailiao_part0 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_严肃_动作_开始_01"/>
+<cailiao_part0 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}小鬼干嘛一脸紧张。" param2=""/>
+<cailiao_part0 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_点赞_动作_开始_01"/>
+<cailiao_part0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌平静表情}没有迟到，你很棒棒。" param2="" param3=""/>
+<cailiao_part0 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2=""/>
+<cailiao_part0 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}嘻嘻，估计是觉得我们到太早了吧。" param2="" param3=""/>
+<cailiao_part0 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}作战室功能很多，又绝对隐秘，我们经常在这休息到第二天。" param2=""/>
+<cailiao_part0 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="如果其他工作区域找不到我们，来这里就可以。{#凯瑟琳2严肃动作恢复}" param2=""/>
+<cailiao_part0 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="原来如此。" param2=""/>
+<cailiao_part0 id="16" originalRow="16" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<cailiao_part0 id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02"/>
+<cailiao_part0 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌抬头}你也快把东西搬进来吧！" param2="" param3=""/>
+<cailiao_part0 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2=""/>
+<cailiao_part0 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2平静表情}对了，这个给你。" param2="" param3=""/>
+<cailiao_part0 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2待机表情}STS的信息都是涉密的，因此只能拿内部的手机沟通。" param2=""/>
+<cailiao_part0 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作恢复}没事多看看，别错过杜博士发布的任务哟。" param2=""/>
+<cailiao_part0 id="23" originalRow="23" groupSign="" debugClose="" action="播放音效" data="ui_videotelephone" param="" param2="" param3=""/>
+<cailiao_part0 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="呃！？这么快就响了！" param2="" param3=""/>
+<cailiao_part0 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳思考动作}应该是杜衡博士，快接吧。" param2=""/>
+<cailiao_part0 id="26" originalRow="26" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<cailiao_part0 id="27" originalRow="27" groupSign="" debugClose="" action="存档" data="" param="" param2=""/>
+<cailiao_part0 id="28" originalRow="28" groupSign="" debugClose="" action="停止音效" data="ui_videotelephone" param="" param2=""/>
+<cailiao_part0 id="29" originalRow="29" groupSign="" debugClose="" action="停止音乐" data="" param="" param2=""/>
+<cailiao_part0 id="30" originalRow="30" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<cailiao_part0 id="31" originalRow="31" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<cailiao_part0 id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<cailiao_part0 id="33" originalRow="33" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+</root>

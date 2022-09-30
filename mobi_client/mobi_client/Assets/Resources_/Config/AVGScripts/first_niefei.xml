@@ -1,0 +1,35 @@
+<root>
+<First_niefei id="0" originalRow="0" groupSign="0.1&gt;&gt;" action="角色台词" data="niefei" param="哦，小鬼，以后我们就是同事了，有什么的不懂的，可以找你聂总，聂总轻松帮你摆平。"/>
+<First_niefei id="1" originalRow="1" action="可选对话框" data="" param="$$谢谢聂总。==&gt;继续2
+$$那还用说?==&gt;继续1"/>
+<First_niefei id="2" originalRow="2" action="" data="" param=""/>
+<First_niefei id="3" originalRow="3" groupSign="继续1"/>
+<First_niefei id="4" originalRow="4" action="角色台词" data="wo" param="那还用说?"/>
+<First_niefei id="5" originalRow="5" groupSign="1&gt;&gt;" action="角色台词" data="niefei" param="小鬼你很有自信嘛！我很期待训练你的时候。"/>
+<First_niefei id="6" originalRow="6" action="可选对话框" data="" param="$$话说聂总，猫爪子也能打字吗？==&gt;继续2"/>
+<First_niefei id="7" originalRow="7" action="" data="" param=""/>
+<First_niefei id="8" originalRow="8" groupSign="继续2" action="" data="" param=""/>
+<First_niefei id="9" originalRow="9" action="角色台词" data="wo" param="话说聂总，猫爪子也能打字吗？"/>
+<First_niefei id="10" originalRow="10" groupSign="1&gt;&gt;" action="角色台词" data="niefei" param="小瞧你聂总了是吧，这种简单的操作，还不是分分钟搞定？别说打字了，我还能在终端上切水果呢。"/>
+<First_niefei id="11" originalRow="11" action="可选对话框" data="" param="$$哦，那还挺厉害的。==&gt;继续3
+$$为啥我的终端上没有游戏？==&gt;继续4"/>
+<First_niefei id="12" originalRow="12" action="" data="" param=""/>
+<First_niefei id="13" originalRow="13" groupSign="继续3" action="" data="" param=""/>
+<First_niefei id="14" originalRow="14" action="角色台词" data="wo" param="哦，那还挺厉害的。"/>
+<First_niefei id="15" originalRow="15" action="跳转-标签" data="" param="结束"/>
+<First_niefei id="16" originalRow="16" groupSign="继续4" action="" data=""/>
+<First_niefei id="17" originalRow="17" action="角色台词" data="wo" param="为啥我的终端上没有游戏？"/>
+<First_niefei id="18" originalRow="18" groupSign="1&gt;&gt;" action="角色台词" data="niefei" param="你去找涂凌，让她给你也安一个不就好了。"/>
+<First_niefei id="19" originalRow="19" action="可选对话框" data="" param="$$好的，我这就去。==&gt;继续5
+$$找她？感觉没这么简单啊。==&gt;继续6"/>
+<First_niefei id="20" originalRow="20" groupSign="继续5"/>
+<First_niefei id="21" originalRow="21" action="角色台词" data="wo" param="好的，我这就去。"/>
+<First_niefei id="22" originalRow="22" action="跳转-标签" data="" param="结束"/>
+<First_niefei id="23" originalRow="23" groupSign="继续6" action="" data="" param=""/>
+<First_niefei id="24" originalRow="24" action="角色台词" data="wo" param="找她？感觉没这么简单啊"/>
+<First_niefei id="25" originalRow="25" groupSign="1&gt;&gt;" action="角色台词" data="niefei" param="放心吧，顶多被敲一笔而已，那丫头对零食情有独钟，我上次就被她敲了一盒高档点心。"/>
+<First_niefei id="26" originalRow="26" action="" data="" param=""/>
+<First_niefei id="27" originalRow="27"/>
+<First_niefei id="28" originalRow="28"/>
+<First_niefei id="29" originalRow="29" groupSign="结束"/>
+</root>

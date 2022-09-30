@@ -1,0 +1,44 @@
+<root>
+<sanxianguidong_yuanfangzheng id="0" originalRow="0" groupSign="前往瀚德戏楼"/>
+<sanxianguidong_yuanfangzheng id="1" originalRow="1" debugClose="1" action="设置场号" data="avg_basic_scene" param=""/>
+<sanxianguidong_yuanfangzheng id="2" originalRow="2" debugClose="1" action="RPGActor" data="NPCGroup" param="2"/>
+<sanxianguidong_yuanfangzheng id="3" originalRow="3" debugClose="" action="设置镜号" data="avg_basic_story" param=""/>
+<sanxianguidong_yuanfangzheng id="4" originalRow="4" debugClose="" action="镜头切换" data="camchar0" param=""/>
+<sanxianguidong_yuanfangzheng id="5" originalRow="5" action="语法-数值" data="rqs_1020001前往瀚德戏楼=2"/>
+<sanxianguidong_yuanfangzheng id="6" originalRow="6" action="角色台词" data="wo" param="门口的老大爷看起来像元方正，去问问看看吧"/>
+<sanxianguidong_yuanfangzheng id="7" originalRow="7" action="语法-数值" data="rqs_1020002与老艺人对话=1"/>
+<sanxianguidong_yuanfangzheng id="8" originalRow="8" action="跳转-标签" data="" param="结束"/>
+<sanxianguidong_yuanfangzheng id="9" originalRow="9"/>
+<sanxianguidong_yuanfangzheng id="10" originalRow="10" groupSign="对话" debugClose="1" action="设置场号" data="avg_basic_scene" param=""/>
+<sanxianguidong_yuanfangzheng id="11" originalRow="11" debugClose="1" action="RPGActor" data="NPCGroup" param="2"/>
+<sanxianguidong_yuanfangzheng id="12" originalRow="12" debugClose="" action="设置镜号" data="avg_basic_story" param=""/>
+<sanxianguidong_yuanfangzheng id="13" originalRow="13" debugClose="" action="镜头切换" data="camchar0" param=""/>
+<sanxianguidong_yuanfangzheng id="14" originalRow="14" action="语法-数值" data="rqs_1020002与老艺人对话=2"/>
+<sanxianguidong_yuanfangzheng id="15" originalRow="15" action="角色台词" data="yuanfangzheng" param="咳咳、这位看官，您今儿想来点什么戏法？"/>
+<sanxianguidong_yuanfangzheng id="16" originalRow="16" action="角色台词" data="wo" param="穿着长袍的老法师，莫非你就是……"/>
+<sanxianguidong_yuanfangzheng id="17" originalRow="17" action="角色台词" data="yuanfangzheng" param="老夫正是古彩戏法传承者元正方！看官想看引烟成字、剑丹豆环还是三仙归洞？"/>
+<sanxianguidong_yuanfangzheng id="18" originalRow="18" groupSign="" action="角色台词" data="wo" param="我们是特别事态派遣小队，元方正，快交出异质物，否则你将有生命危险！"/>
+<sanxianguidong_yuanfangzheng id="19" originalRow="19" action="角色台词" data="yuanfangzheng" param="哼哼，原来是官府大人。切莫心急，试试三仙归洞怎么样？"/>
+<sanxianguidong_yuanfangzheng id="20" originalRow="20" action="进战斗" data="4021"/>
+<sanxianguidong_yuanfangzheng id="21" originalRow="21" action="跳转-标签" data="" param="结束"/>
+<sanxianguidong_yuanfangzheng id="22" originalRow="22"/>
+<sanxianguidong_yuanfangzheng id="23" originalRow="23" groupSign="战斗胜利" debugClose="1" action="设置场号" data="avg_basic_scene" param=""/>
+<sanxianguidong_yuanfangzheng id="24" originalRow="24" debugClose="" action="RPGActor" data="yuanfangzheng" param="2"/>
+<sanxianguidong_yuanfangzheng id="25" originalRow="25" debugClose="" action="设置镜号" data="avg_basic_story" param=""/>
+<sanxianguidong_yuanfangzheng id="26" originalRow="26" debugClose="" action="镜头切换" data="camchar0" param=""/>
+<sanxianguidong_yuanfangzheng id="27" originalRow="27" action="角色台词" data="yuanfangzheng" param="怎么可能，我的戏法明明是牢不可破的——"/>
+<sanxianguidong_yuanfangzheng id="28" originalRow="28" action="角色台词" data="wo" param="用异质物的超能力做的戏法，算什么戏法！"/>
+<sanxianguidong_yuanfangzheng id="29" originalRow="29" action="角色台词" data="yuanfangzheng" param="汝等小屁孩懂什么？只有这样才有点击量，老祖宗留下来的东西才能……"/>
+<sanxianguidong_yuanfangzheng id="30" originalRow="30" action="角色台词" data="wo" param="老祖宗的戏法精髓在于用精湛的技法带来带来惊诧和欢乐，你这样只是欺骗观众罢了。"/>
+<sanxianguidong_yuanfangzheng id="31" originalRow="31" action="角色台词" data="yuanfangzheng" param="老夫本意绝非如此。老夫只是……也罢、也罢，此过大矣，[如意桌]汝拿去吧！"/>
+<sanxianguidong_yuanfangzheng id="32" originalRow="32" action="跳转-标签" data="" param="结束"/>
+<sanxianguidong_yuanfangzheng id="33" originalRow="33"/>
+<sanxianguidong_yuanfangzheng id="34" originalRow="34" groupSign="战斗失败" debugClose="1" action="设置场号" data="avg_basic_scene" param=""/>
+<sanxianguidong_yuanfangzheng id="35" originalRow="35" debugClose="1" action="RPGActor" data="yuanfangzheng" param="2"/>
+<sanxianguidong_yuanfangzheng id="36" originalRow="36" debugClose="" action="设置镜号" data="avg_basic_story" param=""/>
+<sanxianguidong_yuanfangzheng id="37" originalRow="37" debugClose="" action="镜头切换" data="camchar0" param=""/>
+<sanxianguidong_yuanfangzheng id="38" originalRow="38" action="角色台词" data="yuanfangzheng" param="回去再练练去吧"/>
+<sanxianguidong_yuanfangzheng id="39" originalRow="39" action="角色台词" data="wo" param="可恶"/>
+<sanxianguidong_yuanfangzheng id="40" originalRow="40" action="跳转-标签" data="" param="结束"/>
+<sanxianguidong_yuanfangzheng id="41" originalRow="41" groupSign="结束" action=""/>
+</root>

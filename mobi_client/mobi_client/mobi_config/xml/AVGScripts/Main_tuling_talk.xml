@@ -1,0 +1,95 @@
+<root>
+<main_tuling_talk id="0" originalRow="0" groupSign="开始" debugClose="" action=""/>
+<main_tuling_talk id="1" originalRow="1" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_tuling_talk id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="tuling" param="哼！"/>
+<main_tuling_talk id="3" originalRow="3" action="跳转-标签" data="" param="结束"/>
+<main_tuling_talk id="4" originalRow="4"/>
+<main_tuling_talk id="5" originalRow="5" groupSign="你对黄权这个人了解多少？"/>
+<main_tuling_talk id="6" originalRow="6" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_tuling_talk id="7" originalRow="7" groupSign="" debugClose="" action="角色动作" data="tuling" param="1009"/>
+<main_tuling_talk id="8" originalRow="8" action="系统-打开界面" data="ui_phone_calling" param="2|1029"/>
+<main_tuling_talk id="9" originalRow="9" action="角色动作" data="tuling" param="1000"/>
+<main_tuling_talk id="10" originalRow="10" groupSign="手机对话开始" debugClose="" action="手机开关" data="TRUE" param="Shannon" param3="offx=1"/>
+<main_tuling_talk id="11" originalRow="11" groupSign="0.5" debugClose="" action="手机对话" data="0" param="ヽ(ﾟДﾟ)ﾉヽ(ﾟДﾟ)ﾉヽ(ﾟДﾟ)ﾉ{autoend}" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="12" originalRow="12" groupSign="0.5" debugClose="" action="手机对话" data="0" param="那个留着大胡子手里拿着不明球体的怪味大叔吗？" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="13" originalRow="13" action="角色台词" data="wo" param="（额...
+这么说也没错吧...）" param2=""/>
+<main_tuling_talk id="14" originalRow="14" groupSign="0.5" debugClose="" action="手机对话" data="0" param="他的个人资料保密级别相当高。" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="15" originalRow="15" groupSign="0.5" debugClose="" action="手机对话" data="0" param="可是个不好惹的家伙！！(⊙﹏⊙)" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="16" originalRow="16" action="手机开关" data="FALSE"/>
+<main_tuling_talk id="17" originalRow="17" action="跳转-标签" data="" param="结束"/>
+<main_tuling_talk id="18" originalRow="18"/>
+<main_tuling_talk id="19" originalRow="19" groupSign="不穿鞋小心着凉！"/>
+<main_tuling_talk id="20" originalRow="20" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_tuling_talk id="21" originalRow="21" groupSign="" debugClose="" action="角色动作" data="tuling" param="1009"/>
+<main_tuling_talk id="22" originalRow="22" action="系统-打开界面" data="ui_phone_calling" param="2|1029"/>
+<main_tuling_talk id="23" originalRow="23" action="角色动作" data="tuling" param="1000"/>
+<main_tuling_talk id="24" originalRow="24" groupSign="手机对话开始" debugClose="" action="手机开关" data="TRUE" param="Shannon" param3="offx=1"/>
+<main_tuling_talk id="25" originalRow="25" groupSign="0.5" debugClose="" action="手机对话" data="0" param="(」゜ロ゜)」被、被你发现了！(゜ロ゜щ){autoend}" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="26" originalRow="26" groupSign="0.5" debugClose="" action="手机对话" data="0" param="没办法了，只能告诉你了...  (ノへ￣、)" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="27" originalRow="27" groupSign="0.5" debugClose="" action="手机对话" data="0" param="肌肤接触地面能感受到环境温度和地形。" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="28" originalRow="28" groupSign="0.5" debugClose="" action="手机对话" data="0" param="你也可以试试！很赞的！ (((o(*ﾟ▽ﾟ*)o)))" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="29" originalRow="29" action="角色台词" data="wo" param="我就先不用了..."/>
+<main_tuling_talk id="30" originalRow="30" action="手机开关" data="FALSE"/>
+<main_tuling_talk id="31" originalRow="31" action="跳转-标签" data="" param="结束"/>
+<main_tuling_talk id="32" originalRow="32"/>
+<main_tuling_talk id="33" originalRow="33" groupSign="基地里好安静啊..."/>
+<main_tuling_talk id="34" originalRow="34" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_tuling_talk id="35" originalRow="35" groupSign="" debugClose="" action="角色动作" data="tuling" param="1009"/>
+<main_tuling_talk id="36" originalRow="36" action="系统-打开界面" data="ui_phone_calling" param="2|1029"/>
+<main_tuling_talk id="37" originalRow="37" action="角色动作" data="tuling" param="1000"/>
+<main_tuling_talk id="38" originalRow="38" groupSign="手机对话开始" debugClose="" action="手机开关" data="TRUE" param="Shannon" param3="offx=1"/>
+<main_tuling_talk id="39" originalRow="39" groupSign="0.5" debugClose="" action="手机对话" data="0" param="╮(╯▽╰)╭大家都在忙什么呢，稍等我看看...╮(╯▽╰)╭{autoend}" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="40" originalRow="40" groupSign="0.5" debugClose="" action="手机对话" data="0" param="唔，聂总躲在大厅贩售机柜子地下睡觉。" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="41" originalRow="41" groupSign="0.5" debugClose="" action="手机对话" data="0" param="凯瑟琳正躺在备战室新买的按摩椅上睡觉。" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="42" originalRow="42" groupSign="0.5" debugClose="" action="手机对话" data="0" param="杜博士昨天忙了一天，凌晨三点才回来，正在办公室补觉..." param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="43" originalRow="43" groupSign="0.5" debugClose="" action="手机对话" data="0" param="我突然也觉得有些困了(°ー°〃)" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="44" originalRow="44" action="角色台词" data="wo" param="不要关机啊喂！！"/>
+<main_tuling_talk id="45" originalRow="45" action="手机开关" data="FALSE"/>
+<main_tuling_talk id="46" originalRow="46" action="跳转-标签" data="" param="结束"/>
+<main_tuling_talk id="47" originalRow="47"/>
+<main_tuling_talk id="48" originalRow="48" groupSign="你打游戏厉害吗？"/>
+<main_tuling_talk id="49" originalRow="49" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_tuling_talk id="50" originalRow="50" groupSign="" debugClose="" action="角色动作" data="tuling" param="1009"/>
+<main_tuling_talk id="51" originalRow="51" action="系统-打开界面" data="ui_phone_calling" param="2|1029"/>
+<main_tuling_talk id="52" originalRow="52" action="角色动作" data="tuling" param="1000"/>
+<main_tuling_talk id="53" originalRow="53" groupSign="手机对话开始" debugClose="" action="手机开关" data="TRUE" param="Shannon" param3="offx=1"/>
+<main_tuling_talk id="54" originalRow="54" groupSign="0.5" debugClose="" action="手机对话" data="0" param="大胆！щ(゜ロ゜щ){autoend}" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="55" originalRow="55" groupSign="0.5" debugClose="" action="手机对话" data="0" param="我用17年的游戏生涯和你赌三根鸡腿外加五包辣条！" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="56" originalRow="56" groupSign="0.5" debugClose="" action="手机对话" data="0" param="STS里绝对没有人打游戏是我的对手！" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="57" originalRow="57" groupSign="0.5" debugClose="" action="手机对话" data="0" param="你想挑战我随时奉陪！&lt;(*￣▽￣*)/" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="58" originalRow="58" action="角色台词" data="wo" param="先、先不用了..."/>
+<main_tuling_talk id="59" originalRow="59" action="手机开关" data="FALSE"/>
+<main_tuling_talk id="60" originalRow="60" action="跳转-标签" data="" param="结束"/>
+<main_tuling_talk id="61" originalRow="61"/>
+<main_tuling_talk id="62" originalRow="62" groupSign="很少看见你出去玩呢。"/>
+<main_tuling_talk id="63" originalRow="63" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_tuling_talk id="64" originalRow="64" groupSign="" debugClose="" action="角色动作" data="tuling" param="1009"/>
+<main_tuling_talk id="65" originalRow="65" action="系统-打开界面" data="ui_phone_calling" param="2|1029"/>
+<main_tuling_talk id="66" originalRow="66" action="角色动作" data="tuling" param="1000"/>
+<main_tuling_talk id="67" originalRow="67" groupSign="手机对话开始" debugClose="" action="手机开关" data="TRUE" param="Shannon" param3="offx=1"/>
+<main_tuling_talk id="68" originalRow="68" groupSign="0.5" debugClose="" action="手机对话" data="0" param="(╯‵□′)╯︵┻━┻这是什么话！{autoend}" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="69" originalRow="69" groupSign="0.5" debugClose="" action="手机对话" data="0" param="我是从来都不出门玩好吗！" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="70" originalRow="70" groupSign="0.5" debugClose="" action="手机对话" data="0" param="要不是杜博士威胁我不完成任务就要拔网线 (。﹏。*)" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="71" originalRow="71" groupSign="0.5" debugClose="" action="手机对话" data="0" param="我想永远待在家里打游戏┭┮﹏┭┮" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="72" originalRow="72" action="角色台词" data="wo" param="好吧，不打扰你打游戏了了..."/>
+<main_tuling_talk id="73" originalRow="73" action="手机开关" data="FALSE"/>
+<main_tuling_talk id="74" originalRow="74" action="跳转-标签" data="" param="结束"/>
+<main_tuling_talk id="75" originalRow="75"/>
+<main_tuling_talk id="76" originalRow="76" groupSign="你的黑客技术这么厉害，教教我吧~"/>
+<main_tuling_talk id="77" originalRow="77" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_tuling_talk id="78" originalRow="78" groupSign="" debugClose="" action="角色动作" data="tuling" param="1009"/>
+<main_tuling_talk id="79" originalRow="79" action="系统-打开界面" data="ui_phone_calling" param="2|1029"/>
+<main_tuling_talk id="80" originalRow="80" action="角色动作" data="tuling" param="1000"/>
+<main_tuling_talk id="81" originalRow="81" groupSign="手机对话开始" debugClose="" action="手机开关" data="TRUE" param="Shannon" param3="offx=1"/>
+<main_tuling_talk id="82" originalRow="82" groupSign="0.5" debugClose="" action="手机对话" data="0" param="（＊￣（エ）￣）黑客这种职业，要靠天分的啦{autoend}" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="83" originalRow="83" groupSign="0.5" debugClose="" action="手机对话" data="0" param="反应慢、粗心、迟钝的人没办法当黑客的..." param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="84" originalRow="84" groupSign="0.5" debugClose="" action="手机对话" data="0" param="节哀，爱莫能助...  ╮（╯＿╰）╭" param2="hero_13" param3="shannon"/>
+<main_tuling_talk id="85" originalRow="85" action="角色台词" data="wo" param="=。="/>
+<main_tuling_talk id="86" originalRow="86" action="角色台词" data="wo" param="怎么感觉被骂了..."/>
+<main_tuling_talk id="87" originalRow="87" action="手机开关" data="FALSE"/>
+<main_tuling_talk id="88" originalRow="88" action="跳转-标签" data="" param="结束"/>
+<main_tuling_talk id="89" originalRow="89"/>
+<main_tuling_talk id="90" originalRow="90" groupSign="结束"/>
+<main_tuling_talk id="91" originalRow="91"/>
+</root>

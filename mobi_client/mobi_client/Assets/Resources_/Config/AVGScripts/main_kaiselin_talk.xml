@@ -1,0 +1,64 @@
+<root>
+<main_kaiselin_talk id="0" originalRow="0" groupSign="开始"/>
+<main_kaiselin_talk id="1" originalRow="1" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_kaiselin_talk id="2" originalRow="2" action="角色台词" data="kaiselin" param="有什么事吗？"/>
+<main_kaiselin_talk id="3" originalRow="3" action="跳转-标签" data="" param="结束"/>
+<main_kaiselin_talk id="4" originalRow="4" groupSign="你对戴岳这个事怎么看"/>
+<main_kaiselin_talk id="5" originalRow="5" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_kaiselin_talk id="6" originalRow="6" action="角色台词" data="kaiselin" param="{角色动作,,1010}{角色表情,,10030;20030;}{talk,,102104}没啥看法"/>
+<main_kaiselin_talk id="7" originalRow="7" action="角色台词" data="wo" param="好吧..."/>
+<main_kaiselin_talk id="8" originalRow="8" action="角色动作" data="kaiselin" param="1000"/>
+<main_kaiselin_talk id="9" originalRow="9" action="角色表情" data="kaiselin" param="10000;20000;"/>
+<main_kaiselin_talk id="10" originalRow="10" action="跳转-标签" data="" param="结束"/>
+<main_kaiselin_talk id="11" originalRow="11"/>
+<main_kaiselin_talk id="12" originalRow="12" groupSign="聂飞经常随地大小便吗"/>
+<main_kaiselin_talk id="13" originalRow="13" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_kaiselin_talk id="14" originalRow="14" action="角色台词" data="kaiselin" param="{角色动作,,1001}{角色表情,,10020;20020;}哈哈哈哈~"/>
+<main_kaiselin_talk id="15" originalRow="15" action="角色台词" data="kaiselin" param="{角色表情,,10020;20010;}{talk,,102101}你放心，不会尿你身上的~"/>
+<main_kaiselin_talk id="16" originalRow="16" action="角色台词" data="wo" param="那就好"/>
+<main_kaiselin_talk id="17" originalRow="17" action="角色动作" data="kaiselin" param="1000"/>
+<main_kaiselin_talk id="18" originalRow="18" action="角色表情" data="kaiselin" param="10000;20000;"/>
+<main_kaiselin_talk id="19" originalRow="19" action="跳转-标签" data="" param="结束"/>
+<main_kaiselin_talk id="20" originalRow="20"/>
+<main_kaiselin_talk id="21" originalRow="21" groupSign="杜博士总是会对你们呼来唤去的吗"/>
+<main_kaiselin_talk id="22" originalRow="22" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_kaiselin_talk id="23" originalRow="23" action="角色台词" data="kaiselin" param="{角色动作,,1025}{角色表情,,10010;20010;}{talk,,102101}看是谁咯~"/>
+<main_kaiselin_talk id="24" originalRow="24" action="角色台词" data="kaiselin" param="{角色转头,,下中,,}{角色表情,,10100;20100;30001}像你这样刚出茅庐的小子，自然要被呼来唤去"/>
+<main_kaiselin_talk id="25" originalRow="25" action="角色台词" data="wo" param="。。。"/>
+<main_kaiselin_talk id="26" originalRow="26" action="角色动作" data="kaiselin" param="1000"/>
+<main_kaiselin_talk id="27" originalRow="27" action="角色表情" data="kaiselin" param="10000;20000;"/>
+<main_kaiselin_talk id="28" originalRow="28" action="跳转-标签" data="" param="结束"/>
+<main_kaiselin_talk id="29" originalRow="29"/>
+<main_kaiselin_talk id="30" originalRow="30" groupSign="你有什么喜欢的东西吗"/>
+<main_kaiselin_talk id="31" originalRow="31" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_kaiselin_talk id="32" originalRow="32" action="角色台词" data="kaiselin" param="{角色动作,,1011}{角色转头,kaiselin,无,,}{角色表情,,10020;20020;}{talk,,102101}我想想哈~"/>
+<main_kaiselin_talk id="33" originalRow="33" action="角色台词" data="kaiselin" param="{角色动作,,1019}{角色转头,kaiselin,下中,,}{角色表情,,10100;20010;}{talk,,102101}我研究的是生物医学，平时还是站内的医生，爱好也就是做做实验咯{2.8}"/>
+<main_kaiselin_talk id="34" originalRow="34" action="角色台词" data="kaiselin" param="{角色动作,kaiselin,1020}{角色表情,kaiselin,10020;20100;}{talk,,102101}{角色转头,kaiselin,无,,}毕竟也不能随便出去玩"/>
+<main_kaiselin_talk id="35" originalRow="35" action="角色台词" data="wo" param="这样啊"/>
+<main_kaiselin_talk id="36" originalRow="36" action="角色动作" data="kaiselin" param="1000"/>
+<main_kaiselin_talk id="37" originalRow="37" action="角色表情" data="kaiselin" param="10000;20000;"/>
+<main_kaiselin_talk id="38" originalRow="38" action="跳转-标签" data="" param="结束"/>
+<main_kaiselin_talk id="39" originalRow="39"/>
+<main_kaiselin_talk id="40" originalRow="40" groupSign="你的那个手环是什么工作原理"/>
+<main_kaiselin_talk id="41" originalRow="41" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_kaiselin_talk id="42" originalRow="42" action="角色台词" data="kaiselin" param="{角色动作,kaiselin,1017}{角色表情,kaiselin,10100;20100;}{0.4}你说这个啊"/>
+<main_kaiselin_talk id="43" originalRow="43" action="角色表情" data="kaiselin" param="10010;20010"/>
+<main_kaiselin_talk id="44" originalRow="44" groupSign="" debugClose="" action="角色动作" data="kaiselin" param="1018" param2="" param3=""/>
+<main_kaiselin_talk id="45" originalRow="45" action="角色台词" data="kaiselin" param="{talk,,102101}保密~"/>
+<main_kaiselin_talk id="46" originalRow="46" action="角色台词" data="wo" param="诶。。。"/>
+<main_kaiselin_talk id="47" originalRow="47" action="角色动作" data="kaiselin" param="1000"/>
+<main_kaiselin_talk id="48" originalRow="48" action="角色表情" data="kaiselin" param="10000;20000;"/>
+<main_kaiselin_talk id="49" originalRow="49" action="跳转-标签" data="" param="结束"/>
+<main_kaiselin_talk id="50" originalRow="50"/>
+<main_kaiselin_talk id="51" originalRow="51" groupSign="拥有这种能力其实也挺不容易的吧"/>
+<main_kaiselin_talk id="52" originalRow="52" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<main_kaiselin_talk id="53" originalRow="53" action="角色台词" data="kaiselin" param="还好有这个手环，不然一团糟"/>
+<main_kaiselin_talk id="54" originalRow="54" action="角色台词" data="kaiselin" param="就算有这个手环，也不太方便出门"/>
+<main_kaiselin_talk id="55" originalRow="55" action="角色台词" data="wo" param="你也是不容易"/>
+<main_kaiselin_talk id="56" originalRow="56" action="角色动作" data="kaiselin" param="1000"/>
+<main_kaiselin_talk id="57" originalRow="57" action="角色表情" data="kaiselin" param="10000;20000;"/>
+<main_kaiselin_talk id="58" originalRow="58" action="跳转-标签" data="" param="结束"/>
+<main_kaiselin_talk id="59" originalRow="59"/>
+<main_kaiselin_talk id="60" originalRow="60" groupSign="结束"/>
+<main_kaiselin_talk id="61" originalRow="61"/>
+</root>

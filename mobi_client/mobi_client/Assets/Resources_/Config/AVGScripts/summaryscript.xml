@@ -1,0 +1,56 @@
+<root>
+<SummaryScript id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param=""/>
+<SummaryScript id="1" originalRow="1" groupSign="" debugClose="" action="打开插画" data="blackbgimg" param=""/>
+<SummaryScript id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;等等！？瞬间移动？？&lt;/z&gt;"/>
+<SummaryScript id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="这里又是哪里？？" param3="type=4"/>
+<SummaryScript id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中"/>
+<SummaryScript id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左"/>
+<SummaryScript id="6" originalRow="6" groupSign="" debugClose="" action="角色动作" data="kaiselin" param="凯瑟琳_转笔_动作_开始_01"/>
+<SummaryScript id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="S.T.S.怎么这么多超能力啊喂！！{#闪白ding}{关闭插画}"/>
+<SummaryScript id="8" originalRow="8" groupSign="" debugClose="1" action="角色台词" data="kaiselin" param=""/>
+<SummaryScript id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳得意表情}这里是S.T.S.的作战室，{*1}一个可以随时通过“律之钥”进入的异空间。"/>
+<SummaryScript id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="{*1}{*2}看到后面那个装置了吗？{2}{*3}{0.8}{*4}{1}坐上去。"/>
+<SummaryScript id="11" originalRow="11" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{#杜衡思考动作}{角色转头,duheng,右大,,0.5}{单次眨眼}{角色转眼,duheng,右大,,0.5}{0.2}{角色转身,duheng,右小,,0.5}
+*2:{注视,kaiselin,duheng,,0.5}{#凯瑟琳转笔动作恢复}
+*3:{角色转身,kaiselin,左小,,0.5}{角色转头,kaiselin,左极,,0.5}{角色转眼,kaiselin,左极,,0.5}
+*4:{#转头左微}{角色转眼,duheng,正,,0.1}{#凯瑟琳紧张动作}{1}{角色转头,kaiselin,右大上微,,0.5}{角色转眼,kaiselin,右极,,0.5}"/>
+<SummaryScript id="12" originalRow="12" groupSign="" debugClose="1" action="等待几秒" data="5" param=""/>
+<SummaryScript id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{*1}呀，那个不是已经弃用的{*2}研究异质空间的投影仪吗？{*3}"/>
+<SummaryScript id="14" originalRow="14" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{注视,kaiselin,duheng,,0.5}{#凯瑟琳紧张恢复}{0.533}{#凯瑟琳严肃动作}{#凯瑟琳惊讶表情}
+*2:{#杜衡待机动作}{注视,duheng,kaiselin,,0.5}
+*3:{#凯瑟琳待机表情}"/>
+<SummaryScript id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="duheng" param="我有个猜测，{*1}他的意识深处可以连接到一个特殊的{1.5}“门”。{*2}"/>
+<SummaryScript id="16" originalRow="16" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{#凯瑟琳严肃动作恢复}{注视,duheng,,,0.5}{注视,kaiselin,,,0.5}{#杜衡开心动作}
+*2:{注视,kaiselin,,,0.5}"/>
+<SummaryScript id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡待机动作}那路或多……"/>
+<SummaryScript id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="duheng" param="{*1}凯瑟琳，{*2}{1}今天的战斗有收集到异核吗？"/>
+<SummaryScript id="19" originalRow="19" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{注视,duheng,kaiselin,,0.5}
+*2:{注视,kaiselin,duheng,,0.5}"/>
+<SummaryScript id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{*1}有倒是有，{*2}可那个不是要统一上交总部……"/>
+<SummaryScript id="21" originalRow="21" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{#凯瑟琳忧伤表情}{注视,kaiselin,duheng,,0.5}
+*2:{角色转头,kaiselin,右大下中,,0.5}{角色转眼,kaiselin,右大下中,,0.5}"/>
+<SummaryScript id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="duheng" param="等会儿，{0.5}{*1}放一个在能量槽里。{*2}"/>
+<SummaryScript id="23" originalRow="23" groupSign="" debugClose="" action="角色台词+" data="" param="*2:{#凯瑟琳待机表情}
+*1:{注视,kaiselin,duheng,,0.5}"/>
+<SummaryScript id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{*1}明白~{*2}{autoend}"/>
+<SummaryScript id="25" originalRow="25" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{注视,kaiselin,duheng,,0.5}
+*2:{注视,kaiselin,,,0.5}"/>
+<SummaryScript id="26" originalRow="26" groupSign="" debugClose="" action="角色动作" data="kaiselin" param="凯瑟琳_魅惑_动作_开始_01"/>
+<SummaryScript id="27" originalRow="27" groupSign="0.7" debugClose="" action="角色表情" data="kaiselin" param="凯瑟琳_媚眼_上脸_开始_01"/>
+<SummaryScript id="28" originalRow="28" groupSign="" debugClose="" action="角色转身" data="kaiselin" param=""/>
+<SummaryScript id="29" originalRow="29" groupSign="" debugClose="" action="角色转头" data="kaiselin" param=""/>
+<SummaryScript id="30" originalRow="30" groupSign="" debugClose="" action="角色转眼" data="kaiselin" param=""/>
+<SummaryScript id="31" originalRow="31" groupSign="" debugClose="" action="移除角色" data="kaiselin" param=""/>
+<SummaryScript id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="……等，等一下！{*1}这个机器，看起来好恐怖啊，我真的要坐上去吗？"/>
+<SummaryScript id="33" originalRow="33" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{角色转身,duheng,,,0.4}{角色转头,duheng,,,0.4}{角色转眼,duheng,,,0.4}"/>
+<SummaryScript id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="duheng" param="别紧张，{*1}对人体没有副作用，只是对你的精神状态做一个分析检测。{*2}"/>
+<SummaryScript id="35" originalRow="35" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{#杜衡惊讶动作}"/>
+<SummaryScript id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="duheng" param="呵呵，难道，，，{2}{*1}你不想知道自己身上的秘密吗？"/>
+<SummaryScript id="37" originalRow="37" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{#杜衡开心动作}"/>
+<SummaryScript id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="wo" param="我身上的秘密？{*1}{autoend}"/>
+<SummaryScript id="39" originalRow="39" groupSign="" debugClose="" action="角色台词+" data="" param="*1:{#杜衡待机动作}"/>
+<SummaryScript id="40" originalRow="40" groupSign="" debugClose="" action="移除角色" data="duheng" param=""/>
+<SummaryScript id="41" originalRow="41" groupSign="" debugClose="" action="画面特效效果" data="Dark" param=""/>
+<SummaryScript id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="wo" param="那些幻觉，还有伤口突然愈合，以及她们两个提到我能召唤的“门”………"/>
+<SummaryScript id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="wo" param="好吧……"/>
+</root>

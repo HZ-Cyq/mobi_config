@@ -1,0 +1,11 @@
+<root>
+<logic_solo id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<logic_solo id="1" originalRow="1" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<logic_solo id="2" originalRow="2" groupSign="合成失败" debugClose="" action="" data="" param="" param2="" param3=""/>
+<logic_solo id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1011}{角色表情,,10020;20020;}{talk,,102101}好像不对，还是再想想吧。" param2="" param3="type=1"/>
+<logic_solo id="4" originalRow="4" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
+<logic_solo id="5" originalRow="5" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
+<logic_solo id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<logic_solo id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<logic_solo id="8" originalRow="8" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

@@ -1,0 +1,18 @@
+<root>
+<KTV_side101 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<KTV_side101 id="1" originalRow="1" groupSign="" debugClose="" action="语法-数值" data="rqs_测试任务=2" param="" param2="" param3=""/>
+<KTV_side101 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="这是个什么东西" param2="" param3=""/>
+<KTV_side101 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="感觉根本不是这个世界的东西" param2="" param3=""/>
+<KTV_side101 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="小心调查一下吧" param2="" param3=""/>
+<KTV_side101 id="5" originalRow="5" groupSign="" debugClose="" action="语法-数值" data="rqs_测试任务继续=1" param="" param2="" param3=""/>
+<KTV_side101 id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<KTV_side101 id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<KTV_side101 id="8" originalRow="8" groupSign="调查物体" debugClose="" action="" data="" param="" param2="" param3=""/>
+<KTV_side101 id="9" originalRow="9" groupSign="" debugClose="" action="语法-数值" data="rqs_测试任务继续=2" param="" param2="" param3=""/>
+<KTV_side101 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="" param="反正是测试任务，就这么放着吧" param2="" param3=""/>
+<KTV_side101 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="回基地和杜衡汇报一下吧" param2="" param3=""/>
+<KTV_side101 id="12" originalRow="12" groupSign="" debugClose="" action="语法-数值" data="rqs_测试任务继续2=1" param="" param2="" param3=""/>
+<KTV_side101 id="13" originalRow="13" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<KTV_side101 id="14" originalRow="14" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<KTV_side101 id="15" originalRow="15" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

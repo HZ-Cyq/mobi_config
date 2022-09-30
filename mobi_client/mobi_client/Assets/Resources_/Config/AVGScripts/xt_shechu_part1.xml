@@ -1,0 +1,19 @@
+<root>
+<xt_shechu_part1 id="0" originalRow="0" groupSign="开始"/>
+<xt_shechu_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_shechu_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_忧伤_动作_开始_01" param3=""/>
+<xt_shechu_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{music=bgm_1v1}{#李加虎忧伤表情}啊！！是你们！！你们终于来了！" param2="" param3="type=0"/>
+<xt_shechu_part1 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="幸好你们来了！不妙啊，这个可不妙啊！" param2="" param3="type=0"/>
+<xt_shechu_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="哈？" param2="" param3="type=0"/>
+<xt_shechu_part1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="怎么我到哪怪物就跟到哪？" param2="" param3="type=0"/>
+<xt_shechu_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤动作恢复}这样针对一个月收入不到三千块的临时工！" param2="" param3="type=0"/>
+<xt_shechu_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎严肃动作}{#闪白震slash}&lt;size=50&gt;这个世界的心不会痛吗？！&lt;/size&gt;" param2="" param3="type=0"/>
+<xt_shechu_part1 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<xt_shechu_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌惊恐表情}{#涂凌抬头}怪物？" param2="" param3="type=0"/>
+<xt_shechu_part1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="冷静一点，是异质物么？" param2="" param3="type=0"/>
+<xt_shechu_part1 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_忧伤_动作_循环_01" param3=""/>
+<xt_shechu_part1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎紧张表情}那个反正不会是人类，我带你们去办公室看——{music=off}" param2="" param3="type=0"/>
+<xt_shechu_part1 id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part1 id="15" originalRow="15" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part1 id="16" originalRow="16" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

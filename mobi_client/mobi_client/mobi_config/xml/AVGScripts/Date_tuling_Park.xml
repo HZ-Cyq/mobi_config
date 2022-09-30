@@ -1,0 +1,361 @@
+<root>
+<Date_tuling_Park id="0" originalRow="0" groupSign="开始" debugClose="" action="设置场号" data="avg_basic_scene" param=""/>
+<Date_tuling_Park id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param=""/>
+<Date_tuling_Park id="2" originalRow="2" groupSign="" debugClose="" action="镜头移动" data="camchar0" param="0.5"/>
+<Date_tuling_Park id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<Date_tuling_Park id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="我们去别的地方逛逛吧。"/>
+<Date_tuling_Park id="5" originalRow="5" groupSign="对话去哪里" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌惊讶表情}江北公园占地196公顷，好大啊(×_×)"/>
+<Date_tuling_Park id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作恢复}{#涂凌思考表情}如果这个时间继续用来打游戏，{1.2}
+{#闪白ding}我今天就能通关了。＝　＝＃"/>
+<Date_tuling_Park id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}所以你果然还是在打游戏啊！"/>
+<Date_tuling_Park id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌愤怒动作}{#涂凌平静表情}你说什么？我听不见，声音接受设备不太灵敏…(*￣︿￣)"/>
+<Date_tuling_Park id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌愤怒动作恢复}出现了，战术失聪。"/>
+<Date_tuling_Park id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}你别光张嘴不说话呀=(ˉ▽ˉ；)"/>
+<Date_tuling_Park id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（算了算了……还是换个话题吧。）&lt;/z&gt;"/>
+<Date_tuling_Park id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌开心动作恢复}对了，你有什么想去的地方吗？{1.2}
+{#闪白ding}{#涂凌紧张表情}难得出门一趟，就听你的吧~"/>
+<Date_tuling_Park id="13" originalRow="13" groupSign="" debugClose="" action="打开插画" data="Side_parkmap" param="FALSE" param3="offy=0.2"/>
+<Date_tuling_Park id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{播放音效,voice_typing}地图显示东边水面面积58.6公顷，西边草地有片平坦的草坪。"/>
+<Date_tuling_Park id="15" originalRow="15" groupSign="" debugClose="" action="关闭插画" data="" param=""/>
+<Date_tuling_Park id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机2动作}{#涂凌无聊表情}为、为什么一直盯着我啊？不是说听你的嘛？"/>
+<Date_tuling_Park id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#常规点头动作}嗯嗯，我听你的。"/>
+<Date_tuling_Park id="18" originalRow="18" groupSign="" debugClose="" action="可选对话框" data="" param="$$草坪==&gt;草坪
+$$湖边==&gt;湖边
+
+"/>
+<Date_tuling_Park id="19" originalRow="19" groupSign="草坪" debugClose="" action="切换场景" data="Park_caoping" param=""/>
+<Date_tuling_Park id="20" originalRow="20" groupSign="去草坪" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Date_tuling_Park id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机2动作恢复}草坪上倒是意外地很热闹啊……"/>
+<Date_tuling_Park id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌惊讶动作}{#涂凌惊讶表情}好、好多人！！Σ(っ °Д °;)っ"/>
+<Date_tuling_Park id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="那边人很多，不知道在干嘛，要不我们去看看？"/>
+<Date_tuling_Park id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{#涂凌紧张表情}喂，别晕过去啊！"/>
+<Date_tuling_Park id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="tuling" param="还、{0.5}还行，{1}我、{0.5}我没问题……"/>
+<Date_tuling_Park id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="如果你颤抖的尾音不这么明显……{1.2}
+{#闪白ding}也许我就信了……"/>
+<Date_tuling_Park id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶动作恢复}这么多人，他们在干什么？{2}{#涂凌惊讶表情}"/>
+<Date_tuling_Park id="29" originalRow="29" action="可选对话框" data="" param="$$有些大叔在慢跑训练==&gt;跑步
+$$那边有小孩子在野餐==&gt;野餐"/>
+<Date_tuling_Park id="30" originalRow="30" groupSign="跑步" debugClose="" action="角色台词" data="wo" param="感觉大叔们都是一副很有干劲的样子啊……"/>
+<Date_tuling_Park id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌无聊表情}我们也跟上去一起跑步吧。"/>
+<Date_tuling_Park id="32" originalRow="32" action="角色台词" data="tuling" param="{播放音效,voice_typing}{#涂凌紧张动作}对不起，你访问的目标不存在....((/- -)/"/>
+<Date_tuling_Park id="33" originalRow="33" action="角色台词" data="wo" param="长时间不运动的话，四肢可是会退化的哦~"/>
+<Date_tuling_Park id="34" originalRow="34" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌待机2动作}{#涂凌忧伤表情}无稽之谈！"/>
+<Date_tuling_Park id="35" originalRow="35" action="角色台词" data="tuling" param="有研究表明，运动才会让四肢受到损伤。{#涂凌待机2动作恢复}{#涂凌打字表情}"/>
+<Date_tuling_Park id="36" originalRow="36" action="角色台词" data="wo" param="哈？"/>
+<Date_tuling_Park id="37" originalRow="37" action="角色台词" data="tuling" param="{#涂凌紧张动作}运动会造成有骨损伤，比如骨折；关节损伤，比如半月板损伤和关节脱位。"/>
+<Date_tuling_Park id="38" originalRow="38" action="角色台词" data="tuling" param="肌肉韧带等软骨组织损伤，比如肌肉拉伤，腰肌劳损。"/>
+<Date_tuling_Park id="39" originalRow="39" action="角色台词" data="tuling" param="疲劳性骨膜炎，{#涂凌紧张动作恢复}{#涂凌惊讶表情}运动型猝死等等等等！"/>
+<Date_tuling_Park id="40" originalRow="40" action="角色台词" data="tuling" param="{#闪白ding}运动真是可怕的东西！{#涂凌忧伤动作}{#涂凌忧伤表情} Σ( ° △ °|||)︴"/>
+<Date_tuling_Park id="41" originalRow="41" action="角色台词" data="wo" param="你说的这些情况有些极端啊……{#涂凌忧伤动作恢复}{涂凌平静表情}"/>
+<Date_tuling_Park id="42" originalRow="42" action="角色台词" data="tuling" param="{#闪白震punch}{#涂凌鄙视动作}总之就是不要！[○･｀Д´･ ○]"/>
+<Date_tuling_Park id="43" originalRow="43" action="可选对话框" data="" param="$$不行，生命在于运动==&gt;结局逃走1
+$$算了，放她一马==&gt;结局玩电脑"/>
+<Date_tuling_Park id="44" originalRow="44" groupSign="结局逃走1" action="角色台词" data="wo" param="{#闪白震slash}{#涂凌惊讶动作} {#涂凌紧张表情}先试试吧，别这么排斥嘛~"/>
+<Date_tuling_Park id="45" originalRow="45" action="角色台词" data="wo" param="来，你跟着我做就好啦~"/>
+<Date_tuling_Park id="46" originalRow="46" action="角色台词" data="tuling" param="(⊙﹏⊙)"/>
+<Date_tuling_Park id="47" originalRow="47" action="角色台词" data="wo" param="抬高右脚，迈出左脚，脚掌着地……"/>
+<Date_tuling_Park id="48" originalRow="48" action="角色台词" data="tuling" param="{#涂凌无聊表情}(⊙﹏⊙) (⊙﹏⊙) (⊙﹏⊙)"/>
+<Date_tuling_Park id="49" originalRow="49" action="角色台词" data="wo" param="很好，已经很有样子了！"/>
+<Date_tuling_Park id="50" originalRow="50" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶表情}呜哇哇——-{0.5}{移除角色,tuling, , ,} =͟͟͞͞ =͟͟͞͞ ﾍ( ´Д`)ﾉ- =͟͟͞͞ =͟͟͞͞ ﾍ( ´Д`)ﾉ"/>
+<Date_tuling_Park id="51" originalRow="51" action="角色台词" param="涂凌竟然一溜烟逃走了。"/>
+<Date_tuling_Park id="52" originalRow="52" action="角色台词" data="wo" param="明明逃跑的时候跑的飞快嘛……"/>
+<Date_tuling_Park id="53" originalRow="53" action="角色台词" data="wo" param="{#闪白震slash}等等，这是不是意味着……我们所谓的约会结束了？"/>
+<Date_tuling_Park id="54" originalRow="54" action="角色台词" data="wo" param="{#闪白震slash}别跑啊，涂凌！！{0.8}
+{#闪白震slash}我还不想今天这么早就结束啊啊啊！！"/>
+<Date_tuling_Park id="55" originalRow="55" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="56" originalRow="56" groupSign="结局玩电脑" action="角色台词" data="wo" param="{#涂凌鄙视动作恢复}算了，你大叔毕竟还是你大叔。"/>
+<Date_tuling_Park id="57" originalRow="57" action="角色台词" data="wo" param="大叔们的旺盛精力不是我等社畜可以比拟的。"/>
+<Date_tuling_Park id="58" originalRow="58" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌休闲动作}{#涂凌打字表情}哼哼，你不要小看我，我可是拿过跑步比赛冠军的。"/>
+<Date_tuling_Park id="59" originalRow="59" action="角色台词" data="wo" param="真的吗？"/>
+<Date_tuling_Park id="60" originalRow="60" action="角色台词" data="tuling" param="长跑、短跑统统拿奖到手软。"/>
+<Date_tuling_Park id="61" originalRow="61" action="角色台词" data="tuling" param="足球、篮球、排球什么的，{#涂凌点赞动作}{#涂凌平静表情}拿个mvp都是小意思。"/>
+<Date_tuling_Park id="62" originalRow="62" action="可选对话框" data="" param="$$听起来好厉害~==&gt;对话电子运动
+$$真的吗？==&gt;对话电子运动"/>
+<Date_tuling_Park id="63" originalRow="63" groupSign="对话电子运动" action="角色台词" data="wo" param="哇哦，真的吗？听起来好厉害~"/>
+<Date_tuling_Park id="64" originalRow="64" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}只是听起来？
+不许质疑我的战绩！"/>
+<Date_tuling_Park id="65" originalRow="65" action="角色台词" data="tuling" param="我可是有证据的！"/>
+<Date_tuling_Park id="66" originalRow="66" action="角色台词" data="tuling" param="{#涂凌严肃动作}{#涂凌平静表情}这是我的战绩，100次比赛我可是66场的冠军。"/>
+<Date_tuling_Park id="67" originalRow="67" action="角色台词" data="wo" param="嗐，原来是电子游戏啊……"/>
+<Date_tuling_Park id="68" originalRow="68" action="角色台词" param="{移除角色,tuling, , ,}涂凌热情地邀请我和她一起玩电子赛跑游戏。"/>
+<Date_tuling_Park id="69" originalRow="69" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="70" originalRow="70" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}你想拿第几名？第三、还是第二？"/>
+<Date_tuling_Park id="71" originalRow="71" action="角色台词" data="tuling" param="我都可以帮你修改后台的数据。"/>
+<Date_tuling_Park id="72" originalRow="72" action="角色台词" data="tuling" param="只要名次不超过我就行了◑ω◐ "/>
+<Date_tuling_Park id="73" originalRow="73" action="角色台词" data="wo" param="你说的玩，原来是这种玩。"/>
+<Date_tuling_Park id="74" originalRow="74" action="角色台词" data="tuling" param="{#涂凌点赞动作}{涂凌平静表情}乐趣就在于能够精准的掌控比赛名次。{1.2}"/>
+<Date_tuling_Park id="75" originalRow="75" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}{2}{#涂凌开心动作}想拿第几名都可以(｡･ω･) "/>
+<Date_tuling_Park id="76" originalRow="76" action="角色台词" data="wo" param="心疼他们的服务器。"/>
+<Date_tuling_Park id="77" originalRow="77" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="78" originalRow="78" groupSign="野餐" action="切换场景" data="Park_yecan" param=""/>
+<Date_tuling_Park id="79" originalRow="79" groupSign="和涂凌去野餐" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Date_tuling_Park id="80" originalRow="80" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机2动作}{#涂凌平静表情}那里有不少小朋友正在野餐。"/>
+<Date_tuling_Park id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="wo" param="野餐布，三明治，看起来很舒服。{#涂凌待机2动作恢复}"/>
+<Date_tuling_Park id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌忧伤动作}{#涂凌忧伤表情}┭┮﹏┭┮真是让人羡慕。"/>
+<Date_tuling_Park id="84" originalRow="84" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌待机2动作}{#涂凌平静表情}我也想要野餐(✧◡✧)"/>
+<Date_tuling_Park id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="wo" param="就算你用这种眼神看着我，我们也没有办法野餐。"/>
+<Date_tuling_Park id="86" originalRow="86" groupSign="" debugClose="" action="角色台词" data="tuling" param="{新角色镜头,tuling,char_camTL推镜头无震动}{#涂凌无聊表情}{#闪白ding}我也想要野餐(✧◡✧)"/>
+<Date_tuling_Park id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="wo" param="我们什么食物都没有带，下次再来吧。"/>
+<Date_tuling_Park id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="tuling" param="想要野餐(✧◡✧)想要野餐(✧◡✧)想要野餐(✧◡✧)"/>
+<Date_tuling_Park id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" param="{#闪白震slash}……已经完全听不见我在说什么了。"/>
+<Date_tuling_Park id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色镜头关闭,tuling}{#涂凌平静表情}……好吧，我想想办法。"/>
+<Date_tuling_Park id="91" originalRow="91" action="移除角色" data="tuling"/>
+<Date_tuling_Park id="92" originalRow="92" action="打开插画" data="Side_Vending machine" param="FALSE"/>
+<Date_tuling_Park id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="" param="那边有个自动贩卖机，先去买点东西吧。"/>
+<Date_tuling_Park id="94" originalRow="94" groupSign="" debugClose="" action="关闭插画" data="" param=""/>
+<Date_tuling_Park id="95" originalRow="95" action="可选对话框" data="" param="$$投币==&gt;买东西"/>
+<Date_tuling_Park id="96" originalRow="96" groupSign="买东西" debugClose="" action="角色台词" data="wo" param="糟糕，早上出门太急，完全忘记带钱了。"/>
+<Date_tuling_Park id="97" originalRow="97" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}{#涂凌平静表情}怎么样怎么样，买好了吗？"/>
+<Date_tuling_Park id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="" param="涂凌还是一脸期待的样子。"/>
+<Date_tuling_Park id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌开心动作恢复}竟然不知道该怎么开口。"/>
+<Date_tuling_Park id="101" originalRow="101" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{播放音效,voice_typing}根据我的表情数据库，每当你出现这种表情，就说明……"/>
+<Date_tuling_Park id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌点赞动作}你缺钱了!"/>
+<Date_tuling_Park id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}这不是数据库，简直是读心术吧！{#涂凌点赞动作恢复}"/>
+<Date_tuling_Park id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}需要我帮忙吗（￣︶￣）↗"/>
+<Date_tuling_Park id="105" originalRow="105" action="可选对话框" data="" param="$$你有什么办法吗？==&gt;自动贩卖机
+$$要不还是算了。==&gt;结局赛博野餐"/>
+<Date_tuling_Park id="106" originalRow="106" groupSign="自动贩卖机" debugClose="" action="角色台词" data="wo" param="我忘记带钱了，你有什么好的办法吗？"/>
+<Date_tuling_Park id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌惊讶表情}原来是忘记带钱了？|(*′口`)"/>
+<Date_tuling_Park id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{#涂凌平静表情}{播放音效,voice_typing}我还以为是根本就没钱呢︿(￣︶￣)︿"/>
+<Date_tuling_Park id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="wo" param="可以不用说的这么直白。{#涂凌紧张动作恢复}"/>
+<Date_tuling_Park id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌开心动作}不过没关系！{1.2}我也没钱！(・∀・)"/>
+<Date_tuling_Park id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="wo" param="还真是理直气壮啊……{#涂凌开心动作恢复}"/>
+<Date_tuling_Park id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌灵感动作}{#涂凌平静表情}{#闪白ding}看来是没办法用钱买了，或许可以启用B方案。"/>
+<Date_tuling_Park id="113" originalRow="113" action="可选对话框" data="" param="$$B方案是什么？==&gt;结局B方案"/>
+<Date_tuling_Park id="114" originalRow="114" groupSign="结局B方案" action="角色台词" data="tuling" param="{#涂凌灵感动作恢复}B方案可是从来都不会出错的黄金方案，我从未失手过。"/>
+<Date_tuling_Park id="115" originalRow="115" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌点赞动作}就是不用钱买！(・∀・)"/>
+<Date_tuling_Park id="116" originalRow="116" action="角色台词" data="wo" param="强行撬开吗？{1.2}有点担心会被抓起来……{#涂凌点赞动作恢复}{#涂凌打字表情}"/>
+<Date_tuling_Park id="117" originalRow="117" action="角色台词" data="tuling" param="{播放音效,voice_typing}真正的黑客从来不用花钱买东西。"/>
+<Date_tuling_Park id="118" originalRow="118" action="角色台词" param="{#涂凌紧张动作}涂凌端着电脑，短促有力地一阵敲击键盘。"/>
+<Date_tuling_Park id="119" originalRow="119" action="角色台词" param="{#涂凌紧张动作恢复}她按下回车键，1秒钟后，自动贩卖机发出了“哔——”的声音。"/>
+<Date_tuling_Park id="120" originalRow="120" action="角色台词" param="门锁咔地打开了。"/>
+<Date_tuling_Park id="121" originalRow="121" action="角色台词" data="tuling" param="{#涂凌开心动作}{#涂凌平静表情}搞定了！快拿上零食，我们去野餐吧！(✧◡✧)"/>
+<Date_tuling_Park id="122" originalRow="122" action="角色台词" data="wo" param="{#闪白震slash}{size=45}这样真的没问题嘛！！！{/size}"/>
+<Date_tuling_Park id="123" originalRow="123" action="移除角色" data="tuling"/>
+<Date_tuling_Park id="124" originalRow="124" action="角色台词" data="" param="话说，黑客还真是可以为所欲为啊……"/>
+<Date_tuling_Park id="125" originalRow="125" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="126" originalRow="126" groupSign="结局赛博野餐" action="角色台词" data="wo" param="要不还是算了，回基地我带你吃好吃的。"/>
+<Date_tuling_Park id="127" originalRow="127" action="角色台词" data="tuling" param="{#涂凌愤怒动作}{#涂凌忧伤表情}我不想吃好吃的。╮（﹀_﹀）╭"/>
+<Date_tuling_Park id="128" originalRow="128" action="角色台词" data="wo" param="你不是很想野餐吗？{#涂凌愤怒动作恢复}"/>
+<Date_tuling_Park id="129" originalRow="129" action="角色台词" data="tuling" param="{#涂凌待机2动作}我从来没有野餐过，不知道是什么样子的。"/>
+<Date_tuling_Park id="130" originalRow="130" action="角色台词" data="tuling" param="唔，只是想体验一下野餐是什么感觉。"/>
+<Date_tuling_Park id="131" originalRow="131" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌开心动作}{#涂凌平静表情}吃不吃东西什么的，我不是很在乎ヾ(´∀`o)+"/>
+<Date_tuling_Park id="132" originalRow="132" action="角色台词" data="wo" param="但是野餐的重点，就是坐在草坪上分享美食吧。"/>
+<Date_tuling_Park id="133" originalRow="133" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌灵感动作}原来如此！我懂了！"/>
+<Date_tuling_Park id="134" originalRow="134" action="角色台词" param="{#涂凌紧张动作}{#涂凌打字表情}{播放音效,voice_typing}涂凌低下头，神情专注地在电脑上敲打着。"/>
+<Date_tuling_Park id="135" originalRow="135" action="角色台词" param="两分钟后，涂凌兴奋地发送了个名为“赛博野餐”的链接给我。"/>
+<Date_tuling_Park id="136" originalRow="136" action="可选对话框" data="" param="$$B“赛博野餐”是什么？==&gt;什么是赛博野餐"/>
+<Date_tuling_Park id="137" originalRow="137" groupSign="什么是赛博野餐" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌开心动作}{#涂凌平静表情}字面意思！"/>
+<Date_tuling_Park id="138" originalRow="138" action="角色台词" data="tuling" param="你可以在这个链接选择不同的食物分享给我。"/>
+<Date_tuling_Park id="139" originalRow="139" action="角色台词" data="tuling" param="我暂时设置了鸡腿三明治、烤牛排、德式纯肉烤肠。"/>
+<Date_tuling_Park id="140" originalRow="140" action="角色台词" data="wo" param="果然全都是肉。{#涂凌开心动作恢复}"/>
+<Date_tuling_Park id="141" originalRow="141" action="角色台词" data="tuling" param="{#涂凌惊讶表情}忘记问你喜欢吃什么了(・∀・)"/>
+<Date_tuling_Park id="142" originalRow="142" action="角色台词" data="tuling" param="{#涂凌打字表情}你想要我分享给你什么，我马上添加进去。"/>
+<Date_tuling_Park id="143" originalRow="143" action="角色台词" data="wo" param="来份烤三文鱼吧。"/>
+<Date_tuling_Park id="144" originalRow="144" action="角色台词" data="tuling" param="{涂凌平静表情}{#常规点头动作}好嘞ヽ(￣▽￣)و"/>
+<Date_tuling_Park id="145" originalRow="145" action="角色台词" data="wo" param="还有一份苹果汁。"/>
+<Date_tuling_Park id="146" originalRow="146" action="角色台词" data="tuling" param="{#涂凌紧张动作}{#涂凌打字表情}{播放音效,voice_typing}没问题 (・▽・。)"/>
+<Date_tuling_Park id="147" originalRow="147" action="移除角色" data="tuling"/>
+<Date_tuling_Park id="148" originalRow="148" action="角色台词" param="涂凌又在电脑上敲打，链接里出现了烤三文鱼和苹果汁的图片。"/>
+<Date_tuling_Park id="149" originalRow="149" action="角色台词" data="wo" param="话说这些食物什么时候送过来？"/>
+<Date_tuling_Park id="150" originalRow="150" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="151" originalRow="151" action="角色台词" data="tuling" param="{#涂凌惊讶表情}{#涂凌抬头}{#闪白ding}送过来？谁送过来？"/>
+<Date_tuling_Park id="152" originalRow="152" action="角色台词" data="wo" param="呃，不是餐厅的外送系统吗？"/>
+<Date_tuling_Park id="153" originalRow="153" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌点赞动作}{#涂凌平静表情}{角色转头,tuling,头中}当然不是！{2}
+这是我制作的“赛博野餐”系统。"/>
+<Date_tuling_Park id="154" originalRow="154" action="角色台词" data="tuling" param="能够在没有食物的情况下进行野餐！{#涂凌点赞动作恢复}"/>
+<Date_tuling_Park id="155" originalRow="155" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}内部放置了本市五星级饭店的餐品图片，餐品齐全。"/>
+<Date_tuling_Park id="156" originalRow="156" action="角色台词" data="tuling" param="还可以选择草坪种类！"/>
+<Date_tuling_Park id="157" originalRow="157" action="角色台词" data="tuling" param="英国的温和湿润的城市公园草坪、非洲粗犷的热带草原……"/>
+<Date_tuling_Park id="158" originalRow="158" action="角色台词" data="wo" param="还真是赛、博、野、餐啊！"/>
+<Date_tuling_Park id="159" originalRow="159" action="角色台词" data="tuling" param="{#涂凌开心动作}{#涂凌平静表情}终于体会过野餐了，感觉还不错。ヾ(≧▽≦*)o"/>
+<Date_tuling_Park id="160" originalRow="160" action="角色台词" param="涂凌看起来很满足的样子。"/>
+<Date_tuling_Park id="161" originalRow="161" action="角色台词" param="还是不要告诉她，野餐的乐趣似乎是要分享真正的食物好了……"/>
+<Date_tuling_Park id="162" originalRow="162" groupSign="" debugClose="" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="163" originalRow="163" groupSign="湖边" action="切换场景" data="Park_hu"/>
+<Date_tuling_Park id="164" originalRow="164" groupSign="去湖边" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Date_tuling_Park id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="" param="湖面很开阔，有一些游船在湖面缓缓地游动着。"/>
+<Date_tuling_Park id="166" originalRow="166" groupSign="" debugClose="" action="角色台词" data=" " param="岸边有个老爷爷摆的冰淇淋摊，排队的人并不多。"/>
+<Date_tuling_Park id="167" originalRow="167" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="168" originalRow="168" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌无聊表情}什么玩的也没有。(￣_,￣ )"/>
+<Date_tuling_Park id="169" originalRow="169" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}这还叫什么玩的也没有吗？！{1.2}{#涂凌待机2动作恢复}"/>
+<Date_tuling_Park id="170" originalRow="170" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}没有什么水上滑梯、游戏机之类的吗……"/>
+<Date_tuling_Park id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="wo" param="那些东西下次带你去游乐园玩吧。"/>
+<Date_tuling_Park id="172" originalRow="172" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}我比较想在家里打电脑游戏。ㄟ( ▔, ▔ )ㄏ "/>
+<Date_tuling_Park id="173" originalRow="173" groupSign="" debugClose="" action="角色台词" data="wo" param="网瘾少女的属性完全暴露了……"/>
+<Date_tuling_Park id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}所以……{1}{#涂凌平静表情}我们现在来做什么？"/>
+<Date_tuling_Park id="175" originalRow="175" groupSign="" debugClose="" action="可选对话框" data="" param="$$划船==&gt;划船
+$$买冰淇淋==&gt;买冰淇淋
+"/>
+<Date_tuling_Park id="176" originalRow="176" groupSign="划船" debugClose="" action="角色台词" data="wo" param="很久没有划船了，我们去试试吧。"/>
+<Date_tuling_Park id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌拒绝动作}{#涂凌忧伤动作}{#闪白震slash}不(・ε・●)要"/>
+<Date_tuling_Park id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="wo" param="我就知道……{#涂凌拒绝动作恢复}"/>
+<Date_tuling_Park id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{#涂凌平静表情}划船是项非常危险的运动。"/>
+<Date_tuling_Park id="180" originalRow="180" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌严肃动作}你看这些数据"/>
+<Date_tuling_Park id="181" originalRow="181" groupSign="" debugClose="" action="角色台词" data="tuling" param="“5名高中生划船时翻船溺水身亡”"/>
+<Date_tuling_Park id="182" originalRow="182" groupSign="" debugClose="" action="角色台词" data="tuling" param="“3名小伙在池塘玩摩托艇翻船溺水”"/>
+<Date_tuling_Park id="183" originalRow="183" groupSign="" debugClose="" action="角色台词" data="tuling" param="“客船翻沉事件导致30多人死亡”"/>
+<Date_tuling_Park id="184" originalRow="184" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌忧伤动作}{#涂凌忧伤表情}实在是太可怕了！！Ｏ(≧口≦)Ｏ"/>
+<Date_tuling_Park id="185" originalRow="185" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{size=45}客船翻沉根本和划船没有关系吧！！{#涂凌忧伤动作恢复}{涂凌打字表情}{/size}"/>
+<Date_tuling_Park id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}总之，{0.8}划船真是项危险的运动！"/>
+<Date_tuling_Park id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="wo" param="对你来说，就没有运动是不危险的吧……"/>
+<Date_tuling_Park id="188" originalRow="188" groupSign="" debugClose="" action="可选对话框" data="" param="$$你坐着就好，我来划船==&gt;结局主角划船
+$$不要害怕，去尝试一下吧==&gt;结局逃走2
+"/>
+<Date_tuling_Park id="189" originalRow="189" groupSign="结局主角划船" debugClose="" action="角色台词" data="wo" param="没事的，我们去划船的话，你坐着就好啦。"/>
+<Date_tuling_Park id="190" originalRow="190" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}{#涂凌思考动作}我不用进行低效费力又可怕的划桨运动吗？(。_。)"/>
+<Date_tuling_Park id="191" originalRow="191" groupSign="" debugClose="" action="角色台词" data="wo" param="我来就好了。"/>
+<Date_tuling_Park id="192" originalRow="192" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌开心动作}划船听起来也是项非常不错的运动呢！︿(￣︶￣)︿"/>
+<Date_tuling_Park id="193" originalRow="193" groupSign="" debugClose="" action="角色台词" data="" param="态度180度大转变了……"/>
+<Date_tuling_Park id="194" originalRow="194" groupSign="" debugClose="" action="可选对话框" data="" param="$$去船上==&gt;涂凌加速"/>
+<Date_tuling_Park id="195" originalRow="195" groupSign="涂凌加速" debugClose="" action="切换场景" data="Park_chuan" param=""/>
+<Date_tuling_Park id="196" originalRow="196" groupSign="和涂凌划船" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Date_tuling_Park id="197" originalRow="197" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="198" originalRow="198" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作恢复}{#涂凌惊讶表情}原来坐在游船上是这样的感觉。"/>
+<Date_tuling_Park id="199" originalRow="199" groupSign="" debugClose="" action="角色台词" data="wo" param="什么感觉？"/>
+<Date_tuling_Park id="200" originalRow="200" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌平静表情}一点感觉都没有o(￣▽￣)ｄ"/>
+<Date_tuling_Park id="201" originalRow="201" groupSign="" debugClose="" action="角色台词" data="wo" param="可能因为我们选择了电子游船吧。"/>
+<Date_tuling_Park id="202" originalRow="202" groupSign="" debugClose="" action="" data="" param="毕竟我也不想进行效费力又可怕的划桨运动。{#涂凌待机2动作恢复}"/>
+<Date_tuling_Park id="203" originalRow="203" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}{#涂凌无聊表情}{#闪白ding}速度好慢啊〒▽〒"/>
+<Date_tuling_Park id="204" originalRow="204" groupSign="" debugClose="" action="角色台词" data="wo" param="我已经开到了速度最大了。"/>
+<Date_tuling_Park id="205" originalRow="205" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌眩晕动作}{#涂凌憋气表情}看来划船不仅是危险的运动，
+{#闪白ding}还是低效率的运动。"/>
+<Date_tuling_Park id="206" originalRow="206" groupSign="" debugClose="" action="角色台词" data="wo" param="她开始屏蔽我说的话了……{#涂凌眩晕动作恢复}{#涂凌平静表情}"/>
+<Date_tuling_Park id="207" originalRow="207" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}{#闪白ding}速度还能再快一点吗？像鲨鱼一样！！"/>
+<Date_tuling_Park id="208" originalRow="208" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}世界上速度最快的尖吻鲭鲨,{1.2}
+{#涂凌紧张动作}{播放音效,voice_typing}记录显示它们的游泳速度超过56公里每小时。"/>
+<Date_tuling_Park id="209" originalRow="209" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌严肃动作}最慢的鲨鱼叫格陵兰鲨鱼航速也有0.34米每秒呢！"/>
+<Date_tuling_Park id="210" originalRow="210" groupSign="" debugClose="" action="角色台词" data="wo" param="可能是处于安全考虑，{0.8}{#闪白ding}对船只的马达进行了限速。"/>
+<Date_tuling_Park id="211" originalRow="211" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌严肃动作恢复}{#涂凌打字表情}{播放音效,voice_typing}涂凌变得十分安静，只是低头敲打着电脑。"/>
+<Date_tuling_Park id="212" originalRow="212" groupSign="" debugClose="" action="角色台词" data="" param="我突然意识到了事情不对劲。"/>
+<Date_tuling_Park id="213" originalRow="213" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}你想干什么？{#涂凌休闲动作}{1.2}
+{#闪白震slash}千万不要，呜哇——！！"/>
+<Date_tuling_Park id="214" originalRow="214" groupSign="" debugClose="" action="角色台词" data="" param="最担心的的事情还是发生了。"/>
+<Date_tuling_Park id="215" originalRow="215" groupSign="" debugClose="" action="角色台词" data="" param="我们游船猛然以五倍的速度开始航行，嗖嗖地超过了前面的游船。"/>
+<Date_tuling_Park id="216" originalRow="216" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌点赞动作}{#涂凌平静表情}这样刺激多啦！(￣︶￣)↗GO!"/>
+<Date_tuling_Park id="217" originalRow="217" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<Date_tuling_Park id="218" originalRow="218" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}快停下来！{shake=1}"/>
+<Date_tuling_Park id="219" originalRow="219" groupSign="" debugClose="" action="角色台词" data="" param="我欲哭无泪地驾驶着游船，涂凌似乎还在尝试着让速度更快一些。"/>
+<Date_tuling_Park id="220" originalRow="220" groupSign="1" debugClose="" action="特殊-闪白效果" data="1" param="0.3" param2=""/>
+<Date_tuling_Park id="221" originalRow="221" groupSign="" debugClose="" action="角色台词" data="" param="20分钟的划船时间终于结束，我已经精疲力尽。"/>
+<Date_tuling_Park id="222" originalRow="222" groupSign="" debugClose="" action="角色台词" data="" param="涂凌却支棱起了鲨鱼鳍，异常兴奋。"/>
+<Date_tuling_Park id="223" originalRow="223" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<Date_tuling_Park id="224" originalRow="224" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌开心动作}{#涂凌平静表情}划船好有意思啊！我们再去划一次吧！"/>
+<Date_tuling_Park id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}不、不用了！{shake=1}"/>
+<Date_tuling_Park id="226" originalRow="226" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<Date_tuling_Park id="227" originalRow="227" groupSign="" debugClose="" action="角色台词" data="" param="就这样，今天的约会到此结束。
+对涂凌来说，最开心的事大概就是划船了。"/>
+<Date_tuling_Park id="228" originalRow="228" groupSign="" debugClose="" action="角色台词" data="wo" param="{z=blue}（只是以后，我应该都不会选择和她一起划船了_(´ཀ`」∠)_）{/z}"/>
+<Date_tuling_Park id="229" originalRow="229" groupSign="" debugClose="" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="230" originalRow="230" groupSign="结局逃走2" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{#涂凌惊讶动作}{#涂凌紧张表情}凡事都有第一次，你不尝试，永远都不能真正知道！"/>
+<Date_tuling_Park id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶动作恢复}你以前划过船吗？"/>
+<Date_tuling_Park id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="wo" param="相信我，很简单的。"/>
+<Date_tuling_Park id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="wo" param="把手放在木浆上，前一下，后一下。"/>
+<Date_tuling_Park id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="" param="涂凌跟着我模仿起划桨的动作，还挺像模像样的。"/>
+<Date_tuling_Park id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{涂凌无聊表情}{播放音效,voice_typing}然后呢？(￣_,￣ )"/>
+<Date_tuling_Park id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="wo" param="然后就是继续前一下，{#涂凌紧张动作恢复}后一下。"/>
+<Date_tuling_Park id="237" originalRow="237" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{播放音效,voice_typing}{s=0.1}接下来呢？(￣_,￣ )"/>
+<Date_tuling_Park id="238" originalRow="238" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌紧张动作恢复}接下来就是不停地重复这个动作，达到每分钟20-40桨就好了。"/>
+<Date_tuling_Park id="239" originalRow="239" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌眩晕动作}{#涂凌憋气表情}每分钟20-40桨，岂不是分钟手臂要摆动40-80下Ｏ(≧口≦)Ｏ"/>
+<Date_tuling_Park id="240" originalRow="240" groupSign="" debugClose="" action="角色台词" data="wo" param="理论上是这样说没错。{#涂凌眩晕动作恢复}"/>
+<Date_tuling_Park id="241" originalRow="241" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}我还是……{#涂凌紧张表情}{#涂凌待机2动作}"/>
+<Date_tuling_Park id="242" originalRow="242" groupSign="" debugClose="" action="角色台词" data="wo" param="你还是想上船试一下？"/>
+<Date_tuling_Park id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash} 我还是先走一步了！{移除角色,tuling, , ,}=͟͟͞͞ =͟͟͞͞ ﾍ( ´Д`)ﾉ- =͟͟͞͞ =͟͟͞͞ ﾍ( ´Д`)ﾉ"/>
+<Date_tuling_Park id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="" param="涂凌一溜烟逃走了。"/>
+<Date_tuling_Park id="245" originalRow="245" groupSign="" debugClose="" action="角色台词" data="wo" param="明明逃跑的速度都快比上短跑运动员了……"/>
+<Date_tuling_Park id="246" originalRow="246" groupSign="" debugClose="" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="247" originalRow="247" groupSign="买冰淇淋" debugClose="" action="切换场景" data="Park_xiaotan"/>
+<Date_tuling_Park id="248" originalRow="248" groupSign="和涂凌买冰淇淋" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Date_tuling_Park id="249" originalRow="249" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0"/>
+<Date_tuling_Park id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌张望动作}{#涂凌惊讶表情}那里有个冰淇淋小摊。"/>
+<Date_tuling_Park id="251" originalRow="251" groupSign="" debugClose="" action="角色台词" data="tuling" param="电脑急需一个冰凉的冰淇淋进行冷却！{#涂凌忧伤表情}"/>
+<Date_tuling_Park id="252" originalRow="252" groupSign="" debugClose="" action="角色台词" data="wo" param="分明是你自己想吃。"/>
+<Date_tuling_Park id="253" originalRow="253" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{#涂凌思考表情}这个你就不要管了。(* ￣︿￣)"/>
+<Date_tuling_Park id="254" originalRow="254" groupSign="" debugClose="" action="角色台词" data="wo" param="先过过去看看吧。"/>
+<Date_tuling_Park id="255" originalRow="255" action="可选对话框" data="" param="$$我先过去问一下价格==&gt;问价格
+$$让涂凌看看有没有感兴趣的==&gt;涂凌兴趣
+"/>
+<Date_tuling_Park id="256" originalRow="256" groupSign="问价格" debugClose="" action="角色台词" data="wo" param="{#涂凌紧张动作恢复}{#涂凌平静表情}你先在此地不要走动，我先过去问问价格。"/>
+<Date_tuling_Park id="257" originalRow="257" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}好呀好呀，我在这里等你§(*￣▽￣*)§"/>
+<Date_tuling_Park id="258" originalRow="258" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌思考动作}{#涂凌无聊表情}不过总感觉哪里怪怪的……"/>
+<Date_tuling_Park id="259" originalRow="259" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌平静表情}卖冰淇淋的老爷爷正在冰淇淋器前认真地制作着冰淇淋。"/>
+<Date_tuling_Park id="260" originalRow="260" groupSign="" debugClose="" action="" data="" param="动作很熟练，老爷爷得意地说他已经在这里卖了30年冰淇淋了。"/>
+<Date_tuling_Park id="261" originalRow="261" groupSign="" debugClose="" action="角色台词" data="" param="价格很实惠，但是只有巧克力、香草和草莓三种味道。"/>
+<Date_tuling_Park id="262" originalRow="262" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶动作}{#涂凌惊讶表情}只有三种味道吗？！"/>
+<Date_tuling_Park id="263" originalRow="263" groupSign="" debugClose="" action="角色台词" data="wo" param="是啊，老爷爷说他只卖这三种。{#涂凌惊讶动作恢复}"/>
+<Date_tuling_Park id="264" originalRow="264" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}{#闪白ding}三种味道卖了三十年吗？！"/>
+<Date_tuling_Park id="265" originalRow="265" groupSign="" debugClose="" action="角色台词" data="wo" param="老爷爷的冰淇淋器看起来和他的年纪不相上下了。"/>
+<Date_tuling_Park id="266" originalRow="266" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}哪种味道都不是很想吃。"/>
+<Date_tuling_Park id="267" originalRow="267" groupSign="" debugClose="" action="角色台词" data="wo" param="还真是挑食啊……{#涂凌思考动作恢复}"/>
+<Date_tuling_Park id="268" originalRow="268" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}{#闪白ding}但是三个合起来的全家福似乎还不错！(o゜▽゜)o☆"/>
+<Date_tuling_Park id="269" originalRow="269" groupSign="" debugClose="" action="角色台词" data="wo" param="额，这个不太行。{#涂凌开心动作恢复}"/>
+<Date_tuling_Park id="270" originalRow="270" groupSign="" debugClose="" action="角色台词" data="wo" param="老爷爷说他的机器打不出双拼或者三拼的冰淇淋。"/>
+<Date_tuling_Park id="271" originalRow="271" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{涂凌待机2动作}{#涂凌忧伤表情}可恶，还从没有我吃不到的东西o(′益`)o"/>
+<Date_tuling_Park id="272" originalRow="272" groupSign="" debugClose="" action="角色台词" data="" param="涂凌悄悄地绕到老爷爷的冰淇淋器后面。"/>
+<Date_tuling_Park id="273" originalRow="273" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<Date_tuling_Park id="274" originalRow="274" groupSign="" debugClose="" action="角色台词" data="" param="老爷爷沉醉于自己高超的打冰淇淋技巧，完全没有发现涂凌。"/>
+<Date_tuling_Park id="275" originalRow="275" action="可选对话框" data="" param="$$跟上去看看==&gt;对话跟上去
+"/>
+<Date_tuling_Park id="276" originalRow="276" groupSign="对话跟上去" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<Date_tuling_Park id="277" originalRow="277" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{涂凌平静表情}你在干什么？"/>
+<Date_tuling_Park id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}嘿嘿，稍微地修改一下冰淇淋器的口味装置。"/>
+<Date_tuling_Park id="279" originalRow="279" groupSign="" debugClose="" action="角色台词" data="" param="涂凌重重的敲下键盘的回车键。"/>
+<Date_tuling_Park id="280" originalRow="280" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌点赞动作}完成啦！ヾ(≧▽≦*)o"/>
+<Date_tuling_Park id="281" originalRow="281" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<Date_tuling_Park id="282" originalRow="282" groupSign="" debugClose="" action="角色台词" data="" param="“我的冰淇淋怎么变成这样了——”"/>
+<Date_tuling_Park id="283" originalRow="283" groupSign="" debugClose="" action="角色台词" data="" param="老爷爷的惊呼声传来，涂凌得意地笑着。"/>
+<Date_tuling_Park id="284" originalRow="284" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<Date_tuling_Park id="285" originalRow="285" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}我的香草草莓巧克力全家福冰淇淋做好了！ヾ(≧▽≦*)o"/>
+<Date_tuling_Park id="286" originalRow="286" groupSign="" debugClose="" action="角色台词" data="tuling" param="我们快去取吧！"/>
+<Date_tuling_Park id="287" originalRow="287" groupSign="" debugClose="" action="角色台词" data="" param="{移除角色,tuling, , ,}涂凌吃上了全家福冰淇淋，满意得鲨鱼帽都在微微颤抖。"/>
+<Date_tuling_Park id="288" originalRow="288" groupSign="" debugClose="" action="角色台词" data="wo" param="真是奇怪的执念和可怕的执行力啊……"/>
+<Date_tuling_Park id="289" originalRow="289" groupSign="" debugClose="" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="290" originalRow="290" groupSign="涂凌兴趣" debugClose="" action="角色台词" data="" param="涂凌我不太清楚涂凌的口味。"/>
+<Date_tuling_Park id="291" originalRow="291" groupSign="" debugClose="" action="角色台词" data="" param="让她自己先去看看有没有喜欢的味道。"/>
+<Date_tuling_Park id="292" originalRow="292" groupSign="" debugClose="" action="角色台词" data="wo" param="你去问问那边的卖冰淇淋的老爷爷。"/>
+<Date_tuling_Park id="293" originalRow="293" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌思考动作}哎？我、我去吗？！X﹏X"/>
+<Date_tuling_Park id="294" originalRow="294" groupSign="" debugClose="" action="角色台词" data="wo" param="去问问看口味和价格吧。"/>
+<Date_tuling_Park id="295" originalRow="295" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}我、我要怎么和他说话啊？X﹏X"/>
+<Date_tuling_Park id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="wo" param="走到他的面前，问他冰淇淋多少钱一个。"/>
+<Date_tuling_Park id="297" originalRow="297" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌思考动作恢复}他会让你选择喜欢的口味的。"/>
+<Date_tuling_Park id="298" originalRow="298" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{#涂凌思考表情}真的这么简单吗……"/>
+<Date_tuling_Park id="299" originalRow="299" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}就是这么简单!"/>
+<Date_tuling_Park id="300" originalRow="300" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶动作}{#涂凌紧张表情}我，呼呼——我不知道该怎么和陌生人说话——"/>
+<Date_tuling_Park id="301" originalRow="301" groupSign="" debugClose="" action="角色台词" data="wo" param="我教你，你就说：“老爷爷，冰淇淋怎么卖的？”"/>
+<Date_tuling_Park id="302" originalRow="302" groupSign="" debugClose="" action="角色台词" data="" param="涂凌非常紧张，脸涨得通红，嘴里小声地重复练习着。"/>
+<Date_tuling_Park id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="tuling" param="老爷爷，冰淇淋怎么卖的……{0.8}{s=0.1}老爷爷，冰淇淋怎么卖的……"/>
+<Date_tuling_Park id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="wo" param="不要害怕！上去问就好了!"/>
+<Date_tuling_Park id="305" originalRow="305" groupSign="" debugClose="" action="角色台词" data="" param="{移除角色,tuling, , ,}涂凌终于鼓足勇气向冰淇淋摊走去。"/>
+<Date_tuling_Park id="306" originalRow="306" groupSign="" debugClose="" action="角色台词" data="" param="老爷爷热情地招呼着。"/>
+<Date_tuling_Park id="307" originalRow="307" groupSign="" debugClose="" action="角色台词" data="" param="涂凌终于张口说话了。"/>
+<Date_tuling_Park id="308" originalRow="308" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<Date_tuling_Park id="309" originalRow="309" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌紧张表情}老、{0.6}老爷爷，{0.8}请，{0.8}请问，{1}{s=0.1}请问冰淇淋——"/>
+<Date_tuling_Park id="310" originalRow="310" groupSign="" debugClose="" action="角色台词" data="" param="{移除角色,tuling, , ,}我满怀期待地看着涂凌，却听到了老爷爷的惊呼。"/>
+<Date_tuling_Park id="311" originalRow="311" groupSign="" debugClose="" action="角色台词" data="" param="“救命啊——有个小姑娘晕倒了——”"/>
+<Date_tuling_Park id="312" originalRow="312" groupSign="" debugClose="" action="角色台词" data="" param="我赶紧冲上前去扶住了紧张得晕过去的涂凌，并向老爷爷解释。"/>
+<Date_tuling_Park id="313" originalRow="313" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}对不起对不起，没事没事，我家小孩中暑容易晕倒。"/>
+<Date_tuling_Park id="314" originalRow="314" groupSign="" debugClose="" action="角色台词" data="" param="老爷爷满脸惶恐，惊魂未定。"/>
+<Date_tuling_Park id="315" originalRow="315" groupSign="" debugClose="" action="角色台词" data="" param="几分钟后，涂凌微微睁开了眼睛。"/>
+<Date_tuling_Park id="316" originalRow="316" groupSign="" debugClose="" action="角色台词" data="wo" param="醒了？"/>
+<Date_tuling_Park id="317" originalRow="317" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<Date_tuling_Park id="318" originalRow="318" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶动作}{#涂凌惊讶表情}冰、冰淇淋！"/>
+<Date_tuling_Park id="319" originalRow="319" groupSign="" debugClose="" action="角色台词" data="wo" param="{z=blue}（果然还是先注意到了冰淇淋嘛……）{/z}"/>
+<Date_tuling_Park id="320" originalRow="320" groupSign="" debugClose="" action="角色台词" data="" param="我无奈地笑了笑，将手中的冰淇淋递给了她。"/>
+<Date_tuling_Park id="321" originalRow="321" groupSign="" debugClose="" action="角色台词" data="wo" param="诺，给你。{#涂凌惊讶动作恢复}{#涂凌平静表情}"/>
+<Date_tuling_Park id="322" originalRow="322" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}哇哦哦哦~⊙▽⊙"/>
+<Date_tuling_Park id="323" originalRow="323" groupSign="" debugClose="" action="角色台词" data="" param="{移除角色,tuling, , ,}涂凌接过我手里的冰淇淋，满足地吃了起来。"/>
+<Date_tuling_Park id="324" originalRow="324" groupSign="" debugClose="" action="角色台词" data="wo" param="时间不早了，现在吃的话，晚饭就吃不上咯~"/>
+<Date_tuling_Park id="325" originalRow="325" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<Date_tuling_Park id="326" originalRow="326" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌待机2动作}{#涂凌平静表情}谁说的，我的肚子还有地方呢！"/>
+<Date_tuling_Park id="327" originalRow="327" groupSign="" debugClose="" action="角色台词" data="wo" param="那不如思考一下，{1}{涂凌待机2动作恢复}{#涂凌打字表情}晚饭吃什么？"/>
+<Date_tuling_Park id="328" originalRow="328" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}唔，我想想……"/>
+<Date_tuling_Park id="329" originalRow="329" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作恢复}想吃鸡腿三明治、烤牛排、德式纯肉烤肠……"/>
+<Date_tuling_Park id="330" originalRow="330" groupSign="" debugClose="" action="角色台词" param="就这样，我们一起离开了公园。{移除角色,tuling, , ,}"/>
+<Date_tuling_Park id="331" originalRow="331" groupSign="" debugClose="" action="角色台词" data="wo" param="{z=blue}（倒是第一次觉得，涂凌她挺可爱的……）{/z}"/>
+<Date_tuling_Park id="332" originalRow="332" groupSign="" debugClose="" action="跳转-标签" param="结束"/>
+<Date_tuling_Park id="333" originalRow="333" groupSign="结束" debugClose="" action="" data="" param=""/>
+<Date_tuling_Park id="334" originalRow="334" groupSign="" debugClose="" action="语法-数值" data="rqs_1090001涂凌的邀约=2" param=""/>
+</root>

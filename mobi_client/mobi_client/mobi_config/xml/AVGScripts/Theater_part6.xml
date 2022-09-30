@@ -1,0 +1,70 @@
+<root>
+<theater_part6 id="0" originalRow="0" groupSign="开始"/>
+<theater_part6 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<theater_part6 id="2" originalRow="2" groupSign="" debugClose="" action="设置场号" data="scene_tianmu" param="" param2="" param3=""/>
+<theater_part6 id="3" originalRow="3" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="2" param2="" param3=""/>
+<theater_part6 id="4" originalRow="4" groupSign="" debugClose="" action="语法-数值" data="rqs_2002005通关天目剧院7=2" param="" param2="" param3=""/>
+<theater_part6 id="5" originalRow="5" groupSign="" debugClose="" action="存档" data="" param="" param2=""/>
+<theater_part6 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_disccusion2}" param2=""/>
+<theater_part6 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="女王玩偶奄奄一息地躺在地上，" param2=""/>
+<theater_part6 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="她身旁的兔子玩偶，虽然已经筋疲力竭了，" param2=""/>
+<theater_part6 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="" param="但还是拼尽全力爬到女王的身边，" param2=""/>
+<theater_part6 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="" param="抱住了她。" param2=""/>
+<theater_part6 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="聂总_思考_动作_开始_01"/>
+<theater_part6 id="12" originalRow="12" action="角色台词" data="niefei" param="{#聂飞思考表情}这……这是什么情况？"/>
+<theater_part6 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=1" param2="涂凌_待机_动作_循环_02"/>
+<theater_part6 id="14" originalRow="14" action="角色台词" data="tuling" param="{#涂凌憋气2表情}女王……"/>
+<theater_part6 id="15" originalRow="15" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞愤怒}她是在哭吗？！"/>
+<theater_part6 id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=2" param2="凯瑟琳_思考_动作_开始_01"/>
+<theater_part6 id="17" originalRow="17" action="角色台词" data="kaiselin02" param="{#聂飞愤怒动作恢复}{#聂飞严肃表情}周易，你觉得呢？"/>
+<theater_part6 id="18" originalRow="18" action="角色台词" data="wo" param="嗯……如果我想得没错的话。"/>
+<theater_part6 id="19" originalRow="19" action="角色台词" data="wo" param="我们已经见到真相了。"/>
+<theater_part6 id="20" originalRow="20" action="角色台词" data="niefei" param="{#闪白ding}{#聂飞思考表情}什么？我怎么没见到？"/>
+<theater_part6 id="21" originalRow="21" action="角色台词" data="wo" param="{#凯瑟琳2思考动作恢复}我们都见到了，你看呐。"/>
+<theater_part6 id="22" originalRow="22" action="角色台词" data="niefei" param="{#聂飞思考动作}你是说，女王就是小女孩，爸爸是兔子玩偶！"/>
+<theater_part6 id="23" originalRow="23" action="角色台词" data="niefei" param="{#聂飞严肃表情}那不是更糟糕的情况吗！人类变成了异质物！"/>
+<theater_part6 id="24" originalRow="24" action="角色台词" data="wo" param="那如果这一切都是自愿的呢？"/>
+<theater_part6 id="25" originalRow="25" action="角色台词" data="niefei" param="你的意思是说……{#聂飞思考动作恢复}"/>
+<theater_part6 id="26" originalRow="26" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}父女误入了【警戒区】，发现女儿遇害的父亲报案给警方，"/>
+<theater_part6 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="之后发现自己和女儿都变成了异质物，于是决定生活在这里……" param2=""/>
+<theater_part6 id="28" originalRow="28" action="设置角色" data="tuling" param="pos=1" param2="涂凌_待机_动作_循环_02" param3=""/>
+<theater_part6 id="29" originalRow="29" action="角色台词" data="tuling" param="{#涂凌平静表情}但关于人是如何变成异质物的，我们不明白的还有很多……"/>
+<theater_part6 id="30" originalRow="30" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=2" param2="凯瑟琳_得意_动作_开始_01"/>
+<theater_part6 id="31" originalRow="31" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}不论是出于管理警戒区的职责，还是出于暂不明朗的真相……"/>
+<theater_part6 id="32" originalRow="32" action="角色台词" data="kaiselin02" param="我们都应该继续在这里调查呢。"/>
+<theater_part6 id="33" originalRow="33" action="角色台词" data="wo" param="是的，我们先回去吧，向杜衡报告。"/>
+<theater_part6 id="34" originalRow="34" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<theater_part6 id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2=""/>
+<theater_part6 id="36" originalRow="36" action="跳转-标签" param="结束"/>
+<theater_part6 id="37" originalRow="37" groupSign="结束"/>
+<theater_part6 id="38" originalRow="38"/>
+<theater_part6 id="39" originalRow="39"/>
+<theater_part6 id="40" originalRow="40"/>
+<theater_part6 id="41" originalRow="41"/>
+<theater_part6 id="42" originalRow="42"/>
+<theater_part6 id="43" originalRow="43"/>
+<theater_part6 id="44" originalRow="44"/>
+<theater_part6 id="45" originalRow="45"/>
+<theater_part6 id="46" originalRow="46"/>
+<theater_part6 id="47" originalRow="47"/>
+<theater_part6 id="48" originalRow="48"/>
+<theater_part6 id="49" originalRow="49"/>
+<theater_part6 id="50" originalRow="50"/>
+<theater_part6 id="51" originalRow="51"/>
+<theater_part6 id="52" originalRow="52"/>
+<theater_part6 id="53" originalRow="53"/>
+<theater_part6 id="54" originalRow="54"/>
+<theater_part6 id="55" originalRow="55" data=""/>
+<theater_part6 id="56" originalRow="56"/>
+<theater_part6 id="57" originalRow="57"/>
+<theater_part6 id="58" originalRow="58" data=""/>
+<theater_part6 id="59" originalRow="59"/>
+<theater_part6 id="60" originalRow="60"/>
+<theater_part6 id="61" originalRow="61"/>
+<theater_part6 id="62" originalRow="62"/>
+<theater_part6 id="63" originalRow="63"/>
+<theater_part6 id="64" originalRow="64" data=""/>
+<theater_part6 id="65" originalRow="65"/>
+<theater_part6 id="66" originalRow="66"/>
+<theater_part6 id="67" originalRow="67" groupSign=""/>
+</root>

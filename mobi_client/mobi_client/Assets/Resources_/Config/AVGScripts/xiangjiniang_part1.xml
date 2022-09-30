@@ -1,0 +1,52 @@
+<root>
+<xiangjiniang_part1 id="0" originalRow="0" groupSign="开始"/>
+<xiangjiniang_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xiangjiniang_part1 id="2" originalRow="2" groupSign="" debugClose="" action="RPGActor" data="kangxinniefei" param="2" param2="" param3=""/>
+<xiangjiniang_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="" param2="" param3=""/>
+<xiangjiniang_part1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_愤怒_动作_开始_01" param3=""/>
+<xiangjiniang_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{music=bgm_niefei1}{#聂飞愤怒表情}小鬼！站住！" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作恢复}{#聂飞得意表情}本喵闻到了猫条的味道！交出来！" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="咦，聂总？" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="{#聂飞待机表情}……你鼻子也太灵了吧！" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="我刚帮博士办完一个手续，在附近买了点吃的。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="你怎么会在这？" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}嘛，这一带不是老有异质物出没吗！" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="来日常巡视一下。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}{#聂飞待机表情}以为本喵像你一样游手好闲吗！" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="14" originalRow="14" action="角色台词" data="wo" param="&lt;z=blue&gt;（我哪有游手好闲了……）&lt;/z&gt;" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="15" originalRow="15" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（这不刚好没有任务嘛……）&lt;/z&gt;" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="16" originalRow="16" debugClose="" action="角色台词" data="wo" param="只是路过一下，慰问聂总。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="我走了。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="18" originalRow="18" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part1 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="我扔给聂飞一袋刚买的猫条。" param2="" param3="type=1"/>
+<xiangjiniang_part1 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="" param="他伸出手却被突然震动的手机打断。" param2="" param3="type=1"/>
+<xiangjiniang_part1 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part1 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="niefei" param="嗯……？？慢着！
+{#聂飞严肃表情}你等会，涂凌给我打电话了。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞紧张表情}喂？喂喂？" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="听着呢……你说……" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}…………哈？" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="26" originalRow="26" action="角色台词" data="wo" param="&lt;z=blue&gt;（为什么我有种不好的预感。）&lt;/z&gt;" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="27" originalRow="27" action="角色台词" data="niefei" param="{#聂飞待机表情}嗯，嗯嗯，没问题……" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="28" originalRow="28" action="角色台词" data="niefei" param="{#聂飞得意表情}不用了，他正好在。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="29" originalRow="29" action="角色台词" data="" param="！！不会是我想的那样吧…………" param2="" param3="type=1"/>
+<xiangjiniang_part1 id="30" originalRow="30" action="角色台词" data="niefei" param="……挂了，一会见！" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="31" originalRow="31" action="角色台词" data="niefei" param="{#聂飞紧张动作恢复}小子，你不用回去了。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="32" originalRow="32" action="角色台词" data="wo" param="…………" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="33" originalRow="33" action="角色台词" data="niefei" param="涂凌和凯瑟琳一会就到。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="34" originalRow="34" action="角色台词" data="wo" param="果然。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="35" originalRow="35" action="角色台词" data="wo" param="{#聂飞待机表情}又有异质物么……在附近？" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="36" originalRow="36" action="角色台词" data="niefei" param="涂凌说刚才我巡视附近的时候。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="37" originalRow="37" action="角色台词" data="niefei" param="经过最里面那栋楼的时候发现了异质波动。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="38" originalRow="38" action="角色台词" data="niefei" param="{#聂飞思考表情}详细情况……等她们过来再说吧！" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="39" originalRow="39" action="角色台词" data="wo" param="那我们在这等她们？" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="40" originalRow="40" action="角色台词" data="niefei" param="{#聂飞得意动作}{#聂飞待机表情}嗯。" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="41" originalRow="41" action="角色台词" data="niefei" param="{#闪白ding}{#聂飞开心动作}{#聂飞得意表情}正好本喵还能开个罐头，呲溜——{music=off}" param2="" param3="type=0"/>
+<xiangjiniang_part1 id="42" originalRow="42" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part1 id="43" originalRow="43" groupSign="" action="语法-数值" data="rqs_3006000相机娘支线0=2" param2="" param3=""/>
+<xiangjiniang_part1 id="44" originalRow="44" action="语法-数值" data="rqs_3006001相机娘支线1=1" param2="" param3=""/>
+<xiangjiniang_part1 id="45" originalRow="45" action="RPGActor" data="kangxinxiaodui2" param="1" param2="" param3=""/>
+<xiangjiniang_part1 id="46" originalRow="46" action="存档" data="" param=""/>
+<xiangjiniang_part1 id="47" originalRow="47" groupSign="结束"/>
+<xiangjiniang_part1 id="48" originalRow="48"/>
+</root>

@@ -1,0 +1,70 @@
+<root>
+<xt_xiangji_start id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_xiangji_start id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="没问题，包在本大爷身上……" param2="" param3="type=0"/>
+<xt_xiangji_start id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="聂总！你在这里干嘛？" param2="" param3="type=0"/>
+<xt_xiangji_start id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="啊……等一下，不用了，他正好在。" param2="" param3="type=0"/>
+<xt_xiangji_start id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="（是在叫我吗！）" param2="" param3="type=0"/>
+<xt_xiangji_start id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="……小子，接电话。" param2="" param3="type=0"/>
+<xt_xiangji_start id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="喂，是周易吗？" param2="" param3="type=0"/>
+<xt_xiangji_start id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="我在！" param2="" param3="type=0"/>
+<xt_xiangji_start id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="哎呀呀，没想到你刚好也在呢。" param2="" param3="type=0"/>
+<xt_xiangji_start id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="我只是路过……" param2="" param3="type=0"/>
+<xt_xiangji_start id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="好啦，让我来说明情况吧。
+昭离公馆接到报案，报案人是小区对面摄影店的老板。" param2="" param3="type=0"/>
+<xt_xiangji_start id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="据他所说，一周前突然出现了一个手持拍立得的陌生少女，一直在附近徘徊，免费给人拍照。" param2="" param3="type=0"/>
+<xt_xiangji_start id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="niefei" param="这有什么奇怪的？" param2="" param3="type=0"/>
+<xt_xiangji_start id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="别打断我啊小飞飞！…咳咳，失态了。老板说那些人被拍完照后精神状态都出现了问题，只能被送去精神科治疗。" param2="" param3="type=0"/>
+<xt_xiangji_start id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="老板怀疑陌生少女是异质物。" param2="" param3="type=0"/>
+<xt_xiangji_start id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="niefei" param="这…怎么听起来像是恶意打压竞争对手呢？" param2="" param3="type=0"/>
+<xt_xiangji_start id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="tuling" param="而且，目标地点也没有明显的异质波动。" param2="" param3="type=0"/>
+<xt_xiangji_start id="28" originalRow="28" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="通过报警把女孩子抓起来，让客户回流到自己店里，好卑鄙的方法！" param2="" param3="type=0"/>
+<xt_xiangji_start id="30" originalRow="30" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="不是没有这种可能。而且单凭上面的信息也无法判定精神病发和异质物的关联。" param2="" param3="type=0"/>
+<xt_xiangji_start id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="所以这次任务的优先级很低。" param2="" param3="type=0"/>
+<xt_xiangji_start id="33" originalRow="33" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="niefei" param="周易，你怎么打算？要现在处理吗？" param2="" param3="type=0"/>
+<xt_xiangji_start id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="wo" param="择日不如撞日，
+既然接到报案了，还是早点处理委托比较好吧。" param2="" param3="type=0"/>
+<xt_xiangji_start id="36" originalRow="36" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="有道理，那我和涂凌也会赶到现场协助你们，我们一起行动。" param2="" param3="type=0"/>
+<xt_xiangji_start id="38" originalRow="38" groupSign="" debugClose="" action="可选对话框" data="" param="$$接取任务==&gt;接取任务
+$$不接任务==&gt;不接任务" param2="" param3=""/>
+<xt_xiangji_start id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="42" originalRow="42" groupSign="接取任务" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="43" originalRow="43" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="tuling" param="你们就呆在原地不要走动！" param2="" param3="type=0"/>
+<xt_xiangji_start id="45" originalRow="45" groupSign="" debugClose="" action="语法-数值" data="rqs_3006000相机娘支线0=2" param="" param2="" param3=""/>
+<xt_xiangji_start id="46" originalRow="46" groupSign="" debugClose="" action="语法-数值" data="rqs_3006001相机娘支线1=1" param="" param2="" param3=""/>
+<xt_xiangji_start id="47" originalRow="47" groupSign="" debugClose="" action="结束且返回值" data="" param="TRUE" param2="" param3=""/>
+<xt_xiangji_start id="48" originalRow="48" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="49" originalRow="49" groupSign="不接任务" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="wo" param="我还有其他的事要忙，这件事先放一下吧。" param2="" param3="type=0"/>
+<xt_xiangji_start id="51" originalRow="51" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="" param3=""/>
+<xt_xiangji_start id="52" originalRow="52" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="53" originalRow="53" groupSign="随便说两句话" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="54" originalRow="54" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_xiangji_start id="55" originalRow="55" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_start id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="niefei" param="没问题，包在本大爷身上……" param2="" param3=""/>
+<xt_xiangji_start id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="wo" param="喂！聂飞！" param2="" param3=""/>
+<xt_xiangji_start id="58" originalRow="58" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_xiangji_start id="59" originalRow="59" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="60" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="61" originalRow="61" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="62" originalRow="62" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="63" originalRow="63" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_start id="64" originalRow="64" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

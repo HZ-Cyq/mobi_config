@@ -1,0 +1,31 @@
+<root>
+<maze101_part1 id="0" originalRow="0" groupSign="开始"/>
+<maze101_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze101_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_严肃_动作_循环_01" param3=""/>
+<maze101_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="这里就是巢的所在地了。" param2=""/>
+<maze101_part1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<maze101_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="好像有很多个入口……可是只有一个开着！" param2=""/>
+<maze101_part1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="根据雇佣兵的专业经验，这其中必定有诈！明显是引诱我们进去的呀！" param2=""/>
+<maze101_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="里面可能会有正在饿肚子的异质物，等着一口把我们吃掉。" param2=""/>
+<maze101_part1 id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<maze101_part1 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="啊哈哈哈，不是没有可能哦~但我们的任务就是调查这里的巢，不是吗~" param2=""/>
+<maze101_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="无论如何都是要进去的，对吧，周易？" param2=""/>
+<maze101_part1 id="11" originalRow="11" groupSign="" debugClose="" action="可选对话框" data="" param="$$没错==&gt;没错" param2="" param3=""/>
+<maze101_part1 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="好！面对前方未知的危险，STS最精锐的冒险小队，准备出发！" param2=""/>
+<maze101_part1 id="13" originalRow="13" action="跳转-标签" param="结束"/>
+<maze101_part1 id="14" originalRow="14" groupSign="结束"/>
+<maze101_part1 id="15" originalRow="15"/>
+<maze101_part1 id="16" originalRow="16"/>
+<maze101_part1 id="17" originalRow="17"/>
+<maze101_part1 id="18" originalRow="18"/>
+<maze101_part1 id="19" originalRow="19"/>
+<maze101_part1 id="20" originalRow="20"/>
+<maze101_part1 id="21" originalRow="21"/>
+<maze101_part1 id="22" originalRow="22"/>
+<maze101_part1 id="23" originalRow="23"/>
+<maze101_part1 id="24" originalRow="24"/>
+<maze101_part1 id="25" originalRow="25"/>
+<maze101_part1 id="26" originalRow="26" data=""/>
+<maze101_part1 id="27" originalRow="27"/>
+<maze101_part1 id="28" originalRow="28" groupSign=""/>
+</root>

@@ -1,0 +1,46 @@
+<root>
+<electric_part3 id="0" originalRow="0" groupSign="开始"/>
+<electric_part3 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<electric_part3 id="2" originalRow="2" action="RPGActor" data="event" param="2"/>
+<electric_part3 id="3" originalRow="3" action="语法-数值" data="rqs_1001001调查电器城=2"/>
+<electric_part3 id="4" originalRow="4" action="角色台词" data="wo" param="这是什么？"/>
+<electric_part3 id="5" originalRow="5" action="设置角色" data="kaiselin" param="pos=中"/>
+<electric_part3 id="6" originalRow="6" action="角色台词" data="kaiselin" param="{#凯瑟琳思考}{#凯瑟琳思考恢复}异质物精神力掉落出的（待包装），可以用它来对（待包装）。"/>
+<electric_part3 id="7" originalRow="7" action="设置角色" data="tuling" param="pos=左" param2="涂凌_紧张_动作_循环_01"/>
+<electric_part3 id="8" originalRow="8" action="角色台词" data="tuling" param="已经不光有电视机头出现了，那种人形的异质物在这里，"/>
+<electric_part3 id="9" originalRow="9" action="角色台词" data="tuling" param="说明这里有“门”的存在。"/>
+<electric_part3 id="10" originalRow="10" action="角色台词" data="wo" param="门？"/>
+<electric_part3 id="11" originalRow="11" action="角色台词" data="" param="楼道里出现不寻常的，层层叠叠不断变换的门。" param3="type=1"/>
+<electric_part3 id="12" originalRow="12" action="角色台词" data="" param="聂飞一下子冲上去想把门打开，但面前的门却突然消失了。" param3="type=1"/>
+<electric_part3 id="13" originalRow="13" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（这个门好像有意识地在戏耍我们一样。）&lt;/color&gt;"/>
+<electric_part3 id="14" originalRow="14" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（不断地消失，出现，消失，出现……）&lt;/color&gt;"/>
+<electric_part3 id="15" originalRow="15" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（我们能做的，只有一刻不停地打开一扇又一扇的门……）&lt;/color&gt;"/>
+<electric_part3 id="16" originalRow="16" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（然后一次又一次地扑空……）&lt;/color&gt;"/>
+<electric_part3 id="17" originalRow="17" action="设置角色" data="kaiselin" param="pos=0"/>
+<electric_part3 id="18" originalRow="18" action="角色台词" data="kaiselin" param="{#凯瑟琳紧张动作}（喘气声）……可恶，它跑去哪了。"/>
+<electric_part3 id="19" originalRow="19" action="角色台词" data="wo" param="今天就一探究竟吧！"/>
+<electric_part3 id="20" originalRow="20" action="角色台词" data="kaiselin" param="大家已经精疲力尽了……"/>
+<electric_part3 id="21" originalRow="21" action="设置角色" data="tuling" param="pos=1"/>
+<electric_part3 id="22" originalRow="22" action="角色台词" data="tuling" param="{#涂凌紧张动作恢复}信号源的位置在不停变化，但信号减弱了。"/>
+<electric_part3 id="23" originalRow="23" action="设置角色" data="niefei" param="pos=2"/>
+<electric_part3 id="24" originalRow="24" action="角色台词" data="niefei" param="{#聂飞忧伤}我们现在的状态确实不再适合继续作战了。"/>
+<electric_part3 id="25" originalRow="25" action="语法-数值" data="ri_道具2=1"/>
+<electric_part3 id="26" originalRow="26" action="角色台词" data="kaiselin" param="先回去吧，向杜衡报告。"/>
+<electric_part3 id="27" originalRow="27" action="切换场景" data="home"/>
+<electric_part3 id="28" originalRow="28" action="跳转-标签" param="结束"/>
+<electric_part3 id="29" originalRow="29" groupSign="结束"/>
+<electric_part3 id="30" originalRow="30"/>
+<electric_part3 id="31" originalRow="31"/>
+<electric_part3 id="32" originalRow="32"/>
+<electric_part3 id="33" originalRow="33"/>
+<electric_part3 id="34" originalRow="34"/>
+<electric_part3 id="35" originalRow="35"/>
+<electric_part3 id="36" originalRow="36"/>
+<electric_part3 id="37" originalRow="37"/>
+<electric_part3 id="38" originalRow="38"/>
+<electric_part3 id="39" originalRow="39"/>
+<electric_part3 id="40" originalRow="40"/>
+<electric_part3 id="41" originalRow="41" data=""/>
+<electric_part3 id="42" originalRow="42"/>
+<electric_part3 id="43" originalRow="43" groupSign=""/>
+</root>

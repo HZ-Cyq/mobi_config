@@ -1,0 +1,46 @@
+<root>
+<AVGActionReturn_Test id="0" originalRow="0" action="设置镜号" data="avg_basic_story_new"/>
+<AVGActionReturn_Test id="1" originalRow="1" action="角色台词" param="“结束且返回值”测试开始"/>
+<AVGActionReturn_Test id="2" originalRow="2" action="语法-数值" data="aaa=1"/>
+<AVGActionReturn_Test id="3" originalRow="3" action="角色台词" param="需要{@quest_checkFavorility_99001}才可继续"/>
+<AVGActionReturn_Test id="4" originalRow="4" action="角色台词" param="需要等级达到{@quest_checkLV_99001}才可继续"/>
+<AVGActionReturn_Test id="5" originalRow="5" action="角色台词" param="定义变量aaa=1"/>
+<AVGActionReturn_Test id="6" originalRow="6" action="角色台词"/>
+<AVGActionReturn_Test id="7" originalRow="7" action="可选对话框" param="$$返回True且不带值==&gt;返回True且不带值
+$$返回True且不带值（指令后有后续）==&gt;返回True且不带值（指令后有后续）
+$$返回False且不带值==&gt;返回False且不带值
+$$返回False且带输入值==&gt;返回False且带输入值
+$$返回False且带线索值==&gt;返回False且带线索值"/>
+<AVGActionReturn_Test id="8" originalRow="8"/>
+<AVGActionReturn_Test id="9" originalRow="9" groupSign="返回True且不带值"/>
+<AVGActionReturn_Test id="10" originalRow="10" action="结束且返回值" param="TRUE"/>
+<AVGActionReturn_Test id="11" originalRow="11"/>
+<AVGActionReturn_Test id="12" originalRow="12" groupSign="返回False且不带值"/>
+<AVGActionReturn_Test id="13" originalRow="13" action="结束且返回值" param="FALSE"/>
+<AVGActionReturn_Test id="14" originalRow="14"/>
+<AVGActionReturn_Test id="15" originalRow="15" groupSign="返回False且带输入值"/>
+<AVGActionReturn_Test id="16" originalRow="16" action="结束且返回值" param="FALSE" param2="1000"/>
+<AVGActionReturn_Test id="17" originalRow="17"/>
+<AVGActionReturn_Test id="18" originalRow="18" groupSign="返回True且不带值（指令后有后续）"/>
+<AVGActionReturn_Test id="19" originalRow="19" action="结束且返回值" param="TRUE"/>
+<AVGActionReturn_Test id="20" originalRow="20" action="角色台词" param="后续测试"/>
+<AVGActionReturn_Test id="21" originalRow="21"/>
+<AVGActionReturn_Test id="22" originalRow="22" groupSign="返回False且带线索值"/>
+<AVGActionReturn_Test id="23" originalRow="23" action="结束且返回值" param="FALSE" param2="aaa"/>
+<AVGActionReturn_Test id="24" originalRow="24"/>
+<AVGActionReturn_Test id="25" originalRow="25"/>
+<AVGActionReturn_Test id="26" originalRow="26"/>
+<AVGActionReturn_Test id="27" originalRow="27"/>
+<AVGActionReturn_Test id="28" originalRow="28"/>
+<AVGActionReturn_Test id="29" originalRow="29"/>
+<AVGActionReturn_Test id="30" originalRow="30"/>
+<AVGActionReturn_Test id="31" originalRow="31"/>
+<AVGActionReturn_Test id="32" originalRow="32"/>
+<AVGActionReturn_Test id="33" originalRow="33"/>
+<AVGActionReturn_Test id="34" originalRow="34"/>
+<AVGActionReturn_Test id="35" originalRow="35"/>
+<AVGActionReturn_Test id="36" originalRow="36"/>
+<AVGActionReturn_Test id="37" originalRow="37"/>
+<AVGActionReturn_Test id="38" originalRow="38"/>
+<AVGActionReturn_Test id="39" originalRow="39"/>
+</root>

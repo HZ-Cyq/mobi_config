@@ -1,0 +1,102 @@
+<root>
+<xiangjiniang_part2 id="0" originalRow="0" groupSign="开始"/>
+<xiangjiniang_part2 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xiangjiniang_part2 id="2" originalRow="2" groupSign="" debugClose="" action="RPGActor" data="kangxinxiaodui2" param="2" param2="" param3=""/>
+<xiangjiniang_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_1v1}我们等待了没一会，凯瑟琳和涂凌就到了。" param2="" param3="type=1"/>
+<xiangjiniang_part2 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part2 id="5" originalRow="5" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}你被这蠢猫抓壮丁了？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="6" originalRow="6" action="角色台词" data="wo" param="…………是我自己运气不好。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="7" originalRow="7" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}呵呵呵……原来如此。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<xiangjiniang_part2 id="9" originalRow="9" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌平静表情}本来也想叫你的哦！" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="10" originalRow="10" action="角色台词" data="tuling" param="这次麻烦的不是异质物，是人！" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="11" originalRow="11" action="角色台词" data="" param="嗯？怎么说？" param2="" param3="type=1"/>
+<xiangjiniang_part2 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<xiangjiniang_part2 id="13" originalRow="13" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}目标异质物，有可能被人类匿藏起来了。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="14" originalRow="14" action="角色台词" data="wo" param="{#凯瑟琳2严肃表情}这……不会“感染”吗？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xiangjiniang_part2 id="16" originalRow="16" action="角色台词" data="tuling" param="暂时还没有发现大范围感染，异质物评级是T1。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="17" originalRow="17" action="角色台词" data="tuling" param="报案人是街对面摄影店的老板。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="18" originalRow="18" action="角色台词" data="tuling" param="{#涂凌严肃动作}{#涂凌平静表情}说上周一名手持拍立得少女，一直在附近徘徊。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="19" originalRow="19" action="角色台词" data="tuling" param="免费给人拍照，称可以给他们带来幸福。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="20" originalRow="20" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#涂凌严肃动作恢复}{#涂凌待机表情}受害者都是老板的熟客，老板发现自那以后……" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="21" originalRow="21" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤表情}他们的精神状态都出了问题，被送往了精神科。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="22" originalRow="22" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="23" originalRow="23" action="角色台词" data="wo" param="啊？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
+<xiangjiniang_part2 id="25" originalRow="25" action="角色台词" data="niefei" param="精神攻击？？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part2 id="27" originalRow="27" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}更准确地说，诱发了某种癔症。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="28" originalRow="28" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}受害者们陷入自己的幻觉里，无法自拔。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xiangjiniang_part2 id="30" originalRow="30" action="角色台词" data="tuling" param="拍立得少女最后一次出现，是给一名叫余阿南的客人拍照。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="31" originalRow="31" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌忧伤表情}从那以后拍立得少女就消失了。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="32" originalRow="32" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}且余阿南表现得很正常，似乎没有任何异常。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="33" originalRow="33" action="角色台词" data="wo" param="……线索肯定在余阿南身上。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="34" originalRow="34" action="角色台词" data="tuling" param="{#涂凌待机2动作恢复}{#涂凌待机表情}杜杜给异质物的攻击命名为【致幻光点】。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="35" originalRow="35" action="角色台词" data="tuling" param="意思是可以定格人头脑中的部分记忆，
+篡改人的现实认知，让人不自觉沉浸其中。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="36" originalRow="36" action="角色台词" data="wo" param="所有人都是这样的吗？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="37" originalRow="37" action="角色台词" data="tuling" param="{#涂凌严肃动作}{#涂凌平静表情}第一个人怀念自己小时候双亲健在的童年，所以举止像孩童一般。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="38" originalRow="38" action="角色台词" data="tuling" param="第二人也差不多。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="39" originalRow="39" action="角色台词" data="tuling" param="第三个人早年事业成功，后来破产。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="40" originalRow="40" action="角色台词" data="tuling" param="{#涂凌思考表情}因此陷入幻觉后，逢人就假装自己非常有钱。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="41" originalRow="41" action="角色台词" data="tuling" param="{#涂凌严肃动作恢复}{#涂凌待机表情}最后是余阿南，异质物接触他之后就不再出现了。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="42" originalRow="42" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}小涂凌，余阿南的资料有了吗？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="43" originalRow="43" action="角色台词" data="tuling" param="{#涂凌思考动作}{#涂凌思考表情}有了。不过，他大学时期有部分资料似乎做了加密……" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="44" originalRow="44" action="角色台词" data="tuling" param="得通过杜杜向总部申请权限。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="45" originalRow="45" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<xiangjiniang_part2 id="46" originalRow="46" action="角色台词" data="niefei" param="{#聂飞严肃表情}{#凯瑟琳2严肃动作恢复}什么！？他一个普通上班族，能有什么需要加密的。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="47" originalRow="47" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}因为他是国防大学毕业的吧？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="48" originalRow="48" action="角色台词" data="kaiselin02" param="{#凯瑟琳2待机表情}余阿南，男，27岁，顶石科技职员，康新雅苑1715住户，独居。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="49" originalRow="49" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}他的确是国防大学物理系的，硕士转了材料学。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="50" originalRow="50" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤表情}领着那么高的年薪，却只住这么普通的小区。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="51" originalRow="51" action="角色台词" data="kaiselin02" param="资料上说他与父母关系并不好，很早就断了关系。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="52" originalRow="52" action="角色台词" data="kaiselin02" param="父母除了留给他一大笔外债，什么也没帮他。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="53" originalRow="53" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xiangjiniang_part2 id="54" originalRow="54" action="角色台词" data="tuling" param="{#涂凌待机2动作恢复}{#涂凌忧伤表情}他念书基本都靠勤工俭学和奖学金。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="55" originalRow="55" action="角色台词" data="wo" param="是一个靠拼命储蓄来增加安全感的人啊。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="56" originalRow="56" action="角色台词" data="wo" param="这种人一般防备心很重。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="57" originalRow="57" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2思考表情}所以余阿南表现得这么平常……" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="58" originalRow="58" action="角色台词" data="kaiselin02" param="是因为他的幸福记忆更隐秘？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="59" originalRow="59" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="聂总_思考_动作_开始_01" param3=""/>
+<xiangjiniang_part2 id="60" originalRow="60" action="角色台词" data="niefei" param="有道理。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="61" originalRow="61" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="62" originalRow="62" groupSign="选择"/>
+<xiangjiniang_part2 id="63" originalRow="63" action="角色台词" data="wo" param="感觉应该可以从他的问话中查到一些线索……" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="64" originalRow="64" action="角色台词" data="wo" param="但在询问之前，需要有一个针对性的策略……" param2="" param3=""/>
+<xiangjiniang_part2 id="65" originalRow="65" groupSign="" debugClose="" action="可选对话框" data="" param="$$询问他的感情生活。==&gt;选A
+$$询问他的工作是否顺利。==&gt;选B
+$$询问他的父母是否健康。==&gt;选C" param2="" param3=""/>
+<xiangjiniang_part2 id="66" originalRow="66" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xiangjiniang_part2 id="67" originalRow="67" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="68" originalRow="68" groupSign="选A" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="69" originalRow="69" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part2 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#常规点头动作}{#聂飞得意表情}的确应该从这个方向下手！" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="wo" param="那就问候下他的女友好了。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="72" originalRow="72" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="73" originalRow="73" action="跳转-标签" data="" param="正确"/>
+<xiangjiniang_part2 id="74" originalRow="74"/>
+<xiangjiniang_part2 id="75" originalRow="75" groupSign="选B"/>
+<xiangjiniang_part2 id="76" originalRow="76" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
+<xiangjiniang_part2 id="77" originalRow="77" action="角色台词" data="niefei" param="工作的事都很公开吧？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="78" originalRow="78" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xiangjiniang_part2 id="79" originalRow="79" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}他的同事说他并没有异常，应该是别的方面……" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="80" originalRow="80" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="81" originalRow="81" action="跳转-标签" data="" param="选择"/>
+<xiangjiniang_part2 id="82" originalRow="82"/>
+<xiangjiniang_part2 id="83" originalRow="83" groupSign="选C"/>
+<xiangjiniang_part2 id="84" originalRow="84" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<xiangjiniang_part2 id="85" originalRow="85" action="角色台词" data="tuling" param="{#涂凌憋气2表情}刚才说过了，人家父母跟他关系并不好。" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="86" originalRow="86" action="角色台词" data="tuling" param="怎么会留下美好回忆呢？" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="87" originalRow="87" action="角色台词" data="" param="再想想吧……" param2="" param3="type=1"/>
+<xiangjiniang_part2 id="88" originalRow="88" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="89" originalRow="89" action="跳转-标签" data="" param="选择"/>
+<xiangjiniang_part2 id="90" originalRow="90"/>
+<xiangjiniang_part2 id="91" originalRow="91" groupSign="正确"/>
+<xiangjiniang_part2 id="92" originalRow="92" action="角色台词" data="wo" param="准备好了的话，我们上去吧？{music=off}" param2="" param3="type=0"/>
+<xiangjiniang_part2 id="93" originalRow="93" action="语法-数值" data="rqs_3006001相机娘支线1=2" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="94" originalRow="94" action="语法-数值" data="rqs_3006002相机娘支线2=1" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="95" originalRow="95" action="存档" data="" param="" param2="" param3=""/>
+<xiangjiniang_part2 id="96" originalRow="96" groupSign="结束" action="" data="" param="" param2="" param3=""/>
+</root>

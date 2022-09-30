@@ -1,0 +1,387 @@
+<root>
+<hezhongshaonv222_yanjiu id="0" originalRow="0" groupSign=""/>
+<hezhongshaonv222_yanjiu id="1" originalRow="1" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<hezhongshaonv222_yanjiu id="3" originalRow="3" groupSign="" debugClose="1" action="镜头移动" data="camchar0" param="0.5" param2="1"/>
+<hezhongshaonv222_yanjiu id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="" param="三天后，STS备战室。" param2=""/>
+<hezhongshaonv222_yanjiu id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="周易！！终于找到你了！" param2=""/>
+<hezhongshaonv222_yanjiu id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="有什么事？" param2=""/>
+<hezhongshaonv222_yanjiu id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么事？？大事！" param2=""/>
+<hezhongshaonv222_yanjiu id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" data="" param="$$发工资了？==&gt;发工资了
+$$别慌，慢慢说。==&gt;慢慢说" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="10" originalRow="10" groupSign="发工资了" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<hezhongshaonv222_yanjiu id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="聂总看着我一脸的惊诧，重重地扶额。" param2=""/>
+<hezhongshaonv222_yanjiu id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="发什么工资！你这个月就等着喝西北风吧。" param2=""/>
+<hezhongshaonv222_yanjiu id="13" originalRow="13" groupSign="" debugClose="" action="跳转-标签" data="" param="忘记做实验" param2=""/>
+<hezhongshaonv222_yanjiu id="14" originalRow="14" groupSign="慢慢说" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<hezhongshaonv222_yanjiu id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="我肯定不慌。该慌的人是你！" param2=""/>
+<hezhongshaonv222_yanjiu id="16" originalRow="16" groupSign="" debugClose="" action="跳转-标签" data="" param="忘记做实验" param2=""/>
+<hezhongshaonv222_yanjiu id="17" originalRow="17" groupSign="忘记做实验" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<hezhongshaonv222_yanjiu id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="……？！" param2=""/>
+<hezhongshaonv222_yanjiu id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="niefei" param="大家在实验室等了你半个小时！" param2=""/>
+<hezhongshaonv222_yanjiu id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="" param="聂总看我持续懵逼，急得胡须都在颤抖。" param2=""/>
+<hezhongshaonv222_yanjiu id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="niefei" param="今天做盒中少女的研究实验啊！" param2=""/>
+<hezhongshaonv222_yanjiu id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="……？！" param2=""/>
+<hezhongshaonv222_yanjiu id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="（糟糕，忘记得一干二净！！）" param2=""/>
+<hezhongshaonv222_yanjiu id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="别愣着了！搞快点！" param2=""/>
+<hezhongshaonv222_yanjiu id="25" originalRow="25" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="26" originalRow="26" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="" param="我匆匆赶到实验室时，凯瑟琳、凃绫、土山奥正在进行基础检查。" param2=""/>
+<hezhongshaonv222_yanjiu id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="" param="盒中少女安静地躺在防弹玻璃做成的特殊隔离间里，看起来就像是睡着了。" param2=""/>
+<hezhongshaonv222_yanjiu id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="基础检查完毕，准备苏醒STS116进行属性测试。" param2=""/>
+<hezhongshaonv222_yanjiu id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="tushanao" param="正在向杜博士申请调用4名用于STS116属性测试的D级人员。" param2=""/>
+<hezhongshaonv222_yanjiu id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="" param="我蹑手蹑脚地打开门，打算趁人不注意溜进去。" param2=""/>
+<hezhongshaonv222_yanjiu id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="小凃绫，你帮忙录入到数据库里吧？" param2=""/>
+<hezhongshaonv222_yanjiu id="35" originalRow="35" groupSign="" debugClose="1" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="36" originalRow="36" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="tuling" param="好的！(`･ω･´)" param2=""/>
+<hezhongshaonv222_yanjiu id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="我再检查一下，没有遗漏的项目吧——" param2=""/>
+<hezhongshaonv222_yanjiu id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="啊咧，这不是我们的周大研究员吗？" param2=""/>
+<hezhongshaonv222_yanjiu id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="亲自过来做实验，还真是劳您大驾呢~" param2=""/>
+<hezhongshaonv222_yanjiu id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="tuling" param="周易，懒虫！ ヽ(ｏ`皿′ｏ)ﾉ" param2=""/>
+<hezhongshaonv222_yanjiu id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="wo" param="对、对不起！" param2=""/>
+<hezhongshaonv222_yanjiu id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="wo" param="最近太忙了，不小心忘记了。" param2=""/>
+<hezhongshaonv222_yanjiu id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="wo" param="研究进行得怎么样？" param2=""/>
+<hezhongshaonv222_yanjiu id="45" originalRow="45" groupSign="" debugClose="1" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="46" originalRow="46" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="tushanao" param="基础检查已经完成，你先看看这个报表吧。" param2=""/>
+<hezhongshaonv222_yanjiu id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="" param="按照研究流程，首先要对被研究对象进行体征常规检测。" param2=""/>
+<hezhongshaonv222_yanjiu id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="" param="异质物的行为具有不可测性，脾气秉性差异也很大。" param2=""/>
+<hezhongshaonv222_yanjiu id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="" param="曾经发生过异质物攻击研究员的事故。" param2=""/>
+<hezhongshaonv222_yanjiu id="51" originalRow="51" action="角色台词" data="" param="此后为了确保研究员的安全，会先对其进行强力麻醉"/>
+<hezhongshaonv222_yanjiu id="52" originalRow="52" action="角色台词" data="" param="我赶紧接从土山奥手里过代号STS116基础检查表。"/>
+<hezhongshaonv222_yanjiu id="53" originalRow="53" action="角色台词" data="" param="只看了一眼，就完全惊呆了——"/>
+<hezhongshaonv222_yanjiu id="54" originalRow="54" action="角色台词" data="wo" param="这是天书吗？！！！"/>
+<hezhongshaonv222_yanjiu id="55" originalRow="55" action="角色台词" data="kaiselin" param="周大研究员，我写的报表哪里看不懂吗？"/>
+<hezhongshaonv222_yanjiu id="56" originalRow="56" action="角色台词" data="" param="这不是是哪里看不懂的问题，是哪里能看懂的问题吧！！"/>
+<hezhongshaonv222_yanjiu id="57" originalRow="57" action="角色台词" data="" param="检查表上的字迹，就算说是聂总用爪子挠出来的我也丝毫不会怀疑。"/>
+<hezhongshaonv222_yanjiu id="58" originalRow="58" action="角色台词" data="wo" param="那个……凃绫，录入的电子版能发我一下吗？"/>
+<hezhongshaonv222_yanjiu id="59" originalRow="59" groupSign="" debugClose="1" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="60" originalRow="60" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="61" originalRow="61" action="角色台词" data="tuling" param="哼，周易真是懒鬼！"/>
+<hezhongshaonv222_yanjiu id="62" originalRow="62" action="角色台词" data="kaiselin" param="怎么，你对我的报表有什么意见？"/>
+<hezhongshaonv222_yanjiu id="63" originalRow="63" action="角色台词" data="wo" param="没、没有！"/>
+<hezhongshaonv222_yanjiu id="64" originalRow="64" action="角色台词" data="wo" param="不愧是医生的字……"/>
+<hezhongshaonv222_yanjiu id="65" originalRow="65" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="66" originalRow="66" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="67" originalRow="67" groupSign="求助" action="可选对话框" data="" param="(xuanxiang1&lt;1)$$向凃绫求助==&gt;凃绫帮忙
+$$向聂总求助==&gt;聂总帮忙"/>
+<hezhongshaonv222_yanjiu id="68" originalRow="68" groupSign="凃绫帮忙" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="69" originalRow="69" action="角色台词" data="wo" param="你能帮忙分析一下这写的是什么吗？"/>
+<hezhongshaonv222_yanjiu id="70" originalRow="70" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="71" originalRow="71" action="角色台词" data="tuling" param="(ｷ｀ﾟДﾟ´)!!"/>
+<hezhongshaonv222_yanjiu id="72" originalRow="72" action="角色台词" data="tuling" param="这是新型代码吗？！"/>
+<hezhongshaonv222_yanjiu id="73" originalRow="73" action="角色台词" data="tuling" param="我要花点时间好好研究一下。"/>
+<hezhongshaonv222_yanjiu id="74" originalRow="74" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="75" originalRow="75" groupSign="" debugClose="" action="语法-数值" data="xuanxiang1=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="76" originalRow="76" groupSign="" debugClose="" action="跳转-标签" data="" param="求助" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="77" originalRow="77" groupSign="聂总帮忙" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="78" originalRow="78" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="79" originalRow="79" action="角色台词" data="niefei" param="就让本喵来来看看吧！"/>
+<hezhongshaonv222_yanjiu id="80" originalRow="80" action="角色台词" data="" param="聂总咳了咳嗓子，神情严肃。"/>
+<hezhongshaonv222_yanjiu id="81" originalRow="81" action="角色台词" data="niefei" param="盒中少女，代号STS116。"/>
+<hezhongshaonv222_yanjiu id="82" originalRow="82" action="角色台词" data="niefei" param="STS116外表为金色及腰长发、白色皮肤的女性人类，视觉年龄15-17岁。"/>
+<hezhongshaonv222_yanjiu id="83" originalRow="83" action="角色台词" data="niefei" param="身高52cm，体重9.7kg。"/>
+<hezhongshaonv222_yanjiu id="84" originalRow="84" action="角色台词" data="niefei" param="瞳孔为蓝色，面部形态具有东欧和亚裔混血特征，但无法细分至具体的现代地区。"/>
+<hezhongshaonv222_yanjiu id="85" originalRow="85" action="角色台词" data="niefei" param="STS116居住在一个80cm*60cm*40cm的橙黄色礼物盒中，无法将其与礼物盒分离。"/>
+<hezhongshaonv222_yanjiu id="86" originalRow="86" action="角色台词" data="wo" param="（果然和聂总猫爪挠出来的是同一种文字……）"/>
+<hezhongshaonv222_yanjiu id="87" originalRow="87" action="角色台词" data="mateluoshika" param="唔，这是哪里……"/>
+<hezhongshaonv222_yanjiu id="88" originalRow="88" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="89" originalRow="89" action="角色台词" data="kaiselin" param="呀，我们的小可爱醒了。"/>
+<hezhongshaonv222_yanjiu id="90" originalRow="90" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="91" originalRow="91" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="92" originalRow="92" action="角色台词" data="tuling" param="STS116被注射麻醉剂后进入昏迷状态用时53秒。"/>
+<hezhongshaonv222_yanjiu id="93" originalRow="93" action="角色台词" data="tuling" param="注射苏醒积液后恢复清醒状态用时32秒。"/>
+<hezhongshaonv222_yanjiu id="94" originalRow="94" action="角色台词" data="kaiselin" param="嗯哼，还真是个顽强的小东西呢。"/>
+<hezhongshaonv222_yanjiu id="95" originalRow="95" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="96" originalRow="96" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="97" originalRow="97" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="98" originalRow="98" action="角色台词" data="tushanao" param="6名D级人员已经到位。"/>
+<hezhongshaonv222_yanjiu id="99" originalRow="99" action="角色台词" data="tushanao" param="根据STS116展现出的诱惑特性将进行以下实验。"/>
+<hezhongshaonv222_yanjiu id="100" originalRow="100" action="角色台词" data="tushanao" param="将6名D级人员分别与STS116单独放置于10平方米的密闭空间内。"/>
+<hezhongshaonv222_yanjiu id="101" originalRow="101" action="角色台词" data="tushanao" param="将D级人员与STS116暴露接触30分钟后，检测其体液内的多巴胺含量。"/>
+<hezhongshaonv222_yanjiu id="102" originalRow="102" action="角色台词" data="tushanao" param="随后将D级人员隔离24小时，对其多生理状况、情绪模式和行为特征进行跟踪检测。"/>
+<hezhongshaonv222_yanjiu id="103" originalRow="103" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="104" originalRow="104" groupSign="询问" action="可选对话框" data="" param="(xuanxiang2&lt;1)$$为什么要检测多巴胺？==&gt;多巴胺
+(xuanxiang3&lt;1)$$情绪模式如何检测？==&gt;情绪模式
+(xuanxiang2==1&amp;&amp;xuanxiang3==1)$$继续实验==&gt;继续实验"/>
+<hezhongshaonv222_yanjiu id="105" originalRow="105" groupSign="多巴胺" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="106" originalRow="106" action="角色台词" data="wo" param="为什么要检测多巴胺？"/>
+<hezhongshaonv222_yanjiu id="107" originalRow="107" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="108" originalRow="108" action="角色台词" data="kaiselin" param="多巴胺又名儿茶酚乙胺或羟酪胺，是一种大脑分泌的神经传导物质。"/>
+<hezhongshaonv222_yanjiu id="109" originalRow="109" action="角色台词" data="kaiselin" param="它可以帮助细胞传送脉冲。"/>
+<hezhongshaonv222_yanjiu id="110" originalRow="110" action="角色台词" data="kaiselin" param="这种脑内分泌主要负责大脑的情欲和感觉，传递兴奋及开心的信息。"/>
+<hezhongshaonv222_yanjiu id="111" originalRow="111" action="角色台词" data="kaiselin" param="当大脑分泌多巴胺时，人体会增加心排血量。"/>
+<hezhongshaonv222_yanjiu id="112" originalRow="112" action="角色台词" data="kaiselin" param="它与上瘾这种行为有关。"/>
+<hezhongshaonv222_yanjiu id="113" originalRow="113" action="角色台词" data="kaiselin" param="吸烟和吸毒都可以增加多巴胺的分泌，使上瘾者感到开心及兴奋"/>
+<hezhongshaonv222_yanjiu id="114" originalRow="114" action="角色台词" data="kaiselin" param="本质上来说，我们感受到的爱情，也是多巴胺作用的结果。"/>
+<hezhongshaonv222_yanjiu id="115" originalRow="115" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2=""/>
+<hezhongshaonv222_yanjiu id="116" originalRow="116" action="角色台词" data="niefei" param="原来竟然是这么没劲的东西吗……"/>
+<hezhongshaonv222_yanjiu id="117" originalRow="117" action="角色台词" data="niefei" param="我再也不相信爱情了。"/>
+<hezhongshaonv222_yanjiu id="118" originalRow="118" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="119" originalRow="119" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="120" originalRow="120" groupSign="" debugClose="" action="语法-数值" data="xuanxiang2=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="121" originalRow="121" groupSign="" debugClose="" action="跳转-标签" data="" param="询问" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="122" originalRow="122" groupSign="情绪模式" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="123" originalRow="123" action="角色台词" data="wo" param="情绪这种东西很难被精准识别吧？"/>
+<hezhongshaonv222_yanjiu id="124" originalRow="124" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="125" originalRow="125" action="角色台词" data="tuling" param="这是我最新调教的智能情绪识别机器。"/>
+<hezhongshaonv222_yanjiu id="126" originalRow="126" action="角色台词" data="tuling" param="通过脑电波信号捕捉头套可以通过人类头皮采集重要的脑电波信号。"/>
+<hezhongshaonv222_yanjiu id="127" originalRow="127" action="角色台词" data="tuling" param="这些数据会自动收集反馈到我的电脑上。"/>
+<hezhongshaonv222_yanjiu id="128" originalRow="128" action="角色台词" data="tuling" param="通过我事先搭建好的电极坐标生成“拓扑保留的差分熵特征”。"/>
+<hezhongshaonv222_yanjiu id="129" originalRow="129" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="130" originalRow="130" action="角色台词" data="niefei" param="脑袋好像有点晕……"/>
+<hezhongshaonv222_yanjiu id="131" originalRow="131" action="角色台词" data="tuling" param="通过对“拓扑保留的差分熵特征”进行数学分析就可以判断目标对象的情绪特征。"/>
+<hezhongshaonv222_yanjiu id="132" originalRow="132" action="角色台词" data="tuling" param="是不是超级简单？"/>
+<hezhongshaonv222_yanjiu id="133" originalRow="133" action="角色台词" data="wo" param="对你来说确实很简单……"/>
+<hezhongshaonv222_yanjiu id="134" originalRow="134" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="135" originalRow="135" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="136" originalRow="136" groupSign="" debugClose="" action="语法-数值" data="xuanxiang3=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="137" originalRow="137" groupSign="" debugClose="" action="跳转-标签" data="" param="询问" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="138" originalRow="138" groupSign="继续实验" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="139" originalRow="139" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="140" originalRow="140" action="角色台词" data="tushanao" param="凯瑟琳负责D级人员多巴胺检测。"/>
+<hezhongshaonv222_yanjiu id="141" originalRow="141" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="142" originalRow="142" action="角色台词" data="kaiselin" param="вопросов нет!"/>
+<hezhongshaonv222_yanjiu id="143" originalRow="143" action="角色台词" data="tushanao" param="凃绫跟踪D级人员情绪数据模型。"/>
+<hezhongshaonv222_yanjiu id="144" originalRow="144" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="145" originalRow="145" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2=""/>
+<hezhongshaonv222_yanjiu id="146" originalRow="146" action="角色台词" data="tuling" param="\(^o^)/~好"/>
+<hezhongshaonv222_yanjiu id="147" originalRow="147" action="角色台词" data="tushanao" param="聂总，你随时观察D级人员是否有行为异常。"/>
+<hezhongshaonv222_yanjiu id="148" originalRow="148" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="149" originalRow="149" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="150" originalRow="150" action="角色台词" data="niefei" param="Yes,sir!"/>
+<hezhongshaonv222_yanjiu id="151" originalRow="151" action="角色台词" data="tushanao" param="周易嘛，好像还真不知道能做些什么……"/>
+<hezhongshaonv222_yanjiu id="152" originalRow="152" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="153" originalRow="153" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="154" originalRow="154" groupSign="" debugClose="" action="可选对话框" data="" param="$$没我事的话，我先溜了==&gt;先溜了
+$$我可以帮忙做记录==&gt;做记录" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="155" originalRow="155" groupSign="先溜了" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="156" originalRow="156" action="角色台词" data="wo" param="那个，没什么事的话我就先回去了……"/>
+<hezhongshaonv222_yanjiu id="157" originalRow="157" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="158" originalRow="158" action="角色台词" data="tushanao" param="站住！"/>
+<hezhongshaonv222_yanjiu id="159" originalRow="159" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="160" originalRow="160" action="角色台词" data="kaiselin" param="今天好像有人迟到了，还没汇报给杜博士呢……"/>
+<hezhongshaonv222_yanjiu id="161" originalRow="161" action="角色台词" data="wo" param="对、对不起！有什么我能帮忙的尽管吩咐！"/>
+<hezhongshaonv222_yanjiu id="162" originalRow="162" action="角色台词" data="kaiselin" param="既然你闲的没事干，帮忙记录一下实验数据好了。"/>
+<hezhongshaonv222_yanjiu id="163" originalRow="163" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="164" originalRow="164" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="165" originalRow="165" groupSign="" debugClose="" action="跳转-标签" data="" param="开始实验" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="166" originalRow="166" groupSign="做记录" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="167" originalRow="167" action="角色台词" data="wo" param="我可以做实验记录！"/>
+<hezhongshaonv222_yanjiu id="168" originalRow="168" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="169" originalRow="169" action="角色台词" data="kaiselin" param="这么多实验数据，确实有些头疼。"/>
+<hezhongshaonv222_yanjiu id="170" originalRow="170" action="角色台词" data="kaiselin" param="看来周易也并不是一无是处嘛。"/>
+<hezhongshaonv222_yanjiu id="171" originalRow="171" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="172" originalRow="172" action="角色台词" data="tushanao" param="那就交给你了。"/>
+<hezhongshaonv222_yanjiu id="173" originalRow="173" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="174" originalRow="174" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="175" originalRow="175" groupSign="" debugClose="" action="跳转-标签" data="" param="开始实验" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="176" originalRow="176" groupSign="开始实验" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="177" originalRow="177" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="178" originalRow="178" action="角色台词" data="kaiselin" param="即使检测到多巴胺浓度或者情绪模式发生了变化，又能说明什么？"/>
+<hezhongshaonv222_yanjiu id="179" originalRow="179" action="角色台词" data="kaiselin" param="可以影响它的因素可是有很多。"/>
+<hezhongshaonv222_yanjiu id="180" originalRow="180" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="181" originalRow="181" action="角色台词" data="tushanao" param="关键在于控制变量。"/>
+<hezhongshaonv222_yanjiu id="182" originalRow="182" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="183" originalRow="183" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2=""/>
+<hezhongshaonv222_yanjiu id="184" originalRow="184" action="角色台词" data="tuling" param="通过对之前盒中少女受害者的证言的关键词数据分析。"/>
+<hezhongshaonv222_yanjiu id="185" originalRow="185" action="角色台词" data="tuling" param="视觉、听觉和嗅觉通道是STS116影响人类的三个重要渠道。"/>
+<hezhongshaonv222_yanjiu id="186" originalRow="186" action="角色台词" data="tushanao" param="没错。这次实验正是围绕着着两个通道展开。"/>
+<hezhongshaonv222_yanjiu id="187" originalRow="187" action="角色台词" data="tushanao" param="两组D级人员将分别在开放其中一种通道的状况下暴露给STS116。"/>
+<hezhongshaonv222_yanjiu id="188" originalRow="188" action="角色台词" data="tushanao" param="目标STS116状况良好，可以开始实验。"/>
+<hezhongshaonv222_yanjiu id="189" originalRow="189" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="190" originalRow="190" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="191" originalRow="191" groupSign="选择通道" debugClose="" action="可选对话框" data="" param="(xuanxiang4&lt;1&amp;&amp;xuanxiang5&lt;1&amp;&amp;xuanxiang6&lt;1)$$保留视觉通道==&gt;视觉
+(xuanxiang7&lt;1&amp;&amp;xuanxiang8&lt;1&amp;&amp;xuanxiang9&lt;1)$$保留听觉通道==&gt;听觉
+(xuanxiang10&lt;1&amp;&amp;xuanxiang11&lt;1&amp;&amp;xuanxiang12&lt;1)$$保留嗅觉通道==&gt;嗅觉
+(xuanxiang4==1&amp;&amp;xuanxiang7==1&amp;&amp;xuanxiang10==1)$$完成实验==&gt;完成" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="192" originalRow="192" groupSign="视觉" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="193" originalRow="193" action="角色台词" param="1号和4号D级人员戴着降噪耳机和气味屏蔽仪进入了密闭空间。"/>
+<hezhongshaonv222_yanjiu id="194" originalRow="194" groupSign="选择视觉" debugClose="" action="可选对话框" data="" param="(xuanxiang4&lt;1)$$生理变化==&gt;生理变化1
+(xuanxiang5&lt;1)$$情绪模式==&gt;情绪模式1
+(xuanxiang6&lt;1)$$行为异常==&gt;行为异常1
+(xuanxiang4==1&amp;&amp;xuanxiang5==1&amp;&amp;xuanxiang6==1)$$继续实验==&gt;选择通道" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="195" originalRow="195" groupSign="生理变化1" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="196" originalRow="196" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="197" originalRow="197" action="角色台词" data="kaiselin" param="解除接触后，A组3名男性D级人员均出现了体液内多巴胺浓度小幅度增加。"/>
+<hezhongshaonv222_yanjiu id="198" originalRow="198" action="角色台词" data="kaiselin" param="B组3名女性D级别人员均无明显多巴胺浓度变化。"/>
+<hezhongshaonv222_yanjiu id="199" originalRow="199" action="角色台词" data="kaiselin" param="同时，A组3名男性D级人员的平均心跳速率比B组3名女性D级人员稍快。"/>
+<hezhongshaonv222_yanjiu id="200" originalRow="200" action="角色台词" data="kaiselin" param="心跳曲线图A组比B组更加陡峭。"/>
+<hezhongshaonv222_yanjiu id="201" originalRow="201" action="角色台词" data="kaiselin" param="其他没有异常。"/>
+<hezhongshaonv222_yanjiu id="202" originalRow="202" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="203" originalRow="203" groupSign="" debugClose="" action="语法-数值" data="xuanxiang4=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="204" originalRow="204" groupSign="" debugClose="" action="跳转-标签" data="" param="选择视觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="205" originalRow="205" groupSign="情绪模式1" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="206" originalRow="206" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="207" originalRow="207" action="角色台词" data="tuling" param="稍等，正在分析数据。"/>
+<hezhongshaonv222_yanjiu id="208" originalRow="208" action="角色台词" data="tuling" param="好了！"/>
+<hezhongshaonv222_yanjiu id="209" originalRow="209" action="角色台词" data="tuling" param="B组3名女性D级人员的情绪模式几乎相同。"/>
+<hezhongshaonv222_yanjiu id="210" originalRow="210" action="角色台词" data="tuling" param="维持在中立、平静的区间。"/>
+<hezhongshaonv222_yanjiu id="211" originalRow="211" action="角色台词" data="tuling" param="A组3名男性D级人员出现了不同程度小幅度的兴奋、激动情绪。"/>
+<hezhongshaonv222_yanjiu id="212" originalRow="212" action="角色台词" data="tuling" param="其幅度在与STS116分隔后的第30-45分钟内达到峰值。"/>
+<hezhongshaonv222_yanjiu id="213" originalRow="213" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="214" originalRow="214" groupSign="" debugClose="" action="语法-数值" data="xuanxiang5=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="215" originalRow="215" groupSign="" debugClose="" action="跳转-标签" data="" param="选择视觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="216" originalRow="216" groupSign="行为异常1" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="217" originalRow="217" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="218" originalRow="218" action="角色台词" data="niefei" param="报告！"/>
+<hezhongshaonv222_yanjiu id="219" originalRow="219" action="角色台词" data="niefei" param="B组3名女性D级人员行为基本没有异常。"/>
+<hezhongshaonv222_yanjiu id="220" originalRow="220" action="角色台词" data="niefei" param="除了4号摸了摸肚子骂了几句。"/>
+<hezhongshaonv222_yanjiu id="221" originalRow="221" action="角色台词" data="niefei" param="不过我推测更有可能是因为开饭推迟，她肚子饿了。"/>
+<hezhongshaonv222_yanjiu id="222" originalRow="222" action="角色台词" data="niefei" param="A组3名男性D级人员自从和STS116分隔之后，在隔离室坐立不安。"/>
+<hezhongshaonv222_yanjiu id="223" originalRow="223" action="角色台词" data="niefei" param="不停地在房间里踱来踱去、自言自语。"/>
+<hezhongshaonv222_yanjiu id="224" originalRow="224" groupSign="" debugClose="" action="语法-数值" data="xuanxiang6=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="225" originalRow="225" groupSign="" debugClose="" action="跳转-标签" data="" param="选择视觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="226" originalRow="226" groupSign="听觉" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="227" originalRow="227" groupSign="" debugClose="" action="角色台词" data="" param="2号和5号D级人员戴着遮光眼罩和气味屏蔽仪进入了密闭空间。" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="228" originalRow="228" groupSign="选择听觉" debugClose="" action="可选对话框" data="" param="(xuanxiang7&lt;1)$$生理变化==&gt;生理变化2
+(xuanxiang8&lt;1)$$情绪模式==&gt;情绪模式2
+(xuanxiang9&lt;1)$$行为异常==&gt;行为异常2
+(xuanxiang7==1&amp;&amp;xuanxiang8==1&amp;&amp;xuanxiang9==1)$$继续实验==&gt;选择通道" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="229" originalRow="229" groupSign="生理变化2" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="230" originalRow="230" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="231" originalRow="231" action="角色台词" data="kaiselin" param="解除接触后，A组3名男性D级人员均出现了体液内多巴胺浓度大幅度增加。"/>
+<hezhongshaonv222_yanjiu id="232" originalRow="232" action="角色台词" data="kaiselin" param="B组3名女性D级别人员均无明显多巴胺浓度变化。"/>
+<hezhongshaonv222_yanjiu id="233" originalRow="233" action="角色台词" data="kaiselin" param="A组3名男性D级人员的平均心跳速率明显增高。"/>
+<hezhongshaonv222_yanjiu id="234" originalRow="234" action="角色台词" data="kaiselin" param="最高值接近于成年男子做1小时有氧运动时的心跳速度，"/>
+<hezhongshaonv222_yanjiu id="235" originalRow="235" action="角色台词" data="kaiselin" param="B组3名女性D级别人员均无变化。"/>
+<hezhongshaonv222_yanjiu id="236" originalRow="236" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="237" originalRow="237" groupSign="" debugClose="" action="语法-数值" data="xuanxiang7=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="238" originalRow="238" groupSign="" debugClose="" action="跳转-标签" data="" param="选择听觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="239" originalRow="239" groupSign="情绪模式2" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="240" originalRow="240" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="241" originalRow="241" action="角色台词" data="tuling" param="稍等，数据加载中……"/>
+<hezhongshaonv222_yanjiu id="242" originalRow="242" action="角色台词" data="tuling" param="A组3名男性D级人员出现了明显的兴奋、激动、快乐等情绪。"/>
+<hezhongshaonv222_yanjiu id="243" originalRow="243" action="角色台词" data="tuling" param="在接触接触后的5小时内，情绪跳跃性极大。"/>
+<hezhongshaonv222_yanjiu id="244" originalRow="244" action="角色台词" data="tuling" param="情绪模型一直在极端快乐和极端悲伤之间反复跳跃。"/>
+<hezhongshaonv222_yanjiu id="245" originalRow="245" action="角色台词" data="tuling" param="5个小时后，A组3名男性D级人员均陷入崩溃、痛苦的绝望情绪模型中。"/>
+<hezhongshaonv222_yanjiu id="246" originalRow="246" action="角色台词" data="tuling" param="他们此时的孤独感是接受测试前的3倍。"/>
+<hezhongshaonv222_yanjiu id="247" originalRow="247" action="角色台词" data="tuling" param="一直持续到观测结束，情绪模型才有向中立稍微缓和的状况。"/>
+<hezhongshaonv222_yanjiu id="248" originalRow="248" action="角色台词" data="tuling" param="B组3名女性D级别人员均无明显变化。"/>
+<hezhongshaonv222_yanjiu id="249" originalRow="249" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="250" originalRow="250" groupSign="" debugClose="" action="语法-数值" data="xuanxiang8=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="251" originalRow="251" groupSign="" debugClose="" action="跳转-标签" data="" param="选择听觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="252" originalRow="252" groupSign="行为异常2" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="253" originalRow="253" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="254" originalRow="254" action="角色台词" data="niefei" param="好家伙！A组那三个男性D级人员像疯了一样！"/>
+<hezhongshaonv222_yanjiu id="255" originalRow="255" action="角色台词" data="niefei" param="一解除接触，他们就蜷缩到了隔离间的角落。"/>
+<hezhongshaonv222_yanjiu id="256" originalRow="256" action="角色台词" data="niefei" param="双手抱着头不停地颤抖，发出大声的呜咽。"/>
+<hezhongshaonv222_yanjiu id="257" originalRow="257" action="角色台词" data="niefei" param="过了十分钟突然又毫无征兆地跳起来，呵呵地傻笑。"/>
+<hezhongshaonv222_yanjiu id="258" originalRow="258" action="角色台词" data="niefei" param="十分钟后又蹲下躲到了角落里哭泣。"/>
+<hezhongshaonv222_yanjiu id="259" originalRow="259" action="角色台词" data="niefei" param="一直这样循环往复，直到解除接触后的第五个小时。"/>
+<hezhongshaonv222_yanjiu id="260" originalRow="260" action="角色台词" data="niefei" param="A组那三个D级人员精疲力尽地瘫倒在地板上。"/>
+<hezhongshaonv222_yanjiu id="261" originalRow="261" action="角色台词" data="niefei" param="四肢大大地摊开，眼睛里不停地滚落泪水。"/>
+<hezhongshaonv222_yanjiu id="262" originalRow="262" action="角色台词" data="niefei" param="B组3名女性D级别人员都没有明显变化。"/>
+<hezhongshaonv222_yanjiu id="263" originalRow="263" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="264" originalRow="264" groupSign="" debugClose="" action="语法-数值" data="xuanxiang9=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="265" originalRow="265" groupSign="" debugClose="" action="跳转-标签" data="" param="选择听觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="266" originalRow="266" groupSign="嗅觉" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="267" originalRow="267" groupSign="" debugClose="" action="角色台词" data="" param="3号和6号D级人员戴着遮光眼罩和降噪耳机进入了密闭空间。" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="268" originalRow="268" groupSign="选择嗅觉" debugClose="" action="可选对话框" data="" param="(xuanxiang10&lt;1)$$生理变化==&gt;生理变化3
+(xuanxiang11&lt;1)$$情绪模式==&gt;情绪模式3
+(xuanxiang12&lt;1)$$行为异常==&gt;行为异常3
+(xuanxiang10==1&amp;&amp;xuanxiang11==1&amp;&amp;xuanxiang12==1)$$继续实验==&gt;选择通道" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="269" originalRow="269" groupSign="生理变化3" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="270" originalRow="270" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="271" originalRow="271" action="角色台词" data="kaiselin" param="A组一切生理状况平稳。"/>
+<hezhongshaonv222_yanjiu id="272" originalRow="272" action="角色台词" data="kaiselin" param="B组一切生理状况平稳。"/>
+<hezhongshaonv222_yanjiu id="273" originalRow="273" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="274" originalRow="274" groupSign="" debugClose="" action="语法-数值" data="xuanxiang10=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="275" originalRow="275" groupSign="" debugClose="" action="跳转-标签" data="" param="选择嗅觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="276" originalRow="276" groupSign="情绪模式3" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="277" originalRow="277" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="278" originalRow="278" action="角色台词" data="tuling" param="稍等，数据加载中……"/>
+<hezhongshaonv222_yanjiu id="279" originalRow="279" action="角色台词" data="tuling" param="A组情绪模式稳定在中立。"/>
+<hezhongshaonv222_yanjiu id="280" originalRow="280" action="角色台词" data="tuling" param="B组情绪模式稳定在中立。"/>
+<hezhongshaonv222_yanjiu id="281" originalRow="281" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="282" originalRow="282" groupSign="" debugClose="" action="语法-数值" data="xuanxiang11=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="283" originalRow="283" groupSign="" debugClose="" action="跳转-标签" data="" param="选择嗅觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="284" originalRow="284" groupSign="行为异常3" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="285" originalRow="285" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="286" originalRow="286" action="角色台词" data="niefei" param="A组正常！"/>
+<hezhongshaonv222_yanjiu id="287" originalRow="287" action="角色台词" data="niefei" param="B组正常！"/>
+<hezhongshaonv222_yanjiu id="288" originalRow="288" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="289" originalRow="289" groupSign="" debugClose="" action="语法-数值" data="xuanxiang12=1" param="" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="290" originalRow="290" groupSign="" debugClose="" action="跳转-标签" data="" param="选择嗅觉" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="291" originalRow="291" groupSign="完成" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="292" originalRow="292" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="293" originalRow="293" action="角色台词" data="tushanao" param="结很明显。"/>
+<hezhongshaonv222_yanjiu id="294" originalRow="294" action="角色台词" data="tushanao" param="STS116主要通过听觉实现对人类的诱惑。"/>
+<hezhongshaonv222_yanjiu id="295" originalRow="295" action="角色台词" data="tushanao" param="视觉在一定程度上也有辅助作用。"/>
+<hezhongshaonv222_yanjiu id="296" originalRow="296" action="角色台词" data="tushanao" param="其诱惑作用对象为男性，且具有上瘾性。"/>
+<hezhongshaonv222_yanjiu id="297" originalRow="297" action="角色台词" data="tushanao" param="当人类男性与STS116接触时，大脑会大量分泌多巴胺。"/>
+<hezhongshaonv222_yanjiu id="298" originalRow="298" action="角色台词" data="tushanao" param="他们将感到兴奋、喜悦、幸福。"/>
+<hezhongshaonv222_yanjiu id="299" originalRow="299" action="角色台词" data="tushanao" param="但当他们不能与STS116接触时，随之而来的将是加倍的痛苦、绝望和孤单。"/>
+<hezhongshaonv222_yanjiu id="300" originalRow="300" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="301" originalRow="301" action="角色台词" data="kaiselin" param="这种上瘾性，有点恐怖。"/>
+<hezhongshaonv222_yanjiu id="302" originalRow="302" action="角色台词" data="kaiselin" param="上瘾的行为很难通过自控力戒掉，"/>
+<hezhongshaonv222_yanjiu id="303" originalRow="303" action="角色台词" data="kaiselin" param="到了这种程度，甚至通过外力也很难能够控制。"/>
+<hezhongshaonv222_yanjiu id="304" originalRow="304" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="305" originalRow="305" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="306" originalRow="306" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="307" originalRow="307" action="角色台词" data="niefei" param="比起这个，你们不好奇，盒子里到底是什么吗？"/>
+<hezhongshaonv222_yanjiu id="308" originalRow="308" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2=""/>
+<hezhongshaonv222_yanjiu id="309" originalRow="309" action="角色台词" data="tuling" param="这个我知道！"/>
+<hezhongshaonv222_yanjiu id="310" originalRow="310" action="角色台词" data="tuling" param="之前我拆开过，里面什么也没有。"/>
+<hezhongshaonv222_yanjiu id="311" originalRow="311" action="角色台词" data="tuling" param="只有一个一模一样盒子，形状稍微小一点。"/>
+<hezhongshaonv222_yanjiu id="312" originalRow="312" action="角色台词" data="wo" param="偷偷拆解异质物，杜博士知道吗……"/>
+<hezhongshaonv222_yanjiu id="313" originalRow="313" action="角色台词" data="tuling" param="我看盒子包装好看就忍不住拆了。"/>
+<hezhongshaonv222_yanjiu id="314" originalRow="314" action="角色台词" data="tuling" param="嘿嘿，我想要拆的东西，杜博士也拦不住。"/>
+<hezhongshaonv222_yanjiu id="315" originalRow="315" action="角色台词" data="wo" param="不愧是你。"/>
+<hezhongshaonv222_yanjiu id="316" originalRow="316" action="角色台词" data="niefei" param="……"/>
+<hezhongshaonv222_yanjiu id="317" originalRow="317" action="角色台词" data="niefei" param="这怎么和我看到的不一样啊？！"/>
+<hezhongshaonv222_yanjiu id="318" originalRow="318" action="角色台词" data="tuling" param="?"/>
+<hezhongshaonv222_yanjiu id="319" originalRow="319" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="320" originalRow="320" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="321" originalRow="321" action="角色台词" data="kaiselin" param="?"/>
+<hezhongshaonv222_yanjiu id="322" originalRow="322" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="323" originalRow="323" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=右" param2=""/>
+<hezhongshaonv222_yanjiu id="324" originalRow="324" action="角色台词" data="tushanao" param="?"/>
+<hezhongshaonv222_yanjiu id="325" originalRow="325" action="角色台词" data="wo" param="你也看过？"/>
+<hezhongshaonv222_yanjiu id="326" originalRow="326" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="327" originalRow="327" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="328" originalRow="328" groupSign="" debugClose="" action="可选对话框" data="" param="(xuanxiang13&lt;1)$$你看到了什么？==&gt;聂总回答
+(xuanxiang14&lt;1)$$为什么你也看过？==&gt;聂总回答
+" param2="" param3=""/>
+<hezhongshaonv222_yanjiu id="329" originalRow="329" groupSign="聂总回答" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<hezhongshaonv222_yanjiu id="330" originalRow="330" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="331" originalRow="331" action="角色台词" data="niefei" param="我们从安太公寓回来的那天……"/>
+<hezhongshaonv222_yanjiu id="332" originalRow="332" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2=""/>
+<hezhongshaonv222_yanjiu id="333" originalRow="333" action="角色台词" data="kaiselin" param="我记得我们有事提前回基地了，是你把STS116带回来的。"/>
+<hezhongshaonv222_yanjiu id="334" originalRow="334" action="角色台词" data="niefei" param="对，那天玛特罗什卡热情地邀请我进去做客……"/>
+<hezhongshaonv222_yanjiu id="335" originalRow="335" action="角色台词" data="kaiselin" param="你就答应了？"/>
+<hezhongshaonv222_yanjiu id="336" originalRow="336" action="角色台词" data="niefei" param="本喵本着科学研究的精神，当然义不容辞了！"/>
+<hezhongshaonv222_yanjiu id="337" originalRow="337" action="角色台词" data="" param="聂总还在兴致勃勃地演讲者，土山奥示意我记录。"/>
+<hezhongshaonv222_yanjiu id="338" originalRow="338" action="角色台词" data="niefei" param="盒中世界可太棒了！！"/>
+<hezhongshaonv222_yanjiu id="339" originalRow="339" action="角色台词" data="niefei" param="有空调空调wifi两个游戏机手柄有两台电脑。"/>
+<hezhongshaonv222_yanjiu id="340" originalRow="340" action="角色台词" data="niefei" param="还有可乐手办好多抱枕！"/>
+<hezhongshaonv222_yanjiu id="341" originalRow="341" action="角色台词" data="niefei" param="甚至还有一整张床那么多的漫画书！！"/>
+<hezhongshaonv222_yanjiu id="342" originalRow="342" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="343" originalRow="343" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="344" originalRow="344" action="角色台词" data="tuling" param="啊啊啊为什么我就没看到！"/>
+<hezhongshaonv222_yanjiu id="345" originalRow="345" action="角色台词" data="kaiselin" param="或许是因为，聂总是受邀请进去的。"/>
+<hezhongshaonv222_yanjiu id="346" originalRow="346" action="角色台词" data="kaiselin" param="而凃绫是想要强行进入。"/>
+<hezhongshaonv222_yanjiu id="347" originalRow="347" action="角色台词" data="kaiselin" param="这也与之前受害者提供的证词相符。"/>
+<hezhongshaonv222_yanjiu id="348" originalRow="348" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="349" originalRow="349" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=右" param2=""/>
+<hezhongshaonv222_yanjiu id="350" originalRow="350" action="角色台词" data="tushanao" param="主观意愿影响展现的形态……"/>
+<hezhongshaonv222_yanjiu id="351" originalRow="351" action="角色台词" data="tushanao" param="周易，记下来。"/>
+<hezhongshaonv222_yanjiu id="352" originalRow="352" action="角色台词" data="wo" param="好的！"/>
+<hezhongshaonv222_yanjiu id="353" originalRow="353" action="角色台词" data="tushanao" param="我是说，聂总未经批准擅自进行异质物研究，记下来报给杜博士。"/>
+<hezhongshaonv222_yanjiu id="354" originalRow="354" action="角色台词" data="wo" param="好、好的！"/>
+<hezhongshaonv222_yanjiu id="355" originalRow="355" action="角色台词" data="tuling" param="(*^▽^*)"/>
+<hezhongshaonv222_yanjiu id="356" originalRow="356" action="角色台词" data="wo" param="（对不起了聂总！）"/>
+<hezhongshaonv222_yanjiu id="357" originalRow="357" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="358" originalRow="358" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="359" originalRow="359" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<hezhongshaonv222_yanjiu id="360" originalRow="360" action="角色台词" data="niefei" param="为什么又是我啊！！！！"/>
+<hezhongshaonv222_yanjiu id="361" originalRow="361" groupSign="" debugClose="" action="语法-数值" data="rqs_1030003研究盒中少女=2" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="362" originalRow="362" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv222_yanjiu id="363" originalRow="363" groupSign="" debugClose="" action="RPGInfo" data="1" param="盒中少女" param2=""/>
+<hezhongshaonv222_yanjiu id="364" originalRow="364" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<hezhongshaonv222_yanjiu id="365" originalRow="365" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+</root>

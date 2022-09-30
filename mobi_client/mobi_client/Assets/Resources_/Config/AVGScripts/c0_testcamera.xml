@@ -1,0 +1,18 @@
+<root>
+<C0_testcamera id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_testcamera id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
+<C0_testcamera id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_testcamera id="3" originalRow="3" groupSign="" debugClose="" action="语法-数值" data="QUEST_主线_序章=1" param="" param2="" param3=""/>
+<C0_testcamera id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="──！！！" param2="" param3=""/>
+<C0_testcamera id="5" originalRow="5" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="2" param2="" param3=""/>
+<C0_testcamera id="6" originalRow="6" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="2.5" param2="" param3=""/>
+<C0_testcamera id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_Trapped}" param2="" param3=""/>
+<C0_testcamera id="8" originalRow="8" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="1.5" param2="" param3=""/>
+<C0_testcamera id="9" originalRow="9" groupSign="1" debugClose="" action="RPGActor" data="CM2" param="1" param2="" param3=""/>
+<C0_testcamera id="10" originalRow="10" groupSign="" debugClose="" action="RPGActor" data="CM1" param="2" param2="" param3=""/>
+<C0_testcamera id="11" originalRow="11" groupSign="4.5&gt;&gt;" debugClose="" action="RPGActor" data="CM14" param="1" param2="" param3=""/>
+<C0_testcamera id="12" originalRow="12" groupSign="" debugClose="" action="RPGActor" data="CM2" param="2" param2="" param3=""/>
+<C0_testcamera id="13" originalRow="13" groupSign="" debugClose="" action="RPGActor" data="CM13" param="1" param2="" param3=""/>
+<C0_testcamera id="14" originalRow="14" groupSign="" debugClose="" action="RPGActor" data="CM14" param="2" param2="" param3=""/>
+<C0_testcamera id="15" originalRow="15" groupSign="1.2&gt;&gt;" debugClose="" action="镜头震动" data="1;1.5;1.5;0.5" param="" param2="" param3=""/>
+</root>

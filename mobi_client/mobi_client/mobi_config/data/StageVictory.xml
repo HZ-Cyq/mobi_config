@@ -1,6 +1,0 @@
-<root>
-<StageVictory id="1" typeID="1" param="5" desc="坚持5回合计算为战斗胜利"/>
-<StageVictory id="2" typeID="2" param="5" desc="5回合内结束战斗"/>
-<StageVictory id="3" typeID="2" param="4" desc="4回合内结束战斗"/>
-<LimitState id="LimitState" typeID="IN:[1;2]" param="" desc=""/>
-</root>

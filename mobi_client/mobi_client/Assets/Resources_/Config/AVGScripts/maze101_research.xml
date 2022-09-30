@@ -1,0 +1,26 @@
+<root>
+<maze101_research id="0" originalRow="0" groupSign="开始"/>
+<maze101_research id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<maze101_research id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze101_research id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="哦！这是这是！" param2=""/>
+<maze101_research id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<maze101_research id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="心智导体，似乎是从刚刚的异质物身上掉落出来的。" param2=""/>
+<maze101_research id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<maze101_research id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="心智导体是珍贵的异质物开发材料。一个异质物拥有的心智导体越多，某种程度上来说能力就越强。" param2=""/>
+<maze101_research id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="如果这里的异质物都拥有心智导体的话，对我们来说是不小的麻烦……" param2=""/>
+<maze101_research id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="就用刚刚得到的心智导体来强化我们的异质物吧，可以在异质物界面中对异质物进行开发。" param2=""/>
+<maze101_research id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="点击界面左上角的快速跳转按钮就可以方便地前往异质物界面。" param2="" param3=""/>
+<maze101_research id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze101_research id="12" originalRow="12" groupSign="引导结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze101_research id="13" originalRow="13" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze101_research id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<maze101_research id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="一次的异质物开发不一定会有很明显的效果" param2="" param3=""/>
+<maze101_research id="16" originalRow="16" action="角色台词" data="tuling" param="但可以积少成多~随着开发的次数变多，异质物会逐步变强大的~"/>
+<maze101_research id="17" originalRow="17" action="角色台词" data="tuling" param="而且这里的空间十分不稳定，似乎再重新打开门之后就又会出现新的异质物了。"/>
+<maze101_research id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze101_research id="19" originalRow="19" action="角色台词" data="niefei" param="那不就可以无穷无尽地获得开发材料了！看来消灭巢主势在必行啊！"/>
+<maze101_research id="20" originalRow="20" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<maze101_research id="21" originalRow="21" action="角色台词" data="kaiselin02" param="在找到巢主之前，可以尽可能多的收集一下开发材料，以便应对更强的敌人~"/>
+<maze101_research id="22" originalRow="22" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze101_research id="23" originalRow="23" groupSign="结束"/>
+</root>

@@ -1,0 +1,33 @@
+<root>
+<First_tuling2 id="0" originalRow="0" groupSign="0.1&gt;&gt;" action="角色台词" data="tuling" param="喂，周易，做个交易？"/>
+<First_tuling2 id="1" originalRow="1" action="可选对话框" data="" param="$$什么交易？==&gt;继续1
+$$你会找我做交易？==&gt;继续2"/>
+<First_tuling2 id="2" originalRow="2" groupSign="继续1" action="" data="" param=""/>
+<First_tuling2 id="3" originalRow="3" action="角色台词" data="wo" param="什么交易？"/>
+<First_tuling2 id="4" originalRow="4" action="跳转-标签" data="" param="涂凌1"/>
+<First_tuling2 id="5" originalRow="5" groupSign="继续2" action="角色台词" data="wo" param="你会找我做交易？"/>
+<First_tuling2 id="6" originalRow="6" groupSign="涂凌1" action="" data="" param=""/>
+<First_tuling2 id="7" originalRow="7" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="这么多废话，做不做？"/>
+<First_tuling2 id="8" originalRow="8" action="可选对话框" data="" param="$$你先说说是什么交易啊？==&gt;继续3"/>
+<First_tuling2 id="9" originalRow="9" action="" data="" param=""/>
+<First_tuling2 id="10" originalRow="10" groupSign="继续3" action="角色台词" data="wo" param="你先说说是什么交易啊？"/>
+<First_tuling2 id="11" originalRow="11" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="用你最喜欢的偶像照片，换零食。"/>
+<First_tuling2 id="12" originalRow="12" action="可选对话框" data="" param="$$怎么，基地内的零食还不够你吃吗？==&gt;继续4
+$$照片一大堆了，不换。==&gt;继续5"/>
+<First_tuling2 id="13" originalRow="13" action="" data="" param=""/>
+<First_tuling2 id="14" originalRow="14" groupSign="继续4" action="角色台词" data="wo" param="怎么，基地内的零食还不够你吃吗？"/>
+<First_tuling2 id="15" originalRow="15" groupSign="1&gt;&gt;" action="跳转-标签" data="" param="涂凌2"/>
+<First_tuling2 id="16" originalRow="16" action="" data="" param=""/>
+<First_tuling2 id="17" originalRow="17" groupSign="继续5" action="角色台词" data="wo" param="照片一大堆了，不换。"/>
+<First_tuling2 id="18" originalRow="18" groupSign="涂凌2" action="" data="" param=""/>
+<First_tuling2 id="19" originalRow="19" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="珍藏版，未公开的。"/>
+<First_tuling2 id="20" originalRow="20" action="可选对话框" data="" param="$$ok，成交。==&gt;完结
+$$等等，我记得凯瑟琳不是不让你吃零食的吗？==&gt;继续6"/>
+<First_tuling2 id="21" originalRow="21" groupSign="继续6" action="" data=""/>
+<First_tuling2 id="22" originalRow="22" action="角色台词" data="wo" param="等等，我记得凯瑟琳不是不让你吃零食的吗？"/>
+<First_tuling2 id="23" originalRow="23" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="天知地知，你知我知，放心吧，聊天记录我马上就删，你还有十秒。"/>
+<First_tuling2 id="24" originalRow="24" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="10"/>
+<First_tuling2 id="25" originalRow="25" action="可选对话框" data="" param="$$ok，成交。==&gt;完结"/>
+<First_tuling2 id="26" originalRow="26" groupSign="完结" action="角色台词" data="wo" param="ok，成交。"/>
+<First_tuling2 id="27" originalRow="27" groupSign="结束"/>
+</root>

@@ -1,0 +1,191 @@
+<root>
+<NewTest_Kaiselin02 id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="2" originalRow="2" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="3" originalRow="3" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<NewTest_Kaiselin02 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="" param="请选择角色站位。" param2="" param3="type=1"/>
+<NewTest_Kaiselin02 id="6" originalRow="6" groupSign="" debugClose="" action="可选对话框" data="" param="$$左==&gt;凯瑟琳左
+$$中==&gt;角色转向2
+$$右==&gt;凯瑟琳右
+$$重选角色==&gt;返回" param2="" param3=""/>
+<NewTest_Kaiselin02 id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="8" originalRow="8" groupSign="凯瑟琳左" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=右" param2="" param3=""/>
+<NewTest_Kaiselin02 id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="12" originalRow="12" groupSign="凯瑟琳右" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="" param3=""/>
+<NewTest_Kaiselin02 id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="16" originalRow="16" groupSign="角色转向2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="17" originalRow="17" groupSign="" debugClose="" action="可选对话框" data="" param="$$左转==&gt;左转2
+$$右转==&gt;右转2
+$$回正==&gt;回正2
+$$下一步==&gt;凯瑟琳
+$$重选站位==&gt;开始" param2="" param3=""/>
+<NewTest_Kaiselin02 id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="19" originalRow="19" groupSign="左转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{角色转身,kaiselin02,-22.5}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="21" originalRow="21" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="23" originalRow="23" groupSign="右转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{角色转身,kaiselin02,+22.5}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="27" originalRow="27" groupSign="回正2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{角色转身,kaiselin02,正,0.4}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="29" originalRow="29" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="32" originalRow="32" groupSign="凯瑟琳" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="33" originalRow="33" groupSign="1" debugClose="" action="可选对话框" data="" param="$$选择可搭配表情==&gt;选择表情2
+$$开心动作==&gt;开心动作2
+$$严肃动作==&gt;严肃动作2
+$$忧伤动作==&gt;忧伤动作2
+$$下一页==&gt;动作下一页2
+$$重选角度==&gt;角色转向2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="35" originalRow="35" groupSign="开心动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2开心动作}这里是凯瑟琳2开心动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2开心动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="38" originalRow="38" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="40" originalRow="40" groupSign="严肃动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}这里是凯瑟琳2严肃动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="43" originalRow="43" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="44" originalRow="44" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="45" originalRow="45" groupSign="忧伤动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤动作}这里是凯瑟琳2忧伤动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="48" originalRow="48" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="50" originalRow="50" groupSign="动作下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="51" originalRow="51" groupSign="" debugClose="" action="可选对话框" data="" param="$$惊讶动作==&gt;惊讶动作2
+$$紧张动作==&gt;紧张动作2
+$$思考动作==&gt;思考动作2
+$$愤怒动作==&gt;愤怒动作2
+$$下一页==&gt;动作下一页21" param2="" param3=""/>
+<NewTest_Kaiselin02 id="52" originalRow="52" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="53" originalRow="53" groupSign="惊讶动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2惊讶动作}这里是凯瑟琳2惊讶动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2惊讶动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="56" originalRow="56" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="57" originalRow="57" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="58" originalRow="58" groupSign="紧张动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}这里是凯瑟琳2紧张动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="60" originalRow="60" groupSign="1" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="61" originalRow="61" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="62" originalRow="62" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="63" originalRow="63" groupSign="思考动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}这里是凯瑟琳2思考动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="65" originalRow="65" groupSign="1" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="66" originalRow="66" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="67" originalRow="67" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="68" originalRow="68" groupSign="愤怒动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2愤怒动作}这里是凯瑟琳2愤怒动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2愤怒动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="71" originalRow="71" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="72" originalRow="72" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="73" originalRow="73" groupSign="动作下一页21" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="74" originalRow="74" groupSign="" debugClose="" action="可选对话框" data="" param="$$得意动作==&gt;得意动作2
+$$享受动作==&gt;享受动作2
+$$威慑动作==&gt;威慑动作2
+$$喝药动作==&gt;喝药动作2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="75" originalRow="75" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="76" originalRow="76" groupSign="得意动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}这里是凯瑟琳2得意动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="79" originalRow="79" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="80" originalRow="80" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="81" originalRow="81" groupSign="享受动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2享受动作}这里是凯瑟琳2享受动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2享受动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="84" originalRow="84" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="85" originalRow="85" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="86" originalRow="86" groupSign="威慑动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}这里是凯瑟琳2威慑动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="89" originalRow="89" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="90" originalRow="90" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="91" originalRow="91" groupSign="喝药动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2喝药动作}这里是凯瑟琳2喝药动作。" param2="" param3=""/>
+<NewTest_Kaiselin02 id="93" originalRow="93" groupSign="1" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2喝药动作恢复}" param2="" param3=""/>
+<NewTest_Kaiselin02 id="94" originalRow="94" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="95" originalRow="95" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="96" originalRow="96" groupSign="选择表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="97" originalRow="97" groupSign="" debugClose="" action="可选对话框" data="" param="$$待机表情==&gt;待机表情2
+$$开心表情==&gt;开心表情2
+$$惊讶表情==&gt;惊讶表情2
+$$思考表情==&gt;思考表情2
+$$下一页==&gt;表情下一页2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="98" originalRow="98" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="99" originalRow="99" groupSign="待机表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2待机表情}这里是待机表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="101" originalRow="101" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="102" originalRow="102" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="103" originalRow="103" groupSign="开心表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2开心表情}这里是开心表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="105" originalRow="105" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="106" originalRow="106" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="107" originalRow="107" groupSign="惊讶表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2惊讶表情}这里是惊讶表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="109" originalRow="109" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="110" originalRow="110" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="111" originalRow="111" groupSign="思考表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}这里是思考表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="113" originalRow="113" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="114" originalRow="114" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="115" originalRow="115" groupSign="表情下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="116" originalRow="116" groupSign="" debugClose="" action="可选对话框" data="" param="$$严肃表情==&gt;严肃表情2
+$$忧伤表情==&gt;忧伤表情2
+$$紧张表情==&gt;紧张表情2
+$$愤怒表情==&gt;愤怒表情2
+$$下一页==&gt;表情下一页21" param2="" param3=""/>
+<NewTest_Kaiselin02 id="117" originalRow="117" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="118" originalRow="118" groupSign="严肃表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}这里是严肃表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="120" originalRow="120" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="121" originalRow="121" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="122" originalRow="122" groupSign="忧伤表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤表情}这里是忧伤表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="124" originalRow="124" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="125" originalRow="125" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="126" originalRow="126" groupSign="紧张表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张表情}这里是紧张表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="128" originalRow="128" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="129" originalRow="129" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="130" originalRow="130" groupSign="愤怒表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2愤怒表情}这里是愤怒表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="132" originalRow="132" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="133" originalRow="133" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="134" originalRow="134" groupSign="表情下一页21" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="135" originalRow="135" groupSign="" debugClose="" action="可选对话框" data="" param="$$得意表情==&gt;得意表情2
+$$享受表情==&gt;享受表情2
+$$威慑表情==&gt;威慑表情2
+$$喝药表情==&gt;喝药表情2" param2="" param3=""/>
+<NewTest_Kaiselin02 id="136" originalRow="136" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="137" originalRow="137" groupSign="得意表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}这里是得意表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="139" originalRow="139" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="140" originalRow="140" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="141" originalRow="141" groupSign="享受表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2享受表情}这里是享受表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="143" originalRow="143" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="144" originalRow="144" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="145" originalRow="145" groupSign="威慑表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑表情}这里是威慑表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="147" originalRow="147" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="148" originalRow="148" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="149" originalRow="149" groupSign="喝药表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2喝药表情}这里是喝药表情" param2="" param3=""/>
+<NewTest_Kaiselin02 id="151" originalRow="151" groupSign="" debugClose="" action="跳转-标签" data="" param="凯瑟琳" param2="" param3=""/>
+<NewTest_Kaiselin02 id="152" originalRow="152" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="153" originalRow="153" groupSign="返回" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="154" originalRow="154" groupSign="" debugClose="" action="跳转-标签" data="" param="Test_zhujuetuan.开始" param2="" param3=""/>
+<NewTest_Kaiselin02 id="155" originalRow="155" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="156" originalRow="156" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="157" originalRow="157" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_Kaiselin02 id="158" originalRow="158" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

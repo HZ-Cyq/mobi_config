@@ -1,0 +1,252 @@
+<root>
+<C0_duoffice id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="2" originalRow="2" groupSign="" debugClose="" action="系统-界面节点显隐" data="ui_inspector" param="ui_state" param2="FALSE" param3=""/>
+<C0_duoffice id="3" originalRow="3" groupSign="" debugClose="" action="系统-界面节点显隐" data="ui_inspector" param="map_btn" param2="FALSE" param3=""/>
+<C0_duoffice id="4" originalRow="4" groupSign="" debugClose="" action="系统-界面节点显隐" data="ui_inspector" param="Button_Back" param2="FALSE" param3=""/>
+<C0_duoffice id="5" originalRow="5" groupSign="" debugClose="" action="系统-界面节点显隐" data="ui_inspector" param="Button_Menu" param2="FALSE" param3=""/>
+<C0_duoffice id="6" originalRow="6" groupSign="" debugClose="" action="打开插画" data="blackbgimg" param="" param2="" param3=""/>
+<C0_duoffice id="7" originalRow="7" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="1"/>
+<C0_duoffice id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="item_201000==1" param="切换场景" param2="" param3=""/>
+<C0_duoffice id="9" originalRow="9" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<C0_duoffice id="10" originalRow="10" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="凯瑟琳，我们到了……我们到{shake=3}杜博士的办公室了！" param2="" param3="type=0"/>
+<C0_duoffice id="11" originalRow="11" groupSign="" debugClose="" action="播放音乐" data="bgm_duoffice1" param="FALSE" param2="" param3=""/>
+<C0_duoffice id="12" originalRow="12" groupSign="" debugClose="1" action="语法-数值" data="rqs_序章_前往杜博士办公室=2" param="" param2="" param3=""/>
+<C0_duoffice id="13" originalRow="13" groupSign="" debugClose="1" action="语法-数值" data="rqs_序章_和杜博士对话=1" param="" param2="" param3=""/>
+<C0_duoffice id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="有人吗！？{shake=3}
+凯瑟琳{shake=3}你醒醒啊！！" param2="" param3=""/>
+<C0_duoffice id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="" param="我望向四周，这是一个古典和科技感结合的房间，
+空气中小声地回荡着古典乐。" param2="" param3="type=1"/>
+<C0_duoffice id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="体力测试——100分。
+杜博士的任务顺利完成。  " param2="043体力测试——100分。杜博士的任务顺利完成" param3=""/>
+<C0_duoffice id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="" param="熟悉的声音再次响起，我愣住了一秒，随后有些木讷地看向了怀里的她。{设置角色,kaiselin02,pos=中,凯瑟琳_待机_动作_循环_01}" param2="" param3="type=1"/>
+<C0_duoffice id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张表情}还不松开嘛？
+{#凯瑟琳2得意表情}要不然你就再把我勒紧点。 " param2="044还不松开嘛？要不然你就把我再勒紧点" param3=""/>
+<C0_duoffice id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="我还以为{播放音效,avg_Slightpunch}……………………………………………………" param2="" param3=""/>
+<C0_duoffice id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="（这里就我{播放音效,avg_sslash}最单纯吗！！！）" param2="" param3=""/>
+<C0_duoffice id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="进门晚了5分钟，倒地装死又耽误了2分钟。
+任务完成得不够完美。" param2="" param3="type=1"/>
+<C0_duoffice id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2伤心表情}{#凯瑟琳2伤心动作}对不起……{0.4}
+{#凯瑟琳2紧张表情}您要……{0.2}惩罚我吗？" param2="046对不起……您要惩罚我吗" param3=""/>
+<C0_duoffice id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="" param="谁在说话？{播放音效,avg_sinspiration}{0.4}声音好像来自书桌后面，
+不过堆成小山的文件挡住了视线。" param2="" param3="type=1"/>
+<C0_duoffice id="24" originalRow="24" groupSign="" debugClose="" action="RPGActor" data="duheng" param="1" param2="" param3=""/>
+<C0_duoffice id="25" originalRow="25" groupSign="" debugClose="1" action="存档" data="" param="" param2="" param3=""/>
+<C0_duoffice id="26" originalRow="26" groupSign="" debugClose="" action="子任务完成" data="序章_前往杜博士办公室" param="" param2="" param3=""/>
+<C0_duoffice id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_duoffice id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="29" originalRow="29" groupSign="初见杜衡" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="30" originalRow="30" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="31" originalRow="31" groupSign="" debugClose="" action="播放音乐" data="bgm_duoffice1" param="FALSE" param2="" param3=""/>
+<C0_duoffice id="32" originalRow="32" groupSign="0.5" debugClose="" action="RPGActor" data="duheng" param="2" param2="" param3=""/>
+<C0_duoffice id="33" originalRow="33" debugClose="" action="角色台词" data="duheng" param="{设置角色,duheng,pos=中,杜衡_待机_动作_循环_01}" param2="" param3=""/>
+<C0_duoffice id="34" originalRow="34" groupSign="" debugClose="" action="画面特效效果" data="1" param="" param2="" param3=""/>
+<C0_duoffice id="35" originalRow="35" groupSign="0.5" debugClose="" action="新角色镜头" data="duheng" param="个人镜头_杜衡_展示调整" param2="" param3=""/>
+<C0_duoffice id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="" param="从书桌后面走来的漂亮女士个子很高，白大褂随意的从她一侧肩膀缓缓垂落。{1.2}{#杜衡看文件2动作}{autoend}" param2="" param3="type=1"/>
+<C0_duoffice id="37" originalRow="37" groupSign="" debugClose="1" action="角色台词" data="wo" param="&lt;z=blue&gt;（想起来了，
+这好像就是之前给我身份卡的秘书姐姐……）&lt;/z&gt;{autoend}" param2="" param3=""/>
+<C0_duoffice id="38" originalRow="38" groupSign="" debugClose="1" action="角色台词" data="" param="这位漂亮的秘书姐姐个子很高，
+白大褂随意地从她一侧肩膀缓缓垂落。{1.2}{#杜衡看文件2动作}{autoend}" param2="" param3="type=1"/>
+<C0_duoffice id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="" param="她整个人仿佛一只慵懒的黑猫，
+对上她似笑非笑的眼神，我整个人都像被看穿了。{0.8}{autoend}" param2="" param3="type=1"/>
+<C0_duoffice id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="" param="气质真好……又神秘又强大！{角色转眼,duheng,下中,0.4}{autoend}" param2="" param3="type=1"/>
+<C0_duoffice id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（每天都能跟这样的秘书一起工作，
+{0.6}站长一定{#闪白ding}很幸福吧……）&lt;/z&gt;{autoend}" param2="" param3=""/>
+<C0_duoffice id="42" originalRow="42" groupSign="" debugClose="1" action="角色台词" data="" param="她并没有理会我的目光，{0.4}{#杜衡看文件2动作恢复}{角色镜头关闭,duheng,个人镜头_杜衡_展示调整}
+而是一脸玩味地低头看着手中的平板设备——{角色转眼,duheng,正,0.4}" param2="" param3="type=1"/>
+<C0_duoffice id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#杜衡看文件2动作恢复}{角色镜头关闭,duheng,个人镜头_杜衡_展示调整}{播放音效,avg_scan}心跳加快，血压升高，{0.2}
+下半身体温提升了0.5度……{autoend}" param2="4D心跳" param3=""/>
+<C0_duoffice id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="呵呵，确实是这个年纪男生正常的生理反应~{#杜衡惊讶动作}{角色转头,duheng,左中,0.4}{autoend}" param2="4D确实是" param3=""/>
+<C0_duoffice id="45" originalRow="45" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
+<C0_duoffice id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡惊讶动作恢复}{#闪白ding}诶？" param2="" param3=""/>
+<C0_duoffice id="47" originalRow="47" groupSign="" debugClose="1" action="角色台词" data="duheng_stranger" param="{#杜衡思考动作}{#杜衡平静表情}{角色转头,duheng,正,0.4}你开发的这套人体扫描设备还不错嘛……{1.5}{#杜衡待机表情}" param2="5D你开发" param3=""/>
+<C0_duoffice id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#杜衡思考动作}{#杜衡待机表情}其他身体指标都正常吧？" param2="" param3=""/>
+<C0_duoffice id="49" originalRow="49" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<C0_duoffice id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#杜衡紧张动作}{#杜衡得意表情}按您指示检查过，杜博士！{播放音效,avg_sinspiration}
+已排除异常，正在恢复中……" param2="048按您指示检查过，杜博士！已排除异常，正在恢复中" param3=""/>
+<C0_duoffice id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="wo" param="杜、{0.5}{#闪白ding}杜博士……？" param2="" param3=""/>
+<C0_duoffice id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="" param="她就是{0.5}因为异质物研究方面的卓越贡献，
+获得过国家最高科技奖的那个{#闪白震slash}杜衡！？" param2="" param3="type=1"/>
+<C0_duoffice id="53" originalRow="53" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C0_duoffice id="54" originalRow="54" groupSign="" debugClose="" action="RPGActor" data="duboshi" param="1" param2="" param3=""/>
+<C0_duoffice id="55" originalRow="55" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice" param="1" param2="" param3=""/>
+<C0_duoffice id="56" originalRow="56" groupSign="" debugClose="" action="子任务完成" data="序章_什么情况" param="" param2="" param3=""/>
+<C0_duoffice id="57" originalRow="57" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_duoffice id="58" originalRow="58" groupSign="问凯瑟琳" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="59" originalRow="59" groupSign="" debugClose="" action="RPGActor" data="duboshi" param="2" param2="" param3=""/>
+<C0_duoffice id="60" originalRow="60" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice" param="2" param2="" param3=""/>
+<C0_duoffice id="61" originalRow="61" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="wo" param="喂，她就是杜博士？{设置角色,kaiselin02,pos=中,杜衡_待机_动作_循环_01}" param2="" param3=""/>
+<C0_duoffice id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="怎么？看着不像吗？{设置角色,duheng,pos=左,杜衡_待机_动作_循环_01}" param2="049怎么？看着不像吗？" param3=""/>
+<C0_duoffice id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡平静表情}哦？{0.4}你觉得不像吗？{1}{#杜衡待机表情}" param2="6D你觉得" param3=""/>
+<C0_duoffice id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;({播放音效,avg_sslash}{shake=1}完{0.5}{播放音效,avg_sslash}&lt;size=45&gt;全&lt;/size&gt;{shake=2}{0.5}{播放音效,avg_sslash}&lt;size=55&gt;不&lt;/size&gt;{shake=3}{0.5}{播放音效,avg_sslash}&lt;size=65&gt;像{shake=1}{0.5}！！！！！！&lt;/size&gt;)&lt;/z&gt;" param2="" param3=""/>
+<C0_duoffice id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}像！{特殊-闪白效果,1}
+只是网上都找不到您的照片……" param2="" param3=""/>
+<C0_duoffice id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="duheng" param="可能是安全部门出于保密需求做了些手脚。{2}{#杜衡愤怒动作}{1.2}{music=off}{2}" param2="7D可能是" param3=""/>
+<C0_duoffice id="68" originalRow="68" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C0_duoffice id="69" originalRow="69" groupSign="" debugClose="" action="RPGActor" data="duboshi" param="1" param2="" param3=""/>
+<C0_duoffice id="70" originalRow="70" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice" param="1" param2="" param3=""/>
+<C0_duoffice id="71" originalRow="71" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_duoffice id="72" originalRow="72" groupSign="问杜衡" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="73" originalRow="73" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="74" originalRow="74" groupSign="" debugClose="" action="RPGActor" data="duboshi" param="2" param2="" param3=""/>
+<C0_duoffice id="75" originalRow="75" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice" param="2" param2="" param3=""/>
+<C0_duoffice id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="wo" param="{设置角色,duheng,pos=中,杜衡_待机_动作_循环_01}您好，杜博士，我叫周易……" param2="" param3=""/>
+<C0_duoffice id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心表情}{角色动作,duheng,杜衡_开心_动作_循环_01}不用自报家门了，新人。{0.5}
+{角色动作,duheng,杜衡_平静_动作_循环_01}我对你的了解比{播放音效,avg_Sding}你自己还要多。" param2="" param3=""/>
+<C0_duoffice id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}一、被MV感染后死而复生；
+二、战斗中超乎寻常的超感反应。" param2="" param3=""/>
+<C0_duoffice id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}{#杜衡思考动作恢复}光就这两点，你已经是STS历年招入的
+最不正常的新人了。" param2="" param3=""/>
+<C0_duoffice id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡思考表情}{#杜衡愤怒2动作}（最…………
+果然，你们也都不正常吧……）" param2="" param3=""/>
+<C0_duoffice id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}{#杜衡惊讶动作}不要脑子里乱想，什么{播放音效,avg_sinspiration}你们都不正常吧之类的。" param2="" param3=""/>
+<C0_duoffice id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡惊讶动作恢复}（呃！！{播放音效,avg_sslash}会读心术吗？）" param3=""/>
+<C0_duoffice id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡待机表情}老老实实告诉我，从医务室一路过来，
+你大致清楚目前的状况吗？" param2="" param3=""/>
+<C0_duoffice id="84" originalRow="84" groupSign="" debugClose="" action="可选对话框" data="" param="$$是严重的“异质物”事件==&gt;异质物
+$$没太注意==&gt;没注意" param2="" param3=""/>
+<C0_duoffice id="85" originalRow="85" groupSign="没注意" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="86" originalRow="86" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡思考动作恢复}" param2="" param3=""/>
+<C0_duoffice id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="wo" param="啊，我没太注意......{#杜衡愤怒表情}" param2="" param3=""/>
+<C0_duoffice id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒动作}......" param2="" param3=""/>
+<C0_duoffice id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="wo" param="{播放音效,avg_Slightpunch}不不不，{0.5}{播放音效,avg_sslash}我{shake=3}注意到了！{#杜衡愤怒动作恢复}{#杜衡待机表情}" param2="" param3=""/>
+<C0_duoffice id="91" originalRow="91" groupSign="" debugClose="" action="跳转-标签" data="" param="异质物" param2="" param3=""/>
+<C0_duoffice id="92" originalRow="92" groupSign="异质物" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="93" originalRow="93" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡平静表情}我听说是某个异质物{#杜衡思考动作}在研究中脱逃，
+那首诡异的MV造成了大面积的人员感染变异。" param2="" param3=""/>
+<C0_duoffice id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}{#杜衡待机动作}关键信息抓得不错。根据已伤亡和预期伤亡人员的数量，
+这次{播放音效,avg_Sding}&lt;z=yellow&gt;“收容溢出”&lt;/z&gt;事件的危害等级已定为3级。" param2="" param3=""/>
+<C0_duoffice id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒表情}如果不及时处理，{#杜衡愤怒动作}将会造成城市级别的危害。" param2="" param3=""/>
+<C0_duoffice id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="" param="{播放音效,avg_sslash}城市级别的危害！{0.5}{#杜衡愤怒动作恢复}一想到整个城市遍布电视头怪物的诡异画面，{#杜衡愤怒表情}
+我禁不住倒吸了一口凉气。" param2="" param3="type=1"/>
+<C0_duoffice id="98" originalRow="98" groupSign="" debugClose="" action="可选对话框" data="" param="$$那现在应该怎么办？==&gt;如何处理" param2="" param3=""/>
+<C0_duoffice id="99" originalRow="99" groupSign="如何处理" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="100" originalRow="100" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="101" originalRow="101" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡紧张表情}造成这次“收容溢出”事件的异质物，还躲藏在这座&lt;z=yellow&gt;昭离公馆&lt;/z&gt;里。" param2="" param3=""/>
+<C0_duoffice id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}现在&lt;z=yellow&gt;首要的目标&lt;/z&gt;就是找到她，将她再次收容。" param2="" param3=""/>
+<C0_duoffice id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒2动作}{#杜衡思考表情}为了防止危害继续扩散，我已经紧急转移了非战斗人员，
+同时启动了“封存罩”，从物理上将整栋建筑和外界隔离。" param2="" param3=""/>
+<C0_duoffice id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡愤怒2动作恢复}{#杜衡待机表情}封存罩？莫不是昭离公馆外面那个蜂巢状的透明结构。
+据说启动后连电磁信号都能阻断。" param2="" param3="type=1"/>
+<C0_duoffice id="105" originalRow="105" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张表情}{#杜衡紧张动作}封存罩的效用还余下两个小时，留给我们的时间不多。
+我们必须在这两小时内解决战斗，否则……" param2="" param3=""/>
+<C0_duoffice id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="" param="杜博士话并没有说完，
+但是听起来完全是背水一战。" param2="" param3="type=1"/>
+<C0_duoffice id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="wo" param="我……可以问吗？{0.5}{#杜衡紧张动作恢复}
+解决战斗……{0.9}{#杜衡待机表情}是说……谁去战斗？" param2="" param3=""/>
+<C0_duoffice id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}{#杜衡平静动作}战斗，当然是交给作战小队了。" param2="" param3=""/>
+<C0_duoffice id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡开心表情}{#杜衡思考动作}（啊，这样啊，还有作战小队。
+总算松了一口气。）" param2="" param3=""/>
+<C0_duoffice id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="wo" param="那作战小队{播放音效,avg_Sclue}很快{#杜衡思考动作恢复}就会来救我们吧。{#杜衡惊讶表情}" param2="" param3=""/>
+<C0_duoffice id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡调戏表情}{#杜衡调戏动作}不就在这儿的吗？{播放音效,avg_Sding}{0.9}
+算上你的话，作战小队刚好凑齐4个人。" param2="" param3=""/>
+<C0_duoffice id="112" originalRow="112" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C0_duoffice id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡待机动作}{#杜衡待机表情}什、{1}{播放音效,avg_sslash}什么？？！！" param2="" param3=""/>
+<C0_duoffice id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶表情}{#杜衡惊讶动作}最简单的加法都算不过来？" param2="" param3=""/>
+<C0_duoffice id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机表情}{#杜衡待机动作}你已经见过涂凌和凯瑟琳了……嗯，还有个家伙……{播放音效,avg_Sding}
+再加上你，不就是4个人吗？{设置角色,kaiselin02,pos=左,凯瑟琳_待机_动作_循环_01}" param2="" param3=""/>
+<C0_duoffice id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}{#凯瑟琳2得意动作}啊哈哈，作战小队增员幅度高达百分之33.33333……" param2="067啊哈哈，作战小队增员幅度高达百分之33.33333" param3=""/>
+<C0_duoffice id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="" param="不对劲！{0.5}{播放音效,avg_sslash}
+太{播放音效,avg_sslash}不对劲了！！" param2="" param3="type=1"/>
+<C0_duoffice id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="" param="我明明是被STS录用为分析员的，
+一句话{播放音效,avg_sslash}就编进了作战小队？" param2="" param3="type=1"/>
+<C0_duoffice id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="" param="分析员，感觉是一个不用和古怪的人打交道，
+本来可以躲在电脑后面，朝九晚五的工作。" param2="" param3="type=1"/>
+<C0_duoffice id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（唉……命运不让我躺平啊！）&lt;/z&gt;" param2="" param3=""/>
+<C0_duoffice id="121" originalRow="121" groupSign="" debugClose="" action="可选对话框" data="" param="$$为什么要加上我？==&gt;加我" param2="" param3=""/>
+<C0_duoffice id="122" originalRow="122" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
+<C0_duoffice id="123" originalRow="123" groupSign="加我" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="124" originalRow="124" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="wo" param="我倒不是质疑凯瑟琳他们啊，
+我就是觉得光这几个人……" param2="" param3=""/>
+<C0_duoffice id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}和异质物作战的关键，并不在作战小队人数，
+而是我方能掌控的异质物数量和能力。" param2="" param3=""/>
+<C0_duoffice id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡开心表情}而&lt;z=yellow&gt;最不正常&lt;/z&gt;的你，具备最不寻常的超感反应，
+是目前唯一能大幅提升作战小队上限的变量。" param2="" param3=""/>
+<C0_duoffice id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="wo" param="（能……{0.5}{播放音效,avg_Slightpunch}不强调“最不正常”吗……）" param2="" param3=""/>
+<C0_duoffice id="129" originalRow="129" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡平静表情}好了，没多少时间可浪费了。
+作战小队必须马上行动。" param2="" param3=""/>
+<C0_duoffice id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡待机表情}给你一分钟想想，告诉我答案。{0.5}
+{#杜衡惊讶动作恢复}加入？还是不加入？" param2="" param3=""/>
+<C0_duoffice id="131" originalRow="131" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C0_duoffice id="132" originalRow="132" groupSign="" debugClose="" action="RPGActor" data="duboshi2" param="1" param2="" param3=""/>
+<C0_duoffice id="133" originalRow="133" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice2" param="1" param2="" param3=""/>
+<C0_duoffice id="134" originalRow="134" groupSign="" debugClose="" action="子任务完成" data="序章_杜博士露面" param="" param2="" param3=""/>
+<C0_duoffice id="135" originalRow="135" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_duoffice id="136" originalRow="136" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="137" originalRow="137" groupSign="加入的凯瑟琳" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="138" originalRow="138" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="139" originalRow="139" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice2" param="2" param2="" param3=""/>
+<C0_duoffice id="140" originalRow="140" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<C0_duoffice id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="wo" param="你们这......" param2="" param3=""/>
+<C0_duoffice id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳2威慑动作}{#凯瑟琳2得意表情}看到凯瑟琳期待而又暗藏凶险的眼光，我没有继续说下去。" param2="" param3="type=1"/>
+<C0_duoffice id="143" originalRow="143" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_duoffice id="144" originalRow="144" groupSign="加入吗" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="145" originalRow="145" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="146" originalRow="146" groupSign="" debugClose="" action="RPGActor" data="duboshi2" param="2" param2="" param3=""/>
+<C0_duoffice id="147" originalRow="147" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice2" param="2" param2="" param3=""/>
+<C0_duoffice id="148" originalRow="148" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="杜衡_惊讶_动作_循环_01" param3=""/>
+<C0_duoffice id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="duheng" param="怎么样？决定了吗？" param2="" param3=""/>
+<C0_duoffice id="150" originalRow="150" groupSign="" debugClose="" action="可选对话框" data="" param="$$加入==&gt;加入
+$$不加入==&gt;不加入" param2="" param3=""/>
+<C0_duoffice id="151" originalRow="151" groupSign="不加入" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="152" originalRow="152" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="wo" param="我觉得……我可能{#杜衡紧张动作}{#杜衡思考表情}难以胜任……" param2="" param3=""/>
+<C0_duoffice id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}{#杜衡平静表情}也好，看来你决心已定。
+那你就先躲起来吧。" param2="" param3=""/>
+<C0_duoffice id="155" originalRow="155" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒2动作}{#杜衡待机表情}书桌下面的保险箱，是房间里仅剩的『心灵遮断合金』物品。
+你躲到里面，可以隔绝掉一切异质物感染。" param2="" param3=""/>
+<C0_duoffice id="156" originalRow="156" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<C0_duoffice id="157" originalRow="157" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2得意表情}{#杜衡愤怒2动作恢复}嘻嘻，等我们解决掉麻烦，会救你出来的。" param2="076嘻嘻，等我们解决掉麻烦，会救你出来的" param3=""/>
+<C0_duoffice id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="wo" param="等下！{播放音效,avg_sinspiration}
+这个保险箱要怎么进去……{#凯瑟琳得意动作恢复}" param2="" param3=""/>
+<C0_duoffice id="159" originalRow="159" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡惊讶表情}钻不进去吗？
+也没有其他地方好躲了…" param2="" param3=""/>
+<C0_duoffice id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心表情}要不，凯瑟琳{#凯瑟琳紧张动作}帮你卸掉关节，
+整个人叠起来就能装进去了。" param2="" param3=""/>
+<C0_duoffice id="161" originalRow="161" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="等救你出来，我再给你把{播放音效,avg_sslash}关节接回去。" param2="079等救你出来，我再给你把关节接回去" param3=""/>
+<C0_duoffice id="162" originalRow="162" groupSign="" debugClose="" action="角色台词" data="wo" param="…………………………
+我……还是再想想吧……" param2="" param3=""/>
+<C0_duoffice id="163" originalRow="163" groupSign="" debugClose="" action="RPGActor" data="duboshi2" param="1" param2="" param3=""/>
+<C0_duoffice id="164" originalRow="164" groupSign="" debugClose="" action="RPGActor" data="kaiselinoffice2" param="1" param2="" param3=""/>
+<C0_duoffice id="165" originalRow="165" groupSign="" debugClose="" action="跳转-标签" data="" param="加入吗" param2="" param3=""/>
+<C0_duoffice id="166" originalRow="166" groupSign="加入" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="167" originalRow="167" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_duoffice id="168" originalRow="168" groupSign="" debugClose="" action="角色台词" data="wo" param="我决定加入作战小队。" param2="" param3=""/>
+<C0_duoffice id="169" originalRow="169" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡开心表情}嗯哼。非常有男子气概的发言。" param2="" param3=""/>
+<C0_duoffice id="170" originalRow="170" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机动作}{#杜衡待机表情}给你发个工卡吧，右手伸出来。" param2="" param3=""/>
+<C0_duoffice id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="wo" param="哦…{播放音效,avg_Sding}…哦！好的！" param2="" param3=""/>
+<C0_duoffice id="172" originalRow="172" groupSign="" debugClose="" action="角色台词" data="" param="我听话的把右手伸到杜博士面前，{#杜衡愤怒2动作}{#杜衡待机表情}她摊开我的手背，
+将一枚发光的芯片放了上去。" param2="" param3="type=1"/>
+<C0_duoffice id="173" originalRow="173" groupSign="" debugClose="" action="打开插画" data="C1_zhaohuanyaoshi" param="" param2="" param3=""/>
+<C0_duoffice id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="" param="我瞬间感到一阵灼热的疼痛，芯片没入{播放音效,avg_Slightpunch}我的手背，只留下一枚散发着电流光芒的符号。" param2="" param3="type=1"/>
+<C0_duoffice id="175" originalRow="175" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<C0_duoffice id="176" originalRow="176" groupSign="" debugClose="" action="角色台词" data="wo" param="{播放音效,avg_sslash}好——好疼！！" param2="" param3=""/>
+<C0_duoffice id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="wo" param="不，不是说发工卡吗！？{播放音效,avg_sslash}{#杜衡愤怒2动作恢复}
+这又是干嘛？？" param2="" param3=""/>
+<C0_duoffice id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡开心表情}这就是作战小队的专属“工卡”，人手一个。
+你已经获得了和收容异质物相关的所有权限。" param2="" param3=""/>
+<C0_duoffice id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机表情}它还有一个统一的称呼，叫“律之钥”。" param2="" param3=""/>
+<C0_duoffice id="180" originalRow="180" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡待机动作}律之钥？{播放音效,avg_Sclue}是钥匙的意思吗……" param2="" param3=""/>
+<C0_duoffice id="181" originalRow="181" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡开心表情}猜的没错，律之钥是打开“异空间”大门的钥匙。" param2="" param3=""/>
+<C0_duoffice id="182" originalRow="182" groupSign="" debugClose="" action="打开插画" data="C0_shiyongyaoshi" param="" param2="" param3=""/>
+<C0_duoffice id="183" originalRow="183" groupSign="" debugClose="" action="角色台词" data="" param="杜衡示意我将右手抬起，四指并拢凭空半握。
+手背上的符号再次亮起来，手心里卷起一股空气漩涡。" param2="" param3="type=1"/>
+<C0_duoffice id="184" originalRow="184" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<C0_duoffice id="185" originalRow="185" groupSign="" debugClose="" action="打开插画" data="C0_yaoshiqidong" param="" param2="" param3=""/>
+<C0_duoffice id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="" param="漩涡中迅速聚集的气体充盈满手心，
+触感很像是一个门把手。" param2="" param3="type=1"/>
+<C0_duoffice id="187" originalRow="187" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<C0_duoffice id="188" originalRow="188" groupSign="" debugClose="" action="角色台词" data="" param="我顺势一扭，眼前的空间好像打开了一条缝。
+一阵耀眼的白光伴随着强烈的失重感突然袭来。" param2="" param3="type=1"/>
+<C0_duoffice id="189" originalRow="189" groupSign="" debugClose="" action="特殊-转场效果" data="3" param="1.5" param2="" param3=""/>
+<C0_duoffice id="190" originalRow="190" groupSign="" debugClose="1" action="语法-数值" data="rqs_序章_存档点=1" param="" param3=""/>
+<C0_duoffice id="191" originalRow="191" groupSign="" debugClose="1" action="存档" data="" param="" param2="" param3=""/>
+<C0_duoffice id="192" originalRow="192" groupSign="切换场景" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_duoffice id="193" originalRow="193" debugClose="" action="切换场景" data="home" param="" param3=""/>
+<C0_duoffice id="194" originalRow="194" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_duoffice id="195" originalRow="195" groupSign="结束" debugClose="" action="" data="" param=""/>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<Test_Gif id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<Test_Gif id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<Test_Gif id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="gifTest" param="pos=中" param2="" param3=""/>
+<Test_Gif id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="gifTest" param="{角色动作,,1001}这里是小个子效果测试" param2="" param3=""/>
+<Test_Gif id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="gifTest" param="{角色动作,,1003}这里是标准高1024效果测试" param2="" param3=""/>
+<Test_Gif id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="gifTest" param="{角色动作,,1005}这里是宽版1024*1024效果测试" param2="" param3=""/>
+<Test_Gif id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="" param3=""/>
+<Test_Gif id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="gifTest" param="{角色动作,,1001}这里是小个子效果测试" param2="" param3=""/>
+<Test_Gif id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="这里是多角色效果测试" param2="" param3=""/>
+<Test_Gif id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Gif id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

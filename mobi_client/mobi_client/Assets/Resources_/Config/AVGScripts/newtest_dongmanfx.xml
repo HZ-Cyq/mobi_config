@@ -1,0 +1,337 @@
+<root>
+<NewTest_DongmanFX id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="2" originalRow="2" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="3" originalRow="3" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<NewTest_DongmanFX id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫说话挂件}" param2="" param3=""/>
+<NewTest_DongmanFX id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="请选择角色站位。" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="7" originalRow="7" groupSign="" debugClose="" action="可选对话框" data="" param="$$左==&gt;涂凌左
+$$中==&gt;角色转向2
+$$右==&gt;涂凌右
+$$返回测试脚本==&gt;返回" param2="" param3=""/>
+<NewTest_DongmanFX id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="9" originalRow="9" groupSign="涂凌左" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<NewTest_DongmanFX id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳动漫说话挂件}1111" param2="" param3=""/>
+<NewTest_DongmanFX id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="111" param2="" param3=""/>
+<NewTest_DongmanFX id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="{#关闭涂凌动漫挂件}" param2="" param3=""/>
+<NewTest_DongmanFX id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="11" param2="" param3=""/>
+<NewTest_DongmanFX id="15" originalRow="15" groupSign="" debugClose="" action="表情符号" data="动漫_说话" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="{#关闭动漫挂件}" param2="" param3=""/>
+<NewTest_DongmanFX id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="1" param2="" param3=""/>
+<NewTest_DongmanFX id="18" originalRow="18" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_DongmanFX id="19" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="20" originalRow="20" groupSign="涂凌右" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<NewTest_DongmanFX id="22" originalRow="22" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_DongmanFX id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="24" originalRow="24" groupSign="角色转向2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="25" originalRow="25" groupSign="" debugClose="" action="可选对话框" data="" param="$$左转==&gt;左转2
+$$右转==&gt;右转2
+$$回正==&gt;回正2
+$$下一步==&gt;涂凌
+$$重选站位==&gt;开始" param2="" param3=""/>
+<NewTest_DongmanFX id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="27" originalRow="27" groupSign="左转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,-22.5}" param2="" param3=""/>
+<NewTest_DongmanFX id="29" originalRow="29" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_DongmanFX id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="31" originalRow="31" groupSign="右转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,+22.5}" param2="" param3=""/>
+<NewTest_DongmanFX id="33" originalRow="33" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_DongmanFX id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="35" originalRow="35" groupSign="回正2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,正,0.4}" param2="" param3=""/>
+<NewTest_DongmanFX id="37" originalRow="37" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_DongmanFX id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="40" originalRow="40" groupSign="涂凌" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="41" originalRow="41" groupSign="1" debugClose="" action="可选对话框" data="" param="$$选择可搭配表情==&gt;选择表情2
+$$选择搭配动作==&gt;选择动作2
+$$动漫说话==&gt;动漫说话2
+$$动漫星星==&gt;动漫星星2
+$$下一页==&gt;动漫下一页2
+$$重选角度==&gt;角色转向2" param2="" param3=""/>
+<NewTest_DongmanFX id="42" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="43" originalRow="43" groupSign="动漫说话2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="44" originalRow="44" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="45" originalRow="45" groupSign="" debugClose="" action="表情符号" data="动漫_说话" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫说话挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="47" originalRow="47" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="48" originalRow="48" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="49" originalRow="49" groupSign="动漫星星2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="50" originalRow="50" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="51" originalRow="51" groupSign="" debugClose="" action="表情符号" data="动漫_星星" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫星星挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="53" originalRow="53" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="54" originalRow="54" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="55" originalRow="55" groupSign="动漫疑问2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="56" originalRow="56" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="57" originalRow="57" groupSign="" debugClose="" action="表情符号" data="动漫_疑问" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫疑问挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="59" originalRow="59" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="60" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="61" originalRow="61" groupSign="动漫下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="62" originalRow="62" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;涂凌
+$$动漫疑问==&gt;动漫疑问2
+$$动漫汗滴==&gt;动漫汗滴2
+$$动漫黑线==&gt;动漫黑线2
+$$动漫叹气==&gt;动漫叹气2
+$$下一页==&gt;动漫下一页3" param2="" param3=""/>
+<NewTest_DongmanFX id="63" originalRow="63" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="64" originalRow="64" groupSign="动漫汗滴2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="65" originalRow="65" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="66" originalRow="66" groupSign="" debugClose="" action="表情符号" data="动漫_汗滴" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫汗滴挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="68" originalRow="68" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="69" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="70" originalRow="70" groupSign="动漫黑线2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="71" originalRow="71" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="72" originalRow="72" groupSign="" debugClose="" action="表情符号" data="动漫_黑线" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫黑线挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="74" originalRow="74" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="75" originalRow="75" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="76" originalRow="76" groupSign="动漫叹气2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="77" originalRow="77" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="78" originalRow="78" groupSign="" debugClose="" action="表情符号" data="动漫_叹气" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫叹气挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="80" originalRow="80" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="81" originalRow="81" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="82" originalRow="82" groupSign="动漫出窍2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="83" originalRow="83" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="84" originalRow="84" groupSign="" debugClose="" action="表情符号" data="动漫_出窍" param="tuling" param2="头" param3="1;x=0.1;y=0.1;z=0.1"/>
+<NewTest_DongmanFX id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫出窍挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="86" originalRow="86" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="87" originalRow="87" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="88" originalRow="88" groupSign="动漫下一页3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="89" originalRow="89" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;动漫下一页2
+$$动漫出窍==&gt;动漫出窍2
+$$清空挂件==&gt;清空挂件2
+$$清空背景==&gt;清空背景2
+$$黑线背景==&gt;黑线背景2
+$$愤怒背景==&gt;愤怒背景2" param2="" param3=""/>
+<NewTest_DongmanFX id="90" originalRow="90" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="91" originalRow="91" groupSign="清空挂件2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="92" originalRow="92" groupSign="" debugClose="" action="关闭符号" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="tuling" param="关闭了动漫挂件" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="94" originalRow="94" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="95" originalRow="95" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="96" originalRow="96" groupSign="清空背景2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="97" originalRow="97" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="tuling" param="关闭了动漫背景" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="99" originalRow="99" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="100" originalRow="100" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="101" originalRow="101" groupSign="黑线背景2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="102" originalRow="102" groupSign="" debugClose="" action="打开特效板" data="" param="" param2="动漫_黑线背景" param3=""/>
+<NewTest_DongmanFX id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫黑线背景" param2="" param3=""/>
+<NewTest_DongmanFX id="104" originalRow="104" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="105" originalRow="105" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="106" originalRow="106" groupSign="愤怒背景2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="107" originalRow="107" groupSign="" debugClose="" action="打开特效板" data="" param="" param2="动漫_怒火背景" param3=""/>
+<NewTest_DongmanFX id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是动漫怒火背景" param2="" param3="type=1"/>
+<NewTest_DongmanFX id="109" originalRow="109" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="110" originalRow="110" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="111" originalRow="111" groupSign="选择动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="112" originalRow="112" groupSign="" debugClose="" action="可选对话框" data="" param="$$待机2动作==&gt;待机2动作2
+$$惊讶动作==&gt;惊讶动作2
+$$思考动作==&gt;思考动作2
+$$下一页==&gt;选择动作3
+$$返回==&gt;涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="113" originalRow="113" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="114" originalRow="114" groupSign="待机2动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="117" originalRow="117" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="118" originalRow="118" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="119" originalRow="119" groupSign="惊讶动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="121" originalRow="121" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="122" originalRow="122" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="123" originalRow="123" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="124" originalRow="124" groupSign="思考动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="127" originalRow="127" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="128" originalRow="128" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="129" originalRow="129" groupSign="选择动作3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="130" originalRow="130" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;选择动作2
+$$愤怒动作==&gt;愤怒动作2
+$$严肃动作==&gt;严肃动作2
+$$点赞动作==&gt;点赞动作2
+$$开心动作==&gt;开心动作2
+$$下一页==&gt;选择动作4" param2="" param3=""/>
+<NewTest_DongmanFX id="131" originalRow="131" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="132" originalRow="132" groupSign="愤怒动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="133" originalRow="133" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌愤怒动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="134" originalRow="134" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌愤怒动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="135" originalRow="135" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="136" originalRow="136" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="137" originalRow="137" groupSign="严肃动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="139" originalRow="139" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="140" originalRow="140" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="141" originalRow="141" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="142" originalRow="142" groupSign="点赞动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="145" originalRow="145" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="146" originalRow="146" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="147" originalRow="147" groupSign="开心动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="148" originalRow="148" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="150" originalRow="150" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="151" originalRow="151" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="152" originalRow="152" groupSign="选择动作4" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="153" originalRow="153" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;选择动作3
+$$忧伤动作==&gt;忧伤动作2
+$$紧张动作==&gt;紧张动作2
+$$憋气动作==&gt;憋气动作2
+$$张望动作==&gt;张望动作2
+$$下一页==&gt;选择动作5" param2="" param3=""/>
+<NewTest_DongmanFX id="154" originalRow="154" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="155" originalRow="155" groupSign="忧伤动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌忧伤动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="157" originalRow="157" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌忧伤动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="158" originalRow="158" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="159" originalRow="159" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="160" originalRow="160" groupSign="紧张动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="161" originalRow="161" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="162" originalRow="162" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="163" originalRow="163" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="164" originalRow="164" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="165" originalRow="165" groupSign="憋气动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="166" originalRow="166" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌憋气动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="167" originalRow="167" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌憋气动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="168" originalRow="168" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="169" originalRow="169" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="170" originalRow="170" groupSign="张望动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌张望动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="172" originalRow="172" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{#涂凌张望动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="173" originalRow="173" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="174" originalRow="174" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="175" originalRow="175" groupSign="选择动作5" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="176" originalRow="176" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;选择动作4
+$$拒绝动作==&gt;拒绝动作2
+$$鄙视动作==&gt;鄙视动作2
+$$休闲动作==&gt;休闲动作2
+$$眩晕动作==&gt;眩晕动作2
+$$下一页==&gt;选择动作6" param2="" param3=""/>
+<NewTest_DongmanFX id="177" originalRow="177" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="178" originalRow="178" groupSign="拒绝动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌拒绝动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="180" originalRow="180" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌拒绝动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="181" originalRow="181" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="182" originalRow="182" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="183" originalRow="183" groupSign="鄙视动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="184" originalRow="184" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="185" originalRow="185" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="186" originalRow="186" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="187" originalRow="187" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="188" originalRow="188" groupSign="眩晕动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="189" originalRow="189" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌眩晕动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="190" originalRow="190" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌眩晕动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="191" originalRow="191" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="192" originalRow="192" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="193" originalRow="193" groupSign="休闲动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="194" originalRow="194" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="195" originalRow="195" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="196" originalRow="196" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="197" originalRow="197" groupSign="选择动作6" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="198" originalRow="198" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;选择动作5
+$$灵感动作==&gt;灵感动作2
+$$惊恐动作==&gt;惊恐动作2
+$$扔东西动作==&gt;扔东西动作2
+$$左跑动作==&gt;左跑动作2
+$$右跑动作==&gt;右跑动作2" param2="" param3=""/>
+<NewTest_DongmanFX id="199" originalRow="199" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="200" originalRow="200" groupSign="灵感动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="201" originalRow="201" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌灵感动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="202" originalRow="202" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌灵感动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="203" originalRow="203" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="204" originalRow="204" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="205" originalRow="205" groupSign="惊恐动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="206" originalRow="206" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊恐动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="207" originalRow="207" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊恐动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="208" originalRow="208" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="209" originalRow="209" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="210" originalRow="210" groupSign="扔东西动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="211" originalRow="211" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌扔东西2动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="212" originalRow="212" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌扔东西2动作恢复}" param2="" param3=""/>
+<NewTest_DongmanFX id="213" originalRow="213" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="214" originalRow="214" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="215" originalRow="215" groupSign="左跑动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="216" originalRow="216" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌左跑动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="217" originalRow="217" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="218" originalRow="218" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="219" originalRow="219" groupSign="右跑动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="220" originalRow="220" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌右跑动作}" param2="" param3=""/>
+<NewTest_DongmanFX id="221" originalRow="221" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="222" originalRow="222" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="223" originalRow="223" groupSign="选择表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="224" originalRow="224" groupSign="" debugClose="" action="可选对话框" data="" param="$$待机表情==&gt;待机表情2
+$$平静表情==&gt;平静表情2
+$$惊讶表情==&gt;惊讶表情2
+$$思考表情==&gt;思考表情2
+$$下一页==&gt;表情下一页2" param2="" param3=""/>
+<NewTest_DongmanFX id="225" originalRow="225" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="226" originalRow="226" groupSign="待机表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="227" originalRow="227" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机表情}这里是待机表情" param2="" param3=""/>
+<NewTest_DongmanFX id="228" originalRow="228" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="229" originalRow="229" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="230" originalRow="230" groupSign="平静表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}这里是平静表情" param2="" param3=""/>
+<NewTest_DongmanFX id="232" originalRow="232" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="233" originalRow="233" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="234" originalRow="234" groupSign="惊讶表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}这里是惊讶表情" param2="" param3=""/>
+<NewTest_DongmanFX id="236" originalRow="236" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="237" originalRow="237" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="238" originalRow="238" groupSign="思考表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="239" originalRow="239" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}这里是思考表情" param2="" param3=""/>
+<NewTest_DongmanFX id="240" originalRow="240" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="241" originalRow="241" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="242" originalRow="242" groupSign="表情下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="243" originalRow="243" groupSign="" debugClose="" action="可选对话框" data="" param="$$憋气表情==&gt;憋气表情2
+$$憋气2表情==&gt;憋气2表情2
+$$开心表情==&gt;开心表情2
+$$忧伤表情==&gt;忧伤表情2
+$$下一页==&gt;表情下一页21" param2="" param3=""/>
+<NewTest_DongmanFX id="244" originalRow="244" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="245" originalRow="245" groupSign="憋气表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="246" originalRow="246" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌憋气表情}这里是憋气表情" param2="" param3=""/>
+<NewTest_DongmanFX id="247" originalRow="247" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="248" originalRow="248" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="249" originalRow="249" groupSign="憋气2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌憋气2表情}这里是憋气2表情" param2="" param3=""/>
+<NewTest_DongmanFX id="251" originalRow="251" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="252" originalRow="252" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="253" originalRow="253" groupSign="开心表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="254" originalRow="254" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心表情}这里是开心表情" param2="" param3=""/>
+<NewTest_DongmanFX id="255" originalRow="255" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="256" originalRow="256" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="257" originalRow="257" groupSign="忧伤表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="258" originalRow="258" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌忧伤表情}这里是忧伤表情" param2="" param3=""/>
+<NewTest_DongmanFX id="259" originalRow="259" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="260" originalRow="260" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="261" originalRow="261" groupSign="表情下一页21" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="262" originalRow="262" groupSign="" debugClose="" action="可选对话框" data="" param="$$喘气表情==&gt;喘气表情2
+$$紧张表情==&gt;紧张表情2" param2="" param3=""/>
+<NewTest_DongmanFX id="263" originalRow="263" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="264" originalRow="264" groupSign="喘气表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="265" originalRow="265" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌喘气表情}这里是喘气表情" param2="" param3=""/>
+<NewTest_DongmanFX id="266" originalRow="266" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="267" originalRow="267" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="268" originalRow="268" groupSign="紧张表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="269" originalRow="269" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张表情}这里是紧张表情" param2="" param3=""/>
+<NewTest_DongmanFX id="270" originalRow="270" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌" param2="" param3=""/>
+<NewTest_DongmanFX id="271" originalRow="271" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="272" originalRow="272" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="273" originalRow="273" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="274" originalRow="274" groupSign="返回" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="275" originalRow="275" groupSign="" debugClose="" action="跳转-标签" data="" param="Test_zhujuetuan.开始" param2="" param3=""/>
+<NewTest_DongmanFX id="276" originalRow="276" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="277" originalRow="277" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="278" originalRow="278" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_DongmanFX id="279" originalRow="279" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

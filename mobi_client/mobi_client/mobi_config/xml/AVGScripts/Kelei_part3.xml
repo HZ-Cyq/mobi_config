@@ -1,0 +1,66 @@
+<root>
+<kelei_part3 id="0" originalRow="0" groupSign="开始"/>
+<kelei_part3 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<kelei_part3 id="2" originalRow="2" groupSign="" debugClose="" action="设置场号" data="scene_kelei" param="" param2="" param3=""/>
+<kelei_part3 id="3" originalRow="3" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="2" param2="" param3=""/>
+<kelei_part3 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2=""/>
+<kelei_part3 id="5" originalRow="5" action="语法-数值" data="rqs_2003003通关克雷研究所3=1"/>
+<kelei_part3 id="6" originalRow="6" action="语法-数值" data="rqs_2003002通关克雷研究所1=2"/>
+<kelei_part3 id="7" originalRow="7" groupSign="" debugClose="" action="存档" data="" param="2003001" param2=""/>
+<kelei_part3 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_trapped}" param2=""/>
+<kelei_part3 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="聂总_严肃_动作_开始_01"/>
+<kelei_part3 id="10" originalRow="10" action="角色台词" data="niefei" param="{#聂飞思考表情}呼……这里的异质物，好奇怪……"/>
+<kelei_part3 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=1" param2="凯瑟琳_思考_动作_开始_01"/>
+<kelei_part3 id="12" originalRow="12" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}结果克雷博士也不在这里吗？"/>
+<kelei_part3 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=2" param2="涂凌_待机_动作_循环_02"/>
+<kelei_part3 id="14" originalRow="14" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌抬头}但好消息是，我们得到了本该由克雷博士提供的卡巴拉。"/>
+<kelei_part3 id="15" originalRow="15" action="角色台词" data="niefei" param="{#聂飞严肃表情}坏消息是，现在这里的一切变得更蹊跷了。"/>
+<kelei_part3 id="16" originalRow="16" action="角色台词" data="niefei" param="{#涂凌待机2动作恢复}{#涂凌头中}{#涂凌待机表情}博士不在这，任何有关他的线索都没有……"/>
+<kelei_part3 id="17" originalRow="17" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌抬头}来看这个。{&amp;克雷博士的信}"/>
+<kelei_part3 id="18" originalRow="18" action="角色台词" data="niefei" param="{#聂飞严肃动作恢复}真是说什么来什么啊。"/>
+<kelei_part3 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=1" param2="凯瑟琳_思考_动作_循环_01"/>
+<kelei_part3 id="20" originalRow="20" action="角色台词" data="kaiselin02" param="{#凯瑟琳2待机表情}这种情况虽然给人造成了麻烦，但的确可以谅解。"/>
+<kelei_part3 id="21" originalRow="21" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}那我们现在应该做的，就是在不动克雷博士研究进程的基础上，"/>
+<kelei_part3 id="22" originalRow="22" action="角色台词" data="kaiselin02" param="定期来这里提取源种……"/>
+<kelei_part3 id="23" originalRow="23" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}喂喂喂，你今天怎么了？"/>
+<kelei_part3 id="24" originalRow="24" action="角色台词" data="niefei" param="{#聂飞严肃表情}在只有一封信的情况下就妄自下定论，
+太不合格了啊。{#聂飞思考动作恢复}"/>
+<kelei_part3 id="25" originalRow="25" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}你……"/>
+<kelei_part3 id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=2" param2=""/>
+<kelei_part3 id="27" originalRow="27" action="角色台词" data="tuling" param="不管怎么说，这里暴乱的异质物现象还没有结束。"/>
+<kelei_part3 id="28" originalRow="28" action="角色台词" data="tuling" param="清理异质物也确实是STS的职责所在。"/>
+<kelei_part3 id="29" originalRow="29" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌抬头}我们还是先继续前进吧。"/>
+<kelei_part3 id="30" originalRow="30" action="角色台词" data="tuling" param="{#涂凌思考表情}{#涂凌头中}{#涂凌思考动作}至于你们的纠纷……"/>
+<kelei_part3 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="tuling" param="说不定在路上就会有答案。{music=off}" param2=""/>
+<kelei_part3 id="32" originalRow="32" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<kelei_part3 id="33" originalRow="33" action="跳转-标签" param="结束"/>
+<kelei_part3 id="34" originalRow="34" groupSign="结束"/>
+<kelei_part3 id="35" originalRow="35"/>
+<kelei_part3 id="36" originalRow="36"/>
+<kelei_part3 id="37" originalRow="37"/>
+<kelei_part3 id="38" originalRow="38"/>
+<kelei_part3 id="39" originalRow="39"/>
+<kelei_part3 id="40" originalRow="40"/>
+<kelei_part3 id="41" originalRow="41"/>
+<kelei_part3 id="42" originalRow="42"/>
+<kelei_part3 id="43" originalRow="43"/>
+<kelei_part3 id="44" originalRow="44"/>
+<kelei_part3 id="45" originalRow="45"/>
+<kelei_part3 id="46" originalRow="46"/>
+<kelei_part3 id="47" originalRow="47"/>
+<kelei_part3 id="48" originalRow="48"/>
+<kelei_part3 id="49" originalRow="49"/>
+<kelei_part3 id="50" originalRow="50" data=""/>
+<kelei_part3 id="51" originalRow="51"/>
+<kelei_part3 id="52" originalRow="52"/>
+<kelei_part3 id="53" originalRow="53" data=""/>
+<kelei_part3 id="54" originalRow="54"/>
+<kelei_part3 id="55" originalRow="55"/>
+<kelei_part3 id="56" originalRow="56"/>
+<kelei_part3 id="57" originalRow="57"/>
+<kelei_part3 id="58" originalRow="58"/>
+<kelei_part3 id="59" originalRow="59" data=""/>
+<kelei_part3 id="60" originalRow="60"/>
+<kelei_part3 id="61" originalRow="61"/>
+<kelei_part3 id="62" originalRow="62" groupSign=""/>
+</root>

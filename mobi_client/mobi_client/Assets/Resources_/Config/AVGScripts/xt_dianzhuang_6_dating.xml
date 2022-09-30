@@ -1,0 +1,25 @@
+<root>
+<xt_dianzhuang_6_dating id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意}我刚刚的建议真的很有用！你不觉得吗？" param2="" param3="type=0"/>
+<xt_dianzhuang_6_dating id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意恢复}不如咱们两个直接按我的方法直接干吧！哈哈，给杜博士来个先斩后奏！" param2="" param3="type=0"/>
+<xt_dianzhuang_6_dating id="5" originalRow="5" groupSign="" debugClose="" action="可选对话框" data="" param="$$这样不太好吧==&gt;继续
+$$说干就干==&gt;继续" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="6" originalRow="6" groupSign="继续" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="电话声突然响了。接通了电话，一个略熟悉的声音传来。{#聂飞待机表情}" param2="" param3="type=1"/>
+<xt_dianzhuang_6_dating id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="qizi" param="喂，你们还想进我丈夫的实验室吗？{0.5}{#聂飞惊讶}" param2="" param3="type=4,ctype=2"/>
+<xt_dianzhuang_6_dating id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="{#聂飞惊讶恢复}{#聂飞待机表情}可我们没有搜查令，你能说服荣光集团让他们解除对我们的施压吗？" param2="" param3="type=0"/>
+<xt_dianzhuang_6_dating id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="qizi" param="我趁我丈夫不注意，拿到了他实验室的钥匙，他现在去公司了，我可以帮你们打开实验室大门。{#聂飞思考}" param2="" param3="type=4,ctype=2"/>
+<xt_dianzhuang_6_dating id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="你该不会在钓鱼执法吧？" param2="" param3="type=0"/>
+<xt_dianzhuang_6_dating id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="qizi" param="他这么百般阻挠你们进入实验室，我更敢肯定他在实验室藏了什么见不得人的东西。" param2="" param3="type=4,ctype=2"/>
+<xt_dianzhuang_6_dating id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="qizi" param="甚至有很大可能将他的小情人安置在实验室里了。" param2="" param3="type=4,ctype=2"/>
+<xt_dianzhuang_6_dating id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="那你可以自己去看看啊？{#聂飞思考恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
+<xt_dianzhuang_6_dating id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="qizi" param="我又不傻，你们说话的时候我都听到了。" param2="" param3="type=4,ctype=2"/>
+<xt_dianzhuang_6_dating id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="qizi" param="他实验室里很有可能养着怪物，我总不会拿自己的生命开玩笑。{#聂飞得意}" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="合理，那你稍等，我们马上就到！" param2="" param3="type=0"/>
+<xt_dianzhuang_6_dating id="18" originalRow="18" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="19" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="20" originalRow="20" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dianzhuang_6_dating id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

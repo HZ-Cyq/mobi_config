@@ -1,0 +1,27 @@
+<root>
+<Intro_C1_battle05 id="0" originalRow="0" groupSign="开始" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<Intro_C1_battle05 id="1" originalRow="1" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
+<Intro_C1_battle05 id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<Intro_C1_battle05 id="3" originalRow="3" debugClose="1" action="角色台词" data="" param="{music=low}" param2="" param3=""/>
+<Intro_C1_battle05 id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
+<Intro_C1_battle05 id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=1" param2="" param3=""/>
+<Intro_C1_battle05 id="6" originalRow="6" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<Intro_C1_battle05 id="7" originalRow="7" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2="" param3=""/>
+<Intro_C1_battle05 id="8" originalRow="8" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_惊讶_动作_开始_01" param2="" param3=""/>
+<Intro_C1_battle05 id="9" originalRow="9" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_惊讶_上脸_开始_01;涂凌_惊讶_下嘴_开始_01;" param2="" param3=""/>
+<Intro_C1_battle05 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="&lt;color=DADADA&gt;&lt;size=80&gt;吖嘞！居然从上方发起攻击？&lt;/size&gt;&lt;/color&gt;" param2="" param3="type=2,offx=-0.1,offy=0.3,bubbleFliX=1,bubbleStyle=4,recall=1,scale=0.25"/>
+<Intro_C1_battle05 id="11" originalRow="11" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<Intro_C1_battle05 id="12" originalRow="12" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2="" param3=""/>
+<Intro_C1_battle05 id="13" originalRow="13" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;" param2="" param3=""/>
+<Intro_C1_battle05 id="14" originalRow="14" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_鄙视_动作_开始_01" param2="" param3=""/>
+<Intro_C1_battle05 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="&lt;color=DADADA&gt;&lt;size=80&gt;太狡猾了，不会让你得逞！&lt;/size&gt;&lt;/color&gt;" param2="" param3="type=2,offx=-0.1,offy=0.3,bubbleFliX=1,bubbleStyle=4,recall=1,scale=0.25"/>
+<Intro_C1_battle05 id="16" originalRow="16" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_鄙视_动作_结束_01" param2="" param3=""/>
+<Intro_C1_battle05 id="17" originalRow="17" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_紧张_动作_开始_01" param2="" param3=""/>
+<Intro_C1_battle05 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="&lt;color=DADADA&gt;&lt;size=80&gt;拖动我的头像指向最上方一排，&lt;/size&gt;&lt;/color&gt;" param2="" param3="type=2,offx=-0.1,offy=0.3,bubbleFliX=1,bubbleStyle=4,recall=1,scale=0.25"/>
+<Intro_C1_battle05 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="&lt;color=DADADA&gt;&lt;size=80&gt;让我们来挡住敌人的攻击！&lt;/size&gt;&lt;/color&gt;" param2="" param3="type=2,offx=-0.1,offy=0.3,bubbleFliX=1,bubbleStyle=4,recall=1,scale=0.25"/>
+<Intro_C1_battle05 id="20" originalRow="20" groupSign="" debugClose="1" action="角色台词" data="" param="{music=high}" param2="" param3=""/>
+<Intro_C1_battle05 id="21" originalRow="21" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_C1_battle05 id="22" originalRow="22" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_C1_battle05 id="23" originalRow="23" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_C1_battle05 id="24" originalRow="24" groupSign="结束" debugClose="" action="" data="" param="" param3=""/>
+</root>

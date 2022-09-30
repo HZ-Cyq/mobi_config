@@ -1,0 +1,44 @@
+<root>
+<xt_hug_5 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<xt_hug_5 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="抓住了聂飞这个救命稻草……" param2="" param3=""/>
+<xt_hug_5 id="3" originalRow="3" groupSign="聂飞对话" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="4" originalRow="4" groupSign="" debugClose="" action="可选对话框" data="" param="$$“玩偶就是异质物。”==&gt;说玩偶
+$$“不要靠近那个孩子！” ==&gt;说孩子
+$$盯着聂飞不吭声 ==&gt;不吭声" param2="" param3=""/>
+<xt_hug_5 id="5" originalRow="5" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="6" originalRow="6" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="9" originalRow="9" groupSign="说玩偶" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="玩偶就是那孩子的假想伙伴吧。" param2="" param3="type=0"/>
+<xt_hug_5 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_hug_5 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞白眼}哈？管我什么事。" param2="" param3="type=0"/>
+<xt_hug_5 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="（异质物三个字说不出来！）" param2="" param3="type=0"/>
+<xt_hug_5 id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="聂飞对话" param2="" param3=""/>
+<xt_hug_5 id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="16" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="19" originalRow="19" groupSign="说孩子" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="靠那孩子近点。" param2="" param3="type=0"/>
+<xt_hug_5 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_hug_5 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞白眼}为什么？我又不喜欢小孩。" param2="" param3="type=0"/>
+<xt_hug_5 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="（控制不了我自己！）" param2="" param3="type=0"/>
+<xt_hug_5 id="24" originalRow="24" groupSign="" debugClose="" action="跳转-标签" data="" param="聂飞对话" param2="" param3=""/>
+<xt_hug_5 id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="26" originalRow="26" groupSign="不吭声" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="27" originalRow="27" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_5 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="（我在笑？有么？保持沉默倒是能做到。）" param2="" param3="type=0"/>
+<xt_hug_5 id="29" originalRow="29" groupSign="" debugClose="" action="语法-数值" data="ri_保持沉默可行=1" param="" param2="" param3=""/>
+<xt_hug_5 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="（冷静一下，队友都在我身边，还能得救。）" param2="" param3="type=0"/>
+<xt_hug_5 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="（要怎么做？怎么绕过异质物的干扰？）" param2="" param3="type=0"/>
+<xt_hug_5 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="（从现在的角度回看一下整个事件。）" param2="" param3="type=0"/>
+<xt_hug_5 id="33" originalRow="33" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_hug_5 id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="35" originalRow="35" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="36" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_5 id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

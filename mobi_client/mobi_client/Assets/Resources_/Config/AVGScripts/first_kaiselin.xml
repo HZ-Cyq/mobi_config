@@ -1,0 +1,30 @@
+<root>
+<First_kaiselin id="0" originalRow="0" groupSign="0.1&gt;&gt;" action="角色台词" data="kaiselin" param="周易，虽然事件结束了，但是你能苏醒过来的原因还没有查到，记得来我这里定期体检。"/>
+<First_kaiselin id="1" originalRow="1" action="可选对话框" data="" param="$$啊，好的。==&gt;终结1
+$$体检？我身体有什么问题么?==&gt;继续1"/>
+<First_kaiselin id="2" originalRow="2" action="" data=""/>
+<First_kaiselin id="3" originalRow="3" groupSign="继续1"/>
+<First_kaiselin id="4" originalRow="4" action="角色台词" data="wo" param="体检？我身体有什么问题么?"/>
+<First_kaiselin id="5" originalRow="5" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="为了保险起见，需要对你的身体做全面的检查，防止你被2-404污染后，体内有隐藏的信息因子。"/>
+<First_kaiselin id="6" originalRow="6" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="体检的项目包括，抽血，抽骨髓，体液检查，记得前一天不要吃太奇怪的东西。"/>
+<First_kaiselin id="7" originalRow="7" action="可选对话框" data="" param="$$诶，是我的错觉么？怎么感觉这三样好像差不多。==&gt;继续2"/>
+<First_kaiselin id="8" originalRow="8" groupSign="继续2"/>
+<First_kaiselin id="9" originalRow="9" action="角色台词" data="wo" param="诶，是我的错觉么？怎么感觉这三样好像差不多。"/>
+<First_kaiselin id="10" originalRow="10" action="角色台词" data="kaiselin" param="……这也是为了防止你成为新的感染源。"/>
+<First_kaiselin id="11" originalRow="11" action="可选对话框" data="" param="$$喂，你含糊过去了对吧？==&gt;继续3
+$$什么感染源？==&gt;继续4"/>
+<First_kaiselin id="12" originalRow="12" groupSign="继续3" action="" data=""/>
+<First_kaiselin id="13" originalRow="13" action="角色台词" data="wo" param="喂，你含糊过去了对吧？"/>
+<First_kaiselin id="14" originalRow="14" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="以你的智商，我很难跟你解释。"/>
+<First_kaiselin id="15" originalRow="15" action="跳转-标签" data="" param="结束"/>
+<First_kaiselin id="16" originalRow="16" groupSign="继续4" action="" data=""/>
+<First_kaiselin id="17" originalRow="17" action="角色台词" data="wo" param="什么感染源？"/>
+<First_kaiselin id="18" originalRow="18" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="2-404通过释放的信息因子转化他人，虽然你回复原状了，我还需要检查你体内是否还存有信息因子。总之赶紧来检查就对了。"/>
+<First_kaiselin id="19" originalRow="19" action="可选对话框" data="" param="$$好的，下次一定。==&gt;继续5"/>
+<First_kaiselin id="20" originalRow="20" groupSign="终结1"/>
+<First_kaiselin id="21" originalRow="21" action="角色台词" data="wo" param="啊，好的。"/>
+<First_kaiselin id="22" originalRow="22" action="跳转-标签" data="" param="结束"/>
+<First_kaiselin id="23" originalRow="23" action="" data="" param=""/>
+<First_kaiselin id="24" originalRow="24" groupSign="继续5" action="角色台词" data="wo" param="好的，下次一定。"/>
+<First_kaiselin id="25" originalRow="25" groupSign="结束"/>
+</root>

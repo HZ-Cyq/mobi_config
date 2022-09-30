@@ -1,0 +1,25 @@
+<root>
+<Test_SSS id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<Test_SSS id="1" originalRow="1" groupSign="" debugClose="" action="设置角色" data="tuling" param="" param2="" param3=""/>
+<Test_SSS id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="tuling" param="所以，{#涂凌平静表情}{#涂凌点赞动作}{0.6}
+已经变成{#闪白ding}残废了吗？" param2="VO_tuling_009" param3=""/>
+<Test_SSS id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="所以，{#涂凌平静表情}{#涂凌点赞动作}{0.6}
+已经变成{#闪白ding}残废了吗？" param2="VO_tuling_009" param3=""/>
+<Test_SSS id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="tuling" param="所以，{#涂凌平静表情}{#涂凌点赞动作}{0.6}
+已经变成{#闪白ding}残废了吗？" param2="VO_tuling_009" param3=""/>
+<Test_SSS id="5" originalRow="5" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="6" originalRow="6" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="14" originalRow="14" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="16" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_SSS id="19" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

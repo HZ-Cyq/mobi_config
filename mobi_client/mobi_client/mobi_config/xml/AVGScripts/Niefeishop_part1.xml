@@ -1,0 +1,14 @@
+<root>
+<niefeishop_part1 id="0" originalRow="0" groupSign="开始"/>
+<niefeishop_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<niefeishop_part1 id="2" originalRow="2" action="角色台词" data="wo" param="总算把这三个地方的异壳都找到了。" param2="" param3="type=0"/>
+<niefeishop_part1 id="3" originalRow="3" groupSign="" debugClose="" action="语法-数值" data="rqs_3007004收集完毕=2" param="" param2="" param3="type=0"/>
+<niefeishop_part1 id="4" originalRow="4" action="设置角色" data="tuling" param="pos=中"/>
+<niefeishop_part1 id="5" originalRow="5" action="角色台词" data="tuling" param="不过应该还有些零散的异壳分布在安江市内。" param3="type=0"/>
+<niefeishop_part1 id="6" originalRow="6" action="角色台词" data="wo" param="诶？是吗？" param3="type=0"/>
+<niefeishop_part1 id="7" originalRow="7" action="角色台词" data="tuling" param="以后多留意一些吧。" param3="type=0"/>
+<niefeishop_part1 id="8" originalRow="8" action="设置角色" data="niefei" param="pos=中" param3="type=0"/>
+<niefeishop_part1 id="9" originalRow="9" action="角色台词" data="niefei" param="对！多帮我收集点，多少都不嫌多！"/>
+<niefeishop_part1 id="10" originalRow="10" action="角色台词" data="wo" param="知道了！" param3="type=0"/>
+<niefeishop_part1 id="11" originalRow="11" groupSign="结束" data=""/>
+</root>

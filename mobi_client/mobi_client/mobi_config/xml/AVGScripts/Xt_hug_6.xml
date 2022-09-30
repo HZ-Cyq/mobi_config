@@ -1,0 +1,167 @@
+<root>
+<xt_hug_6 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_hug_6 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="我拖着沉重的身体来到家庭座机旁，拨通了。" param2="" param3="type=1"/>
+<xt_hug_6 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="“这里是江安市异质物目击报警热线……”" param2="" param3="type=1"/>
+<xt_hug_6 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="fangzhuren" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="fangzhuren" param="{#房主人不安}……" param2="" param3="type=0"/>
+<xt_hug_6 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="nvzhuren" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="nvzhuren" param="{#女主人不安}……" param2="" param3="type=0"/>
+<xt_hug_6 id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="你干嘛呢？" param2="" param3="type=0"/>
+<xt_hug_6 id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="嗯？" param2="" param3="type=0"/>
+<xt_hug_6 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="（对了，看我这边！盯着我！）" param2="" param3="type=0"/>
+<xt_hug_6 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="" param="“异质物目击报告请按1……”" param2="" param3="type=1"/>
+<xt_hug_6 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="" param="我按了下去，转跳到了人工录音。" param2="" param3="type=1"/>
+<xt_hug_6 id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="niefei" param="喂！怎么了？" param2="" param3="type=0"/>
+<xt_hug_6 id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="（别说话，不说话就对了，他们会察觉的！）" param2="" param3="type=0"/>
+<xt_hug_6 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="" param="“我”笑着把电话挂断了。" param2="" param3="type=1"/>
+<xt_hug_6 id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="23" originalRow="23" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞疑惑}检查电话？涂凌刚才不是看过了么。" param2="" param3="type=0"/>
+<xt_hug_6 id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="（诶？）" param2="" param3="type=0"/>
+<xt_hug_6 id="28" originalRow="28" groupSign="" debugClose="" action="可选对话框" data="" param="$$沉默==&gt;沉默
+$$沉默==&gt;沉默
+$$沉默==&gt;沉默
+$$沉默==&gt;沉默" param2="" param3=""/>
+<xt_hug_6 id="29" originalRow="29" groupSign="沉默" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="wo" param="（对，别出声，坚持住。）" param2="" param3="type=0"/>
+<xt_hug_6 id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="35" originalRow="35" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="tuling" param="我知道了，那就回去吧。" param2="" param3="type=0"/>
+<xt_hug_6 id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="38" originalRow="38" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="niefei" param="真的假的？那我可把车开走了。" param2="" param3="type=0"/>
+<xt_hug_6 id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="41" originalRow="41" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你这可不是没事的脸色。" param2="" param3="type=0"/>
+<xt_hug_6 id="43" originalRow="43" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="wo" param="（发生什么了？我说话了？）" param2="" param3="type=0"/>
+<xt_hug_6 id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="wo" param="（好累，异质物的干涉像砖一样压在身上。）" param2="" param3="type=0"/>
+<xt_hug_6 id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="wo" param="（意识不连续了，跟喝酒断片一样。）" param2="" param3="type=0"/>
+<xt_hug_6 id="47" originalRow="47" groupSign="" debugClose="" action="设置角色" data="baixiuzhu" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="喂，你睡着了？" param2="" param3="type=0"/>
+<xt_hug_6 id="49" originalRow="49" groupSign="" debugClose="" action="可选对话框" data="" param="$$沉默==&gt;你先走吧
+$$沉默==&gt;你先走吧
+$$沉默==&gt;你先走吧
+$$“没事，你先走吧。”==&gt;你先走吧" param2="" param3=""/>
+<xt_hug_6 id="50" originalRow="50" groupSign="你先走吧" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="51" originalRow="51" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="wo" param="没事，你先走吧。" param2="" param3="type=0"/>
+<xt_hug_6 id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="wo" param="（诶？控制不了了？）" param2="" param3="type=0"/>
+<xt_hug_6 id="54" originalRow="54" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="wo" param="（先走？要把我留在这？）" param2="" param3="type=0"/>
+<xt_hug_6 id="56" originalRow="56" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="niefei" param="我先下班咯，你们慢慢聊。" param2="" param3="type=0"/>
+<xt_hug_6 id="58" originalRow="58" groupSign="" debugClose="" action="可选对话框" data="" param="$$聂总再见==&gt;聂总再见
+$$聂总再见==&gt;聂总再见
+$$聂总再见==&gt;聂总再见
+$$聂总再见==&gt;聂总再见
+$$聂总再见==&gt;聂总再见
+$$聂总再见==&gt;聂总再见
+$$聂总再见==&gt;聂总再见" param2="" param3=""/>
+<xt_hug_6 id="59" originalRow="59" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="60" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="61" originalRow="61" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="62" originalRow="62" groupSign="聂总再见" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="63" originalRow="63" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="wo" param="{#周易微笑}聂总再见。" param2="" param3="type=0"/>
+<xt_hug_6 id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="wo" param="（几乎感觉不到身体了，那对夫妇也是这样么？）" param2="" param3="type=0"/>
+<xt_hug_6 id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="wo" param="（别放弃，还能活动，还别抵抗了拥抱我吧。）" param2="" param3="type=0"/>
+<xt_hug_6 id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="wo" param="（诶？）" param2="" param3="type=0"/>
+<xt_hug_6 id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="wo" param="（别抵抗了，拥抱我吧拥抱我吧拥抱我吧。）" param2="" param3="type=0"/>
+<xt_hug_6 id="69" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="74" originalRow="74" groupSign="" debugClose="" action="可选对话框" data="" param="$$拥抱我吧==&gt;拥抱我吧
+$$拥抱我吧==&gt;拥抱我吧
+$$拥抱我吧==&gt;拥抱我吧
+$$拥抱我吧==&gt;拥抱我吧
+$$拥抱我吧==&gt;拥抱我吧
+$$拥抱我吧==&gt;拥抱我吧
+$$拥抱我吧==&gt;拥抱我吧" param2="" param3=""/>
+<xt_hug_6 id="75" originalRow="75" groupSign="拥抱我吧" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="wo" param="（拥抱你，可以吗？）" param2="" param3="type=0"/>
+<xt_hug_6 id="77" originalRow="77" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="wo" param="（感觉像泡在温水里。水的触感，热量，湿气。）" param2="" param3="type=0"/>
+<xt_hug_6 id="79" originalRow="79" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="wo" param="（不对！）" param2="" param3="type=0"/>
+<xt_hug_6 id="81" originalRow="81" groupSign="" debugClose="" action="可选对话框" data="" param="$$抵抗==&gt;抵抗
+$$抵抗==&gt;抵抗
+$$抵抗==&gt;抵抗
+$$抵抗==&gt;抵抗
+$$抵抗==&gt;抵抗
+$$抵抗==&gt;抵抗
+$$抵抗==&gt;抵抗" param2="" param3=""/>
+<xt_hug_6 id="82" originalRow="82" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="83" originalRow="83" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="84" originalRow="84" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="85" originalRow="85" groupSign="抵抗" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="86" originalRow="86" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="wo" param="（上一个进我脑子的已经被关在异界回廊了！）" param2="" param3="type=0"/>
+<xt_hug_6 id="88" originalRow="88" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="wo" param="（滚出去！）" param2="" param3="type=0"/>
+<xt_hug_6 id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="wo" param="……帮帮我。" param2="" param3="type=0"/>
+<xt_hug_6 id="91" originalRow="91" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌微笑}你太累了。" param2="" param3="type=0"/>
+<xt_hug_6 id="93" originalRow="93" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳微笑}要好好休息。" param2="" param3="type=0"/>
+<xt_hug_6 id="95" originalRow="95" groupSign="" debugClose="" action="设置角色" data="baixiuzhu" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="{#白秀竹微笑}洗个热水澡吧，让水淹过头顶可是很舒服的哦。" param2="" param3="type=0"/>
+<xt_hug_6 id="97" originalRow="97" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳微笑}困就闭上眼休息。" param2="" param3="type=0"/>
+<xt_hug_6 id="99" originalRow="99" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌微笑}要不要我们拥抱你呢？" param2="" param3="type=0"/>
+<xt_hug_6 id="101" originalRow="101" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="wo" param="（诶？你们？）" param2="" param3="type=0"/>
+<xt_hug_6 id="103" originalRow="103" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="" param="涂凌就站在衣柜面前，正对着仪器沉默。" param2="" param3="type=1"/>
+<xt_hug_6 id="105" originalRow="105" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="106" originalRow="106" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="tuling" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="108" originalRow="108" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳抬了抬头，但没出声。" param2="" param3="type=1"/>
+<xt_hug_6 id="110" originalRow="110" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="111" originalRow="111" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="113" originalRow="113" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="" param="白秀竹拿着速记本，但没有下笔。" param2="" param3="type=1"/>
+<xt_hug_6 id="115" originalRow="115" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="116" originalRow="116" groupSign="" debugClose="" action="设置角色" data="baixiuzhu" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="118" originalRow="118" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="119" originalRow="119" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_hug_6 id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="wo" param="（大家都和女孩子单独接触过了……）" param2="" param3="type=0"/>
+<xt_hug_6 id="121" originalRow="121" groupSign="" debugClose="" action="语法-数值" data="ri_队伍遇袭情况=1" param="" param2="" param3=""/>
+<xt_hug_6 id="122" originalRow="122" groupSign="" debugClose="" action="语法-数值" data="ri_奇怪的沉默1=1" param="" param2="" param3=""/>
+<xt_hug_6 id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="wo" param="（是这样么？已经全军覆没了么？）" param2="" param3="type=0"/>
+<xt_hug_6 id="124" originalRow="124" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_hug_6 id="126" originalRow="126" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="wo" param="（还有什么是我能做的？）" param2="" param3="type=0"/>
+<xt_hug_6 id="128" originalRow="128" groupSign="" debugClose="" action="语法-数值" data="ri_让涂凌抱一抱吧，很舒服的=1" param="" param2="" param3=""/>
+<xt_hug_6 id="129" originalRow="129" groupSign="" debugClose="" action="语法-数值" data="ri_沉到水里去吧，水很暖和=1" param="" param2="" param3=""/>
+<xt_hug_6 id="130" originalRow="130" groupSign="" debugClose="" action="语法-数值" data="ri_做周易太辛苦了，你太累了=1" param="" param2="" param3=""/>
+<xt_hug_6 id="131" originalRow="131" groupSign="" debugClose="" action="语法-数值" data="ri_你已经输了，已经完了=1" param="" param2="" param3=""/>
+<xt_hug_6 id="132" originalRow="132" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_hug_6 id="133" originalRow="133" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="134" originalRow="134" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="135" originalRow="135" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="136" originalRow="136" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="137" originalRow="137" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="138" originalRow="138" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="139" originalRow="139" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_6 id="140" originalRow="140" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

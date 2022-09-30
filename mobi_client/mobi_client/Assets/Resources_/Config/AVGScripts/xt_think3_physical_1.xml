@@ -1,0 +1,28 @@
+<root>
+<xt_think3_physical_1 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="duheng" param="这次的异质物体能训练成绩已经在我手上了，嗯……结果嘛，你们猜猜看吧？" param2="" param3="type=0"/>
+<xt_think3_physical_1 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="要我说的话……通通不！合！格！" param2="" param3="type=0"/>
+<xt_think3_physical_1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="训练时间太短了，这样仓促的考试根本没有一个异质物能合格的。" param2="" param3="type=0"/>
+<xt_think3_physical_1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我看未必，按照之前的成绩推断，有蛮多异质物都是可以合格的。" param2="" param3="type=0"/>
+<xt_think3_physical_1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="经过大数据的精准推算，迷幻映像或者电桩少女是必定合格的！" param2="" param3="type=0"/>
+<xt_think3_physical_1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="哦呦，让我看一眼成绩单~不好意思呀各位，你们三个人里面，只有一个人说对了~" param2="" param3=""/>
+<xt_think3_physical_1 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="周易，你觉得迷幻映像会不会合格呢？" param2="" param3=""/>
+<xt_think3_physical_1 id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_think3_physical_1 id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="13" originalRow="13" groupSign="随便说两句话" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="14" originalRow="14" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="你来了？正好。" param2="" param3=""/>
+<xt_think3_physical_1 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="这次的异质物体能训练成绩已经出来了。" param2="" param3=""/>
+<xt_think3_physical_1 id="18" originalRow="18" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_think3_physical_1 id="19" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="22" originalRow="22" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_1 id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

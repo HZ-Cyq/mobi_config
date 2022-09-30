@@ -1,0 +1,268 @@
+<root>
+<NewTest_WulianNPC id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="2" originalRow="2" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="3" originalRow="3" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="请选择您的无脸英雄。" param2="" param3="type=1"/>
+<NewTest_WulianNPC id="5" originalRow="5" groupSign="选英雄" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="6" originalRow="6" groupSign="" debugClose="" action="可选对话框" data="" param="$$标男1==&gt;标男1
+$$标男2==&gt;标男2
+$$标女1==&gt;标女1
+$$返回上一步==&gt;返回" param2="" param3=""/>
+<NewTest_WulianNPC id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="8" originalRow="8" groupSign="标男1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="9" originalRow="9" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="npc_biaonan001" param="pos=中" param2="" param3=""/>
+<NewTest_WulianNPC id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="请选择角色站位。" param2="" param3="type=1"/>
+<NewTest_WulianNPC id="12" originalRow="12" groupSign="" debugClose="" action="可选对话框" data="" param="$$左==&gt;npc标准男01左
+$$中==&gt;角色转向1
+$$右==&gt;npc标准男01右
+$$重选角色==&gt;开始" param2="" param3=""/>
+<NewTest_WulianNPC id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="14" originalRow="14" groupSign="npc标准男01左" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<NewTest_WulianNPC id="16" originalRow="16" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向1" param2="" param3=""/>
+<NewTest_WulianNPC id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="18" originalRow="18" groupSign="npc标准男01右" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<NewTest_WulianNPC id="20" originalRow="20" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向1" param2="" param3=""/>
+<NewTest_WulianNPC id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="22" originalRow="22" groupSign="角色转向1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="23" originalRow="23" groupSign="" debugClose="" action="可选对话框" data="" param="$$左转==&gt;左转1
+$$右转==&gt;右转1
+$$回正==&gt;回正1
+$$下一步==&gt;npc标准男01
+$$重选站位==&gt;标男1" param2="" param3=""/>
+<NewTest_WulianNPC id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="25" originalRow="25" groupSign="左转1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{角色转身,npc_biaonan001,-22.5}" param2="" param3=""/>
+<NewTest_WulianNPC id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向1" param2="" param3=""/>
+<NewTest_WulianNPC id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="29" originalRow="29" groupSign="右转1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{角色转身,npc_biaonan001,+22.5}" param2="" param3=""/>
+<NewTest_WulianNPC id="31" originalRow="31" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向1" param2="" param3=""/>
+<NewTest_WulianNPC id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="33" originalRow="33" groupSign="回正1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{角色转身,npc_biaonan001,正,0.4}" param2="" param3=""/>
+<NewTest_WulianNPC id="35" originalRow="35" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向1" param2="" param3=""/>
+<NewTest_WulianNPC id="36" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="38" originalRow="38" groupSign="npc标准男01" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="39" originalRow="39" groupSign="1" debugClose="" action="可选对话框" data="" param="$$选择可搭配表情==&gt;选择表情1
+$$愤怒动作==&gt;愤怒动作1
+$$紧张动作==&gt;紧张动作1
+$$重选角度==&gt;角色转向1" param2="" param3=""/>
+<NewTest_WulianNPC id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="41" originalRow="41" groupSign="愤怒动作1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01愤怒动作}" param2="" param3=""/>
+<NewTest_WulianNPC id="43" originalRow="43" groupSign="1" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01愤怒动作恢复}" param2="" param3=""/>
+<NewTest_WulianNPC id="44" originalRow="44" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男01" param2="" param3=""/>
+<NewTest_WulianNPC id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="46" originalRow="46" groupSign="紧张动作1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01紧张动作}" param2="" param3=""/>
+<NewTest_WulianNPC id="48" originalRow="48" groupSign="1" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01紧张动作恢复}" param2="" param3=""/>
+<NewTest_WulianNPC id="49" originalRow="49" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男01" param2="" param3=""/>
+<NewTest_WulianNPC id="50" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="52" originalRow="52" groupSign="选择表情1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="53" originalRow="53" groupSign="" debugClose="" action="可选对话框" data="" param="$$待机表情==&gt;待机表情1
+$$愤怒表情==&gt;愤怒表情1
+$$紧张表情==&gt;紧张表情1" param2="" param3=""/>
+<NewTest_WulianNPC id="54" originalRow="54" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="55" originalRow="55" groupSign="待机表情1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01待机表情}这里是待机表情" param2="" param3=""/>
+<NewTest_WulianNPC id="57" originalRow="57" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男01" param2="" param3=""/>
+<NewTest_WulianNPC id="58" originalRow="58" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="59" originalRow="59" groupSign="愤怒表情1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01愤怒表情}这里是愤怒表情" param2="" param3=""/>
+<NewTest_WulianNPC id="61" originalRow="61" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男01" param2="" param3=""/>
+<NewTest_WulianNPC id="62" originalRow="62" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="63" originalRow="63" groupSign="紧张表情1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01紧张表情}这里是紧张表情" param2="" param3=""/>
+<NewTest_WulianNPC id="65" originalRow="65" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男01" param2="" param3=""/>
+<NewTest_WulianNPC id="66" originalRow="66" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="67" originalRow="67" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="68" originalRow="68" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="69" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="70" originalRow="70" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="71" originalRow="71" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="72" originalRow="72" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="73" originalRow="73" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="74" originalRow="74" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="75" originalRow="75" groupSign="标男2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="76" originalRow="76" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="77" originalRow="77" groupSign="" debugClose="" action="设置角色" data="npc_biaonan002" param="pos=中" param2="" param3=""/>
+<NewTest_WulianNPC id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="" param="请选择角色站位。" param2="" param3="type=1"/>
+<NewTest_WulianNPC id="79" originalRow="79" groupSign="" debugClose="" action="可选对话框" data="" param="$$左==&gt;npc标准男02左
+$$中==&gt;角色转向2
+$$右==&gt;npc标准男02右
+$$重选角色==&gt;开始" param2="" param3=""/>
+<NewTest_WulianNPC id="80" originalRow="80" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="81" originalRow="81" groupSign="npc标准男02左" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="82" originalRow="82" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<NewTest_WulianNPC id="83" originalRow="83" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_WulianNPC id="84" originalRow="84" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="85" originalRow="85" groupSign="npc标准男02右" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="86" originalRow="86" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<NewTest_WulianNPC id="87" originalRow="87" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_WulianNPC id="88" originalRow="88" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="89" originalRow="89" groupSign="角色转向2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="90" originalRow="90" groupSign="" debugClose="" action="可选对话框" data="" param="$$左转==&gt;左转2
+$$右转==&gt;右转2
+$$回正==&gt;回正2
+$$下一步==&gt;npc标准男02
+$$重选站位==&gt;标男2" param2="" param3=""/>
+<NewTest_WulianNPC id="91" originalRow="91" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="92" originalRow="92" groupSign="左转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{角色转身,npc_biaonan002,-22.5}" param2="" param3=""/>
+<NewTest_WulianNPC id="94" originalRow="94" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_WulianNPC id="95" originalRow="95" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="96" originalRow="96" groupSign="右转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{角色转身,npc_biaonan002,+22.5}" param2="" param3=""/>
+<NewTest_WulianNPC id="98" originalRow="98" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_WulianNPC id="99" originalRow="99" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="100" originalRow="100" groupSign="回正2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="101" originalRow="101" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{角色转身,npc_biaonan002,正,0.4}" param2="" param3=""/>
+<NewTest_WulianNPC id="102" originalRow="102" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<NewTest_WulianNPC id="103" originalRow="103" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="104" originalRow="104" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="105" originalRow="105" groupSign="npc标准男02" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="106" originalRow="106" groupSign="1" debugClose="" action="可选对话框" data="" param="$$选择可搭配表情==&gt;选择表情2
+$$愤怒动作==&gt;愤怒动作2
+$$紧张动作==&gt;紧张动作2
+$$重选角度==&gt;角色转向2" param2="" param3=""/>
+<NewTest_WulianNPC id="107" originalRow="107" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="108" originalRow="108" groupSign="愤怒动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02愤怒动作}" param2="" param3=""/>
+<NewTest_WulianNPC id="110" originalRow="110" groupSign="1" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02愤怒动作恢复}" param2="" param3=""/>
+<NewTest_WulianNPC id="111" originalRow="111" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男02" param2="" param3=""/>
+<NewTest_WulianNPC id="112" originalRow="112" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="113" originalRow="113" groupSign="紧张动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02紧张动作}" param2="" param3=""/>
+<NewTest_WulianNPC id="115" originalRow="115" groupSign="1" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02紧张动作恢复}" param2="" param3=""/>
+<NewTest_WulianNPC id="116" originalRow="116" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男02" param2="" param3=""/>
+<NewTest_WulianNPC id="117" originalRow="117" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="118" originalRow="118" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="119" originalRow="119" groupSign="选择表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="120" originalRow="120" groupSign="" debugClose="" action="可选对话框" data="" param="$$待机表情==&gt;待机表情2
+$$愤怒表情==&gt;愤怒表情2
+$$紧张表情==&gt;紧张表情2" param2="" param3=""/>
+<NewTest_WulianNPC id="121" originalRow="121" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="122" originalRow="122" groupSign="待机表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02待机表情}这里是待机表情" param2="" param3=""/>
+<NewTest_WulianNPC id="124" originalRow="124" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男02" param2="" param3=""/>
+<NewTest_WulianNPC id="125" originalRow="125" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="126" originalRow="126" groupSign="愤怒表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02愤怒表情}这里是愤怒表情" param2="" param3=""/>
+<NewTest_WulianNPC id="128" originalRow="128" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男02" param2="" param3=""/>
+<NewTest_WulianNPC id="129" originalRow="129" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="130" originalRow="130" groupSign="紧张表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02紧张表情}这里是紧张表情" param2="" param3=""/>
+<NewTest_WulianNPC id="132" originalRow="132" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准男02" param2="" param3=""/>
+<NewTest_WulianNPC id="133" originalRow="133" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="134" originalRow="134" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="135" originalRow="135" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="136" originalRow="136" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="137" originalRow="137" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="138" originalRow="138" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="139" originalRow="139" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="140" originalRow="140" groupSign="标女1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="141" originalRow="141" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="142" originalRow="142" groupSign="" debugClose="" action="设置角色" data="npc_biaonv001" param="pos=中" param2="" param3=""/>
+<NewTest_WulianNPC id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="" param="请选择角色站位。" param2="" param3="type=1"/>
+<NewTest_WulianNPC id="144" originalRow="144" groupSign="" debugClose="" action="可选对话框" data="" param="$$左==&gt;npc标准女01左
+$$中==&gt;角色转向3
+$$右==&gt;npc标准女01右
+$$重选角色==&gt;开始" param2="" param3=""/>
+<NewTest_WulianNPC id="145" originalRow="145" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="146" originalRow="146" groupSign="npc标准女01左" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="147" originalRow="147" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<NewTest_WulianNPC id="148" originalRow="148" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向3" param2="" param3=""/>
+<NewTest_WulianNPC id="149" originalRow="149" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="150" originalRow="150" groupSign="npc标准女01右" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="151" originalRow="151" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<NewTest_WulianNPC id="152" originalRow="152" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向3" param2="" param3=""/>
+<NewTest_WulianNPC id="153" originalRow="153" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="154" originalRow="154" groupSign="角色转向3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="155" originalRow="155" groupSign="" debugClose="" action="可选对话框" data="" param="$$左转==&gt;左转3
+$$右转==&gt;右转3
+$$回正==&gt;回正3
+$$下一步==&gt;npc标准女01
+$$重选站位==&gt;标女1" param2="" param3=""/>
+<NewTest_WulianNPC id="156" originalRow="156" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="157" originalRow="157" groupSign="左转3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{角色转身,npc_biaonv001,-22.5}" param2="" param3=""/>
+<NewTest_WulianNPC id="159" originalRow="159" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向3" param2="" param3=""/>
+<NewTest_WulianNPC id="160" originalRow="160" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="161" originalRow="161" groupSign="右转3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="162" originalRow="162" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{角色转身,npc_biaonv001,+22.5}" param2="" param3=""/>
+<NewTest_WulianNPC id="163" originalRow="163" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向3" param2="" param3=""/>
+<NewTest_WulianNPC id="164" originalRow="164" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="165" originalRow="165" groupSign="回正3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="166" originalRow="166" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{角色转身,npc_biaonv001,正,0.4}" param2="" param3=""/>
+<NewTest_WulianNPC id="167" originalRow="167" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向3" param2="" param3=""/>
+<NewTest_WulianNPC id="168" originalRow="168" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="169" originalRow="169" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="170" originalRow="170" groupSign="npc标准女01" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="171" originalRow="171" groupSign="1" debugClose="" action="可选对话框" data="" param="$$选择可搭配表情==&gt;选择表情3
+$$愤怒动作==&gt;愤怒动作3
+$$紧张动作==&gt;紧张动作3
+$$重选角度==&gt;角色转向3" param2="" param3=""/>
+<NewTest_WulianNPC id="172" originalRow="172" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="173" originalRow="173" groupSign="愤怒动作3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01愤怒动作}" param2="" param3=""/>
+<NewTest_WulianNPC id="175" originalRow="175" groupSign="1" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01愤怒动作恢复}" param2="" param3=""/>
+<NewTest_WulianNPC id="176" originalRow="176" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准女01" param2="" param3=""/>
+<NewTest_WulianNPC id="177" originalRow="177" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="178" originalRow="178" groupSign="紧张动作3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01紧张动作}" param2="" param3=""/>
+<NewTest_WulianNPC id="180" originalRow="180" groupSign="1" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01紧张动作恢复}" param2="" param3=""/>
+<NewTest_WulianNPC id="181" originalRow="181" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准女01" param2="" param3=""/>
+<NewTest_WulianNPC id="182" originalRow="182" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="183" originalRow="183" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="184" originalRow="184" groupSign="选择表情3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="185" originalRow="185" groupSign="" debugClose="" action="可选对话框" data="" param="$$待机表情==&gt;待机表情3
+$$愤怒表情==&gt;愤怒表情3
+$$紧张表情==&gt;紧张表情3" param2="" param3=""/>
+<NewTest_WulianNPC id="186" originalRow="186" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="187" originalRow="187" groupSign="待机表情3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="188" originalRow="188" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01待机表情}这里是待机表情" param2="" param3=""/>
+<NewTest_WulianNPC id="189" originalRow="189" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准女01" param2="" param3=""/>
+<NewTest_WulianNPC id="190" originalRow="190" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="191" originalRow="191" groupSign="愤怒表情3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="192" originalRow="192" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01愤怒表情}这里是愤怒表情" param2="" param3=""/>
+<NewTest_WulianNPC id="193" originalRow="193" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准女01" param2="" param3=""/>
+<NewTest_WulianNPC id="194" originalRow="194" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="195" originalRow="195" groupSign="紧张表情3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="196" originalRow="196" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01紧张表情}这里是紧张表情" param2="" param3=""/>
+<NewTest_WulianNPC id="197" originalRow="197" groupSign="" debugClose="" action="跳转-标签" data="" param="npc标准女01" param2="" param3=""/>
+<NewTest_WulianNPC id="198" originalRow="198" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="199" originalRow="199" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="200" originalRow="200" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="201" originalRow="201" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="202" originalRow="202" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="203" originalRow="203" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="204" originalRow="204" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="205" originalRow="205" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="206" originalRow="206" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="207" originalRow="207" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="208" originalRow="208" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="209" originalRow="209" groupSign="返回" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="210" originalRow="210" groupSign="" debugClose="" action="跳转-标签" data="" param="Test_zhujuetuan.开始" param2="" param3=""/>
+<NewTest_WulianNPC id="211" originalRow="211" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="212" originalRow="212" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="213" originalRow="213" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="214" originalRow="214" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="215" originalRow="215" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="216" originalRow="216" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="217" originalRow="217" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="218" originalRow="218" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="219" originalRow="219" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="220" originalRow="220" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="221" originalRow="221" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="222" originalRow="222" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="223" originalRow="223" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="224" originalRow="224" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="225" originalRow="225" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_WulianNPC id="226" originalRow="226" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

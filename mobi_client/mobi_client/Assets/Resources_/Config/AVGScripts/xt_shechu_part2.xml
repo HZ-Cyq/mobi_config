@@ -1,0 +1,32 @@
+<root>
+<xt_shechu_part2 id="0" originalRow="0" groupSign="开始"/>
+<xt_shechu_part2 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_shechu_part2 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="{music=bgm_disccusion}——！" param2="" param3="type=0"/>
+<xt_shechu_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="就是坐在电脑前那个吗！" param2="" param3="type=0"/>
+<xt_shechu_part2 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_shechu_part2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}嗯……信号波形不安定，异质波动III。{1}{#涂凌平静表情}" param2="" param3="type=0"/>
+<xt_shechu_part2 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_忧伤_动作_循环_01" param3=""/>
+<xt_shechu_part2 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤表情}呜呜呜——" param2="" param3="type=0"/>
+<xt_shechu_part2 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤动作恢复}人都被吓走了，但我今天做晚间清洁值班。" param2="" param3="type=0"/>
+<xt_shechu_part2 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎打气动作}要是不能在下班之前搞定它，我又要被炒了诶！" param2="" param3="type=0"/>
+<xt_shechu_part2 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="这不是你的责任吧？" param2="" param3="type=0"/>
+<xt_shechu_part2 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#闪白震slash}{#李加虎紧张动作}这……说来话长。" param2="" param3="type=0"/>
+<xt_shechu_part2 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<xt_shechu_part2 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}那就先别说了，这是寄生型！" param2="" param3="type=0"/>
+<xt_shechu_part2 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_shechu_part2 id="15" originalRow="15" debugClose="" action="角色台词" data="tuling" param="躯干部分还有人类的生命体征。" param2="" param3="type=0"/>
+<xt_shechu_part2 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊恐动作}{#涂凌惊恐表情}但是……正在被覆写，得立刻分离它。" param2="" param3="type=0"/>
+<xt_shechu_part2 id="17" originalRow="17" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part2 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="你先找个隔间躲起来。" param2="" param3="type=0"/>
+<xt_shechu_part2 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_害怕_动作_开始_01" param3=""/>
+<xt_shechu_part2 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎害怕表情}要开打么？在这里？" param2="" param3="type=0"/>
+<xt_shechu_part2 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="这些设备都没有上保险的哦。" param2="" param3="type=0"/>
+<xt_shechu_part2 id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_得意_动作_开始_01" param3=""/>
+<xt_shechu_part2 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}外勤破坏会有专门的人来接洽，你快点跑就对了。" param2="" param3="type=0"/>
+<xt_shechu_part2 id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_shechu_part2 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞军体拳}上吧，趁宿主还有气！" param2="" param3="type=0"/>
+<xt_shechu_part2 id="26" originalRow="26" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part2 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="强制收容！{music=off}" param2="" param3="type=0"/>
+<xt_shechu_part2 id="28" originalRow="28" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part2 id="29" originalRow="29" groupSign="结束" action="" data="" param="" param2="" param3=""/>
+</root>

@@ -1,0 +1,23 @@
+<root>
+<scpMix id="0" originalRow="0" groupSign="开始" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<scpMix id="1" originalRow="1" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
+<scpMix id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<scpMix id="3" originalRow="3" debugClose="1" action="角色台词" data="" param="{music=low}" param2="" param3=""/>
+<scpMix id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<scpMix id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2="" param3=""/>
+<scpMix id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}{#涂凌平静表情}刚刚获得那些好像是异质物的粒子！" param2="" param3=""/>
+<scpMix id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="那是干嘛的东西？" param2="" param3=""/>
+<scpMix id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作恢复}{#涂凌待机表情}这个可是很宝贵的东西呢！" param2="" param3=""/>
+<scpMix id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}相同性质的粒子会相互吸引，和本体融合后可以释放出很强大的能量！" param2="" param3=""/>
+<scpMix id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="额？完全没有听懂=。=" param2="" param3=""/>
+<scpMix id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌点赞动作}{#涂凌平静表情}百闻不如一见！" param2="" param3=""/>
+<scpMix id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="在异质物界面中，点击右下角的&lt;color=#ECFE1E&gt;粒子融合&lt;/color&gt;按钮，就可以进行融合啦~" param2="" param3=""/>
+<scpMix id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}{#涂凌待机表情}老规矩~我帮你把界面打开吧~" param2="" param3=""/>
+<scpMix id="14" originalRow="14" groupSign="" debugClose="" action="系统-打开界面" data="ui_unit_info" param="102"/>
+<scpMix id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="快来试试融合后的异质物有没有变得更强吧~" param2="" param3=""/>
+<scpMix id="16" originalRow="16" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<scpMix id="17" originalRow="17" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<scpMix id="18" originalRow="18" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<scpMix id="19" originalRow="19" debugClose="1" action="角色台词" data="" param="{music=high}"/>
+<scpMix id="20" originalRow="20" groupSign="结束"/>
+</root>

@@ -1,0 +1,99 @@
+<root>
+<C3_dingshi_outside id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="1" originalRow="1" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="2" originalRow="2" groupSign="汇合" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_dingshi_outside id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;{s=0.09}2037年5月7日 01:18 {0.5}\n顶石大厦75层 特种研发部&lt;/z&gt;" param2="" param3="type=1"/>
+<C3_dingshi_outside id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<C3_dingshi_outside id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}{#凯瑟琳2喝药动作}可恶！
+打算靠围剿方式削弱我的体力么……" param2="" param3="type=0"/>
+<C3_dingshi_outside id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}{#凯瑟琳2喝药动作恢复}哼哼……呵呵呵呵，那便来试试看啊！！" param2="" param3="type=0"/>
+<C3_dingshi_outside id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<C3_dingshi_outside id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作}{#聂飞尴尬表情}凯瑟琳！！" param2="" param3="type=0"/>
+<C3_dingshi_outside id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="你没事吧！？我们过来帮你！{#聂飞愤怒动作恢复}{#聂飞严肃表情}" param2="" param3="type=0"/>
+<C3_dingshi_outside id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}哎呀，你们怎么来得这么快。" param2="" param3="type=0"/>
+<C3_dingshi_outside id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我才刚想开始享受一下呢~~" param2="" param3="type=0"/>
+<C3_dingshi_outside id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}享受你个头啦！" param2="" param3="type=0"/>
+<C3_dingshi_outside id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（这种时候还有空开玩笑。）&lt;/z&gt;" param2="" param3="type=0"/>
+<C3_dingshi_outside id="15" originalRow="15" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="16" originalRow="16" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="17" originalRow="17" groupSign="" debugClose="" action="RPGActor" data="清洁者1" param="1" param2="" param3=""/>
+<C3_dingshi_outside id="18" originalRow="18" groupSign="" debugClose="" action="存档" data="" param="13025" param2="" param3=""/>
+<C3_dingshi_outside id="19" originalRow="19" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_dingshi_outside id="20" originalRow="20" groupSign="1032胜利" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="21" originalRow="21" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_dingshi_outside id="22" originalRow="22" groupSign="" debugClose="" action="RPGActor" data="清洁者1" param="2" param2="" param3=""/>
+<C3_dingshi_outside id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="继续解决剩下的吧！" param2="" param3=""/>
+<C3_dingshi_outside id="24" originalRow="24" groupSign="" debugClose="" action="RPGActor" data="清洁者2" param="1" param2="" param3=""/>
+<C3_dingshi_outside id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_dingshi_outside id="26" originalRow="26" groupSign="1032失败" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="27" originalRow="27" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_dingshi_outside id="28" originalRow="28" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<C3_dingshi_outside id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这么简单想打败我们……{0.6}
+{#凯瑟琳2严肃表情}可没那么容易！" param2="" param3=""/>
+<C3_dingshi_outside id="30" originalRow="30" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="31" originalRow="31" groupSign="" debugClose="" action="RPGActor" data="清洁者1" param="1" param2="" param3=""/>
+<C3_dingshi_outside id="32" originalRow="32" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_dingshi_outside id="33" originalRow="33" groupSign="1033胜利" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="34" originalRow="34" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_dingshi_outside id="35" originalRow="35" groupSign="" debugClose="" action="RPGActor" data="清洁者2" param="2" param2="" param3=""/>
+<C3_dingshi_outside id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="wo" param="其他的也攻过来了！调整队形！" param2="" param3=""/>
+<C3_dingshi_outside id="37" originalRow="37" groupSign="" debugClose="" action="RPGActor" data="清洁者3" param="1" param2="" param3=""/>
+<C3_dingshi_outside id="38" originalRow="38" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_dingshi_outside id="39" originalRow="39" groupSign="1033失败" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="40" originalRow="40" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_dingshi_outside id="41" originalRow="41" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<C3_dingshi_outside id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这么简单想打败我们……{0.6}
+{#凯瑟琳2严肃表情}可没那么容易！" param2="" param3=""/>
+<C3_dingshi_outside id="43" originalRow="43" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="44" originalRow="44" groupSign="" debugClose="" action="RPGActor" data="清洁者2" param="1" param2="" param3=""/>
+<C3_dingshi_outside id="45" originalRow="45" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_dingshi_outside id="46" originalRow="46" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="47" originalRow="47" groupSign="户外战斗胜利" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="48" originalRow="48" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_dingshi_outside id="49" originalRow="49" groupSign="" debugClose="" action="RPGActor" data="清洁者3" param="2" param2="" param3=""/>
+<C3_dingshi_outside id="50" originalRow="50" groupSign="" debugClose="" action="播放音乐" data="bgm_conclusion" param="" param2="" param3=""/>
+<C3_dingshi_outside id="51" originalRow="51" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_思考_动作_开始_01" param3=""/>
+<C3_dingshi_outside id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}这些“清洁者”出现得真诡异啊……" param2="" param3="type=0"/>
+<C3_dingshi_outside id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="wo" param="可为什么这么专盯着凯瑟琳去呢？
+像有人指使似的……" param2="" param3="type=0"/>
+<C3_dingshi_outside id="54" originalRow="54" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<C3_dingshi_outside id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="kaislein02" param="{#闪白ding}{#凯瑟琳2思考表情}你是说，我有什么他们想要的东西？" param2="" param3=""/>
+<C3_dingshi_outside id="56" originalRow="56" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
+<C3_dingshi_outside id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}你不是只带了化验报告回来吗？" param2="" param3="type=0"/>
+<C3_dingshi_outside id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2得意表情}你们肯定想不到，这些液体里含有多少血……" param2="" param3=""/>
+<C3_dingshi_outside id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="可能会推翻我们之前所有的猜测~" param2="" param3=""/>
+<C3_dingshi_outside id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="wo" param="！？{#聂飞思考动作恢复}" param2="" param3=""/>
+<C3_dingshi_outside id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}看来今晚要加班到天亮了喵！" param2="" param3=""/>
+<C3_dingshi_outside id="62" originalRow="62" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="63" originalRow="63" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_开始_02" param3=""/>
+<C3_dingshi_outside id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌憋气2表情}果然，大神的死不会这么简单！" param2="" param3=""/>
+<C3_dingshi_outside id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机表情}别离开现场太久，我们回楼上再讨论吧。" param2="" param3=""/>
+<C3_dingshi_outside id="66" originalRow="66" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="" param="看着大家陆续走进了大厦，我不禁抬头。" param2="" param3="type=1"/>
+<C3_dingshi_outside id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="" param="夜色里，顶石大厦像一柄黑色剑，直插云层。" param2="" param3="type=1"/>
+<C3_dingshi_outside id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="" param="一阵寒意突然爬上了我的身体。" param2="" param3="type=1"/>
+<C3_dingshi_outside id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="wo" param="阿嚏——！" param2="" param3=""/>
+<C3_dingshi_outside id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="wo" param="错觉吗？总感觉我们被监视了一样……" param2="" param3="type=0"/>
+<C3_dingshi_outside id="72" originalRow="72" groupSign="" debugClose="1" action="切换场景" data="C3_dingshi_QYZ_office_dark" param="" param2="" param3=""/>
+<C3_dingshi_outside id="73" originalRow="73" groupSign="" debugClose="" action="打开插画" data="C3_continue" param="" param2="" param3=""/>
+<C3_dingshi_outside id="74" originalRow="74" groupSign="3&gt;&gt;" debugClose="" action="关闭插画" data="C3_continue" param="" param2="" param3=""/>
+<C3_dingshi_outside id="75" originalRow="75" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=yellow&gt;第二章，未完待续……&lt;/z&gt;" param2="" param3=""/>
+<C3_dingshi_outside id="77" originalRow="77" groupSign="" debugClose="" action="语法-数值" data="rqs_3援助凯瑟琳=2" param="" param2="" param3=""/>
+<C3_dingshi_outside id="78" originalRow="78" groupSign="" debugClose="1" action="语法-数值" data="rqs_3对峙黄权=1" param="" param2="" param3=""/>
+<C3_dingshi_outside id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=yellow&gt;欢迎大家继续体验其他内容。&lt;/z&gt;" param2="" param3=""/>
+<C3_dingshi_outside id="80" originalRow="80" groupSign="" debugClose="1" action="切换场景" data="" param="home" param2="" param3=""/>
+<C3_dingshi_outside id="81" originalRow="81" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_dingshi_outside id="82" originalRow="82" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="83" originalRow="83" groupSign="户外战斗失败" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="84" originalRow="84" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_dingshi_outside id="85" originalRow="85" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<C3_dingshi_outside id="86" originalRow="86" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="再来……{0.6}
+{#凯瑟琳2严肃表情}不会输给你们的！" param2="" param3=""/>
+<C3_dingshi_outside id="87" originalRow="87" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="88" originalRow="88" groupSign="" debugClose="" action="RPGActor" data="清洁者3" param="1" param2="" param3=""/>
+<C3_dingshi_outside id="89" originalRow="89" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_dingshi_outside id="90" originalRow="90" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_dingshi_outside id="91" originalRow="91" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

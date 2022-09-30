@@ -1,0 +1,187 @@
+<root>
+<Test_Characterlens id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<Test_Characterlens id="1" originalRow="1" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<Test_Characterlens id="2" originalRow="2" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL02" param2="" param3=""/>
+<Test_Characterlens id="3" originalRow="3" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极" param2="" param3=""/>
+<Test_Characterlens id="4" originalRow="4" groupSign="" debugClose="" action="角色表情" data="kaiselin" param="凯瑟琳_紧张_上脸_开始_01;凯瑟琳_紧张_下嘴_开始_01;右看_开始_01" param2="" param3=""/>
+<Test_Characterlens id="5" originalRow="5" groupSign="0.5&gt;&gt;" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="6" originalRow="6" groupSign="" debugClose="" action="RPGActor" data="cm_r2" param="2" param2="" param3=""/>
+<Test_Characterlens id="7" originalRow="7" groupSign="1&gt;&gt;" debugClose="1" action="角色台词" data="" param="&lt;color=#5AF156&gt;需要&lt;/color&gt;&lt;color=#ECFE1E&gt;校源&lt;/color&gt;&lt;color=#5AF156&gt;补一张走廊墙面的特效板，可用C0_wall这张临时图制作。&lt;/color&gt;" param2="" param3=""/>
+<Test_Characterlens id="8" originalRow="8" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="1" param2="" param3=""/>
+<Test_Characterlens id="9" originalRow="9" groupSign="" debugClose="1" action="画面特效移除" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白ding}好像……是个……美女？" param2="" param3=""/>
+<Test_Characterlens id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="我冷静下来睁开眼睛，{#凯瑟琳转头左小右转眼}
+发现自己被她拉到了拐角的墙边。" param2="" param3=""/>
+<Test_Characterlens id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="stranger1" param="{角色转头,kaiselin,下小,}{角色表情,kaiselin,;;待机_开始_01}{#凯瑟琳魅惑表情}{#凯瑟琳紧张动作}嘘──别出声。" param2="VO_kaiselin_001" param3=""/>
+<Test_Characterlens id="13" originalRow="13" groupSign="" debugClose="1" action="角色台词" data="" param="贴得好近……{#凯瑟琳转头右极左转眼}
+我的脖子被她紧紧按住……没法抬起来" param2="" param3=""/>
+<Test_Characterlens id="14" originalRow="14" groupSign="1&gt;&gt;" debugClose="" action="角色转头" data="kaiselin" param="右极" param2="" param3=""/>
+<Test_Characterlens id="15" originalRow="15" groupSign="" debugClose="" action="角色表情" data="kaiselin" param="凯瑟琳_紧张_上脸_开始_01;凯瑟琳_紧张_下嘴_开始_01;右看_开始_01" param2="" param3=""/>
+<Test_Characterlens id="16" originalRow="16" groupSign="0.5&gt;&gt;" debugClose="" action="角色台词" data="" param="我顺从的点点头，
+应该是紧张的咽了下口水。" param2="" param3=""/>
+<Test_Characterlens id="17" originalRow="17" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
+<Test_Characterlens id="18" originalRow="18" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL02_close" param2="" param3=""/>
+<Test_Characterlens id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="我把头扭到一边，
+看到她胸前工作牌上的文字──" param2="" param3=""/>
+<Test_Characterlens id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳，STS首席医务官。" param2="" param3=""/>
+<Test_Characterlens id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳转头右小左转眼}贴得太近，芬芳馥郁的香味一直往我鼻子里钻。" param2="" param3=""/>
+<Test_Characterlens id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（太香了……头好像有点沉……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Characterlens id="23" originalRow="23" groupSign="" debugClose="" action="语法-数值" data="xuanxiang2=1" param="" param2="" param3=""/>
+<Test_Characterlens id="24" originalRow="24" groupSign="" debugClose="" action="可选对话框" data="" param="$$沉下去==&gt;埋进去
+$$保持距离==&gt;保持距离" param2="" param3=""/>
+<Test_Characterlens id="25" originalRow="25" groupSign="埋进去" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（我好像控制不住自己了……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Characterlens id="26" originalRow="26" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL02_closer" param2="" param3=""/>
+<Test_Characterlens id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="28" originalRow="28" groupSign="" debugClose="" action="跳转-标签" data="" param="继续" param2="" param3=""/>
+<Test_Characterlens id="29" originalRow="29" groupSign="保持距离" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（还，还是做个绅士吧……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Characterlens id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="" param="大脑虽然这么想，
+但是身体已经不受控制了……" param2="" param3=""/>
+<Test_Characterlens id="31" originalRow="31" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL02_closer" param2="" param3=""/>
+<Test_Characterlens id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="33" originalRow="33" groupSign="" debugClose="" action="跳转-标签" data="" param="继续" param2="" param3=""/>
+<Test_Characterlens id="34" originalRow="34" groupSign="继续" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色转头,kaiselin,,}{角色表情,kaiselin,;;待机_开始_01}" param2="" param3=""/>
+<Test_Characterlens id="36" originalRow="36" groupSign="" debugClose="1" action="场景镜头FOV" data="45" param="0.4" param2="" param3=""/>
+<Test_Characterlens id="37" originalRow="37" groupSign="" debugClose="" action="角色镜头关闭" data="kaiselin" param="kaiselin_charcamTL02_closer" param2="" param3=""/>
+<Test_Characterlens id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳惊讶表情}{#凯瑟琳严肃动作}{#闪白震slash}{size=45}啊！！！{/size}{1.2}{autoend}" param2="VO_kaiselin_002" param3=""/>
+<Test_Characterlens id="39" originalRow="39" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2="" param3="TURE|TURE|FALSE"/>
+<Test_Characterlens id="40" originalRow="40" groupSign="" debugClose="1" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
+<Test_Characterlens id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震punch}{#闪白震punch}凯瑟琳忽然脸色一变将我推了出去。" param2="" param3=""/>
+<Test_Characterlens id="42" originalRow="42" groupSign="" debugClose="1" action="角色镜头关闭" data="kaiselin" param="kaiselin_charcamTL03" param2="" param3=""/>
+<Test_Characterlens id="43" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="44" originalRow="44" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="45" originalRow="45" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="46" originalRow="46" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="47" originalRow="47" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="48" originalRow="48" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3="TRUE;TRUE;TRUE"/>
+<Test_Characterlens id="49" originalRow="49" groupSign="" debugClose="" action="语法-数值" data="rqs_第一章_探讨对策=2" param="" param2="" param3=""/>
+<Test_Characterlens id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_Tuling}" param2="" param3="1|2"/>
+<Test_Characterlens id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌打字表情}你好，{0.5}我叫周易，是新来调查员。
+{0.5}请问你……" param2="" param3=""/>
+<Test_Characterlens id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="stranger" param="{#闪白震slash}{#涂凌惊讶动作}{#涂凌惊讶表情}啊呜！" param2="VO_tuling_001" param3=""/>
+<Test_Characterlens id="53" originalRow="53" groupSign="1.7&gt;&gt;" debugClose="" action="角色台词" data="wo" param="{#涂凌紧张表情}&lt;z=blue&gt;（吓、吓我一激灵。）&lt;/z&gt;" param2="" param3="type=1"/>
+<Test_Characterlens id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="wo" param="你……{0.5}出汗了。" param2="" param3="type=1"/>
+<Test_Characterlens id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="" param="她好像没听到我说的话……" param2="" param3=""/>
+<Test_Characterlens id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="" param="不过仔细一看脸蛋倒还挺可爱的……" param2="" param3="type=1"/>
+<Test_Characterlens id="57" originalRow="57" groupSign="" debugClose="" action="可选对话框" data="" param="$$戳她的脸==&gt;戳涂凌脸
+$$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
+<Test_Characterlens id="58" originalRow="58" groupSign="戳涂凌脸" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="stranger" param="{特殊-闪白效果,1}{#闪白震slash}{#涂凌憋气表情}{#涂凌憋气动作}呜呜~~~~~~" param2="VO_tuling_002" param3="type=1"/>
+<Test_Characterlens id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="" param="手指还没碰到她的脸，
+她突然就像开关被触发一样反弹开了。" param2="" param3="type=1"/>
+<Test_Characterlens id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="wo" param="哇……" param2="" param3="type=1"/>
+<Test_Characterlens id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="" param="好像憋气憋得很辛苦，
+身体已然开始微微的颤抖。{#涂凌动漫颤抖}{sleep=0.6}\n{播放音效,voice_inspiration}{特殊-闪白效果,1}{shake=1}" param2="" param3=""/>
+<Test_Characterlens id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="wo" param="嗯……是仿生机器人吗？
+做工真不错啊，好像死机了……" param2="" param3=""/>
+<Test_Characterlens id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="wo" param="果然这种机构就应该有专门操作电脑的机器人，
+{#涂凌动漫颤抖关闭}{#涂凌动漫震动背景慢}要是每根手指能再成好几根就更正点了！" param2="" param3=""/>
+<Test_Characterlens id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="stranger" param="呜嗯…………" param2="VO_tuling_003" param3=""/>
+<Test_Characterlens id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫紧张}这种时候应该重启一下吧！
+让我找找开关在哪~" param2="" param3=""/>
+<Test_Characterlens id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="wo" param="难道{sleep=0.7}{特殊-闪白效果,1}{播放音效,voice_ding}和哆啦█梦一样在下面……{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}" param2="" param3=""/>
+<Test_Characterlens id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="stranger" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜啊~~~！！{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="VO_tuling_002" param3=""/>
+<Test_Characterlens id="69" originalRow="69" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌破防" param2="" param3=""/>
+<Test_Characterlens id="70" originalRow="70" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="71" originalRow="71" groupSign="档涂凌鼻孔" debugClose="" action="角色台词" data="" param="" param2="" param3="type=1"/>
+<Test_Characterlens id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="tuling" param="{特殊-闪白效果,1}{#闪白震slash}{#涂凌憋气表情}{#涂凌憋气动作}呜呜~~~~~~" param2="VO_tuling_003" param3="type=1"/>
+<Test_Characterlens id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="" param="手指还没伸到鼻子，
+她突然就像开关被触发一样反弹开了。" param2="" param3="type=1"/>
+<Test_Characterlens id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="" param="看着她紧闭双眼不敢喘气的样子，
+让我不禁想到遇到捕食者倒地装死的小动物。" param2="" param3="type=1"/>
+<Test_Characterlens id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="wo" param="据说最会装死的动物是美洲负鼠。{#涂凌动漫颤抖}" param2="" param3=""/>
+<Test_Characterlens id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="wo" param="不仅可以停止呼吸，还会放出味道很难闻的屁模拟{#闪白ding}尸体的臭味。" param2="" param3=""/>
+<Test_Characterlens id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="" param="我用嘴巴模拟出放屁的声音，
+不远处的凯瑟琳白了我一眼。" param2="" param3="type=1"/>
+<Test_Characterlens id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫震动背景慢}再说，一般人憋气的极限不超过一分钟，
+不然大脑很快会开始缺氧，损伤神经。" param2="" param3=""/>
+<Test_Characterlens id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫颤抖关闭}就是说会慢慢的{#涂凌动漫紧张}{#闪白ding}变成笨蛋。" param2="" param3=""/>
+<Test_Characterlens id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="stranger" param="{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}呜嗯…………" param2="VO_tuling_003" param3=""/>
+<Test_Characterlens id="81" originalRow="81" groupSign="" debugClose="1" action="角色台词" data="" param="{#涂凌动漫震动背景慢关闭}她的小脸涨的通红，身体抖得更厉害了。{#涂凌动漫震动背景中}" param2="" param3="type=1"/>
+<Test_Characterlens id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="" param="她的眼角已经泛起泪花，还在死撑。" param2="" param3="type=1"/>
+<Test_Characterlens id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="stranger" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜啊~~~！！{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="VO_tuling_002" param3=""/>
+<Test_Characterlens id="84" originalRow="84" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌破防" param2="" param3=""/>
+<Test_Characterlens id="85" originalRow="85" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="86" originalRow="86" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="87" originalRow="87" groupSign="涂凌破防" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="" param="她终于破防，{角色动作,tuling,涂凌_憋气_动作_结束_01}{角色表情,tuling,涂凌_喘气_上脸_开始_01;涂凌_喘气_下嘴_开始_01;}{0.8}{#涂凌动漫哈字}{#涂凌动漫出窍}{#涂凌动漫震动背景快关闭}{播放音效,voice_lightpunch}{特殊-闪白效果,1}{角色镜头关闭,tuling}{shake=1}{播放音效,涂凌_喘气2}大口大口的喘着气。{2.5}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_思考_下嘴_开始_01;}" param2="" param3="type=1"/>
+<Test_Characterlens id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌动漫哈字关闭}{#涂凌动漫出窍关闭}我刚想靠近，她立刻缩到沙发缝边，{角色动作,tuling,涂凌_待机_动作_开始_02} {角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;}{角色转头,tuling,下中}{#涂凌动漫愤怒}
+用看**大叔般的眼神的看着我。" param2="" param3="type=1"/>
+<Test_Characterlens id="90" originalRow="90" groupSign="" debugClose="1" action="角色台词" data="stranger" param="（小声）变态……" param2="" param3=""/>
+<Test_Characterlens id="91" originalRow="91" groupSign="" debugClose="" action="角色台词" data="wo" param="哈抱歉，我不是故意捉弄你的。
+&lt;z=blue&gt;（只是没忍住……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Characterlens id="92" originalRow="92" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
+<Test_Characterlens id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#涂凌动漫愤怒关闭}看来不但是身体机能，{0.5}{#杜衡思考动作}{#杜衡待机表情}
+连身体本能都完全恢复了呢。" param2="VO_duheng_016" param3=""/>
+<Test_Characterlens id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,10,0.5}{#转头右中眨眼转眼}涂凌，这个手指有点多余的人，就是刚才从医务室醒过来的那个。{#涂凌动漫愤怒关闭}" param2="VO_duheng_017" param3=""/>
+<Test_Characterlens id="95" originalRow="95" groupSign="" debugClose="1" action="角色转身" data="tuling" param="10" param2="" param3=""/>
+<Test_Characterlens id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,10,0.3}{#常规点头动作}知、知道！
+{#闪白震slash}{#涂凌紧张表情}所、所以才可怕……" param2="VO_tuling_007" param3=""/>
+<Test_Characterlens id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="wo" param="……哈？" param2="" param3=""/>
+<Test_Characterlens id="98" originalRow="98" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<Test_Characterlens id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="放心，{0.3}{角色转头,kaiselin,左中}我已经给他做过全身检查了。{角色转头,tuling,头中}" param2="VO_kaiselin_033" param3=""/>
+<Test_Characterlens id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色转身,kaiselin,10,0.5}{角色转头,kaiselin,头中}{#凯瑟琳思考}他的精神状态和生理体征都没有问题，
+体内金属含量也正常。" param2="VO_kaiselin_034" param3=""/>
+<Test_Characterlens id="101" originalRow="101" groupSign="" debugClose="" action="角色转身" data="tuling" param="-10" param2="" param3=""/>
+<Test_Characterlens id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="" param="{画面特效效果,Dark}{新角色镜头,tuling,char_camTL推镜头无震动}涂凌小心翼翼地凑我面前，{#涂凌无聊表情}
+满脸狐疑的端详了好一阵，" param2="" param3=""/>
+<Test_Characterlens id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}嗯……{#涂凌惊讶表情}
+{#涂凌待机2动作恢复}奇怪……{2}{#涂凌思考表情}" param2="VO_tuling_008" param3=""/>
+<Test_Characterlens id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}" param2="" param3=""/>
+<Test_Characterlens id="105" originalRow="105" groupSign="" debugClose="" action="角色台词" data="wo" param="奇、{#闪白ding}奇怪什么啊？" param2="" param3=""/>
+<Test_Characterlens id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="wo" param="我只是来做入职报到时看了一会大厅的电视，
+然后不知怎么就昏过去了……{画面特效移除}{角色镜头关闭,tuling}" param2="" param3=""/>
+<Test_Characterlens id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色转身,kaiselin,-25,0.5}{#凯瑟琳思考恢复}哦，对了！{角色动作,tuling,涂凌_待机_动作_开始_02}{#涂凌打字表情}
+就是记忆好像丢失了一些。" param2="VO_kaiselin_035" param3=""/>
+<Test_Characterlens id="108" originalRow="108" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="109" originalRow="109" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="110" originalRow="110" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="111" originalRow="111" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=0" param2="" param3=""/>
+<Test_Characterlens id="112" originalRow="112" groupSign="1" debugClose="" action="RPGActor" data="duheng" param="2" param2="" param3=""/>
+<Test_Characterlens id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡待机动作}{#杜衡平静表情}从书桌后走出来一位女性。" param2="" param3=""/>
+<Test_Characterlens id="114" originalRow="114" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng_stranger" param="啧啧，真有意思。{0.4}{#杜衡待机表情}" param2="VO_duheng_002" param3=""/>
+<Test_Characterlens id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="wo" param="（想起来了，这好像就是之前给我身份卡的秘书姐姐……）" param2="" param3=""/>
+<Test_Characterlens id="116" originalRow="116" groupSign="" debugClose="" action="画面特效效果" data="1" param="" param2="" param3=""/>
+<Test_Characterlens id="117" originalRow="117" groupSign="1" debugClose="" action="新角色镜头" data="duheng" param="个人镜头_杜衡_展示" param2="" param3=""/>
+<Test_Characterlens id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="" param="这位漂亮的秘书姐姐个子很高，
+白大褂随意的从她一侧肩膀缓缓垂落。{autoend}" param2="" param3=""/>
+<Test_Characterlens id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="" param="而且白大褂明明已经快要兜不住了吧！！
+{autoend}" param2="" param3=""/>
+<Test_Characterlens id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="" param="{0.5}我不禁把视线移向了她的腿……{autoend}" param2="" param3=""/>
+<Test_Characterlens id="121" originalRow="121" groupSign="0.8" debugClose="" action="角色台词" data="" param="{1.5}她的身材好像模特一样………{autoend}" param2="" param3=""/>
+<Test_Characterlens id="122" originalRow="122" groupSign="" debugClose="" action="角色台词" data="" param="{0.8}嗯嗯，能跟这样的秘书在一起工作可真不错。{autoend}" param2="" param3=""/>
+<Test_Characterlens id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="" param="好像秘书姐姐胸前有个工牌……{0.5}
+上面{s=0.08}写着……
+{autoend}" param2="" param3=""/>
+<Test_Characterlens id="124" originalRow="124" groupSign="" debugClose="" action="角色镜头关闭" data="duheng" param="个人镜头_杜衡_展示" param2="" param3=""/>
+<Test_Characterlens id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#闪白震slash}{#杜衡惊讶动作}喂，你眼睛在看哪呢？{0.6}{autoend}" param2="VO_duheng_003" param3=""/>
+<Test_Characterlens id="126" originalRow="126" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="127" originalRow="127" groupSign="" debugClose="1" action="等待几秒" data="0.4" param="" param2="" param3=""/>
+<Test_Characterlens id="128" originalRow="128" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<Test_Characterlens id="129" originalRow="129" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<Test_Characterlens id="130" originalRow="130" groupSign="" debugClose="1" action="角色台词" data="" param="这位漂亮的秘书姐姐个子很高，
+白大褂随意的从她一侧肩膀缓缓垂落。" param2="" param3=""/>
+<Test_Characterlens id="131" originalRow="131" groupSign="" debugClose="1" action="角色台词" data="" param="她的身材好像模特一样……
+而且白大褂明明已经快要兜不住了吧！！" param2="" param3=""/>
+<Test_Characterlens id="132" originalRow="132" groupSign="" debugClose="1" action="角色台词" data="" param="我不禁把视线移向了她的腿……
+嗯嗯，能跟这样的秘书在一起工作可真不错。" param2="" param3=""/>
+<Test_Characterlens id="133" originalRow="133" groupSign="" debugClose="1" action="角色台词" data="wo" param="（看来那位站长大人很有一套嘛……）" param2="" param3=""/>
+<Test_Characterlens id="134" originalRow="134" groupSign="" debugClose="1" action="角色台词" data="" param="她并没有理会我的目光，
+而是一脸玩味的低头看着手中的平板设备──" param2="" param3=""/>
+<Test_Characterlens id="135" originalRow="135" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#杜衡惊讶动作恢复}心跳加快，血压升高，下半身体温提升了0.5度…{1}
+{角色转头,duheng,左中}呵呵，确实是这个年纪男生正常的生理反应~" param2="VO_duheng_004" param3=""/>
+<Test_Characterlens id="136" originalRow="136" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}诶？" param2="" param3=""/>
+<Test_Characterlens id="137" originalRow="137" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#杜衡思考动作}{#杜衡平静表情}你开发的这套人体扫描设备还不错嘛……{3}{#杜衡待机表情}" param2="VO_duheng_005" param3=""/>
+<Test_Characterlens id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡待机表情}她对凯瑟琳指了指头顶天花板上的黑色装置。" param2="" param3=""/>
+<Test_Characterlens id="139" originalRow="139" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="140" originalRow="140" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="141" originalRow="141" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="142" originalRow="142" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="143" originalRow="143" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="144" originalRow="144" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="145" originalRow="145" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="146" originalRow="146" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="147" originalRow="147" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="148" originalRow="148" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Characterlens id="149" originalRow="149" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

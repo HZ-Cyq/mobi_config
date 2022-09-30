@@ -1,0 +1,60 @@
+<root>
+<electric_part1 id="0" originalRow="0" groupSign="开始"/>
+<electric_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<electric_part1 id="2" originalRow="2" action="角色台词" param="&lt;z=green&gt;{s=0.1}几天后" param3="type=1"/>
+<electric_part1 id="3" originalRow="3" action="RPGActor" data="黑屏" param="2"/>
+<electric_part1 id="4" originalRow="4" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（监视器上正播放着404收容房间的监控画面，）&lt;/color&gt;"/>
+<electric_part1 id="5" originalRow="5" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（这是自事件结束后，我第一次看到她。）&lt;/color&gt;"/>
+<electric_part1 id="6" originalRow="6" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（小队的成员们像沙丁鱼一样围在监视器前，）&lt;/color&gt;"/>
+<electric_part1 id="7" originalRow="7" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（挡住了监视器的画面。）&lt;/color&gt;"/>
+<electric_part1 id="8" originalRow="8" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（我踮起脚尖，把头尽量伸长，）&lt;/color&gt;"/>
+<electric_part1 id="9" originalRow="9" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（整个身体呈现出一种被拉长的扭曲姿态，终于看到了画面。）&lt;/color&gt;"/>
+<electric_part1 id="10" originalRow="10" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（404坐在房间中央的椅子上，）&lt;/color&gt;"/>
+<electric_part1 id="11" originalRow="11" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（低垂着头，电视机的画面一片灰暗。）&lt;/color&gt;"/>
+<electric_part1 id="12" originalRow="12" action="设置角色" data="tuling" param="pos=0"/>
+<electric_part1 id="13" originalRow="13" action="角色台词" data="tuling" param="{#涂凌忧伤}呐，凯瑟琳，
+404还会好起来吗？"/>
+<electric_part1 id="14" originalRow="14" debugClose="1" action="角色台词" data="tuling"/>
+<electric_part1 id="15" originalRow="15" action="设置角色" data="kaiselin" param="pos=1"/>
+<electric_part1 id="16" originalRow="16" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔}理论上来说，她会好起来的。"/>
+<electric_part1 id="17" originalRow="17" action="角色台词" data="wo" param="{#涂凌严肃动作恢复}我提着的心稍微放下了一点。"/>
+<electric_part1 id="18" originalRow="18" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔恢复}经过上次，她体内的精神力消耗过大，造成了现在的状况。"/>
+<electric_part1 id="19" originalRow="19" action="角色台词" data="kaiselin" param="不过在收容房间里可以缓慢让她的精神力得到恢复。"/>
+<electric_part1 id="20" originalRow="20" action="设置角色" data="niefei" param="pos=2"/>
+<electric_part1 id="21" originalRow="21" action="角色台词" data="niefei" param="{#聂飞开心}收容房间真好啊~为每个异质物特别订制的房间，"/>
+<electric_part1 id="22" originalRow="22" action="角色台词" data="niefei" param="完全投其所好……我也想住进去了！"/>
+<electric_part1 id="23" originalRow="23" action="移除角色"/>
+<electric_part1 id="24" originalRow="24" action="角色台词" data="wo" param="您好！昭离公馆！"/>
+<electric_part1 id="25" originalRow="25" action="角色台词" data="stranger1" param="有鬼啊！！！" param3="type=4"/>
+<electric_part1 id="26" originalRow="26" action="角色台词" data="stranger1" param="电器城……电器城有会吃人的电视机啊！！" param3="type=4"/>
+<electric_part1 id="27" originalRow="27" action="角色台词" data="wo" param="什么！请您再说的清楚一点……"/>
+<electric_part1 id="28" originalRow="28" action="角色台词" param="（电话中断）嘟……"/>
+<electric_part1 id="29" originalRow="29" action="角色台词" data="wo" param="接到报案，电器城里出现了……"/>
+<electric_part1 id="30" originalRow="30" action="角色台词" data="wo" param="会吃人的电视机头！"/>
+<electric_part1 id="31" originalRow="31" action="角色台词" param="大家吃惊地把头转向监视器画面，画面内，404依然安静地坐在那里。" param3="type=1"/>
+<electric_part1 id="32" originalRow="32" debugClose="1" action="角色台词" data="wo"/>
+<electric_part1 id="33" originalRow="33" action="设置角色" data="tuling" param="pos=中"/>
+<electric_part1 id="34" originalRow="34" action="角色台词" data="tuling" param="{#涂凌惊讶}怎么会这样？"/>
+<electric_part1 id="35" originalRow="35" action="设置角色" data="duheng" param="pos=右"/>
+<electric_part1 id="36" originalRow="36" action="角色台词" data="duheng" param="{#杜衡思考动作}必须去调查一番了。"/>
+<electric_part1 id="37" originalRow="37" action="角色台词" data="duheng" param="周易，你带队前往电器城调查案件。"/>
+<electric_part1 id="38" originalRow="38" action="角色台词" data="duheng" param="我在这里调查404的收容房间有无状况。"/>
+<electric_part1 id="39" originalRow="39" action="角色台词" data="wo" param="收到！"/>
+<electric_part1 id="40" originalRow="40" action="语法-数值" data="QUEST_电器城危机=1"/>
+<electric_part1 id="41" originalRow="41" action="设置角色" data="kaiselin" param="pos=左"/>
+<electric_part1 id="42" originalRow="42" action="角色台词" data="kaiselin" param="{#凯瑟琳媚眼}出发啦，队长~"/>
+<electric_part1 id="43" originalRow="43" action="移除角色"/>
+<electric_part1 id="44" originalRow="44" action="切换场景" data="home"/>
+<electric_part1 id="45" originalRow="45" action="跳转-标签" param="结束"/>
+<electric_part1 id="46" originalRow="46" groupSign="结束"/>
+<electric_part1 id="47" originalRow="47"/>
+<electric_part1 id="48" originalRow="48"/>
+<electric_part1 id="49" originalRow="49"/>
+<electric_part1 id="50" originalRow="50"/>
+<electric_part1 id="51" originalRow="51"/>
+<electric_part1 id="52" originalRow="52"/>
+<electric_part1 id="53" originalRow="53"/>
+<electric_part1 id="54" originalRow="54"/>
+<electric_part1 id="55" originalRow="55" groupSign=""/>
+<electric_part1 id="56" originalRow="56"/>
+</root>

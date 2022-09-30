@@ -1,0 +1,31 @@
+<root>
+<longzhu_dh id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<longzhu_dh id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<longzhu_dh id="2" originalRow="2" groupSign="" debugClose="" action="RPGActor" data="duheng" param="2" param2=""/>
+<longzhu_dh id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=0" param2=""/>
+<longzhu_dh id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="杜博士，我们已经收集齐了，可是感觉什么事情都没有发生" param2=""/>
+<longzhu_dh id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="duheng" param="哦？你怎么知道收集齐了呢？" param2=""/>
+<longzhu_dh id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="已经有七颗了呀" param2=""/>
+<longzhu_dh id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="duheng" param="可是我也没说过一共有几颗啊" param2=""/>
+<longzhu_dh id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="啊……这……" param2=""/>
+<longzhu_dh id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="行吧，看在你这么辛苦的份上，还是算你完成任务了吧" param2=""/>
+<longzhu_dh id="10" originalRow="10" groupSign="" debugClose="" action="语法-数值" data="rqs_1000004回去找杜衡=2" param="" param2=""/>
+<longzhu_dh id="11" originalRow="11" groupSign="" debugClose="" action="移除角色" data="duheng" param2=""/>
+<longzhu_dh id="12" originalRow="12" groupSign="" debugClose="" action="RPGActor" data="trigger" param="2" param2=""/>
+<longzhu_dh id="13" originalRow="13" groupSign="" debugClose="" action="存档" data="" param="" param2=""/>
+<longzhu_dh id="14" originalRow="14" action="跳转-标签" param="结束" param2=""/>
+<longzhu_dh id="15" originalRow="15" groupSign="闲聊" debugClose="" action="" data="" param="" param2=""/>
+<longzhu_dh id="16" originalRow="16" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<longzhu_dh id="17" originalRow="17" groupSign="" debugClose="" action="RPGActor" data="duheng" param="2" param2=""/>
+<longzhu_dh id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=0" param2=""/>
+<longzhu_dh id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="duheng" param="嗯？有什么事吗？" param2=""/>
+<longzhu_dh id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="没……我只是来看看……" param2=""/>
+<longzhu_dh id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="duheng" param="交代给你的任务都完成了吗？" param2=""/>
+<longzhu_dh id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="快了快了……" param2=""/>
+<longzhu_dh id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="duheng" param="那还在这里愣着干嘛？" param2=""/>
+<longzhu_dh id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="我这就走……" param2=""/>
+<longzhu_dh id="25" originalRow="25" groupSign="" debugClose="" action="移除角色" data="duheng" param2=""/>
+<longzhu_dh id="26" originalRow="26" groupSign="" debugClose="" action="RPGActor" data="duheng" param="1" param2=""/>
+<longzhu_dh id="27" originalRow="27" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<longzhu_dh id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+</root>

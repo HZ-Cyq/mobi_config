@@ -1,0 +1,384 @@
+<root>
+<C3_laboratory id="0" originalRow="0" groupSign="首次进入" debugClose="" action="" data="" param="" param2=""/>
+<C3_laboratory id="1" originalRow="1" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
+<C3_laboratory id="2" originalRow="2" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param3=""/>
+<C3_laboratory id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="duheng" param="这次的结果让土山用总部的技术做一个详细对比分析吧。" param2="" param3="type=4"/>
+<C3_laboratory id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<C3_laboratory id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}明白。那样确实会精细很多~" param2="" param3="type=0"/>
+<C3_laboratory id="6" originalRow="6" action="角色台词" data="tuling" param="奇怪，这里的波峰好像还没有外面的大……" param2=""/>
+<C3_laboratory id="7" originalRow="7" action="角色台词" data="tuling" param="难道这里并不是关键？" param2=""/>
+<C3_laboratory id="8" originalRow="8" action="角色台词" data="tushanao" param="我去做对比，一会告诉你们结果。" param2="" param3="type=4"/>
+<C3_laboratory id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="先开始调查下这里吧。" param2="" param3="type=0"/>
+<C3_laboratory id="10" originalRow="10" action="移除角色" param="" param2=""/>
+<C3_laboratory id="11" originalRow="11" groupSign="" debugClose="" action="扫描" data="" param="" param2="" param3=""/>
+<C3_laboratory id="12" originalRow="12" groupSign="3&gt;&gt;" action="语法-数值" data="ri_第三章_实验室的异质物波动=1" param="" param3=""/>
+<C3_laboratory id="13" originalRow="13" action="语法-数值" data="rqs_3突入实验室=2" param="" param3=""/>
+<C3_laboratory id="14" originalRow="14" action="语法-数值" data="rqs_3调查实验室=1" param="" param3=""/>
+<C3_laboratory id="15" originalRow="15" action="子任务加值" data="3调查实验室" param="1" param3=""/>
+<C3_laboratory id="16" originalRow="16" action="打开插画" data="UI_3Dexplorebegin" param="" param3=""/>
+<C3_laboratory id="17" originalRow="17" groupSign="3&gt;&gt;" action="关闭插画" data="" param="" param3=""/>
+<C3_laboratory id="18" originalRow="18" debugClose="" action="RPGGoL2" data="L2main" param="" param2="" param3=""/>
+<C3_laboratory id="19" originalRow="19" action="跳转-标签" param="结束" param3=""/>
+<C3_laboratory id="20" originalRow="20" groupSign="查看显微镜" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="21" originalRow="21" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="嗯...好像是用来研究生物标本的显微镜。" param2="" param3="type=0"/>
+<C3_laboratory id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="上面有一些荧光液体！" param2="" param3="type=0"/>
+<C3_laboratory id="24" originalRow="24" groupSign="" debugClose="1" action="语法-数值" data="ri_第三章_荧光载玻片=1" param="" param2="" param3=""/>
+<C3_laboratory id="25" originalRow="25" groupSign="" debugClose="1" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="26" originalRow="26" groupSign="" debugClose="" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="27" originalRow="27" groupSign="查看水池" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="28" originalRow="28" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}水槽里好像有什么东西——" param2="" param3="type=0"/>
+<C3_laboratory id="31" originalRow="31" action="移除角色" param="" param2=""/>
+<C3_laboratory id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" param="凯瑟琳戴上手套，打开了水槽盖。" param2="" param3="type=1"/>
+<C3_laboratory id="33" originalRow="33" action="打开插画" data="C3_Hair" param="" param2=""/>
+<C3_laboratory id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="wo" param="这是……黑色的动物毛发？" param2="" param3="type=0"/>
+<C3_laboratory id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞待机}还挺多啊！" param2="" param3="type=0"/>
+<C3_laboratory id="36" originalRow="36" action="关闭插画" param="" param2=""/>
+<C3_laboratory id="37" originalRow="37" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<C3_laboratory id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考表情}这些毛发都是用剃刀或剪刀割断的，而且材质更像是……头发。" param2="" param3="type=0"/>
+<C3_laboratory id="39" originalRow="39" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<C3_laboratory id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}人类的头发？{2}{#聂飞惊讶动作恢复}{#聂飞忧伤表情}" param2="" param3="type=0"/>
+<C3_laboratory id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="tushanao" param="嗯，人类的头发平均每天生长0.3到0.4毫米，男性的胡须因为供血充足长得更快一些。" param2="" param3="type=4"/>
+<C3_laboratory id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="tushanao" param="这堆头发长度参差不一，平均1厘米左右，而且都是干燥的。" param2="" param3="type=4"/>
+<C3_laboratory id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="tushanao" param="明明打开水龙头就能冲掉，却好像是扫进水槽故意留在这里的。" param2="" param3="type=4"/>
+<C3_laboratory id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="wo" param="难道是漆异之昨晚故意剪下的……
+他自己的头发？" param2="" param3="type=0"/>
+<C3_laboratory id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作恢复}不对吧，我记得他死亡时的发型和他昨晚回公司时没什么区别，虽然都是乱糟糟的……" param2="" param3="type=0"/>
+<C3_laboratory id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="要拿去实验室比对才能确定是不是他的头发，先用证物袋收集起来吧。" param2="" param3="type=0"/>
+<C3_laboratory id="47" originalRow="47" action="移除角色" param="" param2=""/>
+<C3_laboratory id="48" originalRow="48" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_水池内的毛发=1" param="" param2="" param3=""/>
+<C3_laboratory id="49" originalRow="49" groupSign="" debugClose="" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="50" originalRow="50" groupSign="" debugClose="" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="51" originalRow="51" groupSign="查看垃圾桶" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="52" originalRow="52" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪红震slash}这些注射器里，带有血迹！！" param2="" param3="type=0"/>
+<C3_laboratory id="54" originalRow="54" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="已经干透了。" param2="" param3="type=0"/>
+<C3_laboratory id="56" originalRow="56" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="聂总_思考_动作_循环_01" param3=""/>
+<C3_laboratory id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}谁的血！？" param2="" param3="type=0"/>
+<C3_laboratory id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔动作}{#凯瑟琳得意表情}我猜是漆异之的~" param2="" param3="type=0"/>
+<C3_laboratory id="59" originalRow="59" action="移除角色" param="" param2=""/>
+<C3_laboratory id="60" originalRow="60" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_地面上大量针管=1" param="" param2="" param3=""/>
+<C3_laboratory id="61" originalRow="61" groupSign="" debugClose="" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="62" originalRow="62" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_血迹来源=1" param="" param2="" param3=""/>
+<C3_laboratory id="63" originalRow="63" groupSign="" debugClose="" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="64" originalRow="64" groupSign="" debugClose="" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="65" originalRow="65" groupSign="查看1号水罐" debugClose="1" action="" data="" param="" param3=""/>
+<C3_laboratory id="66" originalRow="66" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="67" originalRow="67" groupSign="" debugClose="1" action="角色台词" data="" param="插入1号水罐调查对话" param2="" param3=""/>
+<C3_laboratory id="68" originalRow="68" groupSign="" debugClose="1" action="语法-数值" data="ri_第三章_1号水罐痕迹=1" param="" param2="" param3=""/>
+<C3_laboratory id="69" originalRow="69" groupSign="" debugClose="1" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="70" originalRow="70" groupSign="" debugClose="1" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="71" originalRow="71" groupSign="" debugClose="1" action="" data="" param="" param3=""/>
+<C3_laboratory id="72" originalRow="72" groupSign="" debugClose="1" action="" data="" param="" param3=""/>
+<C3_laboratory id="73" originalRow="73" groupSign="查看2号水罐" debugClose="1" action="" data="" param="" param3=""/>
+<C3_laboratory id="74" originalRow="74" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="75" originalRow="75" groupSign="" debugClose="1" action="角色台词" data="" param="插入2号水罐调查对话" param2="" param3=""/>
+<C3_laboratory id="76" originalRow="76" groupSign="" debugClose="1" action="语法-数值" data="ri_第三章_2号水罐痕迹=1" param="" param2="" param3=""/>
+<C3_laboratory id="77" originalRow="77" groupSign="" debugClose="1" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="78" originalRow="78" groupSign="" debugClose="1" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="79" originalRow="79" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="80" originalRow="80" groupSign="查看焚烧炉" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="81" originalRow="81" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="82" originalRow="82" groupSign="" debugClose="1" action="角色台词" data="" param="插入焚烧炉调查对话" param2="" param3=""/>
+<C3_laboratory id="83" originalRow="83" groupSign="" debugClose="1" action="语法-数值" data="ri_第三章_焚烧炉痕迹=1" param="" param2="" param3=""/>
+<C3_laboratory id="84" originalRow="84" groupSign="" debugClose="1" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="85" originalRow="85" groupSign="" debugClose="1" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="86" originalRow="86" groupSign="查看打印机" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="87" originalRow="87" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="88" originalRow="88" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_开心_动作_开始_01" param3=""/>
+<C3_laboratory id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌平静表情}哇！这个是！！" param2="" param3="type=0"/>
+<C3_laboratory id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="tuling" param="是DMP9900！！！" param2="" param3="type=0"/>
+<C3_laboratory id="91" originalRow="91" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}&lt;size=45&gt;瞧瞧这个机械臂！！&lt;/size&gt;" param2="" param3="type=0"/>
+<C3_laboratory id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}&lt;size=50&gt;瞧瞧这个圆台！！！&lt;/size&gt;" param2="" param3="type=0"/>
+<C3_laboratory id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="wo" param="冷、冷静点……" param2="" param3="type=0"/>
+<C3_laboratory id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="wo" param="这是什么？" param2="" param3="type=0"/>
+<C3_laboratory id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌点赞动作}目前最先进的工业3D打印机！" param2="" param3="type=0"/>
+<C3_laboratory id="96" originalRow="96" action="角色台词" data="tuling" param="能用树脂、金属和碳纤维做基材同时打印超大型的元件！！！" param2=""/>
+<C3_laboratory id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="tuling" param="{特殊-闪白效果,1}{角色动作,tuling,涂凌_开心_动作_循环_01}真是太太太太帅气了！！！(ﾟ∀ﾟ||;)" param2="" param3="type=0"/>
+<C3_laboratory id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="" param="喂喂，脸不用贴那么近——" param2="" param3="type=1"/>
+<C3_laboratory id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="tuling" param="{特殊-闪白效果,1}{角色动作,tuling,涂凌_休闲_动作_结束_01}不行，我要用它打一只鲨鱼YOKI！(ﾟ∀ﾟ||;)" param2="" param3="type=0"/>
+<C3_laboratory id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机表情}立刻马上！！♡♡♡♡♡♡♡♡" param2="" param3="type=0"/>
+<C3_laboratory id="101" originalRow="101" action="移除角色" param="" param2=""/>
+<C3_laboratory id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="wo" param="哎哎不行，这是证物！" param2="" param3="type=0"/>
+<C3_laboratory id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="wo" param="而且还是顶石集团的财产……" param2="" param3="type=0"/>
+<C3_laboratory id="104" originalRow="104" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<C3_laboratory id="105" originalRow="105" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌憋气2表情}啊！居然咬我……" param2="" param3="type=0"/>
+<C3_laboratory id="106" originalRow="106" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=右" param2="" param3=""/>
+<C3_laboratory id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳注射器动作}{#凯瑟琳魅惑表情}{注视,kaiselin,tuling,0.4}咳咳，小——涂——凌——？！{注视,tuling,kaiselin,0.4}{#涂凌平静表情}" param2="" param3="type=0"/>
+<C3_laboratory id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳一脸核善的故意拉长着语调。" param2="" param3="type=1"/>
+<C3_laboratory id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌憋气表情}{#涂凌憋气动作}啊呜……" param2="" param3="type=0"/>
+<C3_laboratory id="110" originalRow="110" action="移除角色" param="" param2=""/>
+<C3_laboratory id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}不用这么夸张吧！
+打印机而已，喜欢让杜衡买一部好了。" param2="" param3="type=0"/>
+<C3_laboratory id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="tushanao" param="我查了下报价。" param2="" param3="type=4"/>
+<C3_laboratory id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="tushanao" param="去年的F1冠军赛车大部分零件都是用它打印的，这东西的价格能花掉三分之一的演习经费。" param2="" param3="type=4"/>
+<C3_laboratory id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="wo" param="我去！？" param2="" param3="type=0"/>
+<C3_laboratory id="115" originalRow="115" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}那……能不能给我打个战术头盔……" param2="" param3="type=0"/>
+<C3_laboratory id="117" originalRow="117" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<C3_laboratory id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃表情}你们仔细看，这个打印机还有被使用过的痕迹。" param2="" param3="type=0"/>
+<C3_laboratory id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}真的诶！" param2="" param3="type=0"/>
+<C3_laboratory id="120" originalRow="120" action="移除角色" param="" param2=""/>
+<C3_laboratory id="121" originalRow="121" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_3D打印机使用过=1" param="" param2="" param3=""/>
+<C3_laboratory id="122" originalRow="122" groupSign="" debugClose="" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="123" originalRow="123" groupSign="" debugClose="" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="124" originalRow="124" groupSign="查看电脑屏幕" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="125" originalRow="125" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="" param="一台未联网的单机，电脑显示Target Missed。" param2="" param3="type=1"/>
+<C3_laboratory id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="wo" param="这电脑……" param2="" param3="type=0"/>
+<C3_laboratory id="128" originalRow="128" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_紧张_动作_循环_01" param3=""/>
+<C3_laboratory id="129" originalRow="129" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}我……可能也没办法操作这个电脑，电脑像是“假死”状态，得需要特定的程序或者外设解决！" param2="" param3="type=0"/>
+<C3_laboratory id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="wo" param="再看看别的吧。" param2="" param3="type=0"/>
+<C3_laboratory id="131" originalRow="131" action="移除角色" param="" param2=""/>
+<C3_laboratory id="132" originalRow="132" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_实验室显示器=1" param="" param2="" param3=""/>
+<C3_laboratory id="133" originalRow="133" groupSign="" debugClose="" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="134" originalRow="134" groupSign="" debugClose="" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="135" originalRow="135" groupSign="查看软盘" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="136" originalRow="136" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="137" originalRow="137" groupSign="" debugClose="" action="角色台词" data="wo" param="都没见过这种型号的软盘……" param2="" param3="type=0"/>
+<C3_laboratory id="138" originalRow="138" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="139" originalRow="139" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌平静表情}是CVI的第三代，早在20多年前就已经不再被人们使用了。" param2="" param3="type=0"/>
+<C3_laboratory id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌头中}{#涂凌思考动作}{#涂凌思考表情}我暂时也没有办法找到东西读取这个。" param2="" param3="type=0"/>
+<C3_laboratory id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="tuling" param="如果要读取…………" param2="" param3="type=0"/>
+<C3_laboratory id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="tuling" param="我得让杜杜追加预算，然后上安东商城找找有没有中古设备。" param2="" param3="type=0"/>
+<C3_laboratory id="143" originalRow="143" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<C3_laboratory id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}{#涂凌平静表情}毕竟这家伙比你岁数都大……" param2="" param3="type=0"/>
+<C3_laboratory id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="tuling" param="{注视,tuling,niefei,0.4}{#涂凌思考动作恢复}（— —|||) " param2="" param3="type=0"/>
+<C3_laboratory id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="tuling" param="{注视,tuling,,0.4}{#头中}{#眼中}{角色转身,tuling,正,0.4}{#涂凌待机2动作}看看晚点求助下BBS上的大神们。" param2="" param3="type=0"/>
+<C3_laboratory id="147" originalRow="147" action="移除角色" param="" param2=""/>
+<C3_laboratory id="148" originalRow="148" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_过时的软盘=1" param="" param2="" param3=""/>
+<C3_laboratory id="149" originalRow="149" groupSign="" debugClose="" action="子任务加值" data="3调查实验室" param="1" param2="" param3=""/>
+<C3_laboratory id="150" originalRow="150" groupSign="" debugClose="" action="跳转-标签" data="" param="调查完成检测1" param2="" param3=""/>
+<C3_laboratory id="151" originalRow="151" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="152" originalRow="152" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="153" originalRow="153" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="154" originalRow="154" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="155" originalRow="155" action="" data="" param="" param3=""/>
+<C3_laboratory id="156" originalRow="156" groupSign="检查天花板" action="" param3=""/>
+<C3_laboratory id="157" originalRow="157" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="158" originalRow="158" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="159" originalRow="159" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="这些是常见的吊顶铝扣板，你们看板面与桁架的连接处——" param2="" param3="type=0"/>
+<C3_laboratory id="160" originalRow="160" groupSign="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_循环_01" param3=""/>
+<C3_laboratory id="161" originalRow="161" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}这个是……！？" param2="" param3="type=0"/>
+<C3_laboratory id="162" originalRow="162" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="163" originalRow="163" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃表情}无线触发的微型炸药，一般威力不大，但应该足够把卡扣炸断了。" param2="" param3="type=0"/>
+<C3_laboratory id="164" originalRow="164" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="而且为了保险还加了一组冗余引爆装置，这是工业爆破或大型烟花表演才会用到的技术。" param2="" param3="type=0"/>
+<C3_laboratory id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="wo" param="等一下，你是说……" param2="" param3="type=0"/>
+<C3_laboratory id="166" originalRow="166" groupSign="" debugClose="" action="角色台词" data="wo" param="这些天花板是被设计好一起落下来的？" param2="" param3="type=0"/>
+<C3_laboratory id="167" originalRow="167" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#常规点头动作}应该错不了。" param2="" param3="type=0"/>
+<C3_laboratory id="168" originalRow="168" groupSign="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_循环_01" param3=""/>
+<C3_laboratory id="169" originalRow="169" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞惊讶}所以刚才的爆炸就是这个吗————喵！？{1}{#聂飞惊讶表情}" param2="" param3="type=0"/>
+<C3_laboratory id="170" originalRow="170" groupSign="" debugClose="" action="角色台词" data="" param="聂飞还没说完，就被凯瑟琳捏住后背拎了起来。" param2="" param3="type=1"/>
+<C3_laboratory id="171" originalRow="171" action="移除角色" param="" param2=""/>
+<C3_laboratory id="172" originalRow="172" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_得意_动作_开始_01" param3=""/>
+<C3_laboratory id="173" originalRow="173" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳得意表情}我忽然想到件事，需要你帮我去天花板的桁架上面验证一下——" param2="" param3="type=0"/>
+<C3_laboratory id="174" originalRow="174" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<C3_laboratory id="175" originalRow="175" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶动作}{#聂飞忧伤表情}啥？" param2="" param3="type=0"/>
+<C3_laboratory id="176" originalRow="176" action="移除角色" param="" param2=""/>
+<C3_laboratory id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳不由分说的把运动相机扣在聂飞脑袋上，将它顺着天花板的破损处丢了上去。" param2="" param3="type=1"/>
+<C3_laboratory id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}&lt;size=45&gt;喂！&lt;/size&gt;
+&lt;size=50&gt;你也太暴力了吧！！&lt;/size&gt;" param2="" param3="type=0"/>
+<C3_laboratory id="179" originalRow="179" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_威慑_动作_开始_01" param3=""/>
+<C3_laboratory id="180" originalRow="180" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳得意表情}闭嘴，再抱怨就把你绝育卖掉。" param2="" param3="type=0"/>
+<C3_laboratory id="181" originalRow="181" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳注射器动作恢复}你在吊顶里找找，在破掉的那扇落地窗附近有没有什么可以的东西。" param2="" param3="type=0"/>
+<C3_laboratory id="182" originalRow="182" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="183" originalRow="183" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}这个白毛夜叉……" param2="" param3="type=0"/>
+<C3_laboratory id="184" originalRow="184" groupSign="" debugClose="" action="角色台词" data="" param="聂飞嘴里在小声咕哝，身体却很诚实的打开了运动相机旁的头灯。" param2="" param3="type=1"/>
+<C3_laboratory id="185" originalRow="185" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}这吊顶快被电缆填满了，连我都得猫着腰走……" param2="" param3="type=0"/>
+<C3_laboratory id="186" originalRow="186" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_转笔_动作_开始_01" param3=""/>
+<C3_laboratory id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳得意表情}你自己就是猫，还能怎么猫着腰。" param2="" param3="type=0"/>
+<C3_laboratory id="188" originalRow="188" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="189" originalRow="189" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作}{#聂飞尴尬表情}难闻！难闻！！！——{1.2}{#聂飞待机表情}" param2="" param3="type=0"/>
+<C3_laboratory id="190" originalRow="190" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白ding}诶等一下，那边似乎有什么……" param2="" param3="type=0"/>
+<C3_laboratory id="191" originalRow="191" groupSign="" debugClose="" action="角色台词" data="" param="我们通过平板看聂飞从吊顶上传来的画面，那是一个白色圆角半透明塑料箱。" param2="" param3="type=1"/>
+<C3_laboratory id="192" originalRow="192" groupSign="" debugClose="" action="角色台词" data="duheng" param="仔细检查一下这个箱子。" param2="" param3="type=4"/>
+<C3_laboratory id="193" originalRow="193" action="移除角色" param="" param2=""/>
+<C3_laboratory id="194" originalRow="194" action="语法-数值" data="ri_第三章_白色塑料箱=1" param3=""/>
+<C3_laboratory id="195" originalRow="195" action="RPGGoL3" data="1301016" param="FALSE" param3=""/>
+<C3_laboratory id="196" originalRow="196" action="跳转-标签" data="" param="结束" param3=""/>
+<C3_laboratory id="197" originalRow="197" groupSign="调查水箱盖子" action="" param3=""/>
+<C3_laboratory id="198" originalRow="198" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_循环_01" param3=""/>
+<C3_laboratory id="199" originalRow="199" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}看起来，箱体和那些细管的材质是工程树脂。" param2="" param3="type=0"/>
+<C3_laboratory id="200" originalRow="200" action="移除角色" param="" param2=""/>
+<C3_laboratory id="201" originalRow="201" action="语法-数值" data="ri_第三章_塑料箱体材质=1" param="" param3=""/>
+<C3_laboratory id="202" originalRow="202" action="跳转-标签" data="" param="结束" param3=""/>
+<C3_laboratory id="203" originalRow="203" action="" data="" param="" param3=""/>
+<C3_laboratory id="204" originalRow="204" groupSign="调查绿色液体" data="" param="" param3=""/>
+<C3_laboratory id="205" originalRow="205" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_紧张_动作_开始_01" param3=""/>
+<C3_laboratory id="206" originalRow="206" groupSign="" debugClose="" action="角色台词" data="niefei" param="好家伙！{0.6}
+{#聂飞得意表情}还有个盖子，看看里面有什么！" param2="" param3="type=0"/>
+<C3_laboratory id="207" originalRow="207" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞馋动作}{#聂飞尴尬表情}嚯 ————— 好大的味道！！！！！" param2="" param3="type=0"/>
+<C3_laboratory id="208" originalRow="208" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}这么说，奇怪味道的源头，就在这里吧。" param2="" param3="type=0"/>
+<C3_laboratory id="209" originalRow="209" groupSign="" debugClose="" action="角色台词" data="niefei" param="{移除角色,niefei}呃，稍等我去喘口气。呼——" param2="" param3="type=0"/>
+<C3_laboratory id="210" originalRow="210" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}这！这怎么是绿色的！！" param2="" param3="type=0"/>
+<C3_laboratory id="211" originalRow="211" groupSign="" debugClose="" action="角色台词" data="" param="从箱内壁的残留看来，里面之前装的是某种粘稠的发光液体……" param2="" param3="type=1"/>
+<C3_laboratory id="212" originalRow="212" groupSign="" debugClose="" action="角色台词" data="" param="绿色的发光液体？" param2="" param3="type=1"/>
+<C3_laboratory id="213" originalRow="213" action="语法-数值" data="ri_第三章_塑料箱残留液体=1;
+ri_水槽调查2=1;" param="" param3=""/>
+<C3_laboratory id="214" originalRow="214" action="跳转-标签" data="ri_水槽调查==1" param="水箱调查完毕" param3=""/>
+<C3_laboratory id="215" originalRow="215" action="跳转-标签" data="" param="结束" param3=""/>
+<C3_laboratory id="216" originalRow="216" action="" data="" param="" param3=""/>
+<C3_laboratory id="217" originalRow="217" groupSign="调查水管" action="" data="" param="" param3=""/>
+<C3_laboratory id="218" originalRow="218" groupSign="" debugClose="" action="角色台词" data="" param="箱子底部连着一个微型水泵，水泵出水口引出一些白色细管，等距一字排开的延伸到吊顶下面。" param2="" param3="type=1"/>
+<C3_laboratory id="219" originalRow="219" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_严肃_动作_循环_01" param3=""/>
+<C3_laboratory id="220" originalRow="220" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="那种水泵我认得，是做电脑水冷系统用的。" param2="" param3="type=0"/>
+<C3_laboratory id="221" originalRow="221" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="水泵旁边的电源好像有些控制单元。" param2="" param3="type=0"/>
+<C3_laboratory id="222" originalRow="222" action="移除角色" param="" param2=""/>
+<C3_laboratory id="223" originalRow="223" action="语法-数值" data="ri_第三章_塑料箱阀门=1;
+ri_水槽调查=1;" param="" param3=""/>
+<C3_laboratory id="224" originalRow="224" action="跳转-标签" data="ri_水槽调查2==1" param="水箱调查完毕" param3=""/>
+<C3_laboratory id="225" originalRow="225" action="跳转-标签" data="" param="结束" param3=""/>
+<C3_laboratory id="226" originalRow="226" action="" data="" param="" param3=""/>
+<C3_laboratory id="227" originalRow="227" groupSign="水箱重复调查" action="" data="" param="" param3=""/>
+<C3_laboratory id="228" originalRow="228" action="角色台词" data="" param="这里已经调查过了。" param3="type=1"/>
+<C3_laboratory id="229" originalRow="229" action="跳转-标签" data="" param="结束" param3=""/>
+<C3_laboratory id="230" originalRow="230" action="" data="" param="" param3=""/>
+<C3_laboratory id="231" originalRow="231" groupSign="水箱调查完毕" action="" data="" param="" param3=""/>
+<C3_laboratory id="232" originalRow="232" groupSign="" action="角色台词" data="wo" param="水箱调查完了，看样子已经很清晰了。" param3=""/>
+<C3_laboratory id="233" originalRow="233" groupSign="" action="角色台词" data="wo" param="去看看有什么新的动向……" param3=""/>
+<C3_laboratory id="234" originalRow="234" action="RPGLeaveL3" data="" param="" param3="type=1"/>
+<C3_laboratory id="235" originalRow="235" action="跳转-标签" data="" param="水箱返回" param3=""/>
+<C3_laboratory id="236" originalRow="236" action="" data="" param="" param3=""/>
+<C3_laboratory id="237" originalRow="237" groupSign="水箱返回" action="" data="" param="" param3=""/>
+<C3_laboratory id="238" originalRow="238" groupSign="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="239" originalRow="239" groupSign="" action="角色台词" data="niefei" param="定时器、液体残留、看样子这个塑料箱子没什么可以调查的了……" param2="" param3=""/>
+<C3_laboratory id="240" originalRow="240" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_laboratory id="241" originalRow="241" groupSign="" debugClose="" action="子任务加值" data="3调查实验室" param="3" param2="" param3=""/>
+<C3_laboratory id="242" originalRow="242" action="跳转-标签" data="" param="调查完成检测1"/>
+<C3_laboratory id="243" originalRow="243" data="" param=""/>
+<C3_laboratory id="244" originalRow="244" groupSign="" debugClose="" param2="" param3=""/>
+<C3_laboratory id="245" originalRow="245" action="" data="" param=""/>
+<C3_laboratory id="246" originalRow="246" groupSign="调查完成检测1" action="" data="" param=""/>
+<C3_laboratory id="247" originalRow="247" action="跳转-标签" data="rqp_3调查实验室==10&amp;&amp;rqs_3调查实验室==1" param="调查实验室完成"/>
+<C3_laboratory id="248" originalRow="248" action="跳转-标签" data="" param="结束"/>
+<C3_laboratory id="249" originalRow="249" groupSign="" debugClose="" param="" param2=""/>
+<C3_laboratory id="250" originalRow="250" action="" data="" param=""/>
+<C3_laboratory id="251" originalRow="251" groupSign="调查实验室完成" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="252" originalRow="252" debugClose="" action="语法-数值" data="rqs_3调查实验室=2"/>
+<C3_laboratory id="253" originalRow="253" debugClose="" action="语法-数值" data="rqs_3整理当前线索=1"/>
+<C3_laboratory id="254" originalRow="254" groupSign="" debugClose="" action="角色台词" data="" param="开始进行单人推理。" param2="" param3="type=1"/>
+<C3_laboratory id="255" originalRow="255" action="跳转-标签" data="" param="结束"/>
+<C3_laboratory id="256" originalRow="256" groupSign="单人推理完成" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="257" originalRow="257" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="258" originalRow="258" groupSign="" debugClose="" action="语法-数值" data="rqs_3整理当前线索=2" param="" param2="" param3=""/>
+<C3_laboratory id="259" originalRow="259" groupSign="" debugClose="" action="语法-数值" data="rqs_3意外发现=1" param="" param2="" param3=""/>
+<C3_laboratory id="260" originalRow="260" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
+<C3_laboratory id="261" originalRow="261" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}所以漆异之制造这起爆炸的目的是什么呢？" param2="" param3=""/>
+<C3_laboratory id="262" originalRow="262" groupSign="" debugClose="" action="可选对话框" data="" param="$$报复公司==&gt;报复公司
+$$恶作剧==&gt;恶作剧
+$$吸引公众的目光==&gt;吸引公众的目光" param2="" param3=""/>
+<C3_laboratory id="263" originalRow="263" groupSign="报复公司" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="264" originalRow="264" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<C3_laboratory id="265" originalRow="265" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="确实可以为顶石带来一些麻烦……" param2="" param3=""/>
+<C3_laboratory id="266" originalRow="266" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考表情}不过也太麻烦了吧？" param2="" param3=""/>
+<C3_laboratory id="267" originalRow="267" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
+<C3_laboratory id="268" originalRow="268" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌抬头}以他的能力肯定有更经济的方式——" param2="" param3=""/>
+<C3_laboratory id="269" originalRow="269" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_laboratory id="270" originalRow="270" groupSign="" debugClose="" action="角色台词" data="wo" param="也对……" param2="" param3=""/>
+<C3_laboratory id="271" originalRow="271" groupSign="" debugClose="" action="跳转-标签" data="" param="单人推理完成" param2="" param3=""/>
+<C3_laboratory id="272" originalRow="272" groupSign="恶作剧" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="273" originalRow="273" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_愤怒_动作_开始_01" param3=""/>
+<C3_laboratory id="274" originalRow="274" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞愤怒表情}谁会搞这种恶作剧啊！" param2="" param3=""/>
+<C3_laboratory id="275" originalRow="275" groupSign="" debugClose="" action="角色台词" data="niefei" param="一看就不可能……再想想吧！" param2="" param3=""/>
+<C3_laboratory id="276" originalRow="276" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_laboratory id="277" originalRow="277" groupSign="" debugClose="" action="跳转-标签" data="" param="单人推理完成" param2="" param3=""/>
+<C3_laboratory id="278" originalRow="278" groupSign="吸引公众的目光" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="279" originalRow="279" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<C3_laboratory id="280" originalRow="280" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考表情}没错，整体事件其实并不能造成很大危险跟破坏，更像是一种……表演？" param2="" param3=""/>
+<C3_laboratory id="281" originalRow="281" groupSign="" debugClose="" action="角色台词" data="wo" param="虚张声势。" param2="" param3=""/>
+<C3_laboratory id="282" originalRow="282" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="涂凌_休闲_动作_结束_01" param3=""/>
+<C3_laboratory id="283" originalRow="283" groupSign="" debugClose="" action="角色台词" data="tuling" param="对对对！" param2="" param3=""/>
+<C3_laboratory id="284" originalRow="284" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作恢复}{#凯瑟琳待机表情}漆异之想让人注意到这里的话，是比较合理的解释。" param2="" param3=""/>
+<C3_laboratory id="285" originalRow="285" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C3_laboratory id="286" originalRow="286" groupSign="" debugClose="" action="角色台词" data="" param="可恶！虽然知道了是漆异之主策划这次事件。" param2="" param3="type=1"/>
+<C3_laboratory id="287" originalRow="287" groupSign="" debugClose="" action="角色台词" data="" param="但还是不知道异质物在哪里。" param2="" param3="type=1"/>
+<C3_laboratory id="288" originalRow="288" groupSign="" debugClose="" action="角色台词" data="wo" param="你在看什么？" param2="" param3="type=0"/>
+<C3_laboratory id="289" originalRow="289" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_思考_动作_开始_01" param3=""/>
+<C3_laboratory id="290" originalRow="290" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}我在想，为什么只有一部分天花板掉下来了呢？" param2="" param3="type=0"/>
+<C3_laboratory id="291" originalRow="291" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<C3_laboratory id="292" originalRow="292" groupSign="" debugClose="" action="角色台词" data="niefei" param="对啊……我刚在上面看，其他的吊顶板背面都没有炸药。" param2="" param3="type=0"/>
+<C3_laboratory id="293" originalRow="293" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=右" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<C3_laboratory id="294" originalRow="294" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考表情}所以……漆异之是故意让特定几块天花板掉落的？" param2="" param3="type=0"/>
+<C3_laboratory id="295" originalRow="295" action="移除角色" param="" param2=""/>
+<C3_laboratory id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="" param="我们一起抬起头，望向那些黑洞洞的地方……" param2="" param3="type=1"/>
+<C3_laboratory id="297" originalRow="297" groupSign="" debugClose="" action="角色台词" data="wo" param="嗯？以这边为底的话，看起来像是三个英文字母──" param2="" param3="type=0"/>
+<C3_laboratory id="298" originalRow="298" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<C3_laboratory id="299" originalRow="299" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}NEC……？" param2="" param3="type=0"/>
+<C3_laboratory id="300" originalRow="300" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=右" param2="凯瑟琳_转笔_动作_开始_01" param3=""/>
+<C3_laboratory id="301" originalRow="301" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="是什么东西的缩写？" param2="" param3="type=0"/>
+<C3_laboratory id="302" originalRow="302" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="比如通灵术（NECROMANCE）……" param2="" param3="type=0"/>
+<C3_laboratory id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}或者NEC公司？" param2="" param3="type=0"/>
+<C3_laboratory id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="niefei" param="就是卖显示器和电气设备的那家……" param2="" param3="type=0"/>
+<C3_laboratory id="305" originalRow="305" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="涂凌_待机_动作_循环_02" param3=""/>
+<C3_laboratory id="306" originalRow="306" groupSign="" debugClose="" action="角色台词" data="tuling" param="肯定不是那个意思啦，笨猫！" param2="" param3="type=0"/>
+<C3_laboratory id="307" originalRow="307" groupSign="" debugClose="" action="角色台词" data="wo" param="不对，显示器？这个字母我好像在哪见过……" param2="" param3="type=0"/>
+<C3_laboratory id="308" originalRow="308" groupSign="" debugClose="" action="角色台词" data="wo" param="而且就在刚才。" param2="" param3="type=0"/>
+<C3_laboratory id="309" originalRow="309" groupSign="" debugClose="" action="角色台词" data="tuling" param="刚才？好像也就外面的办公室和一楼有显示器……" param2="" param3="type=0"/>
+<C3_laboratory id="310" originalRow="310" groupSign="" debugClose="" action="角色台词" data="wo" param="我想起来了！就是漆异之的电脑！" param2="" param3="type=0"/>
+<C3_laboratory id="311" originalRow="311" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=右" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<C3_laboratory id="312" originalRow="312" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃表情}所以这是一个提示？" param2="" param3="type=0"/>
+<C3_laboratory id="313" originalRow="313" groupSign="nec标志位置" debugClose="" action="可选对话框" data="" param="$$3D打印机==&gt;选择错误
+$$自动售货机==&gt;选择错误
+$$漆异之办公室的电脑==&gt;选择正确" param2="" param3=""/>
+<C3_laboratory id="314" originalRow="314" groupSign="选择错误" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="315" originalRow="315" groupSign="" debugClose="" action="角色台词" data="" param="怎么可能？" param2="" param3="type=1"/>
+<C3_laboratory id="316" originalRow="316" groupSign="" debugClose="" action="跳转-标签" data="" param="nec标志位置" param2="" param3=""/>
+<C3_laboratory id="317" originalRow="317" groupSign="选择正确" debugClose="" action="切换场景" data="C3_dingshi_QYZ_office_dark" param="" param2="" param3=""/>
+<C3_laboratory id="318" originalRow="318" groupSign="" debugClose="" action="跳转-标签" param="结束" param2="" param3=""/>
+<C3_laboratory id="319" originalRow="319" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="320" originalRow="320" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="321" originalRow="321" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="322" originalRow="322" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="323" originalRow="323" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="324" originalRow="324" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="325" originalRow="325" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="326" originalRow="326" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="327" originalRow="327" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="328" originalRow="328" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="329" originalRow="329" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="330" originalRow="330" groupSign="单人推理211成功" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="331" originalRow="331" groupSign="" debugClose="" action="角色台词" data="" param="得出结论：这场灵异现象是人为制造的。" param2="" param3=""/>
+<C3_laboratory id="332" originalRow="332" groupSign="" debugClose="" action="跳转-标签" data="" param="C3_TeamCourt_04.异质物确认" param2=""/>
+<C3_laboratory id="333" originalRow="333" groupSign="" debugClose="" action="角色台词" data="" param="&lt;color=#FFC0CB&gt;（这里插入集体讨论）&lt;/color&gt;" param2="" param3=""/>
+<C3_laboratory id="334" originalRow="334" groupSign="" debugClose="" action="角色台词" data="" param="Q1 这些机关是谁制造的" param2="" param3=""/>
+<C3_laboratory id="335" originalRow="335" groupSign="" debugClose="" action="角色台词" data="" param="漆异之" param2="" param3=""/>
+<C3_laboratory id="336" originalRow="336" groupSign="" debugClose="" action="角色台词" data="" param="Q2 漆异之制作机关的目的" param2="" param3=""/>
+<C3_laboratory id="337" originalRow="337" groupSign="" debugClose="" action="角色台词" data="" param="吸引公众的目光" param2="" param3=""/>
+<C3_laboratory id="338" originalRow="338" groupSign="" debugClose="" action="角色台词" data="" param="Q3 这么说就不存在异质物" param2="" param3=""/>
+<C3_laboratory id="339" originalRow="339" groupSign="" debugClose="" action="角色台词" data="" param="不应当，因为最开始用探测仪的时候是有反应的" param2="" param3=""/>
+<C3_laboratory id="340" originalRow="340" groupSign="完成集体讨论04" debugClose="" param2="" param3=""/>
+<C3_laboratory id="341" originalRow="341" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_skip" param="1" param2="" param3=""/>
+<C3_laboratory id="342" originalRow="342" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<C3_laboratory id="343" originalRow="343" groupSign="" debugClose="" action="角色台词" data="" param="&lt;color=#FFC0CB&gt;（这时候剧情提示天话板缺口的形状）&lt;/color&gt;" param2="" param3=""/>
+<C3_laboratory id="344" originalRow="344" groupSign="2" debugClose="" action="RPGActor" data="camNEC" param="1" param2="" param3=""/>
+<C3_laboratory id="345" originalRow="345" groupSign="" debugClose="" action="角色台词" data="" param="哇，从这个角度看，天花板的缺口像3个字母！！！" param2="" param3=""/>
+<C3_laboratory id="346" originalRow="346" groupSign="" debugClose="" action="角色台词" data="" param="是NEC！！！" param2="" param3=""/>
+<C3_laboratory id="347" originalRow="347" groupSign="" debugClose="" action="角色台词" data="wo" param="可是这三个字母代表着啥啊？" param2="" param3=""/>
+<C3_laboratory id="348" originalRow="348" groupSign="1.5" debugClose="" action="RPGActor" data="camNEC" param="2" param2="" param3=""/>
+<C3_laboratory id="349" originalRow="349" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3="TRUE;TRUE;FALSE"/>
+<C3_laboratory id="350" originalRow="350" groupSign="" debugClose="" action="角色台词" data="niefei" param="我知道！
+漆异之电脑显示器的品牌显示NEO" param2="" param3=""/>
+<C3_laboratory id="351" originalRow="351" groupSign="" debugClose="" action="角色台词" data="wo" param="听起来有些牵强啊" param2="" param3=""/>
+<C3_laboratory id="352" originalRow="352" groupSign="" debugClose="" action="角色台词" data="niefei" param="哪有什么NEO牌子的显示器啊，应该是NEC牌子的" param2="" param3=""/>
+<C3_laboratory id="353" originalRow="353" groupSign="" debugClose="" action="角色台词" data="niefei" param="但这么大的一个公司用山寨显示器不是很合理" param2="" param3=""/>
+<C3_laboratory id="354" originalRow="354" groupSign="" debugClose="" action="角色台词" data="niefei" param="这就说明……" param2="" param3=""/>
+<C3_laboratory id="355" originalRow="355" groupSign="" debugClose="" action="角色台词" data="wo" param="说明显示器的字母“O”有猫腻！！" param2="" param3=""/>
+<C3_laboratory id="356" originalRow="356" groupSign="" debugClose="" action="角色台词" data="niefei" param="对！" param2="" param3=""/>
+<C3_laboratory id="357" originalRow="357" groupSign="" debugClose="" action="角色台词" data="wo" param="咱快去看看吧！" param2="" param3=""/>
+<C3_laboratory id="358" originalRow="358" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
+<C3_laboratory id="359" originalRow="359" debugClose="" action="语法-数值" data="rqs_3调查显示器的标志=1"/>
+<C3_laboratory id="360" originalRow="360" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_laboratory id="361" originalRow="361" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="362" originalRow="362" groupSign="没时间看这些了" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="363" originalRow="363" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_laboratory id="364" originalRow="364" action="角色台词" data="wo" param="没时间看这些东西了" param2="" param3=""/>
+<C3_laboratory id="365" originalRow="365" action="角色台词" data="wo" param="快回到漆异之工作室去调查一下显示器吧" param2="" param3=""/>
+<C3_laboratory id="366" originalRow="366" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_laboratory id="367" originalRow="367" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="368" originalRow="368" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_laboratory id="369" originalRow="369"/>
+<C3_laboratory id="370" originalRow="370" groupSign="结束"/>
+</root>

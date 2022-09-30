@@ -1,0 +1,32 @@
+<root>
+<sq_9900103 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="1" originalRow="1" groupSign="对话" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<sq_9900103 id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="" param2="" param3=""/>
+<sq_9900103 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="sq_9900103.对话" param2="" param3=""/>
+<sq_9900103 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="..." param2="" param3=""/>
+<sq_9900103 id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<sq_9900103 id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="8" originalRow="8" groupSign="对话_条件不满足" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="9" originalRow="9" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<sq_9900103 id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="" param2="" param3=""/>
+<sq_9900103 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="sq_9900103.对话_条件不满足" param2="" param3=""/>
+<sq_9900103 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="..." param2="" param3=""/>
+<sq_9900103 id="13" originalRow="13" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<sq_9900103 id="14" originalRow="14" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="16" originalRow="16" groupSign="对话_后续对话" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<sq_9900103 id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="" param2="" param3=""/>
+<sq_9900103 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="sq_9900103.对话_后续对话" param2="" param3=""/>
+<sq_9900103 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="..." param2="" param3=""/>
+<sq_9900103 id="20" originalRow="20" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<sq_9900103 id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="23" originalRow="23" groupSign="对话_闲聊" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<sq_9900103 id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="" param2="" param3=""/>
+<sq_9900103 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="sq_9900103.对话_后续对话" param2="" param3=""/>
+<sq_9900103 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="..." param2="" param3=""/>
+<sq_9900103 id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<sq_9900103 id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<sq_9900103 id="29" originalRow="29" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

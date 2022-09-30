@@ -1,6 +1,0 @@
-<root>
-<ShopMerchant id="1" type="0" autoRefreshTime="" cycleRefreshTime="" refreshLimit="0" refreshCost="" storage="" costShow="210001" order="1" name="聂飞小店" icon="icon_combination" requirement="2;0;1901"/>
-<ShopMerchant id="2" type="1" autoRefreshTime="05:00:00|12:00:00|18:00:00" cycleRefreshTime="0|1" refreshLimit="0" refreshCost="" storage="13;0;8|14;0;8|15;0;8" costShow="1|3" order="2" name="道具商店" icon="icon_mysterious" requirement="" startDate="2020-03-26T00:00:00" endDate="2999-06-06T00:00:00"/>
-<ShopMerchant id="4" type="1" autoRefreshTime="05:00:00" cycleRefreshTime="" refreshLimit="0" refreshCost="" storage="" costShow="1|3|" order="99" name="神秘商店" icon="icon_mysterious" requirement="" startDate="2020-03-26T00:00:00" endDate="2999-06-06T00:00:00"/>
-<LimitState id="LimitState" type="IN:[0;1]" autoRefreshTime="" cycleRefreshTime="" refreshLimit="" refreshCost="1:{ID_OR_NULL:Item}" storage="" costShow="" order="" name="" icon="" requirement="" startDate="" endDate=""/>
-</root>

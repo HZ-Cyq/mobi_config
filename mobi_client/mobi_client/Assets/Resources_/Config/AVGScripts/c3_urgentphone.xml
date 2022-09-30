@@ -1,0 +1,13 @@
+<root>
+<C3_UrgentPhone id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_UrgentPhone id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C3_UrgentPhone id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}成长得很快嘛。{2}{#杜衡惊讶动作恢复}" param2="" param3="type=4"/>
+<C3_UrgentPhone id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="duheng" param="忙完了等会来我办公室，接下来会有为期3天的特训。" param2="" param3="type=4"/>
+<C3_UrgentPhone id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="呃！？特训！？" param2="" param3="type=0"/>
+<C3_UrgentPhone id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡看文件动作}是有新的危险区域需要处理吗？" param2="" param3="type=0"/>
+<C3_UrgentPhone id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="duheng" param="只是一些面子工作，但为了应付高层不得不做。" param2="" param3="type=4"/>
+<C3_UrgentPhone id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作恢复}回来再说吧，事关年终奖金。" param2="" param3="type=4"/>
+<C3_UrgentPhone id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="明白！！我马上回去。" param2="" param3="type=0"/>
+<C3_UrgentPhone id="9" originalRow="9" groupSign="" debugClose="" action="语法-数值" data="rqs_116001等待杜衡联络=2" param="" param2="" param3=""/>
+<C3_UrgentPhone id="10" originalRow="10" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

@@ -1,0 +1,340 @@
+<root>
+<C1_cloister_ex id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="1" originalRow="1" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
+<C1_cloister_ex id="2" originalRow="2" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="3" param2="" param3=""/>
+<C1_cloister_ex id="3" originalRow="3" groupSign="" debugClose="1" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
+<C1_cloister_ex id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_MV}" param2="" param3=""/>
+<C1_cloister_ex id="5" originalRow="5" groupSign="" debugClose="1" action="播放音效" data="amb_mv" param="" param2="" param3=""/>
+<C1_cloister_ex id="6" originalRow="6" groupSign="" debugClose="" action="RPGActor" data="诡异房门" param="2" param2="" param3=""/>
+<C1_cloister_ex id="7" originalRow="7" groupSign="1" debugClose="" action="RPGActor" data="第三次前进" param="2" param2="" param3=""/>
+<C1_cloister_ex id="8" originalRow="8" groupSign="" debugClose="" action="RPGActor" data="camtest8" param="1" param2="" param3=""/>
+<C1_cloister_ex id="9" originalRow="9" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="10" originalRow="10" groupSign="" debugClose="" action="RPGActor" data="最终房间" param="1" param2="" param3=""/>
+<C1_cloister_ex id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="就如计划般，我拉开房门的同时，
+聂总向左，凯瑟琳和涂凌向右，率先冲出房间。" param2="" param3="type=1"/>
+<C1_cloister_ex id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="" param="他们都让视线尽量避开电视的位置，
+专心应付可能出现在自己那一侧的敌人。" param2="" param3="type=1"/>
+<C1_cloister_ex id="13" originalRow="13" groupSign="" debugClose="1" action="打开插画" data="c1_404room" param="" param2="" param3="offy=0.15"/>
+<C1_cloister_ex id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="" param="我不顾两侧的杂音，
+睁开眼睛紧盯着门上的显示屏幕──" param2="" param3="type=1"/>
+<C1_cloister_ex id="15" originalRow="15" groupSign="" debugClose="1" action="打开插画" data="C0_dance_03" param="" param2="" param3=""/>
+<C1_cloister_ex id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="" param="“……脸红心跳又缺氧，我在这里等你来~♪”{shake=1}" param2="" param3="type=1"/>
+<C1_cloister_ex id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="" param="{shake=3}接下来的画面中，{shake=3}{shake=3}机舱{shake=3}晃动，{shake=3}人群尖{shake=3}叫夹杂{shake=3}其中。" param2="" param3="type=1"/>
+<C1_cloister_ex id="18" originalRow="18" groupSign="" debugClose="1" action="停止音效" data="amb_mv" param="" param2="" param3=""/>
+<C1_cloister_ex id="19" originalRow="19" groupSign="" debugClose="" action="打开插画" data="c0_blank" param="" param2="" param3=""/>
+<C1_cloister_ex id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{#闪白震slash}{#闪白震slash}{#闪白震slash}{#闪白震punch}！！！！！！！" param2="" param3="type=1"/>
+<C1_cloister_ex id="21" originalRow="21" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="" param="{s=0.05}……………&lt;color=#d0d0d0&gt;………&lt;/color&gt;" param2="" param3="type=1"/>
+<C1_cloister_ex id="22" originalRow="22" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="" param="{s=0.05}&lt;color=#BEBEBE&gt;就像……{0.5}&lt;/color&gt;&lt;color=#9D9D9D&gt;{s=0.06}坠入了无尽的深渊……&lt;/color&gt;" param2="" param3="type=1"/>
+<C1_cloister_ex id="24" originalRow="24" groupSign="" debugClose="1" action="角色台词" data="" param="……" param2="" param3=""/>
+<C1_cloister_ex id="25" originalRow="25" groupSign="" debugClose="1" action="角色台词" data="" param="是啊，人怎么可能一天之内撞上两次大运呢……" param2="" param3=""/>
+<C1_cloister_ex id="26" originalRow="26" groupSign="" debugClose="1" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
+<C1_cloister_ex id="27" originalRow="27" groupSign="" debugClose="1" action="角色台词" data="" param="我果然是个笨蛋……" param2="" param3=""/>
+<C1_cloister_ex id="28" originalRow="28" groupSign="2" debugClose="" action="特殊-转场效果" data="2" param="2" param2="" param3=""/>
+<C1_cloister_ex id="29" originalRow="29" groupSign="" debugClose="" action="切换场景" data="C1_kaiselin_office" param="" param2="" param3=""/>
+<C1_cloister_ex id="30" originalRow="30" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="32" originalRow="32" groupSign="" debugClose="1" action="角色台词" data="" param="我努力将视线移向观察窗的顶部，在那金属框上看到了『08-G』的蚀刻字样。" param2="" param3=""/>
+<C1_cloister_ex id="33" originalRow="33" groupSign="" debugClose="1" action="角色台词" data="" param="那个号码……对应的走廊房间是……
+不行，已经无法思考了……" param2="" param3=""/>
+<C1_cloister_ex id="34" originalRow="34" groupSign="" debugClose="1" action="角色台词" data="wo" param="404的……本体……在……
+08-G……！" param2="" param3=""/>
+<C1_cloister_ex id="35" originalRow="35" groupSign="" debugClose="1" action="角色台词" data="" param="用尽最后的力气说出这句话时，我已感觉不到自己的肢体。" param2="" param3=""/>
+<C1_cloister_ex id="36" originalRow="36" groupSign="" debugClose="1" action="角色台词" data="" param="这就是……异质物的力量吗……" param2="" param3=""/>
+<C1_cloister_ex id="37" originalRow="37" groupSign="苏醒" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="38" originalRow="38" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="39" originalRow="39" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="4" param2="" param3=""/>
+<C1_cloister_ex id="40" originalRow="40" groupSign="" debugClose="1" action="RPGActor" data="Right" param="1" param2="" param3=""/>
+<C1_cloister_ex id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="" param="{播放音效,avg_boom}忽然，我正前方发出“嘭──”的闷响，
+一股热浪铺面而来。" param2="" param3="type=1"/>
+<C1_cloister_ex id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_WeirdZone}" param2="" param3=""/>
+<C1_cloister_ex id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="" param="无数沙粒状的东西打在我的脸上，
+瞬间唤醒了我的知觉。" param2="" param3="type=1"/>
+<C1_cloister_ex id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="" param="我缓缓睁开眼睛，只见在一片黑色的烟尘中，
+电视已经熄灭，侧面还不停喷出电线短路的火星。" param2="" param3="type=1"/>
+<C1_cloister_ex id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="wo" param="噗……呸呸！！
+什么东西！溅我嘴里了……" param2="" param3=""/>
+<C1_cloister_ex id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="" param="我感觉像是刚刚经历了一场沙尘暴，
+而且沙子还是黑色的。" param2="" param3="type=1"/>
+<C1_cloister_ex id="47" originalRow="47" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<C1_cloister_ex id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌惊讶表情}没事吧，你怎么了？" param2="" param3=""/>
+<C1_cloister_ex id="49" originalRow="49" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<C1_cloister_ex id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2严肃表情}你刚刚身体有什么反应吗？" param2="" param3=""/>
+<C1_cloister_ex id="51" originalRow="51" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<C1_cloister_ex id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}25D是坐标吗？" param2="" param3=""/>
+<C1_cloister_ex id="53" originalRow="53" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="54" originalRow="54" groupSign="" debugClose="" action="可选对话框" data="" param="$$先回答涂凌==&gt;回答涂凌
+$$先回答凯瑟琳==&gt;回答凯瑟琳
+$$先回答聂飞==&gt;回答聂飞" param2="" param3=""/>
+<C1_cloister_ex id="55" originalRow="55" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="56" originalRow="56" groupSign="回答涂凌" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="wo" param="没什么事，时间过去了多久了？" param2="" param3=""/>
+<C1_cloister_ex id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="wo" param="刚刚感觉很迷幻仿佛在梦里一样，又很真实，很难形容。" param2="" param3=""/>
+<C1_cloister_ex id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="wo" param="钱越出事的时候就在25D座位旁边。" param2="" param3=""/>
+<C1_cloister_ex id="60" originalRow="60" groupSign="" debugClose="" action="服务器行为" data="903" param="" param2="" param3=""/>
+<C1_cloister_ex id="61" originalRow="61" groupSign="" debugClose="" action="跳转-标签" data="" param="苏醒回答结束" param2="" param3=""/>
+<C1_cloister_ex id="62" originalRow="62" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="63" originalRow="63" groupSign="回答凯瑟琳" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="wo" param="刚刚的感觉很迷幻，仿佛在梦里一样，又很真实，很难形容。" param2="" param3=""/>
+<C1_cloister_ex id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="wo" param="我没什么事，时间过去了多久了？" param2="" param3=""/>
+<C1_cloister_ex id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="wo" param="钱越出事的时候就在25D座位旁边。" param2="" param3=""/>
+<C1_cloister_ex id="67" originalRow="67" groupSign="" debugClose="" action="服务器行为" data="901" param="" param2="" param3=""/>
+<C1_cloister_ex id="68" originalRow="68" groupSign="" debugClose="" action="跳转-标签" data="" param="苏醒回答结束" param2="" param3=""/>
+<C1_cloister_ex id="69" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="70" originalRow="70" groupSign="回答聂飞" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="wo" param="是的，钱越出事的时候就在25D座位旁边。" param2="" param3=""/>
+<C1_cloister_ex id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="wo" param="我没什么事，时间过去了多久了？" param2="" param3=""/>
+<C1_cloister_ex id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="wo" param="刚刚感觉很迷幻仿佛在梦里一样，又很真实，很难形容。" param2="" param3=""/>
+<C1_cloister_ex id="74" originalRow="74" groupSign="" debugClose="" action="服务器行为" data="902" param="" param2="" param3=""/>
+<C1_cloister_ex id="75" originalRow="75" groupSign="" debugClose="" action="跳转-标签" data="" param="苏醒回答结束" param2="" param3=""/>
+<C1_cloister_ex id="76" originalRow="76" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="77" originalRow="77" groupSign="苏醒回答结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="78" originalRow="78" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3="TRUE;TRUE;TRUE"/>
+<C1_cloister_ex id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心动作}哼哼，刚刚的是石墨手榴弹──{0.8}
+{#聂飞得意表情}小鬼还真是可以啊~喵{1}{#聂飞开心动作恢复}" param2="112石墨" param3=""/>
+<C1_cloister_ex id="80" originalRow="80" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3="TRUE;TRUE;TRUE"/>
+<C1_cloister_ex id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌惊讶表情}{#闪白ding}哇，眼看着又醒过来了耶！{s=0.01}（*゜ー゜*）{0.8}{#涂凌平静表情}" param2="115T眼看着" param3=""/>
+<C1_cloister_ex id="82" originalRow="82" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="83" originalRow="83" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3="TRUE;TRUE;TRUE"/>
+<C1_cloister_ex id="84" originalRow="84" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}你刚才说404的本体在『25-D』对吧？
+那么对应房间号应该是──" param2="146K你刚才说" param3=""/>
+<C1_cloister_ex id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="wo" param="25-0405。" param2="" param3=""/>
+<C1_cloister_ex id="86" originalRow="86" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_紧张_动作_开始_01" param3=""/>
+<C1_cloister_ex id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪红震slash}等、等下！{#凯瑟琳2严肃动作恢复}{#凯瑟琳2待机表情}" param2="046等、等下" param3=""/>
+<C1_cloister_ex id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="tuling" param="链式数据……异质物反应高度聚合，是{shake=1}{#凯瑟琳2惊讶动作}{#凯瑟琳2惊讶表情}『巢』！{1.5}" param2="047链式数据……异质物反应高度聚合，是『巢』" param3=""/>
+<C1_cloister_ex id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}{#凯瑟琳2严肃表情}又把自己藏得深了一些，不想被我们找到呢。" param2="048又把自己藏得深了一些，不想被我们找到呢" param3=""/>
+<C1_cloister_ex id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#闪白ding}终于进入『巢』的核心区域了！" param2="049终于进入『巢』的核心区域了吗" param3=""/>
+<C1_cloister_ex id="91" originalRow="91" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<C1_cloister_ex id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}这个破电视机给我们惹了这么大的麻烦。" param2="050这个破电视机给我们惹了这么大的麻烦" param3=""/>
+<C1_cloister_ex id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震punch}老子要亲手把它揪出来！" param2="051老子要亲手把它揪出来" param3=""/>
+<C1_cloister_ex id="94" originalRow="94" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="95" originalRow="95" groupSign="" debugClose="" action="RPGActor" data="camtest22" param="1" param2="" param3=""/>
+<C1_cloister_ex id="96" originalRow="96" groupSign="" debugClose="" action="RPGActor" data="camtest8" param="2" param2="" param3=""/>
+<C1_cloister_ex id="97" originalRow="97" groupSign="" debugClose="" action="RPGActor" data="迷宫入口" param="1" param2="" param3=""/>
+<C1_cloister_ex id="98" originalRow="98" groupSign="" debugClose="" action="子任务完成" data="第一章_重新醒来" param="" param2="" param3=""/>
+<C1_cloister_ex id="99" originalRow="99" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="100" originalRow="100" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="101" originalRow="101" groupSign="进入迷宫" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="102" originalRow="102" groupSign="" debugClose="" action="可选对话框" data="" param="(stage_1014&gt;0)$$已经完成了==&gt;跳转恢复正常
+(stage_1014==0)$$探索==&gt;跳转迷宫" param2="" param3=""/>
+<C1_cloister_ex id="103" originalRow="103" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="104" originalRow="104" groupSign="跳转迷宫" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="105" originalRow="105" groupSign="" debugClose="" action="切换场景" data="maze_11" param="" param2="" param3=""/>
+<C1_cloister_ex id="106" originalRow="106" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="107" originalRow="107" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="108" originalRow="108" groupSign="跳转恢复正常" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="109" originalRow="109" groupSign="" debugClose="" action="语法-数值" data="ri_第一章_收容任务标记=1" param="" param2="" param3=""/>
+<C1_cloister_ex id="110" originalRow="110" groupSign="" debugClose="" action="跳转-标签" data="" param="收容完成" param2="" param3=""/>
+<C1_cloister_ex id="111" originalRow="111" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="112" originalRow="112" groupSign="0.5&gt;&gt;" debugClose="1" action="RPGActor" data="camtest10" param="1" param2="" param3=""/>
+<C1_cloister_ex id="113" originalRow="113" groupSign="" debugClose="1" action="镜头震动" data="1;1;1;1" param="" param2="" param3=""/>
+<C1_cloister_ex id="114" originalRow="114" groupSign="" debugClose="1" action="RPGActor" data="camtest8" param="2" param2="" param3=""/>
+<C1_cloister_ex id="115" originalRow="115" groupSign="0.2&gt;&gt;" debugClose="1" action="RPGActor" data="camtest15" param="1" param2="" param3=""/>
+<C1_cloister_ex id="116" originalRow="116" groupSign="" debugClose="1" action="镜头震动" data="1;1;1;1" param="" param2="" param3=""/>
+<C1_cloister_ex id="117" originalRow="117" groupSign="" debugClose="1" action="RPGActor" data="camtest10" param="2" param2="" param3=""/>
+<C1_cloister_ex id="118" originalRow="118" groupSign="" debugClose="1" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
+<C1_cloister_ex id="119" originalRow="119" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="120" originalRow="120" groupSign="" debugClose="1" action="播放音效" data="avg_blurred" param="" param2="" param3=""/>
+<C1_cloister_ex id="121" originalRow="121" groupSign="1&gt;&gt;" debugClose="1" action="画面特效效果" data="旧电视" param="Start2Loop" param2="" param3=""/>
+<C1_cloister_ex id="122" originalRow="122" groupSign="" debugClose="1" action="RPGActor" data="UFX_char_dianshiniang_pose" param="1" param2="" param3=""/>
+<C1_cloister_ex id="123" originalRow="123" groupSign="" debugClose="1" action="RPGActor" data="camtest16" param="1" param2="" param3=""/>
+<C1_cloister_ex id="124" originalRow="124" groupSign="2&gt;&gt;" debugClose="1" action="RPGActor" data="UFX_char_dianshiniang_pose" param="2" param2="" param3=""/>
+<C1_cloister_ex id="125" originalRow="125" groupSign="2" debugClose="1" action="画面特效移除" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="126" originalRow="126" groupSign="" debugClose="1" action="角色台词" data="wo" param="！！！！！" param2="" param3=""/>
+<C1_cloister_ex id="127" originalRow="127" groupSign="" debugClose="1" action="打开插画" data="C0_404闭眼" param="TRUE" param2="" param3=""/>
+<C1_cloister_ex id="128" originalRow="128" groupSign="1.5" debugClose="1" action="播放音效" data="avg_blurred" param="" param2="" param3=""/>
+<C1_cloister_ex id="129" originalRow="129" groupSign="" debugClose="1" action="画面特效效果" data="旧电视" param="Flash" param2="" param3=""/>
+<C1_cloister_ex id="130" originalRow="130" groupSign="" debugClose="1" action="打开插画" data="C0_404睁眼" param="TRUE" param2="" param3=""/>
+<C1_cloister_ex id="131" originalRow="131" groupSign="1.5&gt;&gt;" debugClose="1" action="关闭插画" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="132" originalRow="132" groupSign="" debugClose="1" action="画面特效移除" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="133" originalRow="133" groupSign="" debugClose="1" action="角色台词" data="wo" param="什么！？前面是什么……我眼花了？？" param2="" param3=""/>
+<C1_cloister_ex id="134" originalRow="134" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_得意_动作_开始_01" param3=""/>
+<C1_cloister_ex id="135" originalRow="135" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}越来越灵异了呢~" param2="146K越来越" param3=""/>
+<C1_cloister_ex id="136" originalRow="136" groupSign="" debugClose="1" action="RPGActor" data="怪物1-4" param="1" param2="" param3=""/>
+<C1_cloister_ex id="137" originalRow="137" groupSign="" debugClose="1" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<C1_cloister_ex id="138" originalRow="138" groupSign="" debugClose="1" action="角色台词" data="niefei" param="{#聂飞严肃表情}过来了！大家小心！" param2="114过来了" param3=""/>
+<C1_cloister_ex id="139" originalRow="139" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="140" originalRow="140" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="141" originalRow="141" groupSign="" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="142" originalRow="142" groupSign="再次战斗" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="143" originalRow="143" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="144" originalRow="144" groupSign="" debugClose="1" action="RPGActor" data="怪物1-4" param="2" param2="" param3=""/>
+<C1_cloister_ex id="145" originalRow="145" groupSign="" debugClose="1" action="角色台词" data="" param="{music=bgm_WeirdZone}" param2="" param3=""/>
+<C1_cloister_ex id="146" originalRow="146" groupSign="" debugClose="1" action="角色台词" data="wo" param="这是……404！？" param2="" param3=""/>
+<C1_cloister_ex id="147" originalRow="147" groupSign="" debugClose="1" action="设置角色" data="tuling" param="pos=中" param2="涂凌_紧张_动作_开始_01" param3=""/>
+<C1_cloister_ex id="148" originalRow="148" groupSign="" debugClose="1" action="角色台词" data="tuling" param="不对！异质波动不到百分之一......" param2="116T异质波动" param3=""/>
+<C1_cloister_ex id="149" originalRow="149" groupSign="" debugClose="1" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<C1_cloister_ex id="150" originalRow="150" groupSign="" debugClose="1" action="角色台词" data="niefei" param="{#聂飞思考动作}分身么......嘁——真麻烦。{#涂凌紧张动作恢复}" param2="115分身" param3=""/>
+<C1_cloister_ex id="151" originalRow="151" groupSign="" debugClose="1" action="角色台词" data="tuling" param="这个时候出现分身，果然本体就在后面的房间里了！！{#涂凌思考动作}" param2="117T这个时候出现" param3=""/>
+<C1_cloister_ex id="152" originalRow="152" groupSign="" debugClose="1" action="RPGActor" data="怪物1-5" param="1" param2="" param3=""/>
+<C1_cloister_ex id="153" originalRow="153" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=右" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<C1_cloister_ex id="154" originalRow="154" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}剩下的也赶紧解决掉吧。" param2="147K剩下的" param3=""/>
+<C1_cloister_ex id="155" originalRow="155" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="156" originalRow="156" groupSign="" debugClose="1" action="播放音乐" data="bgm_WeirdZone" param="" param2="" param3=""/>
+<C1_cloister_ex id="157" originalRow="157" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="158" originalRow="158" groupSign="" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="159" originalRow="159" groupSign="定位" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="160" originalRow="160" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="161" originalRow="161" groupSign="" debugClose="1" action="特殊-转场效果" data="0" param="2" param2="" param3=""/>
+<C1_cloister_ex id="162" originalRow="162" groupSign="" debugClose="1" action="RPGActor" data="camtest15" param="1" param2="" param3=""/>
+<C1_cloister_ex id="163" originalRow="163" groupSign="" debugClose="1" action="RPGActor" data="怪物1-5" param="2" param2="" param3=""/>
+<C1_cloister_ex id="164" originalRow="164" groupSign="" debugClose="1" action="播放音乐" data="bgm_WeirdZone" param="" param2="" param3=""/>
+<C1_cloister_ex id="165" originalRow="165" groupSign="1.2&gt;&gt;" debugClose="1" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_循环_01" param3=""/>
+<C1_cloister_ex id="166" originalRow="166" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}3-404的本体应该就在那个房间。
+不要恋战，直接冲过去！" param2="149K本体" param3=""/>
+<C1_cloister_ex id="167" originalRow="167" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="168" originalRow="168" groupSign="1&gt;&gt;" debugClose="1" action="RPGActor" data="camtest11" param="1" param2="" param3=""/>
+<C1_cloister_ex id="169" originalRow="169" groupSign="1" debugClose="1" action="镜头震动" data="1;1;1;2" param="" param2="" param3=""/>
+<C1_cloister_ex id="170" originalRow="170" groupSign="" debugClose="1" action="RPGActor" data="camtest15" param="2" param2="" param3=""/>
+<C1_cloister_ex id="171" originalRow="171" groupSign="" debugClose="1" action="RPGActor" data="camtest16" param="2" param2="" param3=""/>
+<C1_cloister_ex id="172" originalRow="172" groupSign="" debugClose="1" action="镜头震动" data="1;1;1;1.2" param="" param2="" param3=""/>
+<C1_cloister_ex id="173" originalRow="173" groupSign="1.6&gt;&gt;" debugClose="1" action="RPGActor" data="camtest12" param="1" param2="" param3=""/>
+<C1_cloister_ex id="174" originalRow="174" groupSign="" debugClose="1" action="RPGActor" data="camtest11" param="2" param2="" param3=""/>
+<C1_cloister_ex id="175" originalRow="175" groupSign="0.1&gt;&gt;" debugClose="1" action="子任务完成" data="第一章_定位本体" param="" param2="" param3=""/>
+<C1_cloister_ex id="176" originalRow="176" groupSign="1" debugClose="1" action="故事板" data="" param="……终于。" param2="" param3=""/>
+<C1_cloister_ex id="177" originalRow="177" groupSign="" debugClose="1" action="特殊-转场效果" data="0" param="1" param2="" param3=""/>
+<C1_cloister_ex id="178" originalRow="178" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="179" originalRow="179" groupSign="" debugClose="1" action="打开插画" data="blackbgimg" param="" param2="" param3=""/>
+<C1_cloister_ex id="180" originalRow="180" groupSign="" debugClose="1" action="播放视频" data="C1_404_postbattle" param="FALSE" param2="" param3=""/>
+<C1_cloister_ex id="181" originalRow="181" groupSign="" debugClose="1" action="进战斗" data="1014" param="" param2="" param3=""/>
+<C1_cloister_ex id="182" originalRow="182" groupSign="" debugClose="1" action="关闭插画" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="183" originalRow="183" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="184" originalRow="184" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="185" originalRow="185" groupSign="收服" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="186" originalRow="186" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="187" originalRow="187" groupSign="" debugClose="1" action="RPGActor" data="最终挑战" param="2" param2="" param3=""/>
+<C1_cloister_ex id="188" originalRow="188" groupSign="" debugClose="1" action="语法-数值" data="QUEST_第一章_获得404=1" param="" param2="" param3=""/>
+<C1_cloister_ex id="189" originalRow="189" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="3" param2="" param3=""/>
+<C1_cloister_ex id="190" originalRow="190" groupSign="" debugClose="" action="语法-数值" data="ri_第一章_收容任务标记=1" param="" param2="" param3=""/>
+<C1_cloister_ex id="191" originalRow="191" groupSign="" debugClose="" action="切换场景" data="C1_cloister_3D" param="" param2="" param3=""/>
+<C1_cloister_ex id="192" originalRow="192" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="193" originalRow="193" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="194" originalRow="194" groupSign="收容完成" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="195" originalRow="195" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="3" param2="" param3=""/>
+<C1_cloister_ex id="196" originalRow="196" groupSign="" debugClose="" action="RPGActor" data="camtest22" param="2" param2="" param3=""/>
+<C1_cloister_ex id="197" originalRow="197" groupSign="" debugClose="" action="RPGActor" data="cam" param="1" param2="" param3=""/>
+<C1_cloister_ex id="198" originalRow="198" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="199" originalRow="199" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="1" param2="" param3=""/>
+<C1_cloister_ex id="200" originalRow="200" groupSign="" debugClose="" action="播放视频" data="C1_404_afterbattle" param="FALSE" param2="" param3=""/>
+<C1_cloister_ex id="201" originalRow="201" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="1" param2="" param3=""/>
+<C1_cloister_ex id="202" originalRow="202" groupSign="1&gt;&gt;" debugClose="" action="子任务完成" data="第一章_收容" param="" param2="" param3=""/>
+<C1_cloister_ex id="203" originalRow="203" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="204" originalRow="204" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="205" originalRow="205" groupSign="" debugClose="1" action="子任务完成" data="第一章_获得404" param="" param2="" param3=""/>
+<C1_cloister_ex id="206" originalRow="206" groupSign="" debugClose="1" action="角色台词" data="" param="随着黑暗和堆满房间的电视机逐渐分解消失，我留意到那些电视机上似乎闪过了一幕画面。" param2="" param3="type=1"/>
+<C1_cloister_ex id="207" originalRow="207" groupSign="" debugClose="1" action="角色台词" data="" param="这个房间逐渐恢复了它原本样貌──" param2="" param3="type=1"/>
+<C1_cloister_ex id="208" originalRow="208" groupSign="" debugClose="1" action="角色台词" data="" param="404身上的线缆根根断裂，散落一地，缓缓消失。" param2="" param3="type=1"/>
+<C1_cloister_ex id="209" originalRow="209" groupSign="" debugClose="1" action="角色台词" data="" param="她虚弱地跪坐在地上，终于平静了下来，周身却不知为何发出一圈淡金色的光晕。" param2="" param3="type=1"/>
+<C1_cloister_ex id="210" originalRow="210" groupSign="" debugClose="1" action="角色台词" data="wo" param="她……还好吗？" param2="" param3=""/>
+<C1_cloister_ex id="211" originalRow="211" groupSign="" debugClose="1" action="角色台词" data="" param="在她头部的电视上，我似乎看到了跟刚才一样的画面……" param2="" param3="type=1"/>
+<C1_cloister_ex id="212" originalRow="212" groupSign="" debugClose="1" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_循环_01" param3=""/>
+<C1_cloister_ex id="213" originalRow="213" groupSign="" debugClose="1" action="角色台词" data="niefei" param="404已经恢复原貌了！但整个房间的形态还极不稳定……" param2="" param3=""/>
+<C1_cloister_ex id="214" originalRow="214" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_循环_01" param3=""/>
+<C1_cloister_ex id="215" originalRow="215" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="嗯？你的律之钥正好产生了呼应？
+那这次就由你来重新启动房间的收容机制吧。" param2="" param3=""/>
+<C1_cloister_ex id="216" originalRow="216" groupSign="" debugClose="1" action="角色台词" data="wo" param="我来？" param2="" param3=""/>
+<C1_cloister_ex id="217" originalRow="217" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}没错，就像我们战斗前做的那样，对她伸出装备钥匙的那只手就可以了。" param2="" param3=""/>
+<C1_cloister_ex id="218" originalRow="218" groupSign="" debugClose="1" action="角色台词" data="wo" param="好吧，我试试……" param2="" param3=""/>
+<C1_cloister_ex id="219" originalRow="219" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="220" originalRow="220" groupSign="" debugClose="1" action="角色台词" data="" param="我学着凯瑟琳和涂凌召唤异质物那样，对着404的方向伸出了右手。" param2="" param3="type=1"/>
+<C1_cloister_ex id="221" originalRow="221" groupSign="" debugClose="1" action="角色台词" data="" param="身前顿时出现了一扇门，散发出耀眼的光芒——" param2="" param3="type=1"/>
+<C1_cloister_ex id="222" originalRow="222" groupSign="" debugClose="1" action="角色台词" data="" param="与我手中的金色光芒呼应，门的光芒不停延展，构起了墙壁，404慢慢消失在我们的视野中。" param2="" param3="type=1"/>
+<C1_cloister_ex id="223" originalRow="223" groupSign="" debugClose="1" action="角色台词" data="" param="当我们回过神，周围已经变成了普通酒店走廊的样子。" param2="" param3="type=1"/>
+<C1_cloister_ex id="224" originalRow="224" groupSign="" debugClose="1" action="播放音乐" data="bgm_Silence" param="" param2="" param3=""/>
+<C1_cloister_ex id="225" originalRow="225" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="226" originalRow="226" groupSign="恢复正常" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="227" originalRow="227" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="228" originalRow="228" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="2" param2="" param3=""/>
+<C1_cloister_ex id="229" originalRow="229" groupSign="" debugClose="" action="角色台词" data="" param="当我们回过神，周围已经变成了普通酒店走廊的样子。" param2="" param3=""/>
+<C1_cloister_ex id="230" originalRow="230" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<C1_cloister_ex id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌紧张表情}差、差点以为要死掉了。" param2="052差、差点以为要死掉了" param3=""/>
+<C1_cloister_ex id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="wo" param="天啊！这就是3级异质物的恐怖吗？" param2="" param3=""/>
+<C1_cloister_ex id="233" originalRow="233" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<C1_cloister_ex id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}我们以前还干掉过更恐怖的唷~" param2="053我们以前还干掉过更恐怖的哟" param3=""/>
+<C1_cloister_ex id="235" originalRow="235" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<C1_cloister_ex id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞得意表情}这次有你加入其实还算轻松啦。" param2="054这次有你加入其实还算轻松啦" param3=""/>
+<C1_cloister_ex id="237" originalRow="237" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（不敢想象……）&lt;/z&gt;" param2="" param3=""/>
+<C1_cloister_ex id="238" originalRow="238" groupSign="" debugClose="" action="角色台词" data="wo" param="确定没问题了？" param2="" param3=""/>
+<C1_cloister_ex id="239" originalRow="239" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
+<C1_cloister_ex id="240" originalRow="240" groupSign="" debugClose="" action="角色台词" data="tuling" param="毕竟你已经用{#涂凌点赞动作}{#涂凌开心表情}『律之钥』重新封存了404。" param2="055毕竟你已经用『律之钥』重新封存了404" param3=""/>
+<C1_cloister_ex id="241" originalRow="241" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}随着『巢主』的消失，{#涂凌休闲动作}整个空间扭曲现象也没有啦。" param2="056随着『巢主』的消失，整个空间扭曲现象也没有啦" param3=""/>
+<C1_cloister_ex id="242" originalRow="242" groupSign="" debugClose="" action="角色台词" data="wo" param="原来STS的收容室正常状态下长这样啊。" param2="" param3=""/>
+<C1_cloister_ex id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}不正常的时候也不少，以后总有机会再见的。{1.5}{#凯瑟琳2得意表情}{#凯瑟琳2思考动作恢复}" param2="150K不正常" param3=""/>
+<C1_cloister_ex id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="wo" param="{shake=1}最好不用！" param2="" param3=""/>
+<C1_cloister_ex id="245" originalRow="245" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="246" originalRow="246" groupSign="" debugClose="" action="角色台词" data="" param="看着门牌号已经恢复成了“2-404”，我们知道危机终于彻底解除了。" param2="" param3="type=1"/>
+<C1_cloister_ex id="247" originalRow="247" groupSign="" debugClose="1" action="角色台词" data="" param="凯瑟琳告诉我应该是404力量耗尽，收容室自动调整了危险等级。" param2="" param3="type=1"/>
+<C1_cloister_ex id="248" originalRow="248" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="wo" param="{移除角色,kaiselin02}这一晚上紧张刺激的经历，真像做梦一样……" param2="" param3="type=1"/>
+<C1_cloister_ex id="249" originalRow="249" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_开心_动作_恢复_01" param3=""/>
+<C1_cloister_ex id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="tuling" param="STS今天也圆满完成了任务！回去向杜杜汇报啦！" param2="118T今天也圆满" param3=""/>
+<C1_cloister_ex id="251" originalRow="251" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="聂总_开心_动作_循环_01" param3=""/>
+<C1_cloister_ex id="252" originalRow="252" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}我可是头等功喵——" param2="116我可是" param3=""/>
+<C1_cloister_ex id="253" originalRow="253" groupSign="" debugClose="" action="角色台词" data="wo" param="{#聂飞开心动作恢复}……终于，结束了啊。" param2="" param3=""/>
+<C1_cloister_ex id="254" originalRow="254" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="255" originalRow="255" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3="TRUE;TRUE;TRUE"/>
+<C1_cloister_ex id="256" originalRow="256" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}{#凯瑟琳2媚眼动作}周易，刚才杜博士是不是交给你一把空白钥匙？" param2="" param3=""/>
+<C1_cloister_ex id="257" originalRow="257" groupSign="" debugClose="1" action="角色台词" data="" param="{移除角色,kaiselin02,,,}凯瑟琳对我使了个眼色，我掏出钥匙，
+发现此时那把钥匙也泛着同样的荧光。" param2="" param3=""/>
+<C1_cloister_ex id="258" originalRow="258" groupSign="" debugClose="1" action="RPGActor" data="收容钥匙" param="1" param2="" param3=""/>
+<C1_cloister_ex id="259" originalRow="259" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="260" originalRow="260" groupSign="" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="261" originalRow="261" groupSign="使用钥匙" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="262" originalRow="262" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="263" originalRow="263" groupSign="" debugClose="1" action="特殊-闪白效果" data="2" param="1" param2="" param3=""/>
+<C1_cloister_ex id="264" originalRow="264" groupSign="1" debugClose="1" action="RPGActor" data="白屏" param="1" param2="" param3=""/>
+<C1_cloister_ex id="265" originalRow="265" groupSign="" debugClose="1" action="RPGActor" data="404战败" param="2" param2="" param3=""/>
+<C1_cloister_ex id="266" originalRow="266" groupSign="" debugClose="1" action="RPGActor" data="收容钥匙" param="2" param2="" param3=""/>
+<C1_cloister_ex id="267" originalRow="267" groupSign="" debugClose="1" action="角色台词" data="" param="我心领神会的拿着钥匙靠近404的身体。" param2="" param3=""/>
+<C1_cloister_ex id="268" originalRow="268" groupSign="" debugClose="1" action="角色台词" data="" param="她抬起头似乎想向我传达些什么，
+身上的光晕也逐渐增强。" param2="" param3=""/>
+<C1_cloister_ex id="269" originalRow="269" groupSign="" debugClose="1" action="角色台词" data="" param="在她被那束强光完全包裹的前一刻，
+我似乎看到她头部的电视中闪现出了一幕画面……" param2="" param3=""/>
+<C1_cloister_ex id="270" originalRow="270" groupSign="" debugClose="1" action="特殊-闪白效果" data="0" param="1" param2="" param3=""/>
+<C1_cloister_ex id="271" originalRow="271" groupSign="1" debugClose="1" action="打开插画" data="C1_Goodbye" param="" param2="" param3=""/>
+<C1_cloister_ex id="272" originalRow="272" groupSign="" debugClose="1" action="RPGActor" data="白屏" param="2" param2="" param3=""/>
+<C1_cloister_ex id="273" originalRow="273" groupSign="" debugClose="1" action="角色台词" data="" param="那是一位老奶奶，在夕阳西下的街道上，
+拉着她最疼爱的小孙女，渐行渐远……" param2="" param3=""/>
+<C1_cloister_ex id="274" originalRow="274" groupSign="" debugClose="1" action="角色台词" data="" param="光芒消失后，
+我们都被传送到了恢复如初的地下3层走廊之中。" param2="" param3=""/>
+<C1_cloister_ex id="275" originalRow="275" groupSign="" debugClose="1" action="RPGActor" data="主要背景" param="1" param2="" param3=""/>
+<C1_cloister_ex id="276" originalRow="276" groupSign="" debugClose="1" action="RPGActor" data="收容场景" param="2" param2="" param3=""/>
+<C1_cloister_ex id="277" originalRow="277" groupSign="" debugClose="1" action="特殊-闪白效果" data="0" param="2" param2="" param3=""/>
+<C1_cloister_ex id="278" originalRow="278" groupSign="1" debugClose="1" action="打开插画" data="C1_Key_2_404" param="FALSE" param2="" param3="offy=0.15;"/>
+<C1_cloister_ex id="279" originalRow="279" groupSign="" debugClose="1" action="角色台词" data="" param="我看着手上那把老式酒店的房门钥匙，在显示房间号的挂牌上赫然写着──『2-404』。" param2="" param3=""/>
+<C1_cloister_ex id="280" originalRow="280" groupSign="1" debugClose="1" action="关闭插画" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="281" originalRow="281" groupSign="" debugClose="1" action="语法-数值" data="ri_第一章_空白钥匙=0" param="" param2="" param3=""/>
+<C1_cloister_ex id="282" originalRow="282" groupSign="" debugClose="1" action="语法-数值" data="ri_第一章_404钥匙=1" param="" param2="" param3=""/>
+<C1_cloister_ex id="283" originalRow="283" groupSign="1&gt;&gt;" debugClose="" action="特殊-转场效果" data="2" param="2" param2="" param3=""/>
+<C1_cloister_ex id="284" originalRow="284" groupSign="" debugClose="" action="切换场景" data="C1_du_office" param="" param2="" param3=""/>
+<C1_cloister_ex id="285" originalRow="285" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="286" originalRow="286" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="287" originalRow="287" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="288" originalRow="288" groupSign="小怪失败1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="289" originalRow="289" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="290" originalRow="290" groupSign="" debugClose="" action="RPGActor" data="怪物1-4" param="1" param2="" param3=""/>
+<C1_cloister_ex id="291" originalRow="291" groupSign="" debugClose="" action="角色台词" data="" param="额，不好，再准备一下吧！" param2="" param3="type=1"/>
+<C1_cloister_ex id="292" originalRow="292" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="293" originalRow="293" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="294" originalRow="294" groupSign="小怪失败2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="295" originalRow="295" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="296" originalRow="296" groupSign="" debugClose="" action="RPGActor" data="怪物1-5" param="1" param2="" param3=""/>
+<C1_cloister_ex id="297" originalRow="297" groupSign="" debugClose="" action="角色台词" data="" param="额，不好，再准备一下吧！" param2="" param3="type=1"/>
+<C1_cloister_ex id="298" originalRow="298" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="299" originalRow="299" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="300" originalRow="300" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="301" originalRow="301" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="302" originalRow="302" groupSign="Boss失败" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="303" originalRow="303" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="" param="额，不好，先休整一下，过会重新再来。" param2="" param3="type=1"/>
+<C1_cloister_ex id="305" originalRow="305" groupSign="" debugClose="" action="RPGActor" data="最终挑战" param="1" param2="" param3=""/>
+<C1_cloister_ex id="306" originalRow="306" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_cloister_ex id="307" originalRow="307" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="308" originalRow="308" groupSign="Boss战斗" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="309" originalRow="309" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
+<C1_cloister_ex id="310" originalRow="310" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_cloister_ex id="311" originalRow="311" groupSign="" debugClose="" action="RPGActor" data="UI_Doll" param="2" param2="" param3=""/>
+<C1_cloister_ex id="312" originalRow="312" groupSign="" debugClose="" action="进战斗" data="1014" param="" param2="" param3=""/>
+<C1_cloister_ex id="313" originalRow="313" groupSign="Boss战存档" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_cloister_ex id="314" originalRow="314" groupSign="" debugClose="" action="RPGActor" data="开战" param="1" param2="" param3=""/>
+<C1_cloister_ex id="315" originalRow="315" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

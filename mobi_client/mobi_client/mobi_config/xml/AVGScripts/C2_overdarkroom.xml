@@ -1,0 +1,29 @@
+<root>
+<C2_overdarkroom id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_overdarkroom id="1" originalRow="1" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
+<C2_overdarkroom id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C2_overdarkroom id="3" originalRow="3" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="1" param2="" param3=""/>
+<C2_overdarkroom id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;{s=0.09}同一时间{0.5}\n某一昏暗房间内&lt;/z&gt;" param2="" param3="type=1"/>
+<C2_overdarkroom id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="bingjiu" param="pos=中" param2="冰酒_紧张_上脸_开始_01" param3=""/>
+<C2_overdarkroom id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_Disccusion}冰酒拿着一部加密手机。" param2="" param3="type=1"/>
+<C2_overdarkroom id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="抱歉，是我的失误。" param2="" param3="type=0"/>
+<C2_overdarkroom id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="{#冰酒紧张动作}计划内的不安定因素太多，最后只能选择暴露。" param2="" param3="type=0"/>
+<C2_overdarkroom id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="——被迫放弃了“瞳”多年来在联合议会的布置。{suspend=1}——我愿意接受“刑”的处罚。" param2="" param3="type=0"/>
+<C2_overdarkroom id="10" originalRow="10" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C2_overdarkroom id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="冰酒走到窗边，看着外面闪烁的霓虹。" param2="" param3="type=1"/>
+<C2_overdarkroom id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="" param="电话的另一端沉默了许久，然后缓缓开口，声音古怪。" param2="" param3="type=1"/>
+<C2_overdarkroom id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="stranger" param="只要财前毅死了……联合议会的线索就暂时断掉了。" param2="" param3="name=诡异的女声"/>
+<C2_overdarkroom id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="stranger" param="不用被他们“注视”……对我们来说就可以争取更多时间……" param2="" param3="name=诡异的女声"/>
+<C2_overdarkroom id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="stranger" param="魔女之血……我需要你带着那些异质物……去一趟N国。" param2="" param3="name=诡异的女声"/>
+<C2_overdarkroom id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="stranger" param="教廷……那边……似乎出现了有……趣的东西。" param2="" param3="name=诡异的女声"/>
+<C2_overdarkroom id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="bingjiu" param="pos=中" param2="" param3=""/>
+<C2_overdarkroom id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="我明白了。我会{#冰酒将军动作}转移掉联合议会的注意力。" param2="" param3="type=0"/>
+<C2_overdarkroom id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="stranger" param="放……心，一切都还在我们的步调中……" param2="" param3="name=诡异的女声"/>
+<C2_overdarkroom id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="{停止音乐}杜衡啊……{#冰酒将军动作恢复}真是个危险的女人。" param2="" param3="type=0"/>
+<C2_overdarkroom id="21" originalRow="21" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C2_overdarkroom id="22" originalRow="22" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="2" param2="" param3=""/>
+<C2_overdarkroom id="23" originalRow="23" groupSign="" debugClose="" action="子任务完成" data="第二章_土山奥入队" param="" param2="" param3=""/>
+<C2_overdarkroom id="24" originalRow="24" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C2_overdarkroom id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_overdarkroom id="26" originalRow="26" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

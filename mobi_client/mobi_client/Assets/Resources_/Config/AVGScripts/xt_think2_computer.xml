@@ -1,0 +1,52 @@
+<root>
+<xt_think2_computer id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_think2_computer id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<xt_think2_computer id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="duheng" param="今天把大家叫到这里，只为了三件事。那就是……" param2="" param3="type=0"/>
+<xt_think2_computer id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="工资？" param2="" param3="type=0"/>
+<xt_think2_computer id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="duheng" param="禁止抢答！最近信息安全部的工作效率太低了！我甚至怀疑……他们连电脑都不会用。" param2="" param3="type=0"/>
+<xt_think2_computer id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这是一件事吧。" param2="" param3="type=0"/>
+<xt_think2_computer id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="duheng" param="这一件事可就等同于三件事的重要性了。" param2="" param3="type=0"/>
+<xt_think2_computer id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="9" originalRow="9" groupSign="三人发言" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="niefei" param="杜博士说的对，信息安全部的工作效率直接导致我的安保工作受到严重影响！我觉得他们就没有一个会用电脑的！" param2="" param3="type=0"/>
+<xt_think2_computer id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="tuling" param="哼，不清楚情况就不要说话。作为信息安全部的负责人，我可以保证，信息安全部的电脑使用是没问题的！" param2="" param3="type=0"/>
+<xt_think2_computer id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我倒是听说……那个部门的副部长，确实是个电脑傻瓜呢~" param2="" param3="type=0"/>
+<xt_think2_computer id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="duheng" param="根据我了解的情况来看，只有一个人说对了呢。周易，你知道说对情况的人是谁吗？" param2="" param3="type=0"/>
+<xt_think2_computer id="14" originalRow="14" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="16" originalRow="16" groupSign="对话选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="17" originalRow="17" groupSign="" debugClose="" action="可选对话框" data="" param="$$聂飞==&gt;错误选项
+$$涂凌==&gt;正确选项
+$$凯瑟琳==&gt;错误选项
+$$我想再听一遍！==&gt;三人发言" param2="" param3=""/>
+<xt_think2_computer id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="19" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="22" originalRow="22" groupSign="错误选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="duheng" param="不对哦，再想想吧。" param2="" param3=""/>
+<xt_think2_computer id="24" originalRow="24" groupSign="" debugClose="" action="跳转-标签" data="" param="对话选项" param2="" param3=""/>
+<xt_think2_computer id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="28" originalRow="28" groupSign="正确选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="duheng" param="你还蛮聪明的嘛，资料上智商测试的结果看来该更新了。" param2="" param3=""/>
+<xt_think2_computer id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="tuling" param="哼哼，我自己的部门肯定我最了解啦。" param2="" param3=""/>
+<xt_think2_computer id="31" originalRow="31" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_think2_computer id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="33" originalRow="33" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="34" originalRow="34" groupSign="随便说两句话" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="35" originalRow="35" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_think2_computer id="36" originalRow="36" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<xt_think2_computer id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="duheng" param="你来了？正好。" param2="" param3=""/>
+<xt_think2_computer id="38" originalRow="38" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_think2_computer id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="42" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="43" originalRow="43" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="44" originalRow="44" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think2_computer id="46" originalRow="46" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

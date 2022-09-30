@@ -1,0 +1,58 @@
+<root>
+<xt_dayfind_confidentwomen id="0" originalRow="0" groupSign="康馨雅苑见竹姐" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="可恶呀，真是急死我了！" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="你们就是专门管异质物的人吧，怎么现在才来啊！" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="事情是这样的，今天本来是我和我未婚夫的大喜之日，可是没想到他却被异质物抓走了啊！" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="5" originalRow="5" groupSign="" debugClose="" action="可选对话框" data="" param="$$情况十分危急啊！==&gt;后续对话1" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="6" originalRow="6" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="9" originalRow="9" groupSign="后续对话1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="谁说不是呢！而且，这已经不是他第一次在结婚这天被异质物抓走了！" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="11" originalRow="11" groupSign="" debugClose="" action="可选对话框" data="" param="$$这……==&gt;后续对话2
+$$啊？==&gt;后续对话2" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="14" originalRow="14" groupSign="后续对话2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="总之，你们快帮我把他找回来吧！姐今天非结婚不可，为了真爱！" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="对了，据我之前的经验，这种喜欢棒打鸳鸯的异质物一般会伪装成箱子出现在安江市街道的路灯下哦！" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="17" originalRow="17" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="19" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="20" originalRow="20" groupSign="找到箱子1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="" param="（好险……但是没有见到新郎啊……新郎到哪里去了呢……）" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="22" originalRow="22" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="25" originalRow="25" groupSign="找到箱子2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="" param="（箱子里空空如也……）" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="" param="找到一个纸条。" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="" param="“已回，勿念。”" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="" param="（这样算完成了委托吗……）" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="30" originalRow="30" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="32" originalRow="32" groupSign="找到箱子3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="33" originalRow="33" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="" param="（箱子里面竟然……藏了个男人！）" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="别……别动手啊，我这就回去！" param2="" param3="name=新郎"/>
+<xt_dayfind_confidentwomen id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="wo" param="异质物呢？" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="呃……" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="38" originalRow="38" groupSign="" debugClose="" action="可选对话框" data="" param="$$你难道……==&gt;后续对话3
+$$根本没打算结婚？==&gt;后续对话3" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="41" originalRow="41" groupSign="后续对话3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="这不能怪我呀！大家都说，婚姻是爱情的坟墓！" param2="" param3="name=新郎"/>
+<xt_dayfind_confidentwomen id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="可是我好爱小竹啊！" param2="" param3="name=新郎"/>
+<xt_dayfind_confidentwomen id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="wo" param="（竟然是这种理由吗……）" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="亲~爱~的~看来这些异质物警察还是有点用的嘛。" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="啊哈哈哈哈哈哈，多亏了STS啊！" param2="" param3="name=新郎"/>
+<xt_dayfind_confidentwomen id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="好了别说废话了，快跟我去结婚吧！再不去民政局要关门啦！" param2="" param3="name=竹姐"/>
+<xt_dayfind_confidentwomen id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="啊哈哈哈哈，好啊好……呜……" param2="" param3="name=新郎"/>
+<xt_dayfind_confidentwomen id="49" originalRow="49" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="50" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="52" originalRow="52" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="53" originalRow="53" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

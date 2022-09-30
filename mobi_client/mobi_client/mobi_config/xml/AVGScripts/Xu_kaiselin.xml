@@ -1,0 +1,23 @@
+<root>
+<xu_kaiselin id="0" originalRow="0" groupSign="0.1&gt;&gt;" action="角色台词" data="kaiselin" param="不错啊新人"/>
+<xu_kaiselin id="1" originalRow="1" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="这次任务做的挺好的"/>
+<xu_kaiselin id="2" originalRow="2" groupSign="0.1&gt;&gt;" action="角色台词" data="kaiselin" param="再接再厉"/>
+<xu_kaiselin id="3" originalRow="3" action="可选对话框" data="" param="$$不回复==&gt;结束
+$$嗯~==&gt;嗯
+$$好的~==&gt;好的
+$$我会加油的~==&gt;我会加油的"/>
+<xu_kaiselin id="4" originalRow="4" action="" data="" param=""/>
+<xu_kaiselin id="5" originalRow="5" groupSign="嗯"/>
+<xu_kaiselin id="6" originalRow="6" groupSign="0.1&gt;&gt;" action="角色台词" data="wo" param="嗯"/>
+<xu_kaiselin id="7" originalRow="7" action="跳转-标签" data="" param="结束"/>
+<xu_kaiselin id="8" originalRow="8" action="" data="" param=""/>
+<xu_kaiselin id="9" originalRow="9" groupSign="好的" action="" data="" param=""/>
+<xu_kaiselin id="10" originalRow="10" groupSign="0.1&gt;&gt;" action="角色台词" data="wo" param="好的"/>
+<xu_kaiselin id="11" originalRow="11" action="跳转-标签" data="" param="结束"/>
+<xu_kaiselin id="12" originalRow="12" action="" data="" param=""/>
+<xu_kaiselin id="13" originalRow="13" groupSign="我会加油的" action="" data="" param=""/>
+<xu_kaiselin id="14" originalRow="14" groupSign="0.1&gt;&gt;" action="角色台词" data="wo" param="我会加油的"/>
+<xu_kaiselin id="15" originalRow="15" action="跳转-标签" data="" param="结束"/>
+<xu_kaiselin id="16" originalRow="16"/>
+<xu_kaiselin id="17" originalRow="17" groupSign="结束"/>
+</root>

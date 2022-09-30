@@ -1,0 +1,79 @@
+<root>
+<Side_01_event1_shop id="0" originalRow="0" groupSign="开始"/>
+<Side_01_event1_shop id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Side_01_event1_shop id="2" originalRow="2" action="RPGActor" data="老板娘" param="2"/>
+<Side_01_event1_shop id="3" originalRow="3" action="特殊-转场效果" data="0" param="0.5"/>
+<Side_01_event1_shop id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="laobanniang" param="pos=中"/>
+<Side_01_event1_shop id="5" originalRow="5" action="角色台词" data="laobanniang" param="欢迎光临，有什么想要可以随便看看！"/>
+<Side_01_event1_shop id="6" originalRow="6" action="移除角色" data="laobanniang" param=""/>
+<Side_01_event1_shop id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中"/>
+<Side_01_event1_shop id="8" originalRow="8" action="角色台词" data="tuling" param="诶，老板娘好像有些闷闷不乐的。"/>
+<Side_01_event1_shop id="9" originalRow="9" action="角色台词" data="tuling" param="要问问看吗？"/>
+<Side_01_event1_shop id="10" originalRow="10" action="可选对话框" data="" param="$$不好管人家的私事吧==&gt;不好管人家的私事吧
+$$嗯，问问吧（接取任务）==&gt;嗯，问问吧"/>
+<Side_01_event1_shop id="11" originalRow="11" param=""/>
+<Side_01_event1_shop id="12" originalRow="12" param=""/>
+<Side_01_event1_shop id="13" originalRow="13" groupSign="不好管人家的私事吧"/>
+<Side_01_event1_shop id="14" originalRow="14" action="角色台词" data="wo" param="家家都有本难念的经，"/>
+<Side_01_event1_shop id="15" originalRow="15" action="角色台词" data="wo" param="还是先解决我们手头的事儿吧。"/>
+<Side_01_event1_shop id="16" originalRow="16" action="跳转-标签" data="" param="结束"/>
+<Side_01_event1_shop id="17" originalRow="17" param=""/>
+<Side_01_event1_shop id="18" originalRow="18" groupSign="嗯，问问吧"/>
+<Side_01_event1_shop id="19" originalRow="19" action="设置角色" data="tuling" param="pos=中"/>
+<Side_01_event1_shop id="20" originalRow="20" action="角色台词" data="tuling" param="姐姐，是有什么心事吗？"/>
+<Side_01_event1_shop id="21" originalRow="21" action="设置角色" data="niefei" param="pos=右"/>
+<Side_01_event1_shop id="22" originalRow="22" action="角色台词" data="niefei" param="说出来，让我们大家也高兴高兴。"/>
+<Side_01_event1_shop id="23" originalRow="23" action="角色台词" data="tuling" param="（拍飞聂飞）说不定我们可以帮到您呢，我们其实也是很厉害的哦！"/>
+<Side_01_event1_shop id="24" originalRow="24" action="移除角色" data="tuling" param=""/>
+<Side_01_event1_shop id="25" originalRow="25" action="移除角色" data="niefei" param=""/>
+<Side_01_event1_shop id="26" originalRow="26" action="设置角色" data="laobanniang" param="pos=中"/>
+<Side_01_event1_shop id="27" originalRow="27" action="角色台词" data="laobanniang" param="这。。。这多不好意思，我家的一些私事。"/>
+<Side_01_event1_shop id="28" originalRow="28" action="角色台词" data="tuling" param="没事，没事，万一我们能帮到您呢。"/>
+<Side_01_event1_shop id="29" originalRow="29" action="角色台词" data="laobanniang" param="唉！也是，就死马当活马医了。"/>
+<Side_01_event1_shop id="30" originalRow="30" action="角色台词" data="laobanniang" param="你们都能养会说话的猫，说不定还真能帮到我。"/>
+<Side_01_event1_shop id="31" originalRow="31" action="设置角色" data="niefei" param="pos=中"/>
+<Side_01_event1_shop id="32" originalRow="32" action="角色台词" data="niefei" param="老子不是宠物，吼！！！"/>
+<Side_01_event1_shop id="33" originalRow="33" action="语法-数值" data="QUEST_支线_奇怪的孩子=1" param=""/>
+<Side_01_event1_shop id="34" originalRow="34" action="跳转-标签" data="" param="讲述情况"/>
+<Side_01_event1_shop id="35" originalRow="35" groupSign="讲述情况" action="" data="" param=""/>
+<Side_01_event1_shop id="36" originalRow="36" action="特殊-转场效果" data="1" param=""/>
+<Side_01_event1_shop id="37" originalRow="37" action="设置角色" data="laobanniang" param="pos=中"/>
+<Side_01_event1_shop id="38" originalRow="38" action="角色台词" data="laobanniang" param="我这个岁数，发愁还不都是孩子的事儿。"/>
+<Side_01_event1_shop id="39" originalRow="39" action="角色台词" data="laobanniang" param="我儿子叫小鱼，刚上初中，打小成绩都还不错。"/>
+<Side_01_event1_shop id="40" originalRow="40" action="角色台词" data="laobanniang" param="只是最近这几个月，成绩直线下滑!"/>
+<Side_01_event1_shop id="41" originalRow="41" action="角色台词" data="laobanniang" param="老师说他突然性格变得孤僻，
+不跟同学说话，上课也不爱听了。"/>
+<Side_01_event1_shop id="42" originalRow="42" action="角色台词" data="laobanniang" param="问他怎么回事吧，
+他神神叨叨的，说我们不理解他。"/>
+<Side_01_event1_shop id="43" originalRow="43" action="角色台词" data="laobanniang" param="我都怀疑他是中了邪了！"/>
+<Side_01_event1_shop id="44" originalRow="44" action="角色台词" data="laobanniang" param="我本来打算陪他上上学，
+但是小店开一天才有一天吃的。"/>
+<Side_01_event1_shop id="45" originalRow="45" groupSign="" action="角色台词" data="laobanniang" param="能不能替我去学校看看，
+了解下这孩子到底是什么情况。"/>
+<Side_01_event1_shop id="46" originalRow="46" action="移除角色" data="laobanniang" param=""/>
+<Side_01_event1_shop id="47" originalRow="47" action="设置角色" data="niefei" param="pos=中"/>
+<Side_01_event1_shop id="48" originalRow="48" action="角色台词" data="niefei" param="这TM不是当保姆吗？！！"/>
+<Side_01_event1_shop id="49" originalRow="49" action="角色台词" data="niefei" param="老子堂堂特战队员去给小孩当保姆？！！"/>
+<Side_01_event1_shop id="50" originalRow="50" action="设置角色" data="tuling" param="pos=左"/>
+<Side_01_event1_shop id="51" originalRow="51" action="角色台词" data="tuling" param="是怕文盲属性暴露了吧？"/>
+<Side_01_event1_shop id="52" originalRow="52" action="角色台词" data="tuling" param="初中的话，学光的折射和反射，还记得吗？"/>
+<Side_01_event1_shop id="53" originalRow="53" action="角色台词" data="niefei" param="啊。。。直射和扫射？
+我熟！（掏出手枪准备露一手）"/>
+<Side_01_event1_shop id="54" originalRow="54" action="角色台词" data="tuling" param="（拍飞聂飞）好，那这事就包在我们身上。"/>
+<Side_01_event1_shop id="55" originalRow="55" action="角色台词" data="tuling" param="我们去&lt;color=green&gt;学校&lt;/color&gt;看看，一定能找出问题所在。"/>
+<Side_01_event1_shop id="56" originalRow="56" action="跳转-标签" data="" param="结束"/>
+<Side_01_event1_shop id="57" originalRow="57" groupSign="" debugClose=""/>
+<Side_01_event1_shop id="58" originalRow="58" groupSign="接取任务中对话" debugClose=""/>
+<Side_01_event1_shop id="59" originalRow="59" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Side_01_event1_shop id="60" originalRow="60" action="特殊-转场效果" data="1" param=""/>
+<Side_01_event1_shop id="61" originalRow="61" action="RPGActor" data="老板娘" param="2"/>
+<Side_01_event1_shop id="62" originalRow="62" action="设置角色" data="laobanniang" param="pos=中"/>
+<Side_01_event1_shop id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="laobanniang" param="怎么样？去学校看了吗？"/>
+<Side_01_event1_shop id="64" originalRow="64" action="移除角色" data="laobanniang" param=""/>
+<Side_01_event1_shop id="65" originalRow="65" groupSign="" debugClose="" action="跳转-标签" data="" param="结束"/>
+<Side_01_event1_shop id="66" originalRow="66" groupSign="" debugClose=""/>
+<Side_01_event1_shop id="67" originalRow="67" groupSign="结束" data=""/>
+<Side_01_event1_shop id="68" originalRow="68" action="特殊-转场效果" data="0" param="0.5"/>
+<Side_01_event1_shop id="69" originalRow="69" action="RPGActor" data="老板娘" param="1"/>
+<Side_01_event1_shop id="70" originalRow="70"/>
+</root>

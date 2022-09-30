@@ -1,0 +1,63 @@
+<root>
+<scene_kaiselin_talk id="0" originalRow="0" groupSign="开始"/>
+<scene_kaiselin_talk id="1" originalRow="1" action="设置镜号" data="avg_basic_story" param="no_postprocessing"/>
+<scene_kaiselin_talk id="2" originalRow="2" action="设置角色" data="kaiselin"/>
+<scene_kaiselin_talk id="3" originalRow="3" action="角色台词" data="kaiselin" param="有什么事吗？"/>
+<scene_kaiselin_talk id="4" originalRow="4" action="可选对话框_系统" data="1"/>
+<scene_kaiselin_talk id="5" originalRow="5" action="" data="" param=""/>
+<scene_kaiselin_talk id="6" originalRow="6" action=""/>
+<scene_kaiselin_talk id="7" originalRow="7" action="" data=""/>
+<scene_kaiselin_talk id="8" originalRow="8" action="" data=""/>
+<scene_kaiselin_talk id="9" originalRow="9" action="" data="" param=""/>
+<scene_kaiselin_talk id="10" originalRow="10"/>
+<scene_kaiselin_talk id="11" originalRow="11" groupSign=""/>
+<scene_kaiselin_talk id="12" originalRow="12" data=""/>
+<scene_kaiselin_talk id="13" originalRow="13" action="" data="" param=""/>
+<scene_kaiselin_talk id="14" originalRow="14" action="" data=""/>
+<scene_kaiselin_talk id="15" originalRow="15" action=""/>
+<scene_kaiselin_talk id="16" originalRow="16" action="" data=""/>
+<scene_kaiselin_talk id="17" originalRow="17" action="" data=""/>
+<scene_kaiselin_talk id="18" originalRow="18" action="" data="" param=""/>
+<scene_kaiselin_talk id="19" originalRow="19"/>
+<scene_kaiselin_talk id="20" originalRow="20" groupSign=""/>
+<scene_kaiselin_talk id="21" originalRow="21" data=""/>
+<scene_kaiselin_talk id="22" originalRow="22" action="" data=""/>
+<scene_kaiselin_talk id="23" originalRow="23" action="" data=""/>
+<scene_kaiselin_talk id="24" originalRow="24" action=""/>
+<scene_kaiselin_talk id="25" originalRow="25" action="" data=""/>
+<scene_kaiselin_talk id="26" originalRow="26" action="" data=""/>
+<scene_kaiselin_talk id="27" originalRow="27" action="" data="" param=""/>
+<scene_kaiselin_talk id="28" originalRow="28"/>
+<scene_kaiselin_talk id="29" originalRow="29" groupSign=""/>
+<scene_kaiselin_talk id="30" originalRow="30" data=""/>
+<scene_kaiselin_talk id="31" originalRow="31" action="" data=""/>
+<scene_kaiselin_talk id="32" originalRow="32" action="" data="" param=""/>
+<scene_kaiselin_talk id="33" originalRow="33" action="" data="" param=""/>
+<scene_kaiselin_talk id="34" originalRow="34" action=""/>
+<scene_kaiselin_talk id="35" originalRow="35" action="" data=""/>
+<scene_kaiselin_talk id="36" originalRow="36" action="" data=""/>
+<scene_kaiselin_talk id="37" originalRow="37" action="" data="" param=""/>
+<scene_kaiselin_talk id="38" originalRow="38"/>
+<scene_kaiselin_talk id="39" originalRow="39" groupSign=""/>
+<scene_kaiselin_talk id="40" originalRow="40" data=""/>
+<scene_kaiselin_talk id="41" originalRow="41" action="" data="" param=""/>
+<scene_kaiselin_talk id="42" originalRow="42" action="" data="" param=""/>
+<scene_kaiselin_talk id="43" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<scene_kaiselin_talk id="44" originalRow="44" action="" data="" param=""/>
+<scene_kaiselin_talk id="45" originalRow="45" action=""/>
+<scene_kaiselin_talk id="46" originalRow="46" action="" data=""/>
+<scene_kaiselin_talk id="47" originalRow="47" action="" data=""/>
+<scene_kaiselin_talk id="48" originalRow="48" action="" data="" param=""/>
+<scene_kaiselin_talk id="49" originalRow="49"/>
+<scene_kaiselin_talk id="50" originalRow="50" groupSign=""/>
+<scene_kaiselin_talk id="51" originalRow="51" data=""/>
+<scene_kaiselin_talk id="52" originalRow="52" action="" data=""/>
+<scene_kaiselin_talk id="53" originalRow="53" action="" data=""/>
+<scene_kaiselin_talk id="54" originalRow="54" action=""/>
+<scene_kaiselin_talk id="55" originalRow="55" action="" data=""/>
+<scene_kaiselin_talk id="56" originalRow="56" action="" data=""/>
+<scene_kaiselin_talk id="57" originalRow="57" action="" data="" param=""/>
+<scene_kaiselin_talk id="58" originalRow="58"/>
+<scene_kaiselin_talk id="59" originalRow="59" groupSign=""/>
+<scene_kaiselin_talk id="60" originalRow="60"/>
+</root>

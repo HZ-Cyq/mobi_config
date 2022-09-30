@@ -1,0 +1,17 @@
+<root>
+<xt_hug_solo2 id="0" originalRow="0" groupSign="成功" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="（对啊……那孩子只能感觉到安静下来的东西。）" param2="" param3="type=0"/>
+<xt_hug_solo2 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="（凯瑟琳诊断的时候，白秀竹问话的时候……）" param2="" param3="type=0"/>
+<xt_hug_solo2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="（还有涂凌检测异质物的时候……）" param2="" param3="type=0"/>
+<xt_hug_solo2 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="（聂总是安全的，他一直说话就没停过！）" param2="" param3="type=0"/>
+<xt_hug_solo2 id="5" originalRow="5" groupSign="" debugClose="" action="语法-数值" data="ri_沉默解决办法=1" param="" param2="" param3=""/>
+<xt_hug_solo2 id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_hug_solo2 id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="12" originalRow="12" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo2 id="14" originalRow="14" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

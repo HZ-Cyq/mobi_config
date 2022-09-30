@@ -1,0 +1,51 @@
+<root>
+<chat_duheng_1 id="0" originalRow="0" groupSign="了解STS"/>
+<chat_duheng_1 id="1" originalRow="1" action="角色台词" data="wo" param="博士，我想问下关于STS这个部门的情况"/>
+<chat_duheng_1 id="2" originalRow="2" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="嗯？有什么想问的？"/>
+<chat_duheng_1 id="3" originalRow="3" groupSign="" debugClose="" action="可选对话框" data="" param="$$STS只处理异质物事件吗？==&gt;异质物事件
+$$除了这里有没有其他站点呢？==&gt;其他站点" param2=""/>
+<chat_duheng_1 id="4" originalRow="4" param=""/>
+<chat_duheng_1 id="5" originalRow="5" groupSign="异质物事件" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="STS只处理异质物事件吗？" param2=""/>
+<chat_duheng_1 id="7" originalRow="7" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="当然，所以我们才叫“特殊事态派遣科”。" param2=""/>
+<chat_duheng_1 id="8" originalRow="8" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="只有判定事件里有非自然因素存在时，警方才会把案子转交过来。" param2=""/>
+<chat_duheng_1 id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" data="" param="$$咱们也属于公安系统吗……==&gt;公安系统" param2=""/>
+<chat_duheng_1 id="10" originalRow="10" groupSign="公安系统" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="咱们也属于公安系统吗……" param2=""/>
+<chat_duheng_1 id="12" originalRow="12" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="STS直属国务议事会，独立于军方和公安之外。" param2=""/>
+<chat_duheng_1 id="13" originalRow="13" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="必要时，我们的权限可以很大。" param2=""/>
+<chat_duheng_1 id="14" originalRow="14" groupSign="" debugClose="" action="可选对话框" data="" param="$$原来如此==&gt;原来如此" param2=""/>
+<chat_duheng_1 id="15" originalRow="15" groupSign="原来如此" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="16" originalRow="16" debugClose="" action="角色台词" data="wo" param="原来如此" param2=""/>
+<chat_duheng_1 id="17" originalRow="17" groupSign="" debugClose="" action="跳转标签" data="分支结束" param="" param2=""/>
+<chat_duheng_1 id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="19" originalRow="19" groupSign="其他站点" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="除了这里有没有其他站点呢？" param2="" param3=""/>
+<chat_duheng_1 id="21" originalRow="21" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="国内一共三个站点，001站点在首都承源，002站点在西林市。" param2=""/>
+<chat_duheng_1 id="22" originalRow="22" groupSign="" debugClose="" action="可选对话框" data="" param="$$所以001站点就是总部了！==&gt;总部" param2=""/>
+<chat_duheng_1 id="23" originalRow="23" groupSign="总部" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="所以001站点就是总部了！" param2=""/>
+<chat_duheng_1 id="25" originalRow="25" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="对外宣称的话，是的。" param2=""/>
+<chat_duheng_1 id="26" originalRow="26" groupSign="" debugClose="" action="可选对话框" data="" param="$$啊？这是……什么意思？==&gt;什么意思" param2=""/>
+<chat_duheng_1 id="27" originalRow="27" groupSign="什么意思" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="啊？这是……什么意思？" param2=""/>
+<chat_duheng_1 id="29" originalRow="29" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="实际上STS更接近于没有总部的概念。" param2=""/>
+<chat_duheng_1 id="30" originalRow="30" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="至于为什么，等你去到其他两个站点就明白了。" param2=""/>
+<chat_duheng_1 id="31" originalRow="31" groupSign="" debugClose="" action="可选对话框" data="" param="$$好吧！==&gt;好吧" param2=""/>
+<chat_duheng_1 id="32" originalRow="32" groupSign="好吧" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_1 id="33" originalRow="33" debugClose="" action="角色台词" data="wo" param="好吧！" param2=""/>
+<chat_duheng_1 id="34" originalRow="34" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="不过001站点建站时间最长，资料和设施最完备。" param2=""/>
+<chat_duheng_1 id="35" originalRow="35" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="我倒是非常怀念在那里工作的时光。" param2=""/>
+<chat_duheng_1 id="36" originalRow="36" groupSign="" debugClose="" action="跳转标签" data="分支结束" param="" param2=""/>
+<chat_duheng_1 id="37" originalRow="37" groupSign=""/>
+<chat_duheng_1 id="38" originalRow="38" groupSign="分支结束" action="" data=""/>
+<chat_duheng_1 id="39" originalRow="39" action="可选对话框" data="" param="$$谢谢博士跟我说这么多！==&gt;说这么多"/>
+<chat_duheng_1 id="40" originalRow="40" groupSign="说这么多"/>
+<chat_duheng_1 id="41" originalRow="41" action="角色台词" data="wo" param="谢谢博士跟我说这么多！"/>
+<chat_duheng_1 id="42" originalRow="42" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="很多事，慢慢在工作里自然就会了解。"/>
+<chat_duheng_1 id="43" originalRow="43" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="秘诀就是少摸鱼，多加班。"/>
+<chat_duheng_1 id="44" originalRow="44" action="可选对话框" data="" param="$$我才没有摸鱼……==&gt;没有摸鱼"/>
+<chat_duheng_1 id="45" originalRow="45" groupSign="没有摸鱼"/>
+<chat_duheng_1 id="46" originalRow="46" action="角色台词" data="wo" param="我才没有摸鱼……"/>
+<chat_duheng_1 id="47" originalRow="47" groupSign="结束"/>
+</root>

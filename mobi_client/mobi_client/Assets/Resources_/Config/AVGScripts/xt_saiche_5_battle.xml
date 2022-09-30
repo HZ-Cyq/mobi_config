@@ -1,0 +1,72 @@
+<root>
+<xt_saiche_5_battle id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="niefei" param="可恶，被甩掉了！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="tuling" param="但并不完全是坏消息,这次他的行驶路线很清晰。" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="按这条路走下去，他的目的地是……金融中心。" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="6" originalRow="6" groupSign="" debugClose="" action="可选对话框" data="" param="$$金融中心的话……==&gt;后续对话1
+$$我知道一条近路！==&gt;后续对话1" param2="" param3=""/>
+<xt_saiche_5_battle id="7" originalRow="7" groupSign="后续对话1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="看来每天的巡逻没有白费嘛！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="" param="我瞬间拐进了一条小路。" param2="" param3="type=1"/>
+<xt_saiche_5_battle id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="这就是飙车的感觉！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="baixiuzhu" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="STS为了一己私欲无视城市交通法……啊！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这种时候还是闭上你的嘴巴比较好哦。" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="baixiuzhu" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="别动我！我晕车啊！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="大家，坐稳了。" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="19" originalRow="19" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_saiche_5_battle id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="21" originalRow="21" groupSign="战斗2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="" param="两辆车猛烈相撞，出租车险些被撞飞，加速跑到了STS的前面。" param2="" param3="type=1"/>
+<xt_saiche_5_battle id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="chengke" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="chengke" param="再快点再快点！你这个废物，我都那样给你加油了！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="chengke" param="再努力一点，再拼命一点，拿出干劲来啊！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="27" originalRow="27" groupSign="" debugClose="" action="设置角色" data="baixiuzhu" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="为什么第一次事故之前司机并没有目的地，这次却那么清晰呢？" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="金融中心……到底有什么呢？" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="30" originalRow="30" groupSign="" debugClose="" action="可选对话框" data="" param="$$欠司机钱==&gt;后续对话2
+$$司机之前被金融中心开除==&gt;后续对话2
+$$喜欢的人在那上班==&gt;后续对话2
+$$别打扰我开车啊！==&gt;后续对话3" param2="" param3=""/>
+<xt_saiche_5_battle id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="32" originalRow="32" groupSign="后续对话2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="33" originalRow="33" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="tuling" param="这么离谱的理由嘛！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="35" originalRow="35" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="不管怎么说，都要到了那里才能知道了呢。" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="37" originalRow="37" groupSign="" debugClose="" action="跳转-标签" data="" param="后续对话4" param2="" param3=""/>
+<xt_saiche_5_battle id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="39" originalRow="39" groupSign="后续对话3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="40" originalRow="40" groupSign="" debugClose="" action="设置角色" data="baixiuzhu" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="呜！没人觉得我的问题很有价值吗！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="42" originalRow="42" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="不管怎么说，都要到了那里才能知道了呢。" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="44" originalRow="44" groupSign="" debugClose="" action="跳转-标签" data="" param="后续对话4" param2="" param3=""/>
+<xt_saiche_5_battle id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="46" originalRow="46" groupSign="后续对话4" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="47" originalRow="47" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="tuling" param="以那辆出租车剩余的油量来看，也只够坚持他跑到金融中心了。" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="49" originalRow="49" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="niefei" param="难道是金融中心那边有加油站！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="51" originalRow="51" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="tuling" param="看前面！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="" param="异质物女孩将身体弹出了车窗外，朝我们挥手。" param2="" param3="type=1"/>
+<xt_saiche_5_battle id="54" originalRow="54" groupSign="" debugClose="" action="设置角色" data="chengke" param="pos=中" param2="" param3=""/>
+<xt_saiche_5_battle id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="chengke" param="先生们女士们！欢迎各位光临安江市赛车场！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="chengke" param="今天的比赛已经到了白热化的环节！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="chengke" param="胜负手就在这里，最后一圈！各位，加油哦！" param2="" param3="type=0"/>
+<xt_saiche_5_battle id="58" originalRow="58" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_saiche_5_battle id="59" originalRow="59" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="60" originalRow="60" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="61" originalRow="61" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="62" originalRow="62" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="63" originalRow="63" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="64" originalRow="64" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_5_battle id="65" originalRow="65" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

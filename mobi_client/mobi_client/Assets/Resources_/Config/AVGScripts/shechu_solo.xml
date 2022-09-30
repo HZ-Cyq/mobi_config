@@ -1,0 +1,62 @@
+<root>
+<shechu_solo id="0" originalRow="0" debugClose="" action="" data="" param="" param2="" param3=""/>
+<shechu_solo id="1" originalRow="1" groupSign="社畜成功" debugClose="" action="" data="" param="" param2="" param3=""/>
+<shechu_solo id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="{music=bgm_search2}{角色动作,,1001}{角色表情,,10020;20020;}6:03，群组内上级称赞某位同事订正公共文档的行为后，" param2="" param3="type=0"/>
+<shechu_solo id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="感染者立刻进入开放状态……" param2="" param3="type=0"/>
+<shechu_solo id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="并在之后的约90分钟内为公共文档添加了大量批注。" param2="" param3="type=0"/>
+<shechu_solo id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="先是提交了自己制作的报表并枯萎。" param2="" param3="type=0"/>
+<shechu_solo id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="但发现同事的报表制作更精美后，立刻开放。" param2="" param3="type=0"/>
+<shechu_solo id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="修改之后，自己的报表立于不败之地。" param2="" param3="type=0"/>
+<shechu_solo id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<shechu_solo id="9" originalRow="9" groupSign="社畜结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<shechu_solo id="10" originalRow="10" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<shechu_solo id="11" originalRow="11" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<shechu_solo id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌忧伤表情}保证报表之后，就又枯萎了。" param2="" param3="type=0"/>
+<shechu_solo id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="但当上级鼓励订正公共文档之后，又一次开放。" param2="" param3=""/>
+<shechu_solo id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="聂总_思考_动作_开始_01" param3=""/>
+<shechu_solo id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}{#涂凌待机2动作恢复}然后自己也跑去订正？" param2="" param3=""/>
+<shechu_solo id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}和之前想的一样，这家公司内部竞争很激烈呢。" param2="" param3=""/>
+<shechu_solo id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<shechu_solo id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}也就是说，触发器不是“工作”或“加班”。" param2="" param3="type=0"/>
+<shechu_solo id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}而是“感受到饭碗遭到威胁”？" param2="" param3="type=0"/>
+<shechu_solo id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="同事间竞争、上级的态度变化都会引起开放。" param2="" param3=""/>
+<shechu_solo id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌平静表情}这样的话，放假不起作用也理所当然。" param2="" param3=""/>
+<shechu_solo id="22" originalRow="22" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<shechu_solo id="23" originalRow="23" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_思考_动作_开始_01" param3=""/>
+<shechu_solo id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎思考表情}同事工作，自己休假……微妙地有点恐怖呢。" param2="" param3="type=0"/>
+<shechu_solo id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="就是说危急感吧？" param2="" param3=""/>
+<shechu_solo id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_循环_01" param3="type=0"/>
+<shechu_solo id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}现在怎么做？要求所有人停止加班？" param2="" param3="type=0"/>
+<shechu_solo id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="还不够。" param2="" param3=""/>
+<shechu_solo id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞忧伤表情}诶？" param2="" param3=""/>
+<shechu_solo id="30" originalRow="30" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<shechu_solo id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}所有人都停下来，也可能所有人都被淘汰掉。" param2="" param3="type=0"/>
+<shechu_solo id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="危机感的源头是绩效考核。" param2="" param3=""/>
+<shechu_solo id="33" originalRow="33" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<shechu_solo id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="tuling" param="要把那个标准改得超级宽松。" param2="" param3="type=0"/>
+<shechu_solo id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}{#涂凌平静表情}把每月休假日数也纳入考核吧？" param2="" param3=""/>
+<shechu_solo id="36" originalRow="36" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_得意_动作_开始_01" param3=""/>
+<shechu_solo id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}每月八天，保证双休，禁止加班。" param2="" param3="type=0"/>
+<shechu_solo id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="wo" param="不如每个月最少休28天，加班开除。" param2="" param3=""/>
+<shechu_solo id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}{#聂飞严肃表情}这是什么乱来的公司？" param2="" param3="type=0"/>
+<shechu_solo id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="wo" param="反正是收容异质物所需的协助。" param2="" param3="type=0"/>
+<shechu_solo id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="wo" param="离不离谱也得按我们说的来。" param2="" param3=""/>
+<shechu_solo id="42" originalRow="42" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<shechu_solo id="43" originalRow="43" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_思考_动作_循环_01" param3=""/>
+<shechu_solo id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎思考表情}这样定的话……
+{1.5}{#李加虎思考动作恢复}{#李加虎待机表情}那不如……" param2="" param3="type=0"/>
+<shechu_solo id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎开心2动作}{#李加虎开心2表情}把清洁工也纳入你这个考核，好不好？" param2="" param3="type=0"/>
+<shechu_solo id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="wo" param="我们一走他就会改回去啦！" param2="" param3=""/>
+<shechu_solo id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{特殊-闪白效果,1}{#李加虎忧伤动作}{#李加虎忧伤表情}诶！这个美梦好短！" param2="" param3=""/>
+<shechu_solo id="48" originalRow="48" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<shechu_solo id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我们先进去试试看吧。" param2="" param3="type=0"/>
+<shechu_solo id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}被寄宿者的状况也该到极限了。{music=off}" param2="" param3=""/>
+<shechu_solo id="51" originalRow="51" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<shechu_solo id="52" originalRow="52" debugClose="" action="语法-数值" data="rqs_3005005社畜支线5=2" param="" param2="" param3=""/>
+<shechu_solo id="53" originalRow="53" debugClose="" action="语法-数值" data="rqs_3005006社畜支线6=1" param="" param2="" param3=""/>
+<shechu_solo id="54" originalRow="54" groupSign="" debugClose="" action="存档" param="3005005"/>
+<shechu_solo id="55" originalRow="55" action="跳转-标签" data="" param="结束"/>
+<shechu_solo id="56" originalRow="56"/>
+<shechu_solo id="57" originalRow="57" groupSign="结束"/>
+<shechu_solo id="58" originalRow="58"/>
+</root>

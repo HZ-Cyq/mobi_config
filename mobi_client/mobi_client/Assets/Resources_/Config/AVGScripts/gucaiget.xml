@@ -1,0 +1,16 @@
+<root>
+<gucaiGet id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<gucaiGet id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<gucaiGet id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<gucaiGet id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="真不容易……看着很可爱的家伙们竟然这么厉害……" param2=""/>
+<gucaiGet id="4" originalRow="4" groupSign="" debugClose="" action="打开插画" data="Side_ball2" param="FALSE" param2="FALSE" param3="offx=-1"/>
+<gucaiGet id="5" originalRow="5" groupSign="" debugClose="" action="语法-数值" data="ri_七龙珠+=1" param="" param2=""/>
+<gucaiGet id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="果然有这个东西！" param2=""/>
+<gucaiGet id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="虽然很累~但是能获得这个道具还是很开心的" param2=""/>
+<gucaiGet id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="嗯嗯！o(*￣▽￣*)o" param2=""/>
+<gucaiGet id="9" originalRow="9" groupSign="" debugClose="" action="关闭插画" data="" param="" param2=""/>
+<gucaiGet id="10" originalRow="10" groupSign="" debugClose="" action="语法-数值" data="rqs_1000005在瀚德戏楼收集神秘道具=2" param="" param2=""/>
+<gucaiGet id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="ri_七龙珠==7" param="longzhu.开始" param2=""/>
+<gucaiGet id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="继续加油吧！！fight！！" param2=""/>
+<gucaiGet id="13" originalRow="13" groupSign="" debugClose="" action="存档" data="" param="" param2=""/>
+</root>

@@ -1,0 +1,129 @@
+<root>
+<xt_shechu_part5 id="0" originalRow="0" groupSign="开始"/>
+<xt_shechu_part5 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_shechu_part5 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_不屑_动作_开始_01" param3=""/>
+<xt_shechu_part5 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{music=bgm_disccusion2}{#李加虎害怕表情}累死了！" param2="" param3="type=0"/>
+<xt_shechu_part5 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_shechu_part5 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="好了，这就是全部。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}能对上时间点的都列在这里，再经过筛选……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_shechu_part5 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}就只剩这几条了？" param2="" param3="type=0"/>
+<xt_shechu_part5 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_shechu_part5 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌平静表情}反过来说，规律就藏在其中。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌头中}{#涂凌紧张动作}首先，2时45分枯萎。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="{特殊-闪白效果,1}{#涂凌严肃动作}{#涂凌平静表情}对应感染者通过群组提交了周核算报表。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_shechu_part5 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}之后是4时55分枯萎。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}对应感染者提交带有三种统计视图的修改版报表。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="3点17分，感染者再次开放。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}同时间，群组里有人发了上个月的月核算报表。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}得到了一些回复，“图表做的很好，很直观”。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="20" originalRow="20" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="21" originalRow="21" groupSign="选择" debugClose=""/>
+<xt_shechu_part5 id="22" originalRow="22" debugClose="" action="角色台词" data="wo" param="得想想为什么感染者会在3点17分再度开放……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="23" originalRow="23" groupSign="" debugClose="" action="可选对话框" data="" param="$$有了新工作==&gt;选A
+$$只是想开了==&gt;选B
+$$竞争的压力==&gt;选C" param2="" param3=""/>
+<xt_shechu_part5 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="25" originalRow="25" groupSign="选A" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="wo" param="有了新工作！" param2="" param3="type=0"/>
+<xt_shechu_part5 id="27" originalRow="27" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_思考_动作_开始_01" param3=""/>
+<xt_shechu_part5 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}但是来往邮件里并没有给他追加新工作啊……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="tuling" param="是基于一些别的动机吧……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="tuling" param="再好好想想。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="31" originalRow="31" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="32" originalRow="32" groupSign="" debugClose="" action="跳转-标签" data="" param="选择" param2="" param3=""/>
+<xt_shechu_part5 id="33" originalRow="33"/>
+<xt_shechu_part5 id="34" originalRow="34" groupSign="选B" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="35" originalRow="35" action="角色台词" data="wo" param="只是想开了！" param2="" param3=""/>
+<xt_shechu_part5 id="36" originalRow="36" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_愤怒_动作_开始_01" param3=""/>
+<xt_shechu_part5 id="37" originalRow="37" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞尴尬表情}这是什么话！" param2="" param3="type=0"/>
+<xt_shechu_part5 id="38" originalRow="38" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_思考_动作_循环_01" param3=""/>
+<xt_shechu_part5 id="39" originalRow="39" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}异质物的变化很明显遵循着一定的动机……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="再好好想想吧……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="41" originalRow="41" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="42" originalRow="42" groupSign="" debugClose="" action="跳转-标签" data="" param="选择" param2="" param3=""/>
+<xt_shechu_part5 id="43" originalRow="43" groupSign=""/>
+<xt_shechu_part5 id="44" originalRow="44" groupSign="选C" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="45" originalRow="45" action="角色台词" data="wo" param="因为感受到了同事竞争的压力！" param2="" param3="type=0"/>
+<xt_shechu_part5 id="46" originalRow="46" action="角色台词" data="wo" param="啊我懂了！" param2="" param3="type=0"/>
+<xt_shechu_part5 id="47" originalRow="47" action="角色台词" data="wo" param="感染者本来已经提交了报表并“枯萎”，" param2="" param3="type=0"/>
+<xt_shechu_part5 id="48" originalRow="48" action="角色台词" data="wo" param="4点55分却又提交了“增加三种统计视图的报表“……" param2="" param3="type=0"/>
+<xt_shechu_part5 id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="wo" param="联系就是3点17分，另一同事提交的更精美图表。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="50" originalRow="50" groupSign="" debugClose="" action="跳转-标签" data="" param="正确"/>
+<xt_shechu_part5 id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="52" originalRow="52" groupSign="正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="53" originalRow="53" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
+<xt_shechu_part5 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="niefei" param="害怕被比下去，所以自己给自己追加了工作。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}这就是内卷吗？" param2="" param3="type=0"/>
+<xt_shechu_part5 id="56" originalRow="56" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_shechu_part5 id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="tuling" param="最后是7点半这次。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作}{#涂凌平静表情}对应的是，感染者访问了公司内部邮箱。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="tuling" param="他在公共编辑文档里添加并保存了73条批注。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="60" originalRow="60" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="61" originalRow="61" groupSign="" debugClose="" action="语法-数值" data="ri_时间节点1=1" param="" param2="" param3=""/>
+<xt_shechu_part5 id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="wo" param="枯萎的共性很容易确认。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="wo" param="做完了手头的工作，异质物就会进入枯萎态。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="64" originalRow="64" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_循环_01" param3=""/>
+<xt_shechu_part5 id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}那为什么会反复开放？" param2="" param3="type=0"/>
+<xt_shechu_part5 id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="niefei" param="布置工作的人半夜也不睡？" param2="" param3="type=0"/>
+<xt_shechu_part5 id="67" originalRow="67" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_shechu_part5 id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="tuling" param="至少从邮件和群组来看，没这回事。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="69" originalRow="69" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_思考_动作_开始_01" param3=""/>
+<xt_shechu_part5 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="然后6点过它又开花了。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎思考表情}这时候，有同事私聊过感染者。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="“买到了上次那种三明治，要带么？”" param2="" param3="type=0"/>
+<xt_shechu_part5 id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎思考表情恢复}{#李加虎思考动作恢复}是这么说的。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="74" originalRow="74" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="75" originalRow="75" groupSign="" debugClose="" action="语法-数值" data="ri_时间节点2=1" param="" param2="" param3=""/>
+<xt_shechu_part5 id="76" originalRow="76" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<xt_shechu_part5 id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}这里不止一条，6点零3分有同事在群里晒了图。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="“订正了会议记录，已经同步到公共文档。”" param2="" param3="type=0"/>
+<xt_shechu_part5 id="79" originalRow="79" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="涂凌_严肃_动作_开始_01" param3=""/>
+<xt_shechu_part5 id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}群组里的上级给这张图点赞了呢。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="81" originalRow="81" groupSign="" debugClose="" action="语法-数值" data="ri_时间节点3=1" param="" param2="" param3=""/>
+<xt_shechu_part5 id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作恢复}{#涂凌待机表情}{#凯瑟琳2严肃动作恢复}就是这些了，后面的就没有了。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="83" originalRow="83" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="84" originalRow="84" groupSign="" debugClose="" action="角色台词" data="" param="……" param2="" param3="type=1"/>
+<xt_shechu_part5 id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="" param="为什么感染者会在6点零3分再度开放？{music=off}" param2="" param3="type=1"/>
+<xt_shechu_part5 id="86" originalRow="86" groupSign="" debugClose="" action="系统-打开界面" data="ui_solo_court_logic" param="" param2="" param3=""/>
+<xt_shechu_part5 id="87" originalRow="87" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_shechu_part5 id="88" originalRow="88" groupSign="结束" param2="" param3=""/>
+<xt_shechu_part5 id="89" originalRow="89" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="90" originalRow="90" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="91" originalRow="91" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="92" originalRow="92" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="93" originalRow="93" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="94" originalRow="94" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="95" originalRow="95" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="96" originalRow="96" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="97" originalRow="97" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="98" originalRow="98" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="99" originalRow="99" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="100" originalRow="100" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="101" originalRow="101" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="102" originalRow="102" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="103" originalRow="103" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="104" originalRow="104" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="105" originalRow="105" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="106" originalRow="106" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="107" originalRow="107" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="108" originalRow="108" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="109" originalRow="109" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="110" originalRow="110" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="111" originalRow="111" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="112" originalRow="112" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="113" originalRow="113" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="114" originalRow="114" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="115" originalRow="115" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="116" originalRow="116" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="117" originalRow="117" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="118" originalRow="118" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="119" originalRow="119" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="120" originalRow="120" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="121" originalRow="121" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="122" originalRow="122" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="123" originalRow="123" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_part5 id="124" originalRow="124" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

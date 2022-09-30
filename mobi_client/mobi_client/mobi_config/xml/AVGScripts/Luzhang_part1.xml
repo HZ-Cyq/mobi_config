@@ -1,0 +1,41 @@
+<root>
+<luzhang_part1 id="0" originalRow="0" groupSign="开始"/>
+<luzhang_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<luzhang_part1 id="2" originalRow="2" action="打开插画" data="blackbgimg"/>
+<luzhang_part1 id="3" originalRow="3" groupSign="" debugClose="" action="RPGActor" data="杜博士" param="2" param2="" param3=""/>
+<luzhang_part1 id="4" originalRow="4" action="角色台词" data="wo" param="{music=bgm_trapped}？？？停电了！？？" param2="" param3="type=0"/>
+<luzhang_part1 id="5" originalRow="5" action="角色台词" data="niefei" param="工作人员正在检修，等一会吧。" param2="" param3="type=0"/>
+<luzhang_part1 id="6" originalRow="6" action="角色台词" data="wo" param="我听到了聂总的声音……" param2="" param3="type=0"/>
+<luzhang_part1 id="7" originalRow="7" action="角色台词" data="tuling" param="呀——！" param2="" param3="type=0"/>
+<luzhang_part1 id="8" originalRow="8" debugClose="" action="角色台词" data="" param="有个柔软的触感靠在我身后，是涂凌的鲨鱼服吧？" param2="" param3="type=1"/>
+<luzhang_part1 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="啊——抱歉，吓到你了。" param2="" param3="type=0"/>
+<luzhang_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="我到了！大家还好吗？" param2="" param3="type=0"/>
+<luzhang_part1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="后备电源启动了，马上会恢复照明的。" param2="" param3="type=0"/>
+<luzhang_part1 id="12" originalRow="12" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<luzhang_part1 id="13" originalRow="13" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="1"/>
+<luzhang_part1 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
+<luzhang_part1 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="duheng" param="嗯……速度很快嘛。" param2="" param3="type=0"/>
+<luzhang_part1 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}刚才收容室二层发来警报，发生了异质物溢出。" param2="" param3="type=0"/>
+<luzhang_part1 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="接着所有的电源都断开了。" param2="" param3="type=0"/>
+<luzhang_part1 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="这……难道又是404……" param2="" param3="type=0"/>
+<luzhang_part1 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_待机_动作_循环_02" param3=""/>
+<luzhang_part1 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作恢复}404在三层啦，这次很明确是二层的异质物。" param2="" param3="type=0"/>
+<luzhang_part1 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="失控和溢出不一样？" param2="" param3="type=0"/>
+<luzhang_part1 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌平静表情}失控意味着异质物造成了大范围“感染”。" param2="" param3="type=0"/>
+<luzhang_part1 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="tuling" param="溢出的话，只是从房间内逃走了。" param2="" param3="type=0"/>
+<luzhang_part1 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡思考动作恢复}会比3-404那次还要严重吗？" param2="" param3="type=0"/>
+<luzhang_part1 id="25" originalRow="25" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<luzhang_part1 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}先别紧张。" param2="" param3="type=0"/>
+<luzhang_part1 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}404那次之后，主机房调低了系统响应阈值。" param2="" param3="type=0"/>
+<luzhang_part1 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="不一定就是危险度更高的异质物溢出。" param2="" param3="type=0"/>
+<luzhang_part1 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="duheng" param="备用电源只能接通一部分照明功能，直通异界回廊的电梯现在用不了了。" param2="" param3="type=0"/>
+<luzhang_part1 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="duheng" param="你们只能先去大厅，那里有一部可以去收容室的电梯。" param2="" param3="type=0"/>
+<luzhang_part1 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="duheng" param="有情报我随时同步你们。" param2="" param3="type=0"/>
+<luzhang_part1 id="32" originalRow="32" debugClose="" action="角色台词" data="wo" param="明白！我们现在就去。{music=off}" param2="" param3="type=0"/>
+<luzhang_part1 id="33" originalRow="33" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<luzhang_part1 id="34" originalRow="34" groupSign="" debugClose="" action="RPGActor" data="杜博士" param="1" param2="" param3=""/>
+<luzhang_part1 id="35" originalRow="35" action="语法-数值" data="rqs_3001001路障支线1=2"/>
+<luzhang_part1 id="36" originalRow="36" action="语法-数值" data="rqs_3001002路障支线2=1"/>
+<luzhang_part1 id="37" originalRow="37" action="存档" param="3001001"/>
+<luzhang_part1 id="38" originalRow="38" groupSign="结束"/>
+</root>

@@ -1,0 +1,23 @@
+<root>
+<xiaojiangshi_battledebug id="0" originalRow="0" groupSign="开始"/>
+<xiaojiangshi_battledebug id="1" originalRow="1" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<xiaojiangshi_battledebug id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<xiaojiangshi_battledebug id="3" originalRow="3" groupSign="" debugClose="" action="语法-数值" data="ri_小僵尸失败标记=1" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="4" originalRow="4" groupSign="" debugClose="" action="RPGActor" data="kangxinhuangquan" param="1" param2="" param3=""/>
+<xiaojiangshi_battledebug id="5" originalRow="5" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xiaojiangshi_battledebug id="6" originalRow="6" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="7" originalRow="7" param2="" param3=""/>
+<xiaojiangshi_battledebug id="8" originalRow="8" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="13" originalRow="13" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="14" originalRow="14" groupSign="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="16" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="19" originalRow="19" groupSign="" action="" data="" param="" param2="" param3=""/>
+<xiaojiangshi_battledebug id="20" originalRow="20" action="" data="" param="" param2="" param3=""/>
+</root>

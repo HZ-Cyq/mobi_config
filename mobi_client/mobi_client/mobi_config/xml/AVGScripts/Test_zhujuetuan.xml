@@ -1,0 +1,256 @@
+<root>
+<Test_zhujuetuan id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<Test_zhujuetuan id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<Test_zhujuetuan id="2" originalRow="2" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="3" originalRow="3" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="欢迎来到测试脚本，请选择您的英雄。" param2="" param3="type=1"/>
+<Test_zhujuetuan id="5" originalRow="5" groupSign="选人" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="6" originalRow="6" groupSign="" debugClose="" action="可选对话框" data="" param="$$周易==&gt;周易1
+$$杜衡==&gt;杜衡1
+$$涂凌==&gt;涂凌1
+$$凯瑟琳==&gt;凯瑟琳1
+$$聂飞==&gt;聂飞1
+$$下一页==&gt;下一页" param2="" param3=""/>
+<Test_zhujuetuan id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="8" originalRow="8" groupSign="杜衡1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="9" originalRow="9" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
+<Test_zhujuetuan id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="请选择角色站位。" param2="" param3="type=1"/>
+<Test_zhujuetuan id="12" originalRow="12" groupSign="" debugClose="" action="可选对话框" data="" param="$$左==&gt;杜衡左
+$$中==&gt;角色转向2
+$$右==&gt;杜衡右
+$$重选角色==&gt;开始" param2="" param3=""/>
+<Test_zhujuetuan id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="14" originalRow="14" groupSign="杜衡左" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<Test_zhujuetuan id="16" originalRow="16" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<Test_zhujuetuan id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="18" originalRow="18" groupSign="杜衡右" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<Test_zhujuetuan id="20" originalRow="20" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<Test_zhujuetuan id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="22" originalRow="22" groupSign="角色转向2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="23" originalRow="23" groupSign="" debugClose="" action="可选对话框" data="" param="$$左转==&gt;左转2
+$$右转==&gt;右转2
+$$回正==&gt;回正2
+$$下一步==&gt;杜衡
+$$重选站位==&gt;杜衡1" param2="" param3=""/>
+<Test_zhujuetuan id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="25" originalRow="25" groupSign="左转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,-22.5}" param2="" param3=""/>
+<Test_zhujuetuan id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<Test_zhujuetuan id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="29" originalRow="29" groupSign="右转2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,+22.5}" param2="" param3=""/>
+<Test_zhujuetuan id="31" originalRow="31" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<Test_zhujuetuan id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="33" originalRow="33" groupSign="回正2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,正,0.4}" param2="" param3=""/>
+<Test_zhujuetuan id="35" originalRow="35" groupSign="" debugClose="" action="跳转-标签" data="" param="角色转向2" param2="" param3=""/>
+<Test_zhujuetuan id="36" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="38" originalRow="38" groupSign="杜衡" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="39" originalRow="39" groupSign="1" debugClose="" action="可选对话框" data="" param="$$选择可搭配表情==&gt;选择表情2
+$$平静动作==&gt;平静动作2
+$$惊讶动作==&gt;惊讶动作2
+$$思考动作==&gt;思考动作2
+$$下一页==&gt;动作下一页2
+$$重选角度==&gt;角色转向2" param2="" param3=""/>
+<Test_zhujuetuan id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="41" originalRow="41" groupSign="平静动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}" param2="" param3=""/>
+<Test_zhujuetuan id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="44" originalRow="44" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="46" originalRow="46" groupSign="惊讶动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}" param2="" param3=""/>
+<Test_zhujuetuan id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="49" originalRow="49" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="50" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="51" originalRow="51" groupSign="思考动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}" param2="" param3=""/>
+<Test_zhujuetuan id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="54" originalRow="54" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="55" originalRow="55" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="56" originalRow="56" groupSign="动作下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="57" originalRow="57" groupSign="" debugClose="" action="可选对话框" data="" param="$$愤怒动作==&gt;愤怒动作2
+$$愤怒2动作==&gt;愤怒2动作2
+$$看文件动作==&gt;看文件动作2
+$$开心动作==&gt;开心动作2
+$$下一页==&gt;动作下一页21" param2="" param3=""/>
+<Test_zhujuetuan id="58" originalRow="58" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="59" originalRow="59" groupSign="愤怒动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒动作}" param2="" param3=""/>
+<Test_zhujuetuan id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="62" originalRow="62" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="63" originalRow="63" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="64" originalRow="64" groupSign="愤怒2动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒2动作}" param2="" param3=""/>
+<Test_zhujuetuan id="66" originalRow="66" groupSign="2" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒2动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="67" originalRow="67" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="68" originalRow="68" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="69" originalRow="69" groupSign="看文件动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作}" param2="" param3=""/>
+<Test_zhujuetuan id="71" originalRow="71" groupSign="3.2" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="72" originalRow="72" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="73" originalRow="73" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="74" originalRow="74" groupSign="开心动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}" param2="" param3=""/>
+<Test_zhujuetuan id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="77" originalRow="77" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="78" originalRow="78" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="79" originalRow="79" groupSign="动作下一页21" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="80" originalRow="80" groupSign="" debugClose="" action="可选对话框" data="" param="$$忧伤动作==&gt;忧伤动作2
+$$紧张动作==&gt;紧张动作2
+$$调戏动作==&gt;调戏动作2
+$$送客动作==&gt;送客动作2" param2="" param3=""/>
+<Test_zhujuetuan id="81" originalRow="81" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="82" originalRow="82" groupSign="忧伤动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡忧伤动作}" param2="" param3=""/>
+<Test_zhujuetuan id="84" originalRow="84" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡忧伤动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="85" originalRow="85" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="86" originalRow="86" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="87" originalRow="87" groupSign="紧张动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作}" param2="" param3=""/>
+<Test_zhujuetuan id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="90" originalRow="90" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="91" originalRow="91" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="92" originalRow="92" groupSign="调戏动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡调戏动作}" param2="" param3=""/>
+<Test_zhujuetuan id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡调戏动作恢复}" param2="" param3=""/>
+<Test_zhujuetuan id="95" originalRow="95" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="96" originalRow="96" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="97" originalRow="97" groupSign="送客动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡送客动作}" param2="" param3=""/>
+<Test_zhujuetuan id="99" originalRow="99" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="100" originalRow="100" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="101" originalRow="101" groupSign="选择表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="102" originalRow="102" groupSign="" debugClose="" action="可选对话框" data="" param="$$待机表情==&gt;待机表情2
+$$平静表情==&gt;平静表情2
+$$惊讶表情==&gt;惊讶表情2
+$$思考表情==&gt;思考表情2
+$$下一页==&gt;表情下一页2" param2="" param3=""/>
+<Test_zhujuetuan id="103" originalRow="103" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="104" originalRow="104" groupSign="待机表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="105" originalRow="105" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机表情}这里是待机表情" param2="" param3=""/>
+<Test_zhujuetuan id="106" originalRow="106" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="107" originalRow="107" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="108" originalRow="108" groupSign="平静表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}这里是平静表情" param2="" param3=""/>
+<Test_zhujuetuan id="110" originalRow="110" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="111" originalRow="111" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="112" originalRow="112" groupSign="惊讶表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶表情}这里是惊讶表情" param2="" param3=""/>
+<Test_zhujuetuan id="114" originalRow="114" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="115" originalRow="115" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="116" originalRow="116" groupSign="思考表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考表情}这里是思考表情" param2="" param3=""/>
+<Test_zhujuetuan id="118" originalRow="118" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="119" originalRow="119" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="120" originalRow="120" groupSign="表情下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="121" originalRow="121" groupSign="" debugClose="" action="可选对话框" data="" param="$$愤怒表情==&gt;愤怒表情2
+$$愤怒2表情==&gt;愤怒2表情2
+$$开心表情==&gt;开心表情2
+$$忧伤表情==&gt;忧伤表情2
+$$紧张表情==&gt;紧张表情2" param2="" param3=""/>
+<Test_zhujuetuan id="122" originalRow="122" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="123" originalRow="123" groupSign="愤怒表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒表情}这里是愤怒表情" param2="" param3=""/>
+<Test_zhujuetuan id="125" originalRow="125" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="126" originalRow="126" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="127" originalRow="127" groupSign="愤怒2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒2表情}这里是愤怒2表情" param2="" param3=""/>
+<Test_zhujuetuan id="129" originalRow="129" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="130" originalRow="130" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="131" originalRow="131" groupSign="开心表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="132" originalRow="132" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心表情}这里是开心表情" param2="" param3=""/>
+<Test_zhujuetuan id="133" originalRow="133" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="134" originalRow="134" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="135" originalRow="135" groupSign="忧伤表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="136" originalRow="136" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡忧伤表情}这里是忧伤表情" param2="" param3=""/>
+<Test_zhujuetuan id="137" originalRow="137" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="138" originalRow="138" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="139" originalRow="139" groupSign="紧张表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张表情}这里是紧张表情" param2="" param3=""/>
+<Test_zhujuetuan id="141" originalRow="141" groupSign="" debugClose="" action="跳转-标签" data="" param="杜衡" param2="" param3=""/>
+<Test_zhujuetuan id="142" originalRow="142" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="143" originalRow="143" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="144" originalRow="144" groupSign="涂凌1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="145" originalRow="145" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Tuling.开始" param2="" param3=""/>
+<Test_zhujuetuan id="146" originalRow="146" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="147" originalRow="147" groupSign="周易1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="148" originalRow="148" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_ZhouYi.开始" param2="" param3=""/>
+<Test_zhujuetuan id="149" originalRow="149" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="150" originalRow="150" groupSign="凯瑟琳1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="151" originalRow="151" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Kaiselin02.开始" param2="" param3=""/>
+<Test_zhujuetuan id="152" originalRow="152" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="153" originalRow="153" groupSign="聂飞1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="154" originalRow="154" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Niefei.开始" param2="" param3=""/>
+<Test_zhujuetuan id="155" originalRow="155" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="156" originalRow="156" groupSign="下一页" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="157" originalRow="157" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;选人
+$$土山奥==&gt;土山奥1
+$$李加虎==&gt;李加虎1
+$$黄权==&gt;黄权1
+$$冰酒==&gt;冰酒1
+$$下一页==&gt;下一页1" param2="" param3=""/>
+<Test_zhujuetuan id="158" originalRow="158" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="159" originalRow="159" groupSign="土山奥1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="160" originalRow="160" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Tushaoao.开始" param2="" param3=""/>
+<Test_zhujuetuan id="161" originalRow="161" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="162" originalRow="162" groupSign="凯姐1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="163" originalRow="163" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Kaiselin.开始" param2="" param3=""/>
+<Test_zhujuetuan id="164" originalRow="164" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="165" originalRow="165" groupSign="李加虎1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="166" originalRow="166" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Lijiahu.开始" param2="" param3=""/>
+<Test_zhujuetuan id="167" originalRow="167" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="168" originalRow="168" groupSign="黄权1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="169" originalRow="169" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Huangquan.开始" param2="" param3=""/>
+<Test_zhujuetuan id="170" originalRow="170" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="171" originalRow="171" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="172" originalRow="172" groupSign="下一页1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="173" originalRow="173" groupSign="" debugClose="" action="可选对话框" data="" param="$$上一页==&gt;下一页
+$$白秀竹==&gt;白秀竹1
+$$旧版凯瑟琳==&gt;凯姐1
+$$无脸Npc==&gt;无脸npc1
+$$动漫特效==&gt;动漫特效1" param2="" param3=""/>
+<Test_zhujuetuan id="174" originalRow="174" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="175" originalRow="175" groupSign="无脸npc1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="176" originalRow="176" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_WulianNPC.开始" param2="" param3=""/>
+<Test_zhujuetuan id="177" originalRow="177" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="178" originalRow="178" groupSign="白秀竹1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="179" originalRow="179" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Baixiuzhu.开始" param2="" param3=""/>
+<Test_zhujuetuan id="180" originalRow="180" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="181" originalRow="181" groupSign="冰酒1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="182" originalRow="182" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_Bingjiu.开始" param2="" param3=""/>
+<Test_zhujuetuan id="183" originalRow="183" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="184" originalRow="184" groupSign="动漫特效1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="185" originalRow="185" groupSign="" debugClose="" action="跳转-标签" data="" param="NewTest_DongmanFX.开始" param2="" param3=""/>
+<Test_zhujuetuan id="186" originalRow="186" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="187" originalRow="187" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="188" originalRow="188" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="189" originalRow="189" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="190" originalRow="190" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="191" originalRow="191" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="192" originalRow="192" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="193" originalRow="193" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="194" originalRow="194" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="195" originalRow="195" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="196" originalRow="196" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="197" originalRow="197" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="198" originalRow="198" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="199" originalRow="199" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="200" originalRow="200" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="201" originalRow="201" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="202" originalRow="202" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="203" originalRow="203" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="204" originalRow="204" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="205" originalRow="205" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="206" originalRow="206" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="207" originalRow="207" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="208" originalRow="208" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="209" originalRow="209" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="210" originalRow="210" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="211" originalRow="211" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_zhujuetuan id="212" originalRow="212" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

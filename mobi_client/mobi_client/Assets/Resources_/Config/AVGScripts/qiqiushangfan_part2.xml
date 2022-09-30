@@ -1,0 +1,40 @@
+<root>
+<qiqiushangfan_part2 id="0" originalRow="0" groupSign="开始"/>
+<qiqiushangfan_part2 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<qiqiushangfan_part2 id="2" originalRow="2" action="RPGActor" data="huaishuliBniefeituling" param="2" param2="" param3=""/>
+<qiqiushangfan_part2 id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<qiqiushangfan_part2 id="4" originalRow="4" action="角色台词" data="kaiselin02" param="{music=bgm_1v1}小涂凌，警方的资料发过来了？" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_待机_动作_循环_02" param3=""/>
+<qiqiushangfan_part2 id="6" originalRow="6" action="角色台词" data="tuling" param="{#常规点头动作}已经分析完毕了！" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="7" originalRow="7" action="角色台词" data="tuling" param="{#涂凌待机2动作恢复}案发地点就在左侧的房间里。警方的资料说，这本来是一起普通的入室抢劫案。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="8" originalRow="8" action="角色台词" data="tuling" param="在制服并捆绑户主和其妻子后，嫌疑人开始后怕。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="9" originalRow="9" action="角色台词" data="tuling" param="他在受害人家中呆了一周，试图与受害人和解。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="10" originalRow="10" action="角色台词" data="wo" param="{#涂凌抬头}{#涂凌平静表情}一周？" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="11" originalRow="11" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}没有给受害人松绑？" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="12" originalRow="12" action="角色台词" data="tuling" param="{#涂凌头中}{#涂凌待机表情}没错。一周过后，异质物出现了。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="13" originalRow="13" action="角色台词" data="kaiselin02" param="按嫌疑人的说法，异质物杀害了被捆绑的两人。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="聂总_思考_动作_开始_01" param3=""/>
+<qiqiushangfan_part2 id="15" originalRow="15" action="角色台词" data="niefei" param="真是编都不会编。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="16" originalRow="16" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}一个蠢贼，偏偏知道“特别疑罪从无原则”。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="17" originalRow="17" action="角色台词" data="wo" param="嗯……" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="18" originalRow="18" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}别盯着我。涂凌快给他解释一下。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="19" originalRow="19" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<qiqiushangfan_part2 id="20" originalRow="20" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<qiqiushangfan_part2 id="21" originalRow="21" action="角色台词" data="tuling" param="{#涂凌思考动作}{#涂凌平静表情}由于异质物性质不定，市民了解不足。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="22" originalRow="22" action="角色台词" data="tuling" param="当有异质物涉案时，便属于特别疑罪。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="23" originalRow="23" action="角色台词" data="tuling" param="{#涂凌思考表情}具体标准非常宽松，这个案子的话……" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<qiqiushangfan_part2 id="25" originalRow="25" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}{#涂凌思考动作恢复}{#涂凌待机表情}如果我们不插手，缓刑的概率很大。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="26" originalRow="26" action="角色台词" data="wo" param="{#涂凌紧张动作}明明出了人命……" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="27" originalRow="27" action="角色台词" data="wo" param="这么说，警方在等我们调查异质物对吧。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作恢复}{#涂凌抬头}{#涂凌平静表情}已经在附近检测到异质波动了。" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="29" originalRow="29" action="角色台词" data="wo" param="那我们现在就进到房间里看看吧？{music=off}" param2="" param3="type=0"/>
+<qiqiushangfan_part2 id="30" originalRow="30" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<qiqiushangfan_part2 id="31" originalRow="31" action="语法-数值" data="rqs_3003002与其他人汇合=2" param3=""/>
+<qiqiushangfan_part2 id="32" originalRow="32" groupSign="" debugClose="" action="语法-数值" data="rqs_3003003进入房间调查=1" param="" param2=""/>
+<qiqiushangfan_part2 id="33" originalRow="33" action="存档" param="3003002"/>
+<qiqiushangfan_part2 id="34" originalRow="34" action="跳转-标签" param="结束"/>
+<qiqiushangfan_part2 id="35" originalRow="35" groupSign="结束" action=""/>
+<qiqiushangfan_part2 id="36" originalRow="36"/>
+<qiqiushangfan_part2 id="37" originalRow="37" action="" data=""/>
+</root>

@@ -1,0 +1,205 @@
+<root>
+<hezhongshaonv000_mateluoshika id="0" originalRow="0" groupSign="前往安太单身公寓"/>
+<hezhongshaonv000_mateluoshika id="1" originalRow="1" groupSign="" debugClose="1" action="设置场号" data="avg_basic_scene" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="no_postprocessing" param2=""/>
+<hezhongshaonv000_mateluoshika id="3" originalRow="3" groupSign="" debugClose="" action="镜头移动" data="camchar0" param="0.5" param2="1"/>
+<hezhongshaonv000_mateluoshika id="4" originalRow="4" groupSign="" action="角色台词" data="" param="安太公寓702室，报告里显示出现时空相位波动的地方。"/>
+<hezhongshaonv000_mateluoshika id="5" originalRow="5" groupSign="" action="角色台词" data="" param="周围很安静，没有观测到异常。"/>
+<hezhongshaonv000_mateluoshika id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2=""/>
+<hezhongshaonv000_mateluoshika id="7" originalRow="7" action="角色台词" data="niezong" param="“盒中少女”好像凭空消失了。"/>
+<hezhongshaonv000_mateluoshika id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=1" param2="" param3="TRUE;TRUE;FALSE"/>
+<hezhongshaonv000_mateluoshika id="9" originalRow="9" action="角色台词" data="tuling" param="那回去吧。"/>
+<hezhongshaonv000_mateluoshika id="10" originalRow="10" action="角色台词" data="wo" param="就这样回去会被杜博士羞辱死的！"/>
+<hezhongshaonv000_mateluoshika id="11" originalRow="11" action="角色台词" data="niezong" param="得想个办法让她主动现身。"/>
+<hezhongshaonv000_mateluoshika id="12" originalRow="12" action="角色台词" data="tuling" param="目击报告里说，“盒中少女”会出现在“至少7天没有出门且独居的人类家门口”。"/>
+<hezhongshaonv000_mateluoshika id="13" originalRow="13" action="角色台词" data="tuling" param="啊，想到了 (〃・ｏ・〃)"/>
+<hezhongshaonv000_mateluoshika id="14" originalRow="14" action="角色台词" data="niezong" param="什么什么，你快说。"/>
+<hezhongshaonv000_mateluoshika id="15" originalRow="15" action="角色台词" data="tuling" param="我可以修改周易的信息屏障，让他伪装成社畜独居男青年。"/>
+<hezhongshaonv000_mateluoshika id="16" originalRow="16" action="角色台词" data="niezong" param="哦哦！活体盒中少女诱捕器！"/>
+<hezhongshaonv000_mateluoshika id="17" originalRow="17" action="角色台词" data="tuling" param="是不是听起来很有点意思！"/>
+<hezhongshaonv000_mateluoshika id="18" originalRow="18" action="角色台词" data="wo" param="为什么又是我啊？！"/>
+<hezhongshaonv000_mateluoshika id="19" originalRow="19" groupSign="" action="角色台词" data="tuling" param="毕竟杜博士都说了，目击者是和你一样的社畜男青年。"/>
+<hezhongshaonv000_mateluoshika id="20" originalRow="20" action="角色台词" data="" param="……"/>
+<hezhongshaonv000_mateluoshika id="21" originalRow="21" action="角色台词" data="tuling" param="完成了！(*^▽^*)"/>
+<hezhongshaonv000_mateluoshika id="22" originalRow="22" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="23" originalRow="23" groupSign="3&gt;&gt;" debugClose="" action="设置角色" data="kaiselin" param="pos=1" param2="TRUE;TRUE;FALSE"/>
+<hezhongshaonv000_mateluoshika id="24" originalRow="24" action="角色台词" data="kaiselin" param="中国有句俗语，姜太公钓鱼——"/>
+<hezhongshaonv000_mateluoshika id="25" originalRow="25" action="角色台词" data="niezong" param="等待鱼儿上钩咯！"/>
+<hezhongshaonv000_mateluoshika id="26" originalRow="26" action="角色台词" data="kaiselin" param="不过，事情恐怕没这么简单~"/>
+<hezhongshaonv000_mateluoshika id="27" originalRow="27" groupSign="1" debugClose="" action="特殊-闪白效果" data="1" param="0.3" param2=""/>
+<hezhongshaonv000_mateluoshika id="28" originalRow="28" action="角色台词" data="niezong" param="鱼儿出现了！"/>
+<hezhongshaonv000_mateluoshika id="29" originalRow="29" action="语法-数值" data="rqs_1030001寻找盒中少女=2" param=""/>
+<hezhongshaonv000_mateluoshika id="30" originalRow="30" action="角色台词" data="niezong" param="怎么看，都是个普通的快递盒啊。"/>
+<hezhongshaonv000_mateluoshika id="31" originalRow="31" action="角色台词" data="kaiselin" param="拆快递这种事情，就交给周易吧。"/>
+<hezhongshaonv000_mateluoshika id="32" originalRow="32" action="角色台词" data="niezong" param="附议。万一里面有炸弹什么的可就不妙了。"/>
+<hezhongshaonv000_mateluoshika id="33" originalRow="33" groupSign="" action="角色台词" data="wo" param="你们总是在这种时候想到我。"/>
+<hezhongshaonv000_mateluoshika id="34" originalRow="34" action="角色台词" data="kaiselin" param="反正你也不会死，也吃不了亏~"/>
+<hezhongshaonv000_mateluoshika id="35" originalRow="35" action="角色台词" data="niezong" param="别废话了，快打开看看。"/>
+<hezhongshaonv000_mateluoshika id="36" originalRow="36" action="角色台词" data="wo" param="好吧。"/>
+<hezhongshaonv000_mateluoshika id="37" originalRow="37" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="38" originalRow="38" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="39" originalRow="39" groupSign="1" debugClose="" action="特殊-闪白效果" data="1" param="0.3" param2=""/>
+<hezhongshaonv000_mateluoshika id="40" originalRow="40" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene_tuili" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="41" originalRow="41" action="角色台词" data="wo" param="晕，这是哪里？"/>
+<hezhongshaonv000_mateluoshika id="42" originalRow="42" action="角色台词" data="wo" param="我不会是死过一次了吧？！"/>
+<hezhongshaonv000_mateluoshika id="43" originalRow="43" action="角色台词" data="stranger1" param="你没有死哦。"/>
+<hezhongshaonv000_mateluoshika id="44" originalRow="44" action="角色台词" data="wo" param="谁在说话？"/>
+<hezhongshaonv000_mateluoshika id="45" originalRow="45" action="角色台词" data="stranger1" param="欢迎来到盒中世界。"/>
+<hezhongshaonv000_mateluoshika id="46" originalRow="46" action="角色台词" data="wo" param="盒中世界？你就是……盒中少女吧！"/>
+<hezhongshaonv000_mateluoshika id="47" originalRow="47" groupSign="" debugClose="" action="设置角色" data="hezhongshaonv" param="pos=0" param2=""/>
+<hezhongshaonv000_mateluoshika id="48" originalRow="48" action="角色台词" data="hezhongshaonv" param="唔，好像听见外面的人是这么叫我的。不过，你可以叫我玛特罗什卡。"/>
+<hezhongshaonv000_mateluoshika id="49" originalRow="49" action="角色台词" data="wo" param="还是先了解一下情况吧。"/>
+<hezhongshaonv000_mateluoshika id="50" originalRow="50" action="语法-数值" data="rqs_1030002研究盒中少女=1"/>
+<hezhongshaonv000_mateluoshika id="51" originalRow="51" action="角色台词" data="hezhongshaonv" param="你想了解什么呢？玛特罗什卡都可以告诉你！"/>
+<hezhongshaonv000_mateluoshika id="52" originalRow="52" groupSign="选项开始" action="可选对话框" data="" param="(xuanxiang1&lt;1)$$你一直待在这里吗？==&gt;关于盒中少女
+(xuanxiang2&lt;1)$$盒中世界是什么样的地方？==&gt;关于盒中世界
+(xuanxiang3&lt;1)$$你在这里不觉得无聊吗？==&gt;关于干什么
+(xuanxiang4&lt;1)$$这个盒子到底是什么？==&gt;关于盒子
+(xuanxiang1&lt;1||xuanxiang2&lt;1||xuanxiang3&lt;1||xuanxiang4&lt;1)$$尝试收容==&gt;战斗
+(xuanxiang1==1&amp;&amp;xuanxiang2==1&amp;&amp;xuanxiang3==1&amp;&amp;xuanxiang4==1)$$现在来收容吧==&gt;战斗前对话"/>
+<hezhongshaonv000_mateluoshika id="53" originalRow="53" groupSign="战斗" debugClose="" action="设置角色" data="niefei" param="pos=1" param2=""/>
+<hezhongshaonv000_mateluoshika id="54" originalRow="54" groupSign="" debugClose="" action="语法-数值" data="rqs_1030003进行收容=1" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="55" originalRow="55" action="角色台词" data="niezong" param="跟她啰嗦什么！"/>
+<hezhongshaonv000_mateluoshika id="56" originalRow="56" action="角色台词" data="niezong" param="哼哼，管她什么玛卡巴卡，先吃本喵几拳！"/>
+<hezhongshaonv000_mateluoshika id="57" originalRow="57" groupSign="" debugClose="" action="移除角色" data="hezhongshaonv" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="58" originalRow="58" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="59" originalRow="59" groupSign="" debugClose="" action="进战斗" data="4001" param="" param2="" param3=""/>
+<hezhongshaonv000_mateluoshika id="60" originalRow="60" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<hezhongshaonv000_mateluoshika id="61" originalRow="61"/>
+<hezhongshaonv000_mateluoshika id="62" originalRow="62" groupSign="关于盒中少女" debugClose="" action="设置角色" data="tuling" param="pos=0" param2=""/>
+<hezhongshaonv000_mateluoshika id="63" originalRow="63" action="角色台词" data="tuling" param="你在这里待了多久了？"/>
+<hezhongshaonv000_mateluoshika id="64" originalRow="64" groupSign="" debugClose="" action="设置角色" data="hezhongshaonv" param="pos=1" param2=""/>
+<hezhongshaonv000_mateluoshika id="65" originalRow="65" action="角色台词" data="hezhongshaonv" param="这个玛特罗什卡需要想一想……十一，十二，十三，玛特罗什卡出生就在这里，已经有十三年了。"/>
+<hezhongshaonv000_mateluoshika id="66" originalRow="66" action="角色台词" data="tuling" param="打破了我宅在家里的最高时长记录！(ｷ｀ﾟДﾟ´)!!"/>
+<hezhongshaonv000_mateluoshika id="67" originalRow="67" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="68" originalRow="68" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="69" originalRow="69" action="角色台词" data="kaiselin" param="看起来完全还是个营养不良的小孩子。"/>
+<hezhongshaonv000_mateluoshika id="70" originalRow="70" action="角色台词" data="hezhongshaonv" param="营养不良是什么意思？"/>
+<hezhongshaonv000_mateluoshika id="71" originalRow="71" action="角色台词" data="kaiselin" param="唔，不乖乖吃饭的小朋友，就会营养不良。"/>
+<hezhongshaonv000_mateluoshika id="72" originalRow="72" action="角色台词" data="hezhongshaonv" param="玛特罗什卡不需要吃饭哦，永远都不会饿。"/>
+<hezhongshaonv000_mateluoshika id="73" originalRow="73" groupSign="" debugClose="" action="语法-数值" data="rqs_1030002研究盒中少女+1=1" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="74" originalRow="74" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="75" originalRow="75" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=2" param2="" param3="TRUE;TRUE;FALSE"/>
+<hezhongshaonv000_mateluoshika id="76" originalRow="76" action="角色台词" data="tuling" param="不吃蔬菜？"/>
+<hezhongshaonv000_mateluoshika id="77" originalRow="77" action="角色台词" data="hezhongshaonv" param="不吃蔬菜。"/>
+<hezhongshaonv000_mateluoshika id="78" originalRow="78" action="角色台词" data="tuling" param="不吃香菜？"/>
+<hezhongshaonv000_mateluoshika id="79" originalRow="79" action="角色台词" data="hezhongshaonv" param="不吃香菜。"/>
+<hezhongshaonv000_mateluoshika id="80" originalRow="80" action="角色台词" data="tuling" param="我喜欢你！(*・・*) 人(・ε・；)"/>
+<hezhongshaonv000_mateluoshika id="81" originalRow="81" action="角色台词" param="奇怪的友谊增加了……"/>
+<hezhongshaonv000_mateluoshika id="82" originalRow="82" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="83" originalRow="83" groupSign="" debugClose="" action="移除角色" data="hezhongshaonv" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="84" originalRow="84" action="语法-数值" data="xuanxiang1=1" param=""/>
+<hezhongshaonv000_mateluoshika id="85" originalRow="85" action="跳转-标签" param="选项开始"/>
+<hezhongshaonv000_mateluoshika id="86" originalRow="86" groupSign="关于盒中世界" debugClose="" action="设置角色" data="kaiselin" param="pos=0" param2="" param3="TRUE;TRUE;FALSE"/>
+<hezhongshaonv000_mateluoshika id="87" originalRow="87" action="角色台词" data="kaiselin" param="盒中世界到底是什么样子的地方？"/>
+<hezhongshaonv000_mateluoshika id="88" originalRow="88" groupSign="" debugClose="" action="设置角色" data="hezhongshaonv" param="pos=1" param2=""/>
+<hezhongshaonv000_mateluoshika id="89" originalRow="89" action="角色台词" data="hezhongshaonv" param="你是瞎子吗？"/>
+<hezhongshaonv000_mateluoshika id="90" originalRow="90" action="角色台词" data="kaiselin" param="小妹妹，骂人可是要被打针的哟。"/>
+<hezhongshaonv000_mateluoshika id="91" originalRow="91" action="角色台词" data="hezhongshaonv" param="玛特罗什卡没有骂人，你看不见这座漂亮的城堡和肥沃的草原吗？"/>
+<hezhongshaonv000_mateluoshika id="92" originalRow="92" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="93" originalRow="93" groupSign="" debugClose="" action="设置角色" data="tushanao" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="94" originalRow="94" action="角色台词" data="tushanao" param="她的意思是，这里就只有这么大吗？"/>
+<hezhongshaonv000_mateluoshika id="95" originalRow="95" action="角色台词" data="hezhongshaonv" param="玛特罗什卡时常为你们人类的贪婪而吃惊。"/>
+<hezhongshaonv000_mateluoshika id="96" originalRow="96" action="角色台词" data="tushanao" param="我也这么认为。"/>
+<hezhongshaonv000_mateluoshika id="97" originalRow="97" action="角色台词" param="不要赞同敌人说的话啊！"/>
+<hezhongshaonv000_mateluoshika id="98" originalRow="98" action="角色台词" data="hezhongshaonv" param="玛特罗什卡拥有整整一座城堡和一片草原哎！"/>
+<hezhongshaonv000_mateluoshika id="99" originalRow="99" action="语法-数值" data="rqs_1030002研究盒中少女+1=1" param=""/>
+<hezhongshaonv000_mateluoshika id="100" originalRow="100" action="角色台词" data="hezhongshaonv" param="而人类却只是住在小小的格子间里罢了。"/>
+<hezhongshaonv000_mateluoshika id="101" originalRow="101" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="102" originalRow="102" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="103" originalRow="103" action="角色台词" data="kaiselin" param="小妹妹说的不无道理。"/>
+<hezhongshaonv000_mateluoshika id="104" originalRow="104" action="角色台词" param="你怎么也这样……"/>
+<hezhongshaonv000_mateluoshika id="105" originalRow="105" action="角色台词" data="hezhongshaonv" param="玛特罗什卡只是待在这里，就已经很满足了。"/>
+<hezhongshaonv000_mateluoshika id="106" originalRow="106" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="107" originalRow="107" groupSign="" debugClose="" action="移除角色" data="hezhongshaonv" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="108" originalRow="108" groupSign="" debugClose="" action="语法-数值" data="xuanxiang2=1" param="" param2="" param3=""/>
+<hezhongshaonv000_mateluoshika id="109" originalRow="109" action="跳转-标签" param="选项开始"/>
+<hezhongshaonv000_mateluoshika id="110" originalRow="110" groupSign="关于干什么" debugClose="" action="设置角色" data="niefei" param="pos=0" param2=""/>
+<hezhongshaonv000_mateluoshika id="111" originalRow="111" action="角色台词" data="niezong" param="这里就这么大，你不会觉得无聊吗？"/>
+<hezhongshaonv000_mateluoshika id="112" originalRow="112" groupSign="" debugClose="" action="设置角色" data="hezhongshaonv" param="pos=1" param2=""/>
+<hezhongshaonv000_mateluoshika id="113" originalRow="113" action="角色台词" data="hezhongshaonv" param="这是什么话！玛特罗什卡最喜欢城堡和草原了。"/>
+<hezhongshaonv000_mateluoshika id="114" originalRow="114" action="角色台词" data="niezong" param="但你没有想过出去看看吗？"/>
+<hezhongshaonv000_mateluoshika id="115" originalRow="115" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="116" originalRow="116" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="117" originalRow="117" action="角色台词" data="tuling" param="我愿意72小时待在家里玩游戏不出门(#^.^#)"/>
+<hezhongshaonv000_mateluoshika id="118" originalRow="118" action="角色台词" param="十三年，这得多少个72小时了。"/>
+<hezhongshaonv000_mateluoshika id="119" originalRow="119" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="120" originalRow="120" action="角色台词" data="hezhongshaonv" param="唔，悄悄告诉你，其实玛特罗什卡有悄悄出去看过。"/>
+<hezhongshaonv000_mateluoshika id="121" originalRow="121" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="122" originalRow="122" action="角色台词" data="niezong" param="看到了什么？"/>
+<hezhongshaonv000_mateluoshika id="123" originalRow="123" action="角色台词" data="hezhongshaonv" param="什么也没看到。"/>
+<hezhongshaonv000_mateluoshika id="124" originalRow="124" action="角色台词" data="niezong" param="这怎么可能！"/>
+<hezhongshaonv000_mateluoshika id="125" originalRow="125" action="角色台词" data="hezhongshaonv" param="是真的。呜呜呜，玛特罗什卡也不清楚怎么回事。"/>
+<hezhongshaonv000_mateluoshika id="126" originalRow="126" action="角色台词" data="hezhongshaonv" param="走到盒子的边缘就开始觉得呼吸困难，神志不清，七荤八素，七上八下，就好像，就好像……"/>
+<hezhongshaonv000_mateluoshika id="127" originalRow="127" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="128" originalRow="128" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="129" originalRow="129" action="角色台词" data="tuling" param="就好像要宕机一样？"/>
+<hezhongshaonv000_mateluoshika id="130" originalRow="130" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="131" originalRow="131" action="角色台词" data="hezhongshaonv" param="什么叫宕机？"/>
+<hezhongshaonv000_mateluoshika id="132" originalRow="132" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="133" originalRow="133" action="角色台词" data="niezong" param="就是死了。"/>
+<hezhongshaonv000_mateluoshika id="134" originalRow="134" action="角色台词" data="hezhongshaonv" param="哦哦哦！对的，就是好像要宕机一样。"/>
+<hezhongshaonv000_mateluoshika id="135" originalRow="135" action="角色台词" param="原来异质物也会死啊……"/>
+<hezhongshaonv000_mateluoshika id="136" originalRow="136" action="角色台词" data="hezhongshaonv" param="后来玛特罗什卡就再也不敢往外走了。"/>
+<hezhongshaonv000_mateluoshika id="137" originalRow="137" action="语法-数值" data="rqs_1030002研究盒中少女+1=1" param=""/>
+<hezhongshaonv000_mateluoshika id="138" originalRow="138" action="角色台词" data="niezong" param="你不会感到孤单吗？"/>
+<hezhongshaonv000_mateluoshika id="139" originalRow="139" action="角色台词" data="hezhongshaonv" param="玛特罗什卡一点也不觉得！玛特罗什卡有很多好朋友。"/>
+<hezhongshaonv000_mateluoshika id="140" originalRow="140" action="角色台词" data="niezong" param="好朋友？"/>
+<hezhongshaonv000_mateluoshika id="141" originalRow="141" action="角色台词" data="hezhongshaonv" param="人类好朋友！玛特罗什卡邀请人类进来做客，他们也都很高兴。"/>
+<hezhongshaonv000_mateluoshika id="142" originalRow="142" action="角色台词" data="niezong" param="你确定他们的情绪是叫高兴吗……"/>
+<hezhongshaonv000_mateluoshika id="143" originalRow="143" action="角色台词" data="hezhongshaonv" param="他们和玛特罗什卡玩的可开心了，就是到没几天总是呼吸困难，神志不清，七荤八素，七上八下，就好像，就好像……"/>
+<hezhongshaonv000_mateluoshika id="144" originalRow="144" action="角色台词" data="hezhongshaonv" param="就好像要宕机一样！"/>
+<hezhongshaonv000_mateluoshika id="145" originalRow="145" action="角色台词" param="这是快要死了呀……"/>
+<hezhongshaonv000_mateluoshika id="146" originalRow="146" action="角色台词" data="hezhongshaonv" param="他们嘴里还念叨着什么，好饿好渴，也不陪玛特罗什卡玩了，玛特罗什卡就把他们送回家去。"/>
+<hezhongshaonv000_mateluoshika id="147" originalRow="147" action="语法-数值" data="rqs_1030002研究盒中少女+1=1" param=""/>
+<hezhongshaonv000_mateluoshika id="148" originalRow="148" action="角色台词" data="niezong" param="真是恐怖的经历。本喵可不想尝试。"/>
+<hezhongshaonv000_mateluoshika id="149" originalRow="149" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="150" originalRow="150" groupSign="" debugClose="" action="移除角色" data="hezhongshaonv" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="151" originalRow="151" groupSign="" debugClose="" action="语法-数值" data="xuanxiang3=1" param="" param2="" param3=""/>
+<hezhongshaonv000_mateluoshika id="152" originalRow="152" action="跳转-标签" param="选项开始"/>
+<hezhongshaonv000_mateluoshika id="153" originalRow="153" groupSign="关于盒子" debugClose="" action="设置角色" data="tushanao" param="pos=0" param2=""/>
+<hezhongshaonv000_mateluoshika id="154" originalRow="154" action="角色台词" data="tushanao" param="真奇怪，明明看起来只是一个普通的快递盒，里面竟然有这么大的空间。"/>
+<hezhongshaonv000_mateluoshika id="155" originalRow="155" groupSign="" debugClose="" action="设置角色" data="hezhongshaonv" param="pos=1" param2=""/>
+<hezhongshaonv000_mateluoshika id="156" originalRow="156" action="角色台词" data="hezhongshaonv" param="因为它而是玛特罗什卡的盒子哦！"/>
+<hezhongshaonv000_mateluoshika id="157" originalRow="157" action="角色台词" data="tushanao" param="看来她也不太清楚。"/>
+<hezhongshaonv000_mateluoshika id="158" originalRow="158" groupSign="" debugClose="" action="移除角色" data="tushanao" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="159" originalRow="159" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="160" originalRow="160" action="角色台词" data="kaiselin" param="是个稀里糊涂、头脑不太清楚的小妹妹呢。"/>
+<hezhongshaonv000_mateluoshika id="161" originalRow="161" action="角色台词" data="hezhongshaonv" param="才不是！玛特罗什卡知道很多！"/>
+<hezhongshaonv000_mateluoshika id="162" originalRow="162" action="角色台词" data="kaiselin" param="哦？比如呢？"/>
+<hezhongshaonv000_mateluoshika id="163" originalRow="163" action="角色台词" data="hezhongshaonv" param="比如，其实不止有一个盒子哦！"/>
+<hezhongshaonv000_mateluoshika id="164" originalRow="164" action="角色台词" data="kaiselin" param="还有其他的盒子吗？！"/>
+<hezhongshaonv000_mateluoshika id="165" originalRow="165" action="角色台词" data="hezhongshaonv" param="我的意思是说，看起来只有一个，其实有很多个。"/>
+<hezhongshaonv000_mateluoshika id="166" originalRow="166" action="角色台词" param="有点听不懂了。"/>
+<hezhongshaonv000_mateluoshika id="167" originalRow="167" action="角色台词" data="hezhongshaonv" param="嗯，就像撕开包装盒，里面有一个包装盒，再撕开，还有一个，再撕开，还有……"/>
+<hezhongshaonv000_mateluoshika id="168" originalRow="168" action="角色台词" data="kaiselin" param="禁止套娃！"/>
+<hezhongshaonv000_mateluoshika id="169" originalRow="169" action="角色台词" data="hezhongshaonv" param="套娃，那是什么？"/>
+<hezhongshaonv000_mateluoshika id="170" originalRow="170" action="角色台词" data="kaiselin" param="матрёшка！你可以理解为，盒子的一种吧。"/>
+<hezhongshaonv000_mateluoshika id="171" originalRow="171" action="角色台词" data="hezhongshaonv" param="原来如此！玛特罗什卡明白了！"/>
+<hezhongshaonv000_mateluoshika id="172" originalRow="172" groupSign="" debugClose="" action="语法-数值" data="rqs_1030002研究盒中少女+1=1" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="173" originalRow="173" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="174" originalRow="174" groupSign="" debugClose="" action="移除角色" data="hezhongshaonv" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="175" originalRow="175" groupSign="" debugClose="" action="语法-数值" data="xuanxiang4=1" param="" param2="" param3=""/>
+<hezhongshaonv000_mateluoshika id="176" originalRow="176" groupSign="" debugClose="" action="跳转-标签" data="" param="选项开始" param2="" param3=""/>
+<hezhongshaonv000_mateluoshika id="177" originalRow="177" groupSign="战斗前对话" debugClose="" action="设置角色" data="kaiselin" param="pos=0" param2=""/>
+<hezhongshaonv000_mateluoshika id="178" originalRow="178" groupSign="" debugClose="" action="语法-数值" data="rqs_1030002研究盒中少女=2" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="179" originalRow="179" groupSign="" debugClose="" action="语法-数值" data="rqs_1030003进行收容=1" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="180" originalRow="180" action="角色台词" data="kaiselin" param="小妹妹，把这么多人骗进来，你很有手段嘛。"/>
+<hezhongshaonv000_mateluoshika id="181" originalRow="181" groupSign="" debugClose="" action="设置角色" data="hezhongshaonv" param="pos=1" param2=""/>
+<hezhongshaonv000_mateluoshika id="182" originalRow="182" action="角色台词" data="hezhongshaonv" param="玛特罗什卡不是骗子，玛特罗什卡只是想和他们一起玩。"/>
+<hezhongshaonv000_mateluoshika id="183" originalRow="183" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="184" originalRow="184" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=2" param2=""/>
+<hezhongshaonv000_mateluoshika id="185" originalRow="185" action="角色台词" data="niezong" param="跟叔叔回去吧，叔叔家很好玩哦~"/>
+<hezhongshaonv000_mateluoshika id="186" originalRow="186" action="角色台词" data="hezhongshaonv" param="玛特罗什卡才不要去，你们才是大骗子！"/>
+<hezhongshaonv000_mateluoshika id="187" originalRow="187" groupSign="" debugClose="" action="移除角色" data="neifei" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="188" originalRow="188" groupSign="" debugClose="" action="移除角色" data="hezhongshaonv" param="" param2=""/>
+<hezhongshaonv000_mateluoshika id="189" originalRow="189" action="进战斗" data="4001"/>
+<hezhongshaonv000_mateluoshika id="190" originalRow="190" action="跳转-标签" param="结束"/>
+<hezhongshaonv000_mateluoshika id="191" originalRow="191" groupSign="战斗胜利"/>
+<hezhongshaonv000_mateluoshika id="192" originalRow="192" action="语法-数值" data="rqs_1030003进行收容=2"/>
+<hezhongshaonv000_mateluoshika id="193" originalRow="193" action="RPGInfo" data="1" param="盒中少女"/>
+<hezhongshaonv000_mateluoshika id="194" originalRow="194" action="跳转-标签" param="结束"/>
+<hezhongshaonv000_mateluoshika id="195" originalRow="195" groupSign="战斗失败"/>
+<hezhongshaonv000_mateluoshika id="196" originalRow="196" action="切换场景" data="game_小巷"/>
+<hezhongshaonv000_mateluoshika id="197" originalRow="197" groupSign="结束"/>
+</root>

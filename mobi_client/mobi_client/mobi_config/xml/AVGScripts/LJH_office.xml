@@ -1,0 +1,76 @@
+<root>
+<LJH_office id="0" originalRow="0" groupSign="李加虎登场" debugClose="" action="" data="" param=""/>
+<LJH_office id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<LJH_office id="2" originalRow="2" groupSign="" debugClose="" action="语法-数值" data="rqs_1100002前往顶楼=2" param=""/>
+<LJH_office id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="嚯！是够诡异的……"/>
+<LJH_office id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="&lt;color=#5AE4FF&gt;要怎么做才能接近李加虎呢……&lt;/color&gt;"/>
+<LJH_office id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="" param="&lt;color=#5AE4FF&gt;让我想一想……&lt;/color&gt;"/>
+<LJH_office id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="&lt;color=#5AE4FF&gt;糟糕有脚步声，快躲起来！&lt;/color&gt;"/>
+<LJH_office id="7" originalRow="7" groupSign="1" debugClose="" action="设置角色" data="huangquan" param="pos=0" param2="" param3=""/>
+<LJH_office id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="huangquan" param="你做的不错，算是将功补过了。"/>
+<LJH_office id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权开心表情}这件事关系到公司未来的发展，等公司美好的愿景实现，升职加薪大富大贵都是小事。"/>
+<LJH_office id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权思考2表情}不要断送了自己光明的前程啊，小子。"/>
+<LJH_office id="11" originalRow="11" groupSign="1" debugClose="" action="设置角色" data="lijiahu" param="pos=1" param2="" param3=""/>
+<LJH_office id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎开心动作}{#李加虎开心表情}{#闪白ding}您说得对！{1.2}{#李加虎严肃表情}{#闪白ding}我办事您放心！"/>
+<LJH_office id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{移除角色,huangquan,,,}{特殊-闪白效果,1}{#李加虎紧张动作}{#李加虎开心表情}黄总慢走啊。"/>
+<LJH_office id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#闪白震slash}{#李加虎惊讶动作}{#李加虎惊讶表情}啊！你你你怎么会在这？{0.8}
+{#闪白震slash}闹鬼了啊！"/>
+<LJH_office id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="嘘！小点声……{#李加虎惊讶动作恢复}{#李加虎紧张表情}"/>
+<LJH_office id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="你说闹鬼，昨天你看到的&lt;鬼&gt;是什么样的？"/>
+<LJH_office id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤动作}{#李加虎忧伤表情}比你{0.4}可{0.4}怕{0.5}多……{1}{#闪白ding}{角色动作,lijiahu,李加虎_严肃_动作_循环_01}{#李加虎害怕表情}咳咳，哪有什么鬼，你别乱说啊。"/>
+<LJH_office id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="看来他果然一直在隐瞒着什么……"/>
+<LJH_office id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}"/>
+<LJH_office id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="只能想想办法，从他嘴里套出点东西了！"/>
+<LJH_office id="21" originalRow="21" groupSign="" debugClose="" action="移除角色" data="lijiahu" param=""/>
+<LJH_office id="22" originalRow="22" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_skip" param="0"/>
+<LJH_office id="23" originalRow="23" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0"/>
+<LJH_office id="24" originalRow="24" action="语法-数值" data="rqs_1100003和李加虎对话=1" param=""/>
+<LJH_office id="25" originalRow="25" groupSign="" debugClose="" action="RPGActor" data="清洁工" param="1" param2=""/>
+<LJH_office id="26" originalRow="26" groupSign="" debugClose="" action="跳转-标签" data="" param="Side_VSLiJiahu.开始"/>
+<LJH_office id="27" originalRow="27"/>
+<LJH_office id="28" originalRow="28" groupSign="李加虎招供"/>
+<LJH_office id="29" originalRow="29" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<LJH_office id="30" originalRow="30" groupSign="" debugClose="" action="RPGActor" data="清洁工" param="2" param2=""/>
+<LJH_office id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2=""/>
+<LJH_office id="32" originalRow="32" groupSign="" debugClose="" action="播放音乐" data="bgm_lijiahu" param="" param2="1|1"/>
+<LJH_office id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤表情}{#李加虎忧伤动作}我悄悄和你们说哦……" param2=""/>
+<LJH_office id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="昨天晚上公司确实死了个人，好像是{播放音效,voice_inspiration}加班猝死的。" param2=""/>
+<LJH_office id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤动作恢复}{#李加虎紧张表情}虽然报警处理了，但是公司要求员工严格保密。" param2=""/>
+<LJH_office id="36" originalRow="36" groupSign="1" debugClose="" action="设置角色" data="huangquan" param="pos=右" param2="" param3=""/>
+<LJH_office id="37" originalRow="37" groupSign="" debugClose="" action="停止音乐" data="" param="" param2=""/>
+<LJH_office id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权思考2动作}{#黄权思考表情}嗯，不错。"/>
+<LJH_office id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="wo" param="什么？"/>
+<LJH_office id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎紧张2动作恢复}{#李加虎害怕表情}老板?"/>
+<LJH_office id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{黄权思考2动作恢复}昨天凌晨确实发生了员工意外死亡事件，{#黄权忧伤表情}"/>
+<LJH_office id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权忧伤动作}而监控画面也拍下来了李加虎私自破坏案发现场的事实……"/>
+<LJH_office id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="huangquan" param="现在，李加虎就是最大的犯罪嫌疑人。{#黄权忧伤动作恢复}"/>
+<LJH_office id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#闪白震slash}{#李加虎愤怒动作}{#李加虎惊讶表情}这这……{0.8}你说什么？"/>
+<LJH_office id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;color=#5AE4FF&gt;（哎，这个蠢货……）&lt;/color&gt;"/>
+<LJH_office id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="wo" param="{#李加虎愤怒动作恢复}{李加虎忧伤表情}&lt;color=#5AE4FF&gt;（就这样变成了别人的替罪羔羊……）&lt;/color&gt;"/>
+<LJH_office id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权平静动作}{#黄权平静表情}李加虎，按照规定，你被开除了。"/>
+<LJH_office id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="huangquan" param="你可以在监狱里畅想自己的光明未来。"/>
+<LJH_office id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{移除角色,huangquan,,,}{#李加虎害怕动作}{#李加虎害怕表情}{#闪白震slash}怎么这样！{1}{#李加虎忧伤表情}我只是尽职完成工作而已呜呜……"/>
+<LJH_office id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="wo" param="别哭了，你这家伙不是混混吗，混混怎么会哭呢？"/>
+<LJH_office id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#闪白震slash}{角色动作,lijiahu,李加虎_忧伤_动作_循环_01}混混，{0.6}混混哭吧不是罪啊！{0.6}呜呜呜……"/>
+<LJH_office id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="那我应该怎么办啊周易……"/>
+<LJH_office id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="wo" param="抬起头，然后告诉他。"/>
+<LJH_office id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{#李加虎开心2动作}{#李加虎忧伤表情}你等着，我一定会把真相公之于众的，一定还李加虎一个清白！"/>
+<LJH_office id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎开心2动作恢复}周易呜呜呜……{0.6}{#李加虎忧伤动作}我好感动啊……"/>
+<LJH_office id="56" originalRow="56" groupSign="1" debugClose="" action="设置角色" data="huangquan" param="pos=右" param2="" param3=""/>
+<LJH_office id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权开心动作}{#黄权开心表情}哈哈哈哈哈哈……等你能拿到证据再说吧，小鬼。"/>
+<LJH_office id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权开心动作恢复}{角色表情,huangquan,黄权_思考_上脸_开始_02;黄权_待机_下嘴_开始_01}至于现在，{0.8}
+无关人员们，我要把你们请出公司了。"/>
+<LJH_office id="59" originalRow="59" groupSign="" debugClose="" action="移除角色" data="huangquan" param="" param2="" param3=""/>
+<LJH_office id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎着急动作}{#李加虎着急表情}呜呜呜……我真的要去蹲大牢了……"/>
+<LJH_office id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="wo" param="别担心，我不会让你进去的。"/>
+<LJH_office id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="wo" param="街溜子的归宿，就是要回到大街上！"/>
+<LJH_office id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎着急动作恢复}{#李加虎忧伤表情}谢谢呜呜呜……{0.8}不过这听起来好像不是安慰……"/>
+<LJH_office id="64" originalRow="64" groupSign="1" debugClose="" action="设置角色" data="huangquan" param="pos=右" param2="" param3=""/>
+<LJH_office id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{角色表情,huangquan,黄权_待机_上脸_开始_01;黄权_开心_下嘴_开始_01}好了，你们别墨迹了，赶紧离开吧！"/>
+<LJH_office id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="wo" param="可恶……顶石科技……我一定会让真相水落石出的！"/>
+<LJH_office id="67" originalRow="67" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<LJH_office id="68" originalRow="68" groupSign="" debugClose="" action="语法-数值" data="rqs_1100004让李加虎交代=2" param="" param2=""/>
+<LJH_office id="69" originalRow="69" groupSign="" debugClose="" action="切换场景" data="home" param="" param2=""/>
+<LJH_office id="70" originalRow="70" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<LJH_office id="71" originalRow="71" groupSign="结束"/>
+</root>

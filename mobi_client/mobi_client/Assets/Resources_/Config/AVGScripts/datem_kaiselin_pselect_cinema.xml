@@ -1,0 +1,7 @@
+<root>
+<DateM_kaiselin_Pselect_Cinema id="0" originalRow="0" groupSign="开始"/>
+<DateM_kaiselin_Pselect_Cinema id="1" originalRow="1" groupSign="" action="角色台词" data="wo" param="咱去电影院吧"/>
+<DateM_kaiselin_Pselect_Cinema id="2" originalRow="2" groupSign="1.5&gt;&gt;" action="角色台词" data="kaiselin" param="好呀~"/>
+<DateM_kaiselin_Pselect_Cinema id="3" originalRow="3" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="在电影院等你哟~"/>
+<DateM_kaiselin_Pselect_Cinema id="4" originalRow="4" groupSign="" debugClose="" action="" data=""/>
+</root>

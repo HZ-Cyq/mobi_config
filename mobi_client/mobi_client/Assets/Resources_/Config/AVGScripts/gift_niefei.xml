@@ -1,0 +1,7 @@
+<root>
+<gift_niefei id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<gift_niefei id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="no_postprocessing" param2=""/>
+<gift_niefei id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="niezong" param="喵~你怎么知道我喜欢这个的喵~" param2=""/>
+<gift_niefei id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niezong" param="太感谢喵~" param2=""/>
+<gift_niefei id="4" originalRow="4" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+</root>

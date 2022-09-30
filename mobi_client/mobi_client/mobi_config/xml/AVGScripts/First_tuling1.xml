@@ -1,0 +1,27 @@
+<root>
+<First_tuling1 id="0" originalRow="0" groupSign="0.1&gt;&gt;" action="角色台词" data="tuling" param="喂！变态，你还好吧？"/>
+<First_tuling1 id="1" originalRow="1" action="可选对话框" data="" param="$$说谁变态呢。==&gt;继续1
+$$我说你呀，就不能有礼貌一点吗？==&gt;继续2"/>
+<First_tuling1 id="2" originalRow="2" groupSign="继续1" action="" data="" param=""/>
+<First_tuling1 id="3" originalRow="3" action="角色台词" data="wo" param="说谁变态呢。"/>
+<First_tuling1 id="4" originalRow="4" action="跳转-标签" data="" param="涂凌1"/>
+<First_tuling1 id="5" originalRow="5" groupSign="继续2" action="角色台词" data="wo" param="我说你呀，就不能有礼貌一点吗？"/>
+<First_tuling1 id="6" originalRow="6" groupSign="涂凌1" action="" data="" param=""/>
+<First_tuling1 id="7" originalRow="7" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="哼，区区一个周易，教训起我来了。"/>
+<First_tuling1 id="8" originalRow="8" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="你又被2-404污染了一次，应该还好吧？"/>
+<First_tuling1 id="9" originalRow="9" action="可选对话框" data="" param="$$好不好跟你有关系吗？==&gt;继续3
+$$还好，我刚在凯瑟琳那里做过检测，信息因子已经大部分消失了，还有小部分在衰变中。==&gt;继续4"/>
+<First_tuling1 id="10" originalRow="10" action="" data="" param=""/>
+<First_tuling1 id="11" originalRow="11" groupSign="继续3" action="角色台词" data="wo" param="好不好跟你有关系吗？"/>
+<First_tuling1 id="12" originalRow="12" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="你这人，不理你了。"/>
+<First_tuling1 id="13" originalRow="13" action="跳转-标签" data="" param="结束"/>
+<First_tuling1 id="14" originalRow="14" action="" data="" param=""/>
+<First_tuling1 id="15" originalRow="15" groupSign="继续4" action="角色台词" data="wo" param="还好，我刚在凯瑟琳那里做过检测，信息因子已经大部分消失了，还有小部分在衰变中。"/>
+<First_tuling1 id="16" originalRow="16" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="是，是吗，那倒是恭喜你了。"/>
+<First_tuling1 id="17" originalRow="17" action="可选对话框" data="" param="$$怎么，有什么事么？==&gt;继续5"/>
+<First_tuling1 id="18" originalRow="18" action="" data="" param=""/>
+<First_tuling1 id="19" originalRow="19" groupSign="继续5" action="角色台词" data="wo" param="怎么，有什么事么？"/>
+<First_tuling1 id="20" originalRow="20" groupSign="1&gt;&gt;" action="角色台词" data="tuling" param="没什么啦，什么都没有！"/>
+<First_tuling1 id="21" originalRow="21"/>
+<First_tuling1 id="22" originalRow="22" groupSign="结束"/>
+</root>

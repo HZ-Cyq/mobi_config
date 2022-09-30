@@ -1,0 +1,32 @@
+<root>
+<maze102_npc71 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze102_npc71 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="char_maze101_2" param="pos=中" param2="" param3=""/>
+<maze102_npc71 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="咦！怎么又是你们？你们在这里做什么？" param2=""/>
+<maze102_npc71 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<maze102_npc71 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你的朋友呢？他怎么不在这里？或者说……其实是你把它吃掉了！" param2=""/>
+<maze102_npc71 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="你们在乱说什么呀！哎呀呀呀，我本来就已经要晕掉了。拜托能不能不要在这个时候来添麻烦！" param2=""/>
+<maze102_npc71 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<maze102_npc71 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="你怎么了？" param2=""/>
+<maze102_npc71 id="9" originalRow="9" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
+<maze102_npc71 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="我的朋友他去找食物，结果被北边的怪物抓走了呀！他可能！会被随时吃掉！" param2=""/>
+<maze102_npc71 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="拜托你们把他救出来吧！就在北侧，只要打倒那家伙，就可以把他救出来了！" param2=""/>
+<maze102_npc71 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze102_npc71 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="niefei" param="敌人感觉会很强大，我们可以先提升下实力再来挑战。" param2=""/>
+<maze102_npc71 id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<maze102_npc71 id="15" originalRow="15" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="16" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="19" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze102_npc71 id="29" originalRow="29" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+</root>

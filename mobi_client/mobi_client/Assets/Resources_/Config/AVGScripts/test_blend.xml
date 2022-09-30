@@ -1,0 +1,801 @@
+<root>
+<Test_Blend id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<Test_Blend id="1" originalRow="1" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_紧张_动作_开始_01" param3=""/>
+<Test_Blend id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌思考表情}喂，你叫什么名字啊？{0.4}{角色转眼,tuling,上中,0.4}
+还有……这里看起来很像医务室……" param2="" param3=""/>
+<Test_Blend id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色转眼,tuling,正,0.4}你知道……我是怎么来到这里的吗？" param2="" param3=""/>
+<Test_Blend id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌紧张表情}话音刚落，眼前的少女便已满脸惊恐。{0.4}
+甚至……{角色转身,tuling,左中,1}还装出一副没看到我的样子？" param2="" param3=""/>
+<Test_Blend id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{s=0.02}没有异变……{s=0.03}也没有获得超感……
+{s=0.04}可怕……太可怕了QAQ……{s=0.01}{#闪白震slash}杜杜救我！！" param2="" param3=""/>
+<Test_Blend id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="少女小声地嘀咕着，我完全听不清她在说什么。" param2="" param3=""/>
+<Test_Blend id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}&lt;size=46&gt;{角色转身,tuling,右极,0.4}{0.3}{角色转身,tuling,正,0.5}喂！！&lt;/size&gt;{autoend}" param2="" param3=""/>
+<Test_Blend id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{#涂凌待机2动作}{#涂凌忧伤表情}啊！！别碰我！！！" param2="" param3=""/>
+<Test_Blend id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="好好好，我不碰你。{角色转眼,tuling,上中,0.4}{#涂凌抬头}" param2="" param3=""/>
+<Test_Blend id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌头中}{角色转眼,tuling,正,0.4}{#涂凌思考表情}{#涂凌待机2动作恢复}但是，你能不能告诉我一下，现在是什么情况啊……" param2="" param3=""/>
+<Test_Blend id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作}你想知道什么？" param2="" param3=""/>
+<Test_Blend id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="" param="突如其来来的电子音，倒是吓了我一跳。" param2="" param3=""/>
+<Test_Blend id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（这样交流倒是意外地流畅啊……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌紧张表情}那个，我想问一下，这里还是STS特别派遣科吗？" param2="" param3=""/>
+<Test_Blend id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="我记得，我是来入职的，{涂凌严肃动作恢复}{角色转身,tuling,左微,0.4}{0.6}然后不知道怎么回事……{0.6}
+就出现在这里了……{角色转身,tuling,左中,0.6}{#涂凌紧张动作}" param2="" param3=""/>
+<Test_Blend id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="那个……{0.6}{#闪白ding}你还在认真听吗？" param2="" param3=""/>
+<Test_Blend id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="" param="看着背过身的少女，我刚要伸手将她转向自己……" param2="" param3=""/>
+<Test_Blend id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌待机2动作}{#涂凌忧伤表情}她便立刻抱紧了电脑，好像刚发完信息不想让我看到一样。" param2="" param3=""/>
+<Test_Blend id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{角色转身,tuling,正,0.3}{#涂凌憋气2表情}别碰我！{1}
+{s=0.04}也……{0.8}{#涂凌思考表情}不许看我……" param2="" param3=""/>
+<Test_Blend id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌忧伤表情}{角色转眼,tuling,上中,0.4}好，那你可以回答我的问题了吗？" param2="" param3=""/>
+<Test_Blend id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="" param="我举起手，无奈地往后退着，{#涂凌惊讶表情}{#涂凌抬头}
+见她的表情不见那么防备，{#涂凌平静表情}便停下了脚步。" param2="" param3=""/>
+<Test_Blend id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌头中}{#涂凌紧张表情}你的问题，会有人来回答你的。" param2="" param3=""/>
+<Test_Blend id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="tuling" param="杜杜，请求支援QAQ！！！！！（涂凌慌张跑离开）" param2="" param3=""/>
+<Test_Blend id="24" originalRow="24" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="" param="说罢，只见少女抱着电脑小跑着离开了……" param2="" param3=""/>
+<Test_Blend id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="27" originalRow="27" groupSign="1" debugClose="" action="设置角色" data="duheng" param="pos=0" param2="" param3=""/>
+<Test_Blend id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="duheng" param="{music=bgm_xuzhangduheng}听说……{0.8}你想加入STS？" param2="" param3=""/>
+<Test_Blend id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}如果你的能力很出众，倒是可以考虑一下。" param2="" param3=""/>
+<Test_Blend id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="duheng" param="对了，你听交响曲吗？" param2="" param3=""/>
+<Test_Blend id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡平静表情}我啊，最喜欢听这一首了，每次听到它时我的身心都会变得澎湃不已。" param2="" param3=""/>
+<Test_Blend id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机表情}好了，闲聊到此结束，我们来聊聊正事吧~{music=off}{#杜衡愤怒动作}" param2="" param3=""/>
+<Test_Blend id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒动作恢复}" param2="" param3=""/>
+<Test_Blend id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作}你的资料上，倒是没怎么提到你的能力呢……" param2="" param3=""/>
+<Test_Blend id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作恢复}" param2="" param3=""/>
+<Test_Blend id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}能否具体说说？" param2="" param3=""/>
+<Test_Blend id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作恢复}{0.6}{#常规点头动作}" param2="" param3=""/>
+<Test_Blend id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="duheng" param="嗯，{0.3}{#杜衡开心动作}我很乐意听呢~" param2="" param3=""/>
+<Test_Blend id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="duheng" param="" param2="" param3=""/>
+<Test_Blend id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="duheng" param="以下为待优化内容：" param2="" param3=""/>
+<Test_Blend id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机动作}" param2="" param3=""/>
+<Test_Blend id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="duheng" param="此处单独配置新的动作，角色动作就会变成硬切，没有融合。" param2="" param3=""/>
+<Test_Blend id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}也可以通过配置该动作恢复至待机的文本宏来有效地解决这个问题。" param2="" param3=""/>
+<Test_Blend id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}" param2="" param3=""/>
+<Test_Blend id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="duheng" param="比如这样，新的一行配置动作恢复后，就可以有效避免该问题。" param2="" param3=""/>
+<Test_Blend id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="duheng" param="建议个人动作以及需要运用不常用的道具时，再使用该配置方法。" param2="" param3=""/>
+<Test_Blend id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="duheng" param="建议常规动作之间，少用动作恢复的方法配置。" param2="" param3=""/>
+<Test_Blend id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}此处换成其他的表情，再切换可融合的动作。{0.4}{#杜衡愤怒动作}{#杜衡开心表情}" param2="" param3=""/>
+<Test_Blend id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作}{#杜衡忧伤表情}表情切换比较自然，且表情是根据文本配置的位置切换的。" param2="" param3=""/>
+<Test_Blend id="50" originalRow="50" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="52" originalRow="52" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="" param="我猛然惊醒，头痛得好像快要裂开了，而脑海中却一直回荡着刚才的画面……" param2="" param3=""/>
+<Test_Blend id="54" originalRow="54" groupSign="1" debugClose="1" action="RPGActor" data="cam_cam" param="2" param2="" param3=""/>
+<Test_Blend id="55" originalRow="55" groupSign="" debugClose="1" action="RPGActor" data="眼前特效" param="2" param2="" param3=""/>
+<Test_Blend id="56" originalRow="56" groupSign="3" debugClose="1" action="RPGActor" data="眼前特效" param="1" param2="" param3=""/>
+<Test_Blend id="57" originalRow="57" groupSign="" debugClose="1" action="RPGActor" data="眼前特效" param="2" param2="" param3=""/>
+<Test_Blend id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="" param="选1{#闪白震slash}我猛然推开这团热呼呼的东西，{打开插画,blackbgimg,TRUE,}听见重物落地和一声模糊的“好痛”。" param2="" param3=""/>
+<Test_Blend id="59" originalRow="59" groupSign="" debugClose="1" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<Test_Blend id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="" param="{设置角色,tuling,pos=中,涂凌_站起_动作_结束_01}{关闭插画}{新角色镜头,tuling,char_camTL推镜头无震动}一个身穿鲨鱼服的少女坐在地板上揉着膝盖和屁股。" param2="" param3=""/>
+<Test_Blend id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌忧伤表情}……" param2="" param3=""/>
+<Test_Blend id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="wo" param="{shake=1}啊！{0.6}抱歉，你没事吧？" param2="" param3=""/>
+<Test_Blend id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="wo" param="请问这里是哪里？{0.6}我好像什么也记不起来了。" param2="" param3=""/>
+<Test_Blend id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌无聊表情}鲨鱼服少女没有回答，只是直愣愣地盯着我。" param2="" param3=""/>
+<Test_Blend id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白ding}{#涂凌抬头}{#涂凌惊讶表情}接着似乎想到了什么，{0.4}{#涂凌紧张表情}露出惊恐的表情，{角色镜头关闭,tuling}迅速起身退到十米开外。" param2="" param3=""/>
+<Test_Blend id="66" originalRow="66" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="67" originalRow="67" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="" param="选2（此处需要一个特写镜头，拍涂凌的脸部）
+{设置角色,tuling,pos=中,}{新角色镜头,tuling,char_camTL推镜头无震动}鲨鱼帽子下面，是白瓷一样的少女脸颊，我情不自禁地伸手戳了上去。" param2="" param3=""/>
+<Test_Blend id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶动作}{#涂凌憋气2表情}唔！痛！" param2="涂凌_憋气" param3=""/>
+<Test_Blend id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}{#涂凌待机2动作}糟了，{0.4}没控制好力度。{#涂凌忧伤表情}" param2="" param3=""/>
+<Test_Blend id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{角色镜头关闭,tuling}少女迅速从我身上弹开，带着无比惊恐的表情退到十米开外。" param2="" param3=""/>
+<Test_Blend id="72" originalRow="72" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="73" originalRow="73" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="74" originalRow="74" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_开始_02" param3=""/>
+<Test_Blend id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白ding}{#涂凌抬头}{#涂凌惊讶表情}没有“超感”反应，但被污染后还活着……" param2="" param3=""/>
+<Test_Blend id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="tuling" param="{shake=1}{播放音效,voice_slash}{#涂凌憋气2表情}这不科学！{角色转头}{0.4}{播放音效,voice_slash}{shake=1}完全违反《异质物概论》！！" param2="" param3=""/>
+<Test_Blend id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{#涂凌待机表情}……要紧急报告给杜杜。" param2="" param3=""/>
+<Test_Blend id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="" param="少女缩在墙角，拿出笔记本电脑，精神兮兮地对着我喃喃自语。" param2="" param3=""/>
+<Test_Blend id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="wo" param="搞什么，恶作剧吗？" param2="" param3=""/>
+<Test_Blend id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="" param="我生气地走过去。" param2="" param3=""/>
+<Test_Blend id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶动作}{#涂凌忧伤表情}别过来！！！" param2="" param3=""/>
+<Test_Blend id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌眩晕动作}{#涂凌憋气2表情}少女将桌上的文件疯狂扔到我的身上，连带一个小瓶子从脚边弹射出去。" param2="" param3=""/>
+<Test_Blend id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌惊讶表情}{#涂凌憋气动作}{#涂凌动漫紧张}啊！{角色转身,tuling,左微,0.4}{新角色镜头,tuling,char_camTL推镜头无震动}{0.4}我的增强剂……！" param2="" param3=""/>
+<Test_Blend id="84" originalRow="84" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{#涂凌动漫紧张关闭}{角色镜头关闭,tuling}我抓住了对方的手臂，{#涂凌憋气表情}{#涂凌憋气动作}对方瞬间满脸通红，僵在原地。{角色转身,tuling,正,0.4}" param2="" param3=""/>
+<Test_Blend id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫震动背景慢}你回答我的问题，我就放开你。" param2="" param3=""/>
+<Test_Blend id="86" originalRow="86" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.07}……喂，{#涂凌动漫紧张}{1.2}你怎么啦？" param2="" param3=""/>
+<Test_Blend id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫震动背景慢关闭}{s=0.11}唔……！{#涂凌动漫颤抖}{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中}" param2="" param3=""/>
+<Test_Blend id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="" param="感觉对方紧张到窒息，{#涂凌动漫颤抖关闭}{#涂凌动漫颤抖}{sleep=0.5}{s=0.2}我又有些不好意思地松手。" param2="" param3=""/>
+<Test_Blend id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜…………{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="涂凌_憋气2" param3=""/>
+<Test_Blend id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="" param="{角色动作,tuling,涂凌_憋气_动作_结束_01}{角色表情,tuling,涂凌_喘气_上脸_开始_01;涂凌_喘气_下嘴_开始_01;}{0.8}{#涂凌动漫哈字}{#涂凌动漫出窍}{#涂凌动漫震动背景快关闭}{播放音效,voice_lightpunch}{特殊-闪白效果,1}{角色镜头关闭,tuling}{shake=1}{播放音效,涂凌_喘气2}鲨鱼服少女大口喘气，似乎是我的靠近给了她极大压力……{角色转身,tuling,左微,0.4}" param2="" param3=""/>
+<Test_Blend id="91" originalRow="91" groupSign="" debugClose="" action="角色台词+" data="" param="2.8：{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_思考_下嘴_开始_01;}" param2="" param3=""/>
+<Test_Blend id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌动漫哈字关闭}{#涂凌动漫出窍关闭}我只好妥协地举起双手退到对方认知的安全距离，{角色动作,tuling,涂凌_待机_动作_开始_02} {角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_循环_01;}{角色转头,tuling,下中}等她慢慢平复。" param2="" param3=""/>
+<Test_Blend id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌头中}对不起，是我冒犯。" param2="" param3=""/>
+<Test_Blend id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="wo" param="那个……你叫什么？我们……是被绑架了吗？" param2="" param3=""/>
+<Test_Blend id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌惊讶表情}{角色转身,tuling,正,0.4}绑架？" param2="" param3=""/>
+<Test_Blend id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}{#涂凌思考动作}你真的忘了自己来干嘛的？" param2="" param3=""/>
+<Test_Blend id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转头}怪事……原来污染失效后还会有失忆后遗症呀……" param2="" param3=""/>
+<Test_Blend id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="" param="能不能不要再自说自话了……" param2="" param3=""/>
+<Test_Blend id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机动作}{#涂凌平静表情}你刚才是不是有个药丢了？很重要吗？我帮你找找？" param2="" param3=""/>
+<Test_Blend id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌紧张动作}{#涂凌待机表情}对方却又突然不搭理我了，打开笔记本开始敲击键盘。" param2="" param3=""/>
+<Test_Blend id="101" originalRow="101" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
+<Test_Blend id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="" param="真的要被这小丫头搞到崩溃。既然问不出来，那就先出门找其他人问问情况好了。" param2="" param3=""/>
+<Test_Blend id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="" param="我环顾四周，这是一个医疗室模样的地方，旁边的病床上，躺着两个工作服人员，一动不动，套着类似电视机的头套。" param2="" param3=""/>
+<Test_Blend id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}有人死了！？" param2="" param3=""/>
+<Test_Blend id="105" originalRow="105" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<Test_Blend id="106" originalRow="106" groupSign="1" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作}{#涂凌平静表情}我进来的时候检查过，他们被404感染了，已经没有了任何生命迹象，也不再进行【传播】行为。" param2="" param3=""/>
+<Test_Blend id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌严肃动作恢复}{#涂凌待机表情}被突如其来的AI声吓了一跳，原来是鲨鱼服少女用了电脑AI说话。" param2="" param3=""/>
+<Test_Blend id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.07}所以{0.6}{#涂凌抬头}{#涂凌平静表情}你是社恐症吗……" param2="" param3=""/>
+<Test_Blend id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}你，{0.4}你等等！{0.6}{#闪白震slash}别过去！{#涂凌紧张表情}" param2="" param3=""/>
+<Test_Blend id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌待机2动作}少女突然对我露出惊恐的表情。" param2="" param3=""/>
+<Test_Blend id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.07}……又怎么了？" param2="" param3=""/>
+<Test_Blend id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="tuling" param="{s=0.07}你后面……{0.6}{s=0.1}你后面……{s=0.01}你别动了！{0.8}不对，{#涂凌憋气2表情}{0.6}你快过来！" param2="" param3=""/>
+<Test_Blend id="113" originalRow="113" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
+<Test_Blend id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{s=0.07}到&lt;size=41&gt;底&lt;size=42&gt;是&lt;size=43&gt;要&lt;size=44&gt;怎&lt;size=45&gt;么&lt;size=46&gt;样&lt;size=47&gt;啊&lt;size=48&gt;喂&lt;size=49&gt;！" param2="" param3=""/>
+<Test_Blend id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="" param="一阵“吱嘎吱嘎”的尖锐声音突然从身后响起，让人汗毛倒竖。" param2="" param3=""/>
+<Test_Blend id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="wo" param="呃……嗨，嗨！你们好啊！" param2="" param3=""/>
+<Test_Blend id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="wo" param="哇啊啊啊啊！！！诈尸了！！" param2="" param3=""/>
+<Test_Blend id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="wo" param="……别！别开玩笑了！这到底是人还是怪物啊！" param2="" param3=""/>
+<Test_Blend id="119" originalRow="119" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_紧张_动作_开始_01" param3=""/>
+<Test_Blend id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}……报告！{0.6}医务室的感染者，因不明原因突然暴走，开始【传播】！{0.6}{#涂凌抬头}{#涂凌平静表情}" param2="" param3=""/>
+<Test_Blend id="121" originalRow="121" groupSign="" debugClose="" action="角色台词" data="？？？" param="立即清除。" param2="" param3=""/>
+<Test_Blend id="122" originalRow="122" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌憋气2表情}收到！" param2="" param3=""/>
+<Test_Blend id="123" originalRow="123" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
+<Test_Blend id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}&lt;size=44&gt;哇哇哇好帅！" param2="" param3=""/>
+<Test_Blend id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="wo" param="等等……{1.2}{#闪白ding}这是怎么出现的！？{0.6}{播放音效,voice_inspiration}召唤仪式！？" param2="" param3=""/>
+<Test_Blend id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="wo" param="……实景剧本杀？{0.8}
+{#闪白震slash}《影之诗》第二季吗？" param2="" param3=""/>
+<Test_Blend id="127" originalRow="127" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_站立_动作_循环_01" param3=""/>
+<Test_Blend id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张表情}完了完了……增强剂……" param2="" param3=""/>
+<Test_Blend id="129" originalRow="129" groupSign="" debugClose="" action="角色台词" data="tuling" param="{s=0.07}{角色动作,tuling,涂凌_惊讶_动作_循环_01}能力……{0.6}{s=0.05}电桩的能力不能使用了！" param2="" param3=""/>
+<Test_Blend id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="" param="" param2="" param3=""/>
+<Test_Blend id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="" param="浑身被烧出几个洞的机器头，依然在缓慢靠近，{0.6}
+{角色转身,tuling,左微,0.4}{新角色镜头,tuling,char_camTL推镜头无震动}似乎想要攻击两个少女。" param2="" param3=""/>
+<Test_Blend id="132" originalRow="132" groupSign="" debugClose="" action="角色台词" data="" param="该怎么做！？" param2="" param3=""/>
+<Test_Blend id="133" originalRow="133" groupSign="" debugClose="" action="角色台词" data="" param="{角色镜头关闭,tuling}" param2="" param3=""/>
+<Test_Blend id="134" originalRow="134" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
+<Test_Blend id="135" originalRow="135" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_惊讶_动作_开始_01" param3=""/>
+<Test_Blend id="136" originalRow="136" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶表情}门……诫门！？{1.2}
+你为什么也能使用？" param2="" param3=""/>
+<Test_Blend id="137" originalRow="137" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白inspiration}{#涂凌忧伤表情}{#涂凌思考动作}{s=0.07}不对，这不是诫门……{1.2}没有召唤出异质物……" param2="" param3=""/>
+<Test_Blend id="138" originalRow="138" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="139" originalRow="139" groupSign="" debugClose="" action="角色台词" data="" param="剧烈的疼痛逐渐消失，我看到插入身体的电线像融化一样断成几截，掉落在地上。" param2="" param3=""/>
+<Test_Blend id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}发生……{0.8}什么事情了……" param2="" param3=""/>
+<Test_Blend id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="" param="【进入战斗准备界面】" param2="" param3=""/>
+<Test_Blend id="142" originalRow="142" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_惊讶_动作_开始_01" param3=""/>
+<Test_Blend id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶表情}！？{0.8} 我和电桩的力量……恢复了？{0.8}
+没有增强剂，怎么会……" param2="" param3=""/>
+<Test_Blend id="144" originalRow="144" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="" param="【进入战斗界面】" param2="" param3=""/>
+<Test_Blend id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="" param="【教学台词】" param2="" param3=""/>
+<Test_Blend id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="" param="【击败电视机头后，房间恢复原状】" param2="" param3=""/>
+<Test_Blend id="148" originalRow="148" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_开始_02" param3=""/>
+<Test_Blend id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌喘气表情}呼……好险。" param2="" param3=""/>
+<Test_Blend id="150" originalRow="150" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="" param="我目瞪口呆地看着，鲨鱼服少女用人形兵器使用了一记必杀，电视机头变成一团黑烟消失。" param2="" param3=""/>
+<Test_Blend id="152" originalRow="152" groupSign="" debugClose="" action="角色台词" data="" param="接着鲨鱼服少女的头顶，又出现了刚才那扇发光的门，人形兵器化作几道光被吸取回了门内。而刚才的一切仿佛一场幻觉。" param2="" param3=""/>
+<Test_Blend id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="" param="{设置角色,tuling,pos=中,}{新角色镜头,tuling,char_camTL推镜头无震动}" param2="" param3=""/>
+<Test_Blend id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色转眼,tuling,上中,0.4}{#涂凌抬头}你……" param2="" param3=""/>
+<Test_Blend id="155" originalRow="155" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{角色镜头关闭,tuling}{角色转头,tuling,正,0.4}{#涂凌紧张动作}少女瞬间又蹦到了十米开外，打开电脑AI冲我一顿发问。" param2="" param3=""/>
+<Test_Blend id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌严肃动作}{#涂凌平静表情}……你究竟是什么人？" param2="" param3=""/>
+<Test_Blend id="157" originalRow="157" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌忧伤表情}刚才那道门是什么？" param2="" param3=""/>
+<Test_Blend id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,左微,0.4}你在使用什么能力自愈？{0.4}{角色转头,tuling,右微,0.4}{#涂凌憋气2表情}" param2="" param3=""/>
+<Test_Blend id="159" originalRow="159" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,正,0.4}{角色转头,tuling,正,0.4}为什么你能给周围的异质物提供能量？" param2="" param3=""/>
+<Test_Blend id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}我哪里知道！！？{0.6}
+&lt;size=44&gt;该我问你才对吧！{0.6}&lt;size=48&gt;能不能说点我听得懂的！" param2="" param3=""/>
+<Test_Blend id="161" originalRow="161" groupSign="" debugClose="" action="角色台词" data="" param="少女却完全无视了我的反应，{#涂凌待机2动作恢复}{#涂凌待机表情}对着耳麦里的女声一阵嘀咕。{0.8}
+嗯嗯啊啊了一通，又自顾自地掏出笔记本一顿敲击。{1.2}{#涂凌紧张动作}" param2="" param3=""/>
+<Test_Blend id="162" originalRow="162" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{#涂凌思考动作}{#涂凌抬头}{#涂凌忧伤表情}奇怪，杜杜给的资料显示，你明明只是个普通人啊？" param2="" param3=""/>
+<Test_Blend id="163" originalRow="163" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{#涂凌头中}{角色转身,tuling,左微,0.4}{#涂凌待机2动作}{#涂凌平静表情}你倒是念出来给我听好吧！！" param2="" param3=""/>
+<Test_Blend id="164" originalRow="164" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,正,0.4}{0.3}{#涂凌抬头}我要去汇报，你留在这里。" param2="" param3=""/>
+<Test_Blend id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{角色转头,tuling,正,0.4}什么！？" param2="" param3=""/>
+<Test_Blend id="166" originalRow="166" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌憋气2表情}感染物已经消失了，{0.6}{#常规点头动作}{播放音效,voice_ding}这里很安全。" param2="" param3=""/>
+<Test_Blend id="167" originalRow="167" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="168" originalRow="168" groupSign="" debugClose="" action="角色台词" data="" param="说完，鲨鱼服少女走到门边，输入了一串密码，直接打开了门。" param2="" param3=""/>
+<Test_Blend id="169" originalRow="169" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}你等等啊{s=0.07}喂————！{s=0.01}{shake=1}{播放音效,voice_lightpunch}呃——" param2="" param3=""/>
+<Test_Blend id="170" originalRow="170" groupSign="" debugClose="" action="角色台词" data="" param="【MV插画闪屏】+【雪花特效】" param2="" param3=""/>
+<Test_Blend id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="" param="又是那个画面和声音！" param2="" param3=""/>
+<Test_Blend id="172" originalRow="172" groupSign="" debugClose="" action="角色台词" data="" param="被突如其来的头痛和幻觉，我倒在地上。
+{0.6}&lt;color=#E0E0E0&gt;{s=0.05}只能眼睁睁&lt;/color&gt;&lt;color=#d0d0d0&gt;{s=0.06}看着对方出去，&lt;/color&gt;&lt;color=#BEBEBE&gt;{s=0.07}又关上了门。&lt;/color&gt;" param2="" param3=""/>
+<Test_Blend id="173" originalRow="173" groupSign="" debugClose="" action="角色台词" data="" param="{s=0.07}……" param2="" param3=""/>
+<Test_Blend id="174" originalRow="174" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
+<Test_Blend id="175" originalRow="175" groupSign="" debugClose="1" action="角色台词" data="" param="【睁眼特效】" param2="" param3=""/>
+<Test_Blend id="176" originalRow="176" groupSign="" debugClose="" action="角色台词" data="" param="{画面特效移除}也不知过了多久，我的症状慢慢减轻。" param2="" param3=""/>
+<Test_Blend id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="" param="这究竟是……{0.6}怎么一回事啊……
+{0.8}{s=0.07}那个幻觉……" param2="" param3=""/>
+<Test_Blend id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}总之不能坐以待毙，房间里会出现怪物太恐怖了。" param2="" param3=""/>
+<Test_Blend id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="" param="但是要怎么出去呢？" param2="" param3=""/>
+<Test_Blend id="180" originalRow="180" groupSign="" debugClose="" action="角色台词" data="" param="【可以开始探索场景了】" param2="" param3=""/>
+<Test_Blend id="181" originalRow="181" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="182" originalRow="182" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="183" originalRow="183" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="184" originalRow="184" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="185" originalRow="185" groupSign="" debugClose="" action="角色台词" data="" param="我沿着墙壁一路蹑足前行，不知过了多久，周围的光线越来越弱，走廊尽头完全被黑暗吞噬了。" param2="" param3=""/>
+<Test_Blend id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="" param="四周传来微弱且不规律的“咔哒咔哒”的异响，
+像是骨节摩擦的声音。" param2="" param3=""/>
+<Test_Blend id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="" param="那瘆人的响声位置飘忽不定，我突然记起来……" param2="" param3=""/>
+<Test_Blend id="188" originalRow="188" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}&lt;z=blue&gt;（当时那些攻击我的机器怪物，也是发出了这种声音。）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="189" originalRow="189" groupSign="" debugClose="" action="角色台词" data="" param="顿时我不知是否应该继续前进，甚至冒出了撤回医务室的想法。" param2="" param3=""/>
+<Test_Blend id="190" originalRow="190" groupSign="" debugClose="" action="角色台词" data="" param="忽然，我踩到一块松动的地板，尖锐的“嘎吱”声瞬间传遍了整个走廊。" param2="" param3=""/>
+<Test_Blend id="191" originalRow="191" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;{#闪白震slash}（卧槽……！）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="192" originalRow="192" groupSign="" debugClose="" action="角色台词" data="" param="漆黑中的异响迅速向我靠近，我全身的汗毛都竖了起来，本能的掉头想要逃跑。" param2="" param3=""/>
+<Test_Blend id="193" originalRow="193" groupSign="" debugClose="" action="角色台词" data="" param="【雪花屏特效】" param2="" param3=""/>
+<Test_Blend id="194" originalRow="194" groupSign="" debugClose="" action="角色台词" data="wo" param="{shake=1}{播放音效,voice_slash}&lt;size=46&gt;&lt;z=blue&gt;（糟糕，幻觉又来了！）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="195" originalRow="195" groupSign="" debugClose="" action="角色台词" data="" param="然而那东西的行动明显比我敏捷，凌乱而密集的脚步声完全不像是自然界的任何生物。" param2="" param3=""/>
+<Test_Blend id="196" originalRow="196" groupSign="" debugClose="" action="角色台词" data="" param="在我们的距离一点点被拉近时，
+我的脖子突然被什么东西猛的钩向了一侧——{画面特效效果,Dark}" param2="" param3=""/>
+<Test_Blend id="197" originalRow="197" groupSign="" debugClose="" action="角色台词" data="" param="眼看身体就要失去平衡，{0.6}{#闪白ding}我的感觉后脑勺却靠在了一对柔软而坚实的物体上。" param2="" param3=""/>
+<Test_Blend id="198" originalRow="198" groupSign="" debugClose="" action="角色台词" data="" param="【场景-站点走廊过道】" param2="" param3=""/>
+<Test_Blend id="199" originalRow="199" groupSign="" debugClose="" action="角色台词" data="wo" param="呜？
+唔唔——！！！" param2="" param3=""/>
+<Test_Blend id="200" originalRow="200" groupSign="" debugClose="" action="角色台词" data="" param="我还没叫出声，嘴巴就被一只手紧紧捂住，{画面特效移除}{设置角色,kaiselin,pos=中,}{#凯瑟琳紧张表情}只能勉强通过余光看到，身后是个白色长发的少女——{角色转眼,kaiselin,右极,0.4}{角色转头,kaiselin,右中,0.4}" param2="" param3=""/>
+<Test_Blend id="201" originalRow="201" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}&lt;z=blue&gt;（好像……又是一个……美少女？）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="202" originalRow="202" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{#凯瑟琳转头左小右转眼}&lt;z=blue&gt;（STS怎么尽放软妹子在这么危险的环境里乱窜啊！！）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="203" originalRow="203" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（保安呢！！）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="204" originalRow="204" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（等等，{0.6}现在不是吐槽这个的时候！）&lt;/z&gt;{角色转眼,kaiselin,正,0.4}{角色转头,kaiselin,下小,0.4}{#凯瑟琳紧张动作}" param2="" param3=""/>
+<Test_Blend id="205" originalRow="205" groupSign="" debugClose="" action="角色台词" data="" param="我冷静下来，发现自己被她拉进了楼道拐角处一条狭窄的过道中。" param2="" param3=""/>
+<Test_Blend id="206" originalRow="206" groupSign="" debugClose="" action="角色台词" data="" param="那模糊的黑影从侧面掠过了我们，朝着我刚才本来想逃往的方向奔去。" param2="" param3=""/>
+<Test_Blend id="207" originalRow="207" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳转头右极左转眼}而我的身体跟她贴在一起，她的皮肤跟肤色一样冷……" param2="" param3=""/>
+<Test_Blend id="208" originalRow="208" groupSign="" debugClose="" action="角色台词" data="" param="{角色转眼,kaiselin,右极,0.4}{角色转头,kaiselin,右极,0.8}{#凯瑟琳紧张表情}一种湿漉漉的花香，混合着矿物的药感，{0.6}
+从她的发间不断散发，钻进我的鼻子。" param2="" param3=""/>
+<Test_Blend id="209" originalRow="209" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
+<Test_Blend id="210" originalRow="210" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL02_close" param2="" param3=""/>
+<Test_Blend id="211" originalRow="211" groupSign="" debugClose="" action="角色台词" data="" param="【AVG表现，个人镜头】【正常是对着脸，然后有上下镜头浮动】【场景转一个镜头】" param2="" param3=""/>
+<Test_Blend id="212" originalRow="212" groupSign="" debugClose="" action="角色台词" data="" param="【雪花屏特效，慢慢减淡后一直持续到喂药桥段+心跳音效】" param2="" param3=""/>
+<Test_Blend id="213" originalRow="213" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;(好，好近！)&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="214" originalRow="214" groupSign="" debugClose="" action="角色台词" data="" param="有一大片柔软的位置贴在我的胸口，感觉能听到她的心跳声。" param2="" param3=""/>
+<Test_Blend id="215" originalRow="215" groupSign="" debugClose="" action="角色台词" data="wo" param="我……{0.6}{s=0.05}我头有点晕……" param2="" param3=""/>
+<Test_Blend id="216" originalRow="216" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="嘘——{0.8}别出声。" param2="" param3=""/>
+<Test_Blend id="217" originalRow="217" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL02_closer" param2="" param3=""/>
+<Test_Blend id="218" originalRow="218" groupSign="" debugClose="" action="角色台词" data="" param="我顺从的点点头，又把头扭过去一些，
+看到她胸前工作牌上的文字──凯瑟琳，STS首席医务官。" param2="" param3=""/>
+<Test_Blend id="219" originalRow="219" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2="" param3=""/>
+<Test_Blend id="220" originalRow="220" groupSign="" debugClose="" action="角色台词" data="" param="【先进行战斗】【需设计钥匙】【凯瑟琳手上加个钥匙的特效】【体现战斗异空间的感觉】【类似于异质物探测器的特效】
+{角色镜头关闭,kaiselin,kaiselin_charcamTL02_closer}{画面特效移除}" param2="" param3=""/>
+<Test_Blend id="221" originalRow="221" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_紧张_动作_开始_01" param3=""/>
+<Test_Blend id="222" originalRow="222" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色转头,kaiselin,右极,0.6}{角色转眼,kaiselin,右极,0.6}呼，应该暂时安全了……{1.2}{角色转头,kaiselin,回正,0.4}{角色转眼,kaiselin,回正,0.4}" param2="" param3=""/>
+<Test_Blend id="223" originalRow="223" groupSign="" debugClose="" action="角色台词" data="" param="她望着黑影远去的方向，用食指顶住我的眉心，推开了我涨得通红的脸。" param2="" param3=""/>
+<Test_Blend id="224" originalRow="224" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳注射器动作}{#凯瑟琳得意表情}张嘴……" param2="" param3=""/>
+<Test_Blend id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="" param="没等我反应过来，白发少女从她胳膊上拿下一袋输液袋，喂到了我嘴里。" param2="" param3=""/>
+<Test_Blend id="226" originalRow="226" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}{打开插画,blackbgimg,TRUE,}唔————！
+ 咳咳————！" param2="" param3=""/>
+<Test_Blend id="227" originalRow="227" groupSign="" debugClose="" action="角色台词" data="wo" param="这……这是什么！{0.8}
+好苦……{#凯瑟琳转笔动作}" param2="" param3=""/>
+<Test_Blend id="228" originalRow="228" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#闪白ding}{关闭插画}感觉好点了？" param2="" param3=""/>
+<Test_Blend id="229" originalRow="229" groupSign="" debugClose="" action="角色台词" data="" param="【雪花屏特效慢慢消失】" param2="" param3=""/>
+<Test_Blend id="230" originalRow="230" groupSign="" debugClose="" action="角色台词" data="" param="【心跳音效慢慢淡退】" param2="" param3=""/>
+<Test_Blend id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="" param="幻觉消失了……" param2="" param3=""/>
+<Test_Blend id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="wo" param="好多了。{0.8}
+{#凯瑟琳转笔动作恢复}那个……{0.4}谢谢你……请问……" param2="" param3=""/>
+<Test_Blend id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#闪白震slash}{#凯瑟琳严肃动作}{#凯瑟琳严肃表情}你是哪个部门的？" param2="" param3=""/>
+<Test_Blend id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="不知道东区已经戒严了吗？" param2="" param3=""/>
+<Test_Blend id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作}{#凯瑟琳思考表情}等一下，{0.6}你这身衣服我记得！" param2="" param3=""/>
+<Test_Blend id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳严肃表情}凯瑟琳打量我的目光瞬间锐利起来，{0.6}
+我刚想开口回应，她突然伸手掐住了我的脖子。" param2="" param3=""/>
+<Test_Blend id="237" originalRow="237" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#闪白震slash}{#凯瑟琳转笔}别乱动，我再稍微使使劲，你的脖子就要断了哦~" param2="" param3=""/>
+<Test_Blend id="238" originalRow="238" groupSign="" debugClose="" action="角色台词" data="wo" param="……{0.6}
+{s=0.05}唔————{S=0.01}唔唔——" param2="" param3=""/>
+<Test_Blend id="239" originalRow="239" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}什、{0.4}什么情况？！" param2="" param3=""/>
+<Test_Blend id="240" originalRow="240" groupSign="" debugClose="" action="角色台词" data="" param="我浑身僵住，大脑缺氧。
+{#凯瑟琳注射器动作}{#凯瑟琳严肃表情}她顺势用另一只手掏出便携式扫描设备架在我的耳边。" param2="" param3=""/>
+<Test_Blend id="241" originalRow="241" groupSign="" debugClose="" action="角色台词" data="" param="一阵嗡嗡的扫描声过后，她看着上面的读数松了口气……{0.6}" param2="" param3=""/>
+<Test_Blend id="242" originalRow="242" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳注射器动作恢复}{#凯瑟琳得意表情}终于她缓缓地松开了手，而我一阵猛咳。" param2="" param3=""/>
+<Test_Blend id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="金属含量正常，精神污染指数为0……" param2="" param3=""/>
+<Test_Blend id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作}{#凯瑟琳思考表情}奇怪……{0.8}
+你真的是周易？" param2="" param3=""/>
+<Test_Blend id="245" originalRow="245" groupSign="" debugClose="" action="角色台词" data="wo" param="…………咳！{0.4}咳咳！{0.6}
+………………你认识我？" param2="" param3=""/>
+<Test_Blend id="246" originalRow="246" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作恢复}{#凯瑟琳严肃表情}说不上认识，再让我检查一下……" param2="" param3=""/>
+<Test_Blend id="247" originalRow="247" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳注射器动作}她捏着我的下巴仔细端详了一番，用手背测了测我脑门的温度，还贴在我耳边闻了闻味道。" param2="" param3=""/>
+<Test_Blend id="248" originalRow="248" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=心里话&gt;（脸靠得太近了！）&lt;/z&gt;{1.2}{#凯瑟琳注射器动作恢复}" param2="" param3=""/>
+<Test_Blend id="249" originalRow="249" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔动作}{#凯瑟琳得意表情}原来如此，
+有趣的东西{1.2}{#闪白ding}说的就是你啊。" param2="" param3=""/>
+<Test_Blend id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="见过涂凌了？{0.8}
+你把她吓得不轻。" param2="" param3=""/>
+<Test_Blend id="251" originalRow="251" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}你也把我吓得不轻！" param2="" param3=""/>
+<Test_Blend id="252" originalRow="252" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（所以那个鲨鱼帽叫涂凌啊……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="253" originalRow="253" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色转身,kaiselin,右微,0.4}{角色转头,kaiselin,下中,0.4}她在没有服用增强剂的情况下，大量释放了异质物的能力，也没有遭到任何反噬。" param2="" param3=""/>
+<Test_Blend id="254" originalRow="254" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳魅惑表情}{#凯瑟琳转笔动作恢复}{角色转眼,kaiselin,正,0.4}{角色转头,kaiselin,正,0.4}{角色转身,kaiselin,正,0.4}她说是因为你的缘故，你当时召唤出了一种类似诫门的东西，补充了异质物的力量，吸收掉了反噬。" param2="" param3=""/>
+<Test_Blend id="255" originalRow="255" groupSign="" debugClose="" action="角色台词" data="wo" param="还是听不懂……{0.8}我当时确实是脑海里出现了一个“门”，然后就……" param2="" param3=""/>
+<Test_Blend id="256" originalRow="256" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}等一下，你要带我去哪？{0.6}
+还有这里到底是什么鬼地方！" param2="" param3=""/>
+<Test_Blend id="257" originalRow="257" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作}{#凯瑟琳思考表情}……你失忆了？" param2="" param3=""/>
+<Test_Blend id="258" originalRow="258" groupSign="" debugClose="" action="可选对话框" data="" param="$$对，完全丧失记忆了==&gt;完全失忆
+$$只是忘记我为什么会在这里了==&gt;部分失忆" param2="" param3=""/>
+<Test_Blend id="259" originalRow="259" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="260" originalRow="260" groupSign="完全失忆" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="261" originalRow="261" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作恢复}{#凯瑟琳得意表情}我来测试一下你的失忆等级……{1.2}
+5乘以3等于多少？{#凯瑟琳转笔动作}" param2="" param3=""/>
+<Test_Blend id="262" originalRow="262" groupSign="" debugClose="" action="角色台词" data="wo" param="等于15。{1.2}
+{#闪白震slash}我说的不是这种失忆……" param2="" param3=""/>
+<Test_Blend id="263" originalRow="263" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{凯瑟琳转笔动作恢复}{#凯瑟琳魅惑表情}那……29929的平方根是多少？" param2="" param3=""/>
+<Test_Blend id="264" originalRow="264" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}鬼知道啊！！" param2="" param3=""/>
+<Test_Blend id="265" originalRow="265" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="最后一个问题……{#凯瑟琳严肃动作}{#凯瑟琳得意表情}
+5乘以3等于多少？" param2="" param3=""/>
+<Test_Blend id="266" originalRow="266" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}你以为我是金鱼吗！？" param2="" param3=""/>
+<Test_Blend id="267" originalRow="267" groupSign="" debugClose="" action="跳转-标签" data="" param="部分失忆" param2="" param3=""/>
+<Test_Blend id="268" originalRow="268" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="269" originalRow="269" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="270" originalRow="270" groupSign="部分失忆" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="271" originalRow="271" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<Test_Blend id="272" originalRow="272" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<Test_Blend id="273" originalRow="273" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作恢复}{#凯瑟琳魅惑表情}这栋建筑是『昭离公馆』，隶属于国立第三异质物收容中心，简称『003号站点』。" param2="" param3=""/>
+<Test_Blend id="274" originalRow="274" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔动作}同时，这里还是安江市STS（特别事务派遣科）的前线基地。" param2="" param3=""/>
+<Test_Blend id="275" originalRow="275" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="我记得档案上说，你是站点的新员工，{0.8}{#闪白ding}还是第一天来报到的吧？" param2="" param3=""/>
+<Test_Blend id="276" originalRow="276" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.05}昭离公馆……{#凯瑟琳转笔动作恢复}" param2="" param3=""/>
+<Test_Blend id="277" originalRow="277" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="" param="{画面特效效果,Dark}这个词仿佛一个钩子，将我失去的那部分记忆全部勾了回来——" param2="" param3=""/>
+<Test_Blend id="279" originalRow="279" groupSign="" debugClose="" action="角色台词" data="" param="『异质物』是指一旦满足特定条件，
+就能引发异常现象的信息或物体。" param2="" param3=""/>
+<Test_Blend id="280" originalRow="280" groupSign="" debugClose="" action="角色台词" data="" param="它们是当今世界上最强大的武器，
+也是重要的国家战略资源……" param2="" param3=""/>
+<Test_Blend id="281" originalRow="281" groupSign="" debugClose="" action="角色台词" data="" param="招募我的这家收容机构是24小时全年无休的，
+我下午过来报到，直接被排了夜班。" param2="" param3=""/>
+<Test_Blend id="282" originalRow="282" groupSign="" debugClose="" action="角色台词" data="" param="在一楼等待的时候，
+好像突然发生了骚动和警报……" param2="" param3=""/>
+<Test_Blend id="283" originalRow="283" groupSign="" debugClose="" action="角色台词" data="" param="然后就……
+什么也不记得了……" param2="" param3=""/>
+<Test_Blend id="284" originalRow="284" groupSign="" debugClose="" action="角色台词" data="" param="我最后的记忆，是一个睡眼惺忪的穿白大褂的女人，将身份卡和远程终端交给了我……" param2="" param3=""/>
+<Test_Blend id="285" originalRow="285" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}{设置角色,kaiselin,pos=中,}{画面特效移除}……我记起来了！" param2="" param3=""/>
+<Test_Blend id="286" originalRow="286" groupSign="" debugClose="" action="角色台词" data="wo" param="站点发生什么了？" param2="" param3=""/>
+<Test_Blend id="287" originalRow="287" groupSign="" debugClose="" action="角色台词" data="wo" param="我当时好像在一楼看电子屏上的新闻，然后我就昏迷了？{0.6}我是怎么去医务室的？" param2="" param3=""/>
+<Test_Blend id="288" originalRow="288" groupSign="" debugClose="" action="角色台词" data="wo" param="还有刚才追我的那个是什么东西？" param2="" param3=""/>
+<Test_Blend id="289" originalRow="289" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔}因为异质物3-404突然失控，站长下午已经将非战斗人员紧急疏散了。" param2="" param3=""/>
+<Test_Blend id="290" originalRow="290" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="你在一楼直接被感染，被人抬到了医务室，{0.6}
+我离开后，{#凯瑟琳转笔动作恢复}{#凯瑟琳紧张表情}那两名后勤也被感染了。" param2="" param3=""/>
+<Test_Blend id="291" originalRow="291" groupSign="" debugClose="" action="角色台词" data="wo" param="所以那些怪物……{0.6}
+{#闪白ding}{角色转身,kaiselin,正,0.4}就是被感染后形成的异质物吗？" param2="" param3=""/>
+<Test_Blend id="292" originalRow="292" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳紧张动作}现在站点里最安全的地方，就是站长杜衡博士的办公室……{0.8}{#凯瑟琳得意表情}{#凯瑟琳严肃动作}具体等你见到她就知道了。" param2="" param3=""/>
+<Test_Blend id="293" originalRow="293" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{移除角色,kaiselin}话没说完，凯瑟琳忽然脸色一变将我推了出去，同时自己后跳两步。" param2="" param3=""/>
+<Test_Blend id="294" originalRow="294" groupSign="" debugClose="" action="角色台词" data="" param="我看到自己原先站立的位置，某种焦油般的黑色粘稠液体仿佛阴开的墨水般正在地板上扩散开来。" param2="" param3=""/>
+<Test_Blend id="295" originalRow="295" groupSign="" debugClose="" action="角色台词" data="" param="它所覆盖之处，纷纷发出“滋滋”的类似油脂烧灼的声音。" param2="" param3=""/>
+<Test_Blend id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}这又是什么！？" param2="" param3=""/>
+<Test_Blend id="297" originalRow="297" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
+<Test_Blend id="298" originalRow="298" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃表情}异质物通过精神力扭曲和感染现实世界……" param2="" param3=""/>
+<Test_Blend id="299" originalRow="299" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="最好趁它们聚集成更大的感染体前，{#闪白震slash}及时清理掉！" param2="" param3=""/>
+<Test_Blend id="300" originalRow="300" groupSign="" debugClose="" action="角色台词" data="" param="【凯瑟琳眼睛符号发光】" param2="" param3=""/>
+<Test_Blend id="301" originalRow="301" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳魅惑}虽然常规武器有时也有点用处，但对付异质物最好的办法，就是利用异质物本身。" param2="" param3=""/>
+<Test_Blend id="302" originalRow="302" groupSign="" debugClose="" action="角色台词" data="wo" param="{移除角色,kaiselin}是只有魔法才能打败魔法的意思吗？" param2="" param3=""/>
+<Test_Blend id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="wo" param="你说刚才帮我们战斗的那些……{0.6}{#闪白ding}都是异质物？" param2="" param3=""/>
+<Test_Blend id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}那不是把危险程度加倍了吗！！" param2="" param3=""/>
+<Test_Blend id="305" originalRow="305" groupSign="" debugClose="" action="角色台词" data="" param="【召唤异质物动画】" param2="" param3=""/>
+<Test_Blend id="306" originalRow="306" groupSign="" debugClose="" action="角色台词" data="" param="【进入战前准备】" param2="" param3=""/>
+<Test_Blend id="307" originalRow="307" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_紧张_动作_开始_01" param3=""/>
+<Test_Blend id="308" originalRow="308" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="『可控』异质物，只要能掌握控制它们的关键——" param2="" param3=""/>
+<Test_Blend id="309" originalRow="309" groupSign="" debugClose="" action="角色台词" data="wo" param="所以……{0.6}这是召唤异质物的{#闪白inspiration}门吗？" param2="" param3=""/>
+<Test_Blend id="310" originalRow="310" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃动作}{#凯瑟琳严肃表情}没空跟你解释，大家伙要来了！" param2="" param3=""/>
+<Test_Blend id="311" originalRow="311" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="听着，{0.6}把你刚才对涂凌做的事再做一遍！" param2="" param3=""/>
+<Test_Blend id="312" originalRow="312" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#闪白震slash}不想死在这里的话，就把你的“门”弄出来，{0.6}跟我一起战斗！" param2="" param3=""/>
+<Test_Blend id="313" originalRow="313" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.05}我……{0.6}{s=0.01}我不知道怎么弄出那个{#闪白震slash}“门”啊！？" param2="" param3=""/>
+<Test_Blend id="314" originalRow="314" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}还有我为什么要战斗啊！！？？" param2="" param3=""/>
+<Test_Blend id="315" originalRow="315" groupSign="" debugClose="" action="角色台词" data="" param="{移除角色,kaiselin}【抽卡特效】" param2="" param3=""/>
+<Test_Blend id="316" originalRow="316" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}！？" param2="" param3=""/>
+<Test_Blend id="317" originalRow="317" groupSign="" debugClose="" action="角色台词" data="wo" param="这个感觉是……{0.8}
+{s=0.02}我、{0.4}我知道了！" param2="" param3=""/>
+<Test_Blend id="318" originalRow="318" groupSign="" debugClose="" action="角色台词" data="" param="【第二场战斗+教学】" param2="" param3=""/>
+<Test_Blend id="319" originalRow="319" groupSign="" debugClose="" action="角色台词" data="" param="【战斗结束】" param2="" param3=""/>
+<Test_Blend id="320" originalRow="320" groupSign="" debugClose="" action="角色台词" data="" param="或许是刚才战斗的声音吸引到了走廊上咔哒作响的黑影，那凌乱密集的脚步正向我们快速袭来。" param2="" param3=""/>
+<Test_Blend id="321" originalRow="321" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<Test_Blend id="322" originalRow="322" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳魅惑表情}真是不可思议，原来有你在旁边，甚至不需要用增强剂……" param2="" param3=""/>
+<Test_Blend id="323" originalRow="323" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔动作}涂凌说的竟然都是真的……" param2="" param3=""/>
+<Test_Blend id="324" originalRow="324" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="呵呵呵呵……{0.4}我对你可太感兴趣了……" param2="" param3=""/>
+<Test_Blend id="325" originalRow="325" groupSign="" debugClose="" action="角色台词" data="" param="看着她一脸陶醉地拿着手术刀凑近我，我一阵恶寒。" param2="" param3=""/>
+<Test_Blend id="326" originalRow="326" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}等等！凯瑟琳，你受伤了！" param2="" param3=""/>
+<Test_Blend id="327" originalRow="327" groupSign="" debugClose="" action="角色台词" data="" param="{角色转头,kaiselin,左下中}{角色表情,kaiselin,;;下看_开始_01}我突然注意到，她的肩膀在刚才被划出一道约5厘米的伤口。" param2="" param3=""/>
+<Test_Blend id="328" originalRow="328" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="呵，只有这点伤吗……{角色转头,kaiselin,}{角色表情,kaiselin,;;待机_开始_01}{角色表情,kaiselin,凯瑟琳_媚眼_上脸_开始_01;凯瑟琳_媚眼_下嘴_开始_01;}{1.6}{特殊-闪白效果,1}{角色表情,kaiselin,凯瑟琳_媚眼_上脸_循环_01;凯瑟琳_媚眼_下嘴_开始_01}" param2="" param3=""/>
+<Test_Blend id="329" originalRow="329" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳从腰间抽出一瓶试剂，用顶部的喷嘴对着伤口喷了一下。{#凯瑟琳试药蓄势}" param2="" param3=""/>
+<Test_Blend id="330" originalRow="330" groupSign="" debugClose="" action="角色台词" data="" param="药剂接触到伤口后立刻开始嘶嘶作响，发出类似化学烧灼的声音，我光听声音都觉得很痛。" param2="" param3=""/>
+<Test_Blend id="331" originalRow="331" groupSign="" debugClose="" action="打开特效板" data="" param="" param2="avg_effect_catherineMeiHuo" param3=""/>
+<Test_Blend id="332" originalRow="332" groupSign="" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL02" param2="" param3=""/>
+<Test_Blend id="333" originalRow="333" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳试药兴奋}嗯~~~~" param2="" param3=""/>
+<Test_Blend id="334" originalRow="334" groupSign="" debugClose="1" action="角色台词" data="" param="然而她却双目轻阖，微微咬着下嘴唇，不时小声的发出“嗯”的鼻音，面颊泛出一抹绯红。" param2="" param3=""/>
+<Test_Blend id="335" originalRow="335" groupSign="1.2&gt;&gt;" debugClose="" action="新角色镜头" data="kaiselin" param="kaiselin_charcamTL03" param2="" param3=""/>
+<Test_Blend id="336" originalRow="336" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（为什么她好像一副很享受的样子……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="337" originalRow="337" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（是错觉吧！一定是我的错觉吧？）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="338" originalRow="338" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2="" param3=""/>
+<Test_Blend id="339" originalRow="339" groupSign="" debugClose="" action="特殊-闪白效果" data="0" param="1.5" param2="" param3=""/>
+<Test_Blend id="340" originalRow="340" groupSign="" debugClose="" action="角色镜头关闭" data="kaiselin" param="kaiselin_charcamTL03" param2="" param3=""/>
+<Test_Blend id="341" originalRow="341" groupSign="" debugClose="" action="角色台词" data="" param="{角色动作,kaiselin,凯瑟琳_享受_动作_结束_01}{角色表情,kaiselin,凯瑟琳_享受_上脸_开始_01;凯瑟琳_魅惑_下嘴_开始_01}片刻之后，凯瑟琳的伤口已经完全愈合，甚至没留下一点疤痕，而她却一副意犹未尽的样子。" param2="" param3=""/>
+<Test_Blend id="342" originalRow="342" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔动作}要不然……{0.6}我们再去找几只那种敌人……" param2="" param3=""/>
+<Test_Blend id="343" originalRow="343" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}找你个头啊！{0.8}
+快去{#闪白震punch}杜博士的办公室吧！" param2="" param3=""/>
+<Test_Blend id="344" originalRow="344" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="345" originalRow="345" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="346" originalRow="346" groupSign="" debugClose="" action="" data="" param="4【场景-站点走廊】" param2="" param3=""/>
+<Test_Blend id="347" originalRow="347" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<Test_Blend id="348" originalRow="348" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="前面就是杜博士的办公室了。" param2="" param3=""/>
+<Test_Blend id="349" originalRow="349" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.05}杜衡……{s=0.01}就是这个站点的老大吧？{0.6}
+他是个什么样的人啊？" param2="" param3=""/>
+<Test_Blend id="350" originalRow="350" groupSign="" debugClose="" action="角色台词" data="wo" param="之前报到的时候似乎只见到了他的秘书，
+穿着白大褂一副懒洋洋的样子……" param2="" param3=""/>
+<Test_Blend id="351" originalRow="351" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳媚眼动作}{#凯瑟琳魅惑表情}进去你就知道了~" param2="" param3=""/>
+<Test_Blend id="352" originalRow="352" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="353" originalRow="353" groupSign="" debugClose="" action="角色台词" data="" param="【点选进入杜博士办公室】" param2="" param3=""/>
+<Test_Blend id="354" originalRow="354" groupSign="" debugClose="" action="角色台词" data="" param="【场景-杜博士办公室】" param2="" param3=""/>
+<Test_Blend id="355" originalRow="355" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳完成生物识别验证后，
+我们走进了办公室的大门。" param2="" param3=""/>
+<Test_Blend id="356" originalRow="356" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}好气派的办公室！{0.8}
+不过文件堆的真乱……" param2="" param3=""/>
+<Test_Blend id="357" originalRow="357" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="你们终于来了。" param2="" param3=""/>
+<Test_Blend id="358" originalRow="358" groupSign="" debugClose="" action="角色台词" data="wo" param="啊，您好！我叫周易！" param2="" param3=""/>
+<Test_Blend id="359" originalRow="359" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=0" param2="" param3=""/>
+<Test_Blend id="360" originalRow="360" groupSign="1" debugClose="" action="RPGActor" data="duheng" param="2" param2="" param3=""/>
+<Test_Blend id="361" originalRow="361" groupSign="" debugClose="" action="画面特效效果" data="1" param="" param2="" param3=""/>
+<Test_Blend id="362" originalRow="362" groupSign="1" debugClose="" action="新角色镜头" data="duheng" param="个人镜头_杜衡_展示" param2="" param3=""/>
+<Test_Blend id="363" originalRow="363" groupSign="" debugClose="" action="角色台词" data="" param="这位漂亮的秘书姐姐个子很高，
+白大褂随意的从她一侧肩膀缓缓垂落。{autoend}" param2="" param3=""/>
+<Test_Blend id="364" originalRow="364" groupSign="" debugClose="" action="角色台词" data="" param="她的身材好像模特一样……而且白大褂明明已经快要兜不住了吧！！{autoend}" param2="" param3=""/>
+<Test_Blend id="365" originalRow="365" groupSign="" debugClose="" action="角色台词" data="" param="{0.5}我不禁把视线移向了她的腿……{autoend}" param2="" param3=""/>
+<Test_Blend id="366" originalRow="366" groupSign="" debugClose="" action="角色台词" data="" param="{0.8}嗯嗯，能跟这样的秘书在一起工作可真不错。" param2="" param3=""/>
+<Test_Blend id="367" originalRow="367" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（看来那位站长大人很有一套嘛……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="368" originalRow="368" groupSign="" debugClose="" action="角色台词" data="" param="{角色镜头关闭,duheng,个人镜头_杜衡_展示}她并没有理会我的目光，而是一脸玩味地低头看着手中的平板设备——" param2="" param3=""/>
+<Test_Blend id="369" originalRow="369" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
+<Test_Blend id="370" originalRow="370" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#杜衡惊讶动作}心跳加快，血压升高，下半身体温提升了0.5度……" param2="" param3=""/>
+<Test_Blend id="371" originalRow="371" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="呵呵，确实是这个年纪男生正常的生理反应~{#杜衡惊讶动作恢复}{角色转头,duheng,左中,0.4}" param2="" param3=""/>
+<Test_Blend id="372" originalRow="372" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}诶？" param2="" param3=""/>
+<Test_Blend id="373" originalRow="373" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#杜衡思考动作}{#杜衡平静表情}{角色转头,duheng,正,0.4}你开发的这套人体扫描设备还不错嘛……{2.5}{#杜衡待机表情}" param2="" param3=""/>
+<Test_Blend id="374" originalRow="374" groupSign="" debugClose="" action="角色台词" data="" param="她对凯瑟琳指了指我头顶天花板上的黑色半球形装置。" param2="" param3=""/>
+<Test_Blend id="375" originalRow="375" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<Test_Blend id="376" originalRow="376" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳开心}您过奖了杜博士！{0.6}
+其实还有不少可以改进的空间……{#凯瑟琳魅惑表情}" param2="" param3=""/>
+<Test_Blend id="377" originalRow="377" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
+<Test_Blend id="378" originalRow="378" groupSign="" debugClose="" action="角色台词" data="wo" param="杜、{0.5}{#闪白ding}杜博士……？" param2="" param3=""/>
+<Test_Blend id="379" originalRow="379" groupSign="" debugClose="" action="角色台词" data="" param="她就是{0.5}因为异质物研究方面的卓越贡献，
+获得过国家最高科技奖的那个{#闪白震slash}杜衡！？" param2="" param3=""/>
+<Test_Blend id="380" originalRow="380" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡平静表情}哦？{0.4}你觉得不像吗？{1}{#杜衡待机表情}" param2="" param3=""/>
+<Test_Blend id="381" originalRow="381" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;({#闪白震slash}完{0.5}{#闪白震slash}&lt;size=45&gt;全{0.5}{#闪白震slash}&lt;size=55&gt;不{0.5}{#闪白震slash}&lt;size=65&gt;像{0.5}{#闪白震slash}！！！！！！)&lt;/size&gt;&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="382" originalRow="382" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}像！{特殊-闪白效果,1}
+只是网上都找不到您的照片……" param2="" param3=""/>
+<Test_Blend id="383" originalRow="383" groupSign="" debugClose="" action="角色台词" data="duheng" param="可能是安全部门出于保密需求做了些手脚。{2}{#杜衡平静动作恢复}{0.3}{music=off}" param2="" param3=""/>
+<Test_Blend id="384" originalRow="384" groupSign="" debugClose="" action="角色台词" data="duheng" param="周易……{0.4}{#杜衡思考动作}你是今天才入职的员工吧？{0.8}
+刚报到就碰到了收容失效，不走运的小家伙。" param2="" param3=""/>
+<Test_Blend id="385" originalRow="385" groupSign="" debugClose="" action="角色台词" data="wo" param="还有好几次{s=0.03}差点死掉……" param2="" param3=""/>
+<Test_Blend id="386" originalRow="386" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡思考动作恢复}我将醒来后发生的事向杜衡复述了一遍。" param2="" param3=""/>
+<Test_Blend id="387" originalRow="387" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}你能安然无恙，我实在很惊讶。" param2="" param3=""/>
+<Test_Blend id="388" originalRow="388" groupSign="" debugClose="" action="角色台词" data="wo" param="…………………………………………托您的福。" param2="" param3=""/>
+<Test_Blend id="389" originalRow="389" groupSign="" debugClose="" action="角色台词" data="" param="杜衡一脸轻松的打量着我，在平板上调出视频。" param2="" param3=""/>
+<Test_Blend id="390" originalRow="390" groupSign="" debugClose="" action="角色台词" data="duheng" param="我看了你帮涂凌和凯瑟琳战斗的情形。{0.6}
+{#杜衡开心动作}对你的能力，非常感兴趣~" param2="" param3=""/>
+<Test_Blend id="391" originalRow="391" groupSign="" debugClose="" action="角色台词" data="wo" param="我不知道这算什么能力……" param2="" param3=""/>
+<Test_Blend id="392" originalRow="392" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}很简单，{0.4}做个检测就知道了。" param2="" param3=""/>
+<Test_Blend id="393" originalRow="393" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}！？" param2="" param3=""/>
+<Test_Blend id="394" originalRow="394" groupSign="" debugClose="" action="角色台词" data="duheng" param="跟我来。{autoend}" param2="" param3=""/>
+<Test_Blend id="395" originalRow="395" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="396" originalRow="396" groupSign="" debugClose="" action="角色台词" data="" param="{打开插画,blackbgimg,TRUE,}【场景转换成作战室】" param2="" param3=""/>
+<Test_Blend id="397" originalRow="397" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}等等！？{0.5}瞬间移动？？" param2="" param3=""/>
+<Test_Blend id="398" originalRow="398" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<Test_Blend id="399" originalRow="399" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
+<Test_Blend id="400" originalRow="400" groupSign="" debugClose="" action="角色台词" data="wo" param="这里又是哪里！！" param2="" param3=""/>
+<Test_Blend id="401" originalRow="401" groupSign="" debugClose="" action="角色台词" data="wo" param="STS怎么这么多超能力啊喂！！{#闪白震slash}{关闭插画}{autoend}" param2="" param3=""/>
+<Test_Blend id="402" originalRow="402" groupSign="" debugClose="1" action="角色台词" data="wo" param="……{autoend}" param2="" param3=""/>
+<Test_Blend id="403" originalRow="403" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳得意表情}这里是STS的作战室，一个可以随时通过“律之钥”进入的异空间。" param2="" param3=""/>
+<Test_Blend id="404" originalRow="404" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,右中,0.8}{#杜衡思考动作}看到后面那个装置了吗？{1.2}
+{角色转头,duheng,左中,0.4}{角色转眼,duheng,正,0.4}{角色转身,duheng,左微,0.4}坐上去。" param2="" param3=""/>
+<Test_Blend id="405" originalRow="405" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳紧张动作}{注视,kaiselin,duheng,,0.5}{角色转身,duheng,左微,0.4}{角色转头,duheng,正,0.4}{#杜衡思考动作恢复}呀，那个不是已经弃用，研究异质空间的投影仪吗？" param2="" param3=""/>
+<Test_Blend id="406" originalRow="406" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}我有个猜测，他的意识深处那个特殊的东西，{注视,kaiselin,,,0.5}{角色转头,kaiselin,右极上中,0.4}{角色转眼,kaiselin,正,0.4}与异质物的力量“同源”。" param2="" param3=""/>
+<Test_Blend id="407" originalRow="407" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,kaiselin,正,0.4}{角色转头,kaiselin,正,0.4}{#凯瑟琳紧张动作恢复}却不属于我们已知的属性体系，甚至来自更高的层系……" param2="" param3=""/>
+<Test_Blend id="408" originalRow="408" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳媚眼动作}原来如此……" param2="" param3=""/>
+<Test_Blend id="409" originalRow="409" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{注视,duheng,kaiselin,0.5}{注视,kaiselin,duheng,0.5}凯瑟琳，今天的战斗有收集到异核吗？" param2="" param3=""/>
+<Test_Blend id="410" originalRow="410" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳忧伤表情}{#凯瑟琳媚眼动作恢复}{角色转身,kaiselin,右微,0.6}有倒是有，可那个不是要统一上交总部…………" param2="" param3=""/>
+<Test_Blend id="411" originalRow="411" groupSign="" debugClose="" action="角色台词" data="duheng" param="等会放一个在能量槽里。{1}{角色转身,duheng,正,0.4}{角色转眼,duheng,正,0.4}{角色转头,duheng,正,0.4}" param2="" param3=""/>
+<Test_Blend id="412" originalRow="412" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃动作}{角色转身,kaiselin,正,0.6}{角色转头,kaiselin,正,0.6}{角色转眼,kaiselin,正,0.4}{#凯瑟琳得意表情}{注视,duheng,,0.5}明白~{1.2}{移除角色,kaiselin}" param2="" param3=""/>
+<Test_Blend id="413" originalRow="413" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}………等，等下！{角色转眼,duheng,正,0.4}{0.5}这个机器，看起来好恐怖啊，我真的要坐上去吗？" param2="" param3=""/>
+<Test_Blend id="414" originalRow="414" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}别紧张，对人体没有副作用，只是对你的精神状态做一个分析检测。" param2="" param3=""/>
+<Test_Blend id="415" originalRow="415" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}{#杜衡待机表情}呵呵，难道你不想知道自己身上的秘密吗………" param2="" param3=""/>
+<Test_Blend id="416" originalRow="416" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.03}我身上的………{0.4}{s=0.02}秘密………{打开插画,blackbgimg,TRUE,}" param2="" param3=""/>
+<Test_Blend id="417" originalRow="417" groupSign="" debugClose="" action="角色台词" data="wo" param="那些幻觉，{0.4}还有伤口突然愈合，{0.4}以及她们两个提到我能召唤的{#闪白inspiration}“门”………" param2="" param3=""/>
+<Test_Blend id="418" originalRow="418" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}{关闭插画}好、好吧！" param2="" param3=""/>
+<Test_Blend id="419" originalRow="419" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="420" originalRow="420" groupSign="" debugClose="" action="角色台词" data="" param="【镜头切换到抽卡界面，周易坐在巨大的机器上】" param2="" param3=""/>
+<Test_Blend id="421" originalRow="421" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
+<Test_Blend id="422" originalRow="422" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}呵呵，那我们开始了。{移除角色,duheng}" param2="" param3=""/>
+<Test_Blend id="423" originalRow="423" groupSign="" debugClose="" action="角色台词" data="" param="【抽卡特效】" param2="" param3=""/>
+<Test_Blend id="424" originalRow="424" groupSign="" debugClose="" action="角色台词" data="" param="【得到异质物】" param2="" param3=""/>
+<Test_Blend id="425" originalRow="425" groupSign="" debugClose="" action="角色台词" data="" param="【场景回到作战室】" param2="" param3=""/>
+<Test_Blend id="426" originalRow="426" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="杜衡_惊讶_动作_开始_01" param3=""/>
+<Test_Blend id="427" originalRow="427" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶表情}真令人惊讶。{0.8}{#杜衡待机表情}" param2="" param3=""/>
+<Test_Blend id="428" originalRow="428" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}太有趣了，一个从来没有见过的“门”的类型，或者说，这个形态甚至让我联想到索德在《苏鲁支文书》里的描述………" param2="" param3=""/>
+<Test_Blend id="429" originalRow="429" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}异核在里面穿梭后，竟然直接得到了异质物的投影………" param2="" param3=""/>
+<Test_Blend id="430" originalRow="430" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡待机表情}就是刚刚我脑海里出现的画面么？" param2="" param3=""/>
+<Test_Blend id="431" originalRow="431" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡思考动作恢复}那个东西，去哪里了？" param2="" param3=""/>
+<Test_Blend id="432" originalRow="432" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#常规点头动作}嗯，为了安全起见，{#杜衡送客动作}这个投影仪接收的末端，连到地下收容室的空置房间里。" param2="" param3=""/>
+<Test_Blend id="433" originalRow="433" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="" param3=""/>
+<Test_Blend id="434" originalRow="434" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳注射器动作}{#凯瑟琳魅惑表情}{#杜衡待机动作}一旦出现失控结果，{0.6}boom——炸掉整个房间~" param2="" param3=""/>
+<Test_Blend id="435" originalRow="435" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}&lt;size=46&gt;不要表现得像个恐怖分子好吗！！&lt;/size&gt;" param2="" param3=""/>
+<Test_Blend id="436" originalRow="436" groupSign="" debugClose="" action="角色台词" data="duheng" param="{移除角色,kaiselin}{#转头右极眨眼转眼}但就目前来看，投影出的异质物似乎直接进行了有效收容。在后续的战斗里，可以直接派上用场吧。" param2="" param3=""/>
+<Test_Blend id="437" originalRow="437" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色转头,duheng,正,0.4}{角色转眼,duheng,正,0.4}所以我，到底是什么问题？" param2="" param3=""/>
+<Test_Blend id="438" originalRow="438" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}初步推断的话………" param2="" param3=""/>
+<Test_Blend id="439" originalRow="439" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静表情}你的意识深处有一个庞大神秘的通道，{0.4}它的核心任务是保护你……" param2="" param3=""/>
+<Test_Blend id="440" originalRow="440" groupSign="" debugClose="" action="角色台词" data="duheng" param="所以会帮你吸收掉周围一切异质物的反噬，{0.6}{#杜衡待机表情}你的自愈也与此有关。" param2="" param3=""/>
+<Test_Blend id="441" originalRow="441" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}………我是被什么神秘力量保护了吗……………" param2="" param3=""/>
+<Test_Blend id="442" originalRow="442" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考表情}目前不得而知，尤其它还会跟异核产生共鸣，
+将其他地方的异质物作为实体投射过来。" param2="" param3=""/>
+<Test_Blend id="443" originalRow="443" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机表情}{#杜衡紧张动作}在证实它对你有害前，我觉得我们很有继续研究它的必要。" param2="" param3=""/>
+<Test_Blend id="444" originalRow="444" groupSign="" debugClose="" action="角色台词" data="duheng" param="唯一的线索，就是十几前被发现的《苏鲁支文书》里，曾经记载过这一现象。" param2="" param3=""/>
+<Test_Blend id="445" originalRow="445" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}书里记载的召唤者名为“索德”，我们就先叫它“索德之门”好了。" param2="" param3=""/>
+<Test_Blend id="446" originalRow="446" groupSign="" debugClose="" action="角色台词" data="wo" param="真是简单粗暴………" param2="" param3=""/>
+<Test_Blend id="447" originalRow="447" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}而你，可以作为我们重要的战略资源，留在STS作战部。" param2="" param3=""/>
+<Test_Blend id="448" originalRow="448" groupSign="" debugClose="" action="角色台词" data="wo" param="………………………………………{0.6}
+………听起来我没有拒绝的余地是吗？" param2="" param3=""/>
+<Test_Blend id="449" originalRow="449" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡看文件动作}{角色转眼,duheng,下中,0.4}杜衡突然拿出平板电脑开始翻看。" param2="" param3=""/>
+<Test_Blend id="450" originalRow="450" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转眼,duheng,正,0.4}周易………{0.4}嗯………{角色转眼,duheng,下中,0.4}体能测试D，{0.6}{角色转眼,duheng,正,0.4}大学期间八成一直在玩游戏吧？" param2="" param3=""/>
+<Test_Blend id="451" originalRow="451" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转眼,duheng,下中,0.4}社交能力C，原因估计也差不多……" param2="" param3=""/>
+<Test_Blend id="452" originalRow="452" groupSign="" debugClose="" action="角色台词" data="wo" param="实、实在不好意思……" param2="" param3=""/>
+<Test_Blend id="453" originalRow="453" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转眼,duheng,正,0.4}不过承压能力的评分倒是很高，逻辑推理测试成绩也不错——" param2="" param3=""/>
+<Test_Blend id="454" originalRow="454" groupSign="" debugClose="" action="角色台词" data="duheng" param="需要偿还高额助学贷款，通过政府招募，
+申请异质物调查员之类的外勤工作。" param2="" param3=""/>
+<Test_Blend id="455" originalRow="455" groupSign="" debugClose="" action="角色台词" data="duheng" param="但最终因为超感测试为0，分配到了文职岗位……" param2="" param3=""/>
+<Test_Blend id="456" originalRow="456" groupSign="" debugClose="" action="角色台词" data="wo" param="请不要念出来啊！！" param2="" param3=""/>
+<Test_Blend id="457" originalRow="457" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作恢复}呵呵，以文职的薪酬，你大概还要还15年贷款。{0.6}
+加入作战部，3年足够……" param2="" param3=""/>
+<Test_Blend id="458" originalRow="458" groupSign="" debugClose="" action="角色台词" data="" param="{角色转身,duheng,20,0.3}{#杜衡送客动作}她上前两步，敲击了几下平板电脑，然后递到我手里。" param2="" param3=""/>
+<Test_Blend id="459" originalRow="459" groupSign="" debugClose="" action="角色台词" data="" param="【账户激活，得到STS工作证】" param2="" param3=""/>
+<Test_Blend id="460" originalRow="460" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,正,0.3}{#杜衡待机动作}我给你重新设置了安保权限，现在分派你进入&lt;z=yellow&gt;特种事态派遣科。&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="461" originalRow="461" groupSign="" debugClose="" action="角色台词" data="wo" param="……诶？{music=bgm_xuzhangduheng}{#杜衡平静动作}{#杜衡平静表情}" param2="" param3=""/>
+<Test_Blend id="462" originalRow="462" groupSign="" debugClose="" action="角色台词" data="" param="杜衡露出一个灿烂的笑容。{#杜衡待机表情}" param2="" param3=""/>
+<Test_Blend id="463" originalRow="463" groupSign="" debugClose="" action="角色台词" data="duheng" param="欢迎加入&lt;z=yellow&gt;STS。&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="464" originalRow="464" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="465" originalRow="465" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="466" originalRow="466" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="467" originalRow="467" groupSign="" debugClose="" action="" data="" param="【播放MV】" param2="" param3=""/>
+<Test_Blend id="468" originalRow="468" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
+<Test_Blend id="469" originalRow="469" groupSign="" debugClose="" action="角色台词" data="" param="{特殊-闪红效果,1}…………" param2="" param3=""/>
+<Test_Blend id="470" originalRow="470" groupSign="" debugClose="" action="角色台词" data="" param="【场景-作战室 夜】" param2="" param3=""/>
+<Test_Blend id="471" originalRow="471" groupSign="" debugClose="" action="角色台词" data="wo" param="这调子也太洗脑了……" param2="" param3=""/>
+<Test_Blend id="472" originalRow="472" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
+<Test_Blend id="473" originalRow="473" groupSign="" debugClose="" action="角色台词" data="" param="我用力摇了摇头，那首不知什么年代的MV却一直在我脑海中挥之不去，似乎稍不注意就会哼出来。" param2="" param3=""/>
+<Test_Blend id="474" originalRow="474" groupSign="" debugClose="" action="角色台词" data="" param="整个晚上我都待在这里，让凯瑟琳用其他仪器给我做各种检查。" param2="" param3=""/>
+<Test_Blend id="475" originalRow="475" groupSign="" debugClose="" action="角色台词" data="wo" param="我偶尔还是会出现幻觉，就是那首MV，{0.6}
+{#闪白ding}这没问题吗？" param2="" param3=""/>
+<Test_Blend id="476" originalRow="476" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_转笔_动作_开始_01" param3=""/>
+<Test_Blend id="477" originalRow="477" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳得意表情}给你喝的药会清除异质物感染，只要没有彻底异变，一般5小时左右就会痊愈。" param2="" param3=""/>
+<Test_Blend id="478" originalRow="478" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳注射器动作}……但是你体质这么特殊，也许会有其他后遗症呢？{0.6}呵呵呵呵。" param2="" param3=""/>
+<Test_Blend id="479" originalRow="479" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}&lt;size=46&gt;别一副很期待的表情啊！！&lt;/size&gt;" param2="" param3=""/>
+<Test_Blend id="480" originalRow="480" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=右" param2="杜衡_惊讶_动作_开始_01" param3=""/>
+<Test_Blend id="481" originalRow="481" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#凯瑟琳注射器动作恢复}目前来看，各项指标都没有什么问题。" param2="" param3=""/>
+<Test_Blend id="482" originalRow="482" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔动作}完全可以去执行任务呢~" param2="" param3=""/>
+<Test_Blend id="483" originalRow="483" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.02}………………" param2="" param3=""/>
+<Test_Blend id="484" originalRow="484" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{注视,duheng,kaiselin,0.5}我跟凯瑟琳还需要研究下刚才召唤出来的异质物投影，{0.4}{注视,duheng,,0.5}{角色转身,duheng,正,0.5}你先去办公室叫涂凌过来集合吧。" param2="" param3=""/>
+<Test_Blend id="485" originalRow="485" groupSign="" debugClose="" action="角色台词" data="wo" param="好、{0.4}好吧。" param2="" param3=""/>
+<Test_Blend id="486" originalRow="486" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="487" originalRow="487" groupSign="" debugClose="" action="角色台词" data="" param="【点击回到杜衡办公室】" param2="" param3=""/>
+<Test_Blend id="488" originalRow="488" groupSign="" debugClose="" action="角色台词" data="" param="虽然经过了改造，但空气中隐约飘荡的那种红木特有的淡雅香气，依然透出老式豪华公馆的气质。" param2="" param3=""/>
+<Test_Blend id="489" originalRow="489" groupSign="" debugClose="" action="角色台词" data="" param="宽大的木质办公桌和书柜一看就是价值不菲的古董家具，却与那些先进的电子设备并不显得冲突。" param2="" param3=""/>
+<Test_Blend id="490" originalRow="490" groupSign="" debugClose="" action="角色台词" data="wo" param="咦？{0.6}
+{#闪白ding}好像在那边……" param2="" param3=""/>
+<Test_Blend id="491" originalRow="491" groupSign="" debugClose="" action="角色台词" data="" param="眼熟的鲨鱼帽缩在沙发角落里──" param2="" param3=""/>
+<Test_Blend id="492" originalRow="492" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<Test_Blend id="493" originalRow="493" groupSign="" debugClose="" action="角色台词" data="" param="身材瘦小的女生，正从宽大的外套袖筒中露出指尖，全神贯注的操作着笔记本电脑。" param2="" param3=""/>
+<Test_Blend id="494" originalRow="494" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌抬头}{#涂凌平静表情}似乎是感受到了我的目光，{0.6}
+她特意把兜帽又拉低了些。{角色转头,tuling,正,0.3}{#涂凌紧张动作}" param2="" param3=""/>
+<Test_Blend id="495" originalRow="495" groupSign="" debugClose="" action="角色台词" data="wo" param="你好，{0.5}我叫周易，是新来调查员。" param2="" param3=""/>
+<Test_Blend id="496" originalRow="496" groupSign="" debugClose="" action="角色台词" data="wo" param="刚才在医务室真不好意思……" param2="" param3=""/>
+<Test_Blend id="497" originalRow="497" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌惊讶动作}{#涂凌惊讶表情}啊呜！" param2="" param3=""/>
+<Test_Blend id="498" originalRow="498" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌紧张表情}我本想凑过去道歉，却把她吓得浑身一激灵。" param2="" param3=""/>
+<Test_Blend id="499" originalRow="499" groupSign="" debugClose="" action="角色台词" data="" param="然后她就像雕塑一样僵在那里一动不动，似乎连呼吸都停止了。" param2="" param3=""/>
+<Test_Blend id="500" originalRow="500" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（果然是社恐吗？）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="501" originalRow="501" groupSign="" debugClose="" action="角色台词" data="" param="不过长得真的好可爱啊……" param2="" param3=""/>
+<Test_Blend id="502" originalRow="502" groupSign="" debugClose="1" action="角色台词" data="" param="看着她紧闭双眼不敢喘气的样子，我脑海中不禁想到遇到捕食者倒地装死的小动物。" param2="" param3=""/>
+<Test_Blend id="503" originalRow="503" groupSign="" debugClose="1" action="角色台词" data="" param="让人忍不住想欺负一下……" param2="" param3=""/>
+<Test_Blend id="504" originalRow="504" groupSign="" debugClose="" action="可选对话框" data="" param="$$戳她的脸==&gt;戳涂凌脸
+$$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
+<Test_Blend id="505" originalRow="505" groupSign="戳涂凌脸" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="506" originalRow="506" groupSign="" debugClose="" action="角色台词" data="stranger" param="{特殊-闪白效果,1}{#闪白震slash}{#涂凌憋气表情}{#涂凌憋气动作}呜呜~~~~~~" param2="" param3=""/>
+<Test_Blend id="507" originalRow="507" groupSign="" debugClose="" action="角色台词" data="" param="手指还没碰到她的脸，
+她突然就像开关被触发一样反弹开了。" param2="" param3=""/>
+<Test_Blend id="508" originalRow="508" groupSign="" debugClose="" action="角色台词" data="wo" param="哇……" param2="" param3=""/>
+<Test_Blend id="509" originalRow="509" groupSign="" debugClose="" action="角色台词" data="" param="好像憋气憋得很辛苦，
+身体已然开始微微的颤抖。{#涂凌动漫颤抖}{sleep=0.6}\n{播放音效,voice_inspiration}{特殊-闪白效果,1}{shake=1}" param2="" param3=""/>
+<Test_Blend id="510" originalRow="510" groupSign="" debugClose="" action="角色台词" data="wo" param="嗯……是仿生机器人吗？
+做工真不错啊，好像死机了……" param2="" param3=""/>
+<Test_Blend id="511" originalRow="511" groupSign="" debugClose="" action="角色台词" data="wo" param="果然这种机构就应该有专门操作电脑的机器人，
+{#涂凌动漫颤抖关闭}{#涂凌动漫震动背景慢}要是每根手指能再成好几根就更正点了！" param2="" param3=""/>
+<Test_Blend id="512" originalRow="512" groupSign="" debugClose="" action="角色台词" data="stranger" param="呜嗯…………" param2="" param3=""/>
+<Test_Blend id="513" originalRow="513" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫紧张}这种时候应该重启一下吧！
+让我找找开关在哪~" param2="" param3=""/>
+<Test_Blend id="514" originalRow="514" groupSign="" debugClose="" action="角色台词" data="wo" param="难道{sleep=0.7}{特殊-闪白效果,1}{播放音效,voice_ding}和哆啦█梦一样在下面……{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}" param2="" param3=""/>
+<Test_Blend id="515" originalRow="515" groupSign="" debugClose="" action="角色台词" data="stranger" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜啊~~~！！{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="" param3=""/>
+<Test_Blend id="516" originalRow="516" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌破防" param2="" param3=""/>
+<Test_Blend id="517" originalRow="517" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="518" originalRow="518" groupSign="档涂凌鼻孔" debugClose="" action="角色台词" data="" param="" param2="" param3=""/>
+<Test_Blend id="519" originalRow="519" groupSign="" debugClose="" action="角色台词" data="tuling" param="{特殊-闪白效果,1}{#闪白震slash}{#涂凌憋气表情}{#涂凌憋气动作}呜呜~~~~~~" param2="" param3=""/>
+<Test_Blend id="520" originalRow="520" groupSign="" debugClose="" action="角色台词" data="" param="手指还没伸到鼻子，
+她突然就像开关被触发一样反弹开了。" param2="" param3=""/>
+<Test_Blend id="521" originalRow="521" groupSign="" debugClose="" action="角色台词" data="" param="看着她紧闭双眼不敢喘气的样子，
+让我不禁想到遇到捕食者倒地装死的小动物。" param2="" param3=""/>
+<Test_Blend id="522" originalRow="522" groupSign="" debugClose="" action="角色台词" data="wo" param="据说最会装死的动物是美洲负鼠。{#涂凌动漫颤抖}" param2="" param3=""/>
+<Test_Blend id="523" originalRow="523" groupSign="" debugClose="" action="角色台词" data="wo" param="不仅可以停止呼吸，还会放出味道很难闻的屁模拟{#闪白ding}尸体的臭味。" param2="" param3=""/>
+<Test_Blend id="524" originalRow="524" groupSign="" debugClose="" action="角色台词" data="" param="我用嘴巴模拟出放屁的声音，
+不远处的凯瑟琳白了我一眼。" param2="" param3=""/>
+<Test_Blend id="525" originalRow="525" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫震动背景慢}再说，一般人憋气的极限不超过一分钟，
+不然大脑很快会开始缺氧，损伤神经。" param2="" param3=""/>
+<Test_Blend id="526" originalRow="526" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫颤抖关闭}就是说会慢慢的{#涂凌动漫紧张}{#闪白ding}变成笨蛋。" param2="" param3=""/>
+<Test_Blend id="527" originalRow="527" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}呜嗯…………" param2="" param3=""/>
+<Test_Blend id="528" originalRow="528" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌动漫震动背景慢关闭}她的小脸涨的通红，身体抖得更厉害了。{#涂凌动漫震动背景中}" param2="" param3=""/>
+<Test_Blend id="529" originalRow="529" groupSign="" debugClose="" action="角色台词" data="" param="她的眼角已经泛起泪花，还在死撑。" param2="" param3=""/>
+<Test_Blend id="530" originalRow="530" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜啊~~~！！{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="" param3=""/>
+<Test_Blend id="531" originalRow="531" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌破防" param2="" param3=""/>
+<Test_Blend id="532" originalRow="532" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="533" originalRow="533" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="534" originalRow="534" groupSign="涂凌破防" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="535" originalRow="535" groupSign="" debugClose="" action="角色台词" data="" param="她终于破防，{角色动作,tuling,涂凌_憋气_动作_结束_01}{角色表情,tuling,涂凌_喘气_上脸_开始_01;涂凌_喘气_下嘴_开始_01;}{0.8}{#涂凌动漫哈字}{#涂凌动漫出窍}{#涂凌动漫震动背景快关闭}{播放音效,voice_lightpunch}{特殊-闪白效果,1}{角色镜头关闭,tuling}{shake=1}{播放音效,涂凌_喘气2}大口大口的喘着气。{2.5}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_思考_下嘴_开始_01;}" param2="" param3=""/>
+<Test_Blend id="536" originalRow="536" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌动漫哈字关闭}{#涂凌动漫出窍关闭}我刚想靠近，她立刻缩到沙发缝边，{#涂凌待机2动作}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;}{角色转头,tuling,下中}{#涂凌动漫愤怒}
+用看**大叔般的眼神的看着我。" param2="" param3=""/>
+<Test_Blend id="537" originalRow="537" groupSign="" debugClose="" action="角色台词" data="tuling" param="（小声）变态……" param2="" param3=""/>
+<Test_Blend id="538" originalRow="538" groupSign="" debugClose="" action="角色台词" data="wo" param="哈抱歉，我不是故意捉弄你的。
+&lt;z=blue&gt;（只是没忍住……）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="539" originalRow="539" groupSign="" debugClose="" action="角色台词" data="wo" param="我是刚才被你扔在医务室里的周易……" param2="" param3=""/>
+<Test_Blend id="540" originalRow="540" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌动漫愤怒关闭}我知道呀！！{0.6}
+{#涂凌严肃动作}{#涂凌紧张表情}所、所以才可怕……" param2="" param3=""/>
+<Test_Blend id="541" originalRow="541" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.02}……哈？" param2="" param3=""/>
+<Test_Blend id="542" originalRow="542" groupSign="" debugClose="" action="角色台词" data="" param="突然切换成了智能AI声，看来只能这么交流了。" param2="" param3=""/>
+<Test_Blend id="543" originalRow="543" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作恢复}{角色转头,tuling,下中,0.4}嗯……{0.4}{#涂凌紧张动作}虽然杜杜已经把你的情况和体检结果告诉我了。" param2="" param3=""/>
+<Test_Blend id="544" originalRow="544" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转头,tuling,正,0.4}{角色转眼,tuling,正,0.4}{#涂凌思考表情}{#涂凌思考动作}奇怪……{0.4}如果能在感染下存活，应该已经成为了“超感者”才对呀。" param2="" param3=""/>
+<Test_Blend id="545" originalRow="545" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作}但报告显示，你的超感值依然监测不到……" param2="" param3=""/>
+<Test_Blend id="546" originalRow="546" groupSign="" debugClose="" action="角色台词" data="wo" param="什、{0.4}什么是{#闪白ding}&lt;z=yellow&gt;超感者&lt;/z&gt;？" param2="" param3=""/>
+<Test_Blend id="547" originalRow="547" groupSign="" debugClose="" action="角色台词" data="wo" param="还有&quot;3-404&quot;到底是什么东西……{#涂凌忧伤表情}" param2="" param3=""/>
+<Test_Blend id="548" originalRow="548" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机2动作}我只是来做入职报到时看了一会大厅的电视，然后不知怎么就昏过去了……" param2="" param3=""/>
+<Test_Blend id="549" originalRow="549" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}超感者就是像我和凯瑟琳这样，能够操控异质物的人……" param2="" param3=""/>
+<Test_Blend id="550" originalRow="550" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,左微,0.4}{角色转头,tuling,下微,0.4}下午的时候，3-404突然失控……{0.4}造成了大范围感染。" param2="" param3=""/>
+<Test_Blend id="551" originalRow="551" groupSign="" debugClose="" action="角色台词" data="tuling" param="我跟凯瑟琳接到命令，{角色转身,tuling,左微,0.4}就去做疏散和控制了。" param2="" param3=""/>
+<Test_Blend id="552" originalRow="552" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,右微,0.4}{角色转头,tuling,正,0.4}{角色转眼,tuling,正,0.4}本来我增强剂快用完了，凯瑟琳让我去医务室拿。" param2="" param3=""/>
+<Test_Blend id="553" originalRow="553" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}{角色转头,tuling,下中,0.4}感染物一开始跟你一样没有任何反应，但你醒来后，突然又开始动了，奇怪……" param2="" param3=""/>
+<Test_Blend id="554" originalRow="554" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色转身,tuling,正,0.4}{角色转头,tuling,正,0.4}{#涂凌忧伤表情}感染指的是，那些机械怪物吗……" param2="" param3=""/>
+<Test_Blend id="555" originalRow="555" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=右" param2="杜衡_惊讶_动作_开始_01" param3=""/>
+<Test_Blend id="556" originalRow="556" groupSign="" debugClose="" action="角色台词" data="duheng" param="今天下午，站点内所有带屏幕的设备突然同时播放起那段MV视频，甚至包括没有开机的设备。" param2="" param3=""/>
+<Test_Blend id="557" originalRow="557" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作恢复}所有看完那段视频的人无一例外的失去了意识，并很快开始丧失有机生命体征。" param2="" param3=""/>
+<Test_Blend id="558" originalRow="558" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}而你是目前所有受到3-404影响的人中，唯一能恢复意识的。" param2="" param3=""/>
+<Test_Blend id="559" originalRow="559" groupSign="" debugClose="" action="角色台词" data="" param="不知什么时候，杜衡跟凯瑟琳突然出现。" param2="" param3=""/>
+<Test_Blend id="560" originalRow="560" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="561" originalRow="561" groupSign="" debugClose="" action="角色台词" data="" param="【场景-杜衡办公室夜】" param2="" param3=""/>
+<Test_Blend id="562" originalRow="562" groupSign="" debugClose="" action="角色台词" data="wo" param="等、{#闪白ding}等一下！你是说那个像二流偶像歌手拍的廉价MV，其实{0.5}是一段{0.3}{#闪白震punch}杀人视频！？" param2="" param3=""/>
+<Test_Blend id="563" originalRow="563" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}&lt;z=blue&gt;(虽然来STS报到之前我就设想过各种危险情况，{#杜衡惊讶动作恢复}
+但没想到第一天就中了头彩。)&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="564" originalRow="564" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_开始_01" param3=""/>
+<Test_Blend id="565" originalRow="565" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌忧伤表情}{角色转眼,tuling,上中,0.3}可能因为周易是那种，
+每天都对着美少女偶像照片舔屏的变态，" param2="" param3=""/>
+<Test_Blend id="566" originalRow="566" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}{#涂凌平静表情}所以才对那种东西的抵抗力特别高。" param2="" param3=""/>
+<Test_Blend id="567" originalRow="567" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}哪有！！{0.5}
+别、{0.3}别瞎说……" param2="" param3=""/>
+<Test_Blend id="568" originalRow="568" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机表情}{角色转眼,tuling,下中,0.3}哦？{1.2}{闪白ding}{#涂凌待机表情}{#涂凌紧张动作}{播放音效,S-typing}你的手机壁纸是高崎Akira，
+上个月还买了她的写真集……" param2="" param3=""/>
+<Test_Blend id="569" originalRow="569" groupSign="" debugClose="" action="角色台词" data="wo" param="你怎么知道的？！{1.2]
+{#闪白震punch}不对……那、那是侵犯个人隐私吧！" param2="" param3=""/>
+<Test_Blend id="570" originalRow="570" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}再看看你浏览器的历史记录……
+哎呀呀，啧啧啧啧……" param2="" param3=""/>
+<Test_Blend id="571" originalRow="571" groupSign="" debugClose="" action="角色台词" data="wo" param="住、{0.3}住手啊！！！{#闪白震slash}" param2="" param3=""/>
+<Test_Blend id="572" originalRow="572" groupSign="" debugClose="" action="角色台词" data="tuling" param="哦哦！！居、居然还是{#闪白震slash}小P站的星级会员？！
+哎呀你别拽我，{#闪白震slash}让我康康……" param2="" param3=""/>
+<Test_Blend id="573" originalRow="573" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="杜衡_思考_动作_开始_01" param3=""/>
+<Test_Blend id="574" originalRow="574" groupSign="" debugClose="" action="角色台词" data="duheng" param="咳咳──{#杜衡待机表情}" param2="" param3=""/>
+<Test_Blend id="575" originalRow="575" groupSign="" debugClose="" action="角色台词" data="" param="杜博士轻咳了两声，涂凌总算老实了下来。" param2="" param3=""/>
+<Test_Blend id="576" originalRow="576" groupSign="" debugClose="" action="角色台词" data="duheng" param="如你所见，
+涂凌是STS的技术专家，而{角色转身,duheng,10,0.5}{#转头右中眨眼转眼}凯瑟琳是医疗官。" param2="" param3=""/>
+<Test_Blend id="577" originalRow="577" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,正,0.4}{角色转头,duheng,正,0.4}{角色转眼,duheng,正,0.4}我们下午对整栋楼进行紧急疏散后，开始了感染物排除。" param2="" param3=""/>
+<Test_Blend id="578" originalRow="578" groupSign="" debugClose="" action="角色台词" data="duheng" param="涂凌回来汇报了你的情况，所以我让凯瑟琳去医务室带你过来。" param2="" param3=""/>
+<Test_Blend id="579" originalRow="579" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}呵呵，没想到，你整个人都是巨大惊喜呢……" param2="" param3=""/>
+<Test_Blend id="580" originalRow="580" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡开心动作恢复}忽然，办公桌上的电话响起，{角色转身,duheng,右微,0.5}{#转头右中眨眼转眼}杜衡看了一眼号码便按下了免提键。" param2="" param3=""/>
+<Test_Blend id="581" originalRow="581" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="582" originalRow="582" groupSign="" debugClose="" action="角色台词" data="" param="【桌上的电话互动】" param2="" param3=""/>
+<Test_Blend id="583" originalRow="583" groupSign="" debugClose="" action="角色台词" data="stranger" param="喂喂？
+我是聂飞，听得到吗？" param2="" param3=""/>
+<Test_Blend id="584" originalRow="584" groupSign="" debugClose="" action="角色台词" data="" param="电话另一头是个刻意压低声音的中年男性，背景音里似乎隐约还能听到那首MV的曲子。" param2="" param3=""/>
+<Test_Blend id="585" originalRow="585" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<Test_Blend id="586" originalRow="586" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="听得到，刚才用电磁炸弹打断了异质物的爆发，现在地下的情况怎么样？" param2="" param3=""/>
+<Test_Blend id="587" originalRow="587" groupSign="" debugClose="" action="角色台词" data="stranger" param="我去怪不得……用有线电话才能接通。{#凯瑟琳严肃动作恢复}" param2="" param3=""/>
+<Test_Blend id="588" originalRow="588" groupSign="" debugClose="" action="角色台词" data="stranger" param="这边楼道拐角处不知什么时候冒出一台大电视，嗡嗡嗡的循环播放着那首歌，简直烦死了！{0.4}{#凯瑟琳转笔动作}" param2="" param3=""/>
+<Test_Blend id="589" originalRow="589" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="用手榴弹炸掉不就行了~" param2="" param3=""/>
+<Test_Blend id="590" originalRow="590" groupSign="" debugClose="" action="角色台词" data="stranger" param="不可能，我现在根本没法靠近404的房间，需要请求增援！" param2="" param3=""/>
+<Test_Blend id="591" originalRow="591" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
+<Test_Blend id="592" originalRow="592" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒表情}{#杜衡惊讶动作}怎么回事？
+先期下去的保安队呢？{0.6}{#杜衡惊讶动作恢复}" param2="" param3=""/>
+<Test_Blend id="593" originalRow="593" groupSign="" debugClose="" action="角色台词" data="" param="他们好像都变成了奇怪的东西，正像僵尸一样四处游荡，看见活物就会扑上去攻击。" param2="" param3=""/>
+<Test_Blend id="594" originalRow="594" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_惊讶_动作_开始_01" param3=""/>
+<Test_Blend id="595" originalRow="595" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}奇、{0.4}{#闪白ding}奇怪的东西……？" param2="" param3=""/>
+<Test_Blend id="596" originalRow="596" groupSign="" debugClose="" action="角色台词" data="stranger" param="啊，有一个算一个──{0.6}{#涂凌惊讶动作恢复}{#涂凌忧伤表情}
+全都变成了电视头。" param2="" param3=""/>
+<Test_Blend id="597" originalRow="597" groupSign="" debugClose="" action="角色台词" data="stranger" param="靠，好像有东西过来了！
+不说了，快点派增援──" param2="" param3=""/>
+<Test_Blend id="598" originalRow="598" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌待机2动作}没等我们回复，那边便挂断了电话。" param2="" param3=""/>
+<Test_Blend id="599" originalRow="599" groupSign="" debugClose="" action="角色台词" data="" param="房间内陷入了短暂了寂静，似乎大家都在努力消化刚才的信息。" param2="" param3=""/>
+<Test_Blend id="600" originalRow="600" groupSign="" debugClose="" action="角色台词" data="" param="杜博士很快便整理好了思路，发出一系列指令──" param2="" param3=""/>
+<Test_Blend id="601" originalRow="601" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#闪白震slash}{注视,duheng,tuling,0.4}{#杜衡送客动作}涂凌，封锁整个东区。" param2="" param3=""/>
+<Test_Blend id="602" originalRow="602" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}啊……{#涂凌平静表情}好、好的！{注视,duheng,,0.4}{角色转身,duheng,正,0.4}{角色转头,duheng,正,0.4}{#涂凌紧张动作}" param2="" param3=""/>
+<Test_Blend id="603" originalRow="603" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="凯瑟琳_转笔_动作_开始_01" param3=""/>
+<Test_Blend id="604" originalRow="604" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机动作}{注视,kaiselin,duheng,0.4}{注视,duheng,kaiselin,0.4}{#杜衡紧张表情}凯瑟琳，刚才我们确认过那个投影物的状态，确定已经自动收容。" param2="" param3=""/>
+<Test_Blend id="605" originalRow="605" groupSign="" debugClose="" action="角色台词" data="duheng" param="可以直接编队战斗的异质物，就投入使用吧。{移除角色,tuling}" param2="" param3=""/>
+<Test_Blend id="606" originalRow="606" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃动作}{注视,kaiselin,,0.4}{注视,duheng,,0.4}{角色转身,kaiselin,正,0.4}{角色转头,kaiselin,正,0.4}{角色转眼,kaiselin,正,0.4}明白！{0.6}{移除角色,kaiselin}" param2="" param3=""/>
+<Test_Blend id="607" originalRow="607" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色转身,duheng,正,0.4}现在无法向外发送增援请求，根据安保协议，站点内发生失控事件时我不能离开这间办公室。" param2="" param3=""/>
+<Test_Blend id="608" originalRow="608" groupSign="" debugClose="" action="角色台词" data="" param="{角色转头,duheng,正,0.4}{角色转眼,duheng,正,0.4}杜衡将目光投向了我。" param2="" param3=""/>
+<Test_Blend id="609" originalRow="609" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}所以，需要你来带队前去增援。{0.7}{#杜衡惊讶动作恢复}{#杜衡待机表情}" param2="" param3=""/>
+<Test_Blend id="610" originalRow="610" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}我、{0.4}我……我！？" param2="" param3=""/>
+<Test_Blend id="611" originalRow="611" groupSign="" debugClose="" action="角色台词" data="wo" param="可我……{0.4}并不知道怎么跟异质物战斗啊！？？" param2="" param3=""/>
+<Test_Blend id="612" originalRow="612" groupSign="" debugClose="" action="角色台词" data="wo" param="我只是个第一天来报到的新人……{0.4}
+在这之前对异质物的了解，仅限于新闻……" param2="" param3=""/>
+<Test_Blend id="613" originalRow="613" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡平静表情}没错，{0.4}但我已经任命你为指挥后勤，
+首先你的自愈机能不惧怕异质物感染。" param2="" param3=""/>
+<Test_Blend id="614" originalRow="614" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机表情}再来是你意识中的“索德之门”可以帮助战斗成员，吸收掉他们操控异质物的反噬。" param2="" param3=""/>
+<Test_Blend id="615" originalRow="615" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心动作}作为指挥型后勤，你再适合不过。" param2="" param3=""/>
+<Test_Blend id="616" originalRow="616" groupSign="" debugClose="" action="角色台词" data="duheng" param="不需要直接战斗，{0.4}只需要你{#杜衡紧张动作}及时抵消反噬影响。" param2="" param3=""/>
+<Test_Blend id="617" originalRow="617" groupSign="" debugClose="" action="角色台词" data="duheng" param="保证超感者和我方异质物的能力续航，优化我们的作战策略。" param2="" param3=""/>
+<Test_Blend id="618" originalRow="618" groupSign="" debugClose="" action="角色台词" data="" param="我不知所措的环顾左右，却看到涂凌理所当然的从凯瑟琳手中接过通讯耳机塞进了自己耳朵里。" param2="" param3=""/>
+<Test_Blend id="619" originalRow="619" groupSign="" debugClose="" action="角色台词" data="duheng" param="为了保护这座两千三百万人口的城市，STS随时要准备面对最扭曲和疯狂的异常──" param2="" param3=""/>
+<Test_Blend id="620" originalRow="620" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒表情}你，有这个觉悟吗？" param2="" param3=""/>
+<Test_Blend id="621" originalRow="621" groupSign="" debugClose="" action="可选对话框" data="" param="$$我明白了。==&gt;加入STS1
+$$我可以辞职吗？==&gt;加入STS2" param2="" param3=""/>
+<Test_Blend id="622" originalRow="622" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="623" originalRow="623" groupSign="加入STS2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="624" originalRow="624" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡平静表情}当然可以，
+不过要先给你做人格级的记忆清除。" param2="" param3=""/>
+<Test_Blend id="625" originalRow="625" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机表情}然后国家会把你安排在偏远的山村，{0.6}
+作为一个干农活时伤到了脑袋失忆的农夫。" param2="" param3=""/>
+<Test_Blend id="626" originalRow="626" groupSign="" debugClose="" action="角色台词" data="duheng" param="开始你新的人生~" param2="" param3=""/>
+<Test_Blend id="627" originalRow="627" groupSign="" debugClose="" action="角色台词" data="wo" param="真、真是周全……
+我明白了，不然也不会来STS。" param2="" param3=""/>
+<Test_Blend id="628" originalRow="628" groupSign="" debugClose="" action="跳转-标签" data="" param="加入STS1" param2="" param3=""/>
+<Test_Blend id="629" originalRow="629" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="630" originalRow="630" groupSign="加入STS1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="631" originalRow="631" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作恢复}{#杜衡待机表情}好的，那么接下来要告诉你的，
+就是这个站点最重要的机密──" param2="" param3=""/>
+<Test_Blend id="632" originalRow="632" groupSign="" debugClose="" action="角色台词" data="" param="望着杜衡深邃的眼神，
+我不由屏住了呼吸。" param2="" param3=""/>
+<Test_Blend id="633" originalRow="633" groupSign="" debugClose="" action="角色台词" data="duheng" param="昭离公馆的地下是一家豪华酒店，
+其自身就是高位格{&amp;位格}的&lt;z=yellow&gt;空间型异质物&lt;/z&gt;。" param2="" param3=""/>
+<Test_Blend id="634" originalRow="634" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡平静表情}当异质物“&lt;z=yellow&gt;入住&lt;/z&gt;”时，{0.4}{#杜衡待机表情}
+这家酒店可以任意变换客房的形态。{0.4}{#杜衡惊讶动作恢复}" param2="" param3=""/>
+<Test_Blend id="635" originalRow="635" groupSign="" debugClose="" action="角色台词" data="duheng" param="变成最适宜收容TA的样子。" param2="" param3=""/>
+<Test_Blend id="636" originalRow="636" groupSign="" debugClose="" action="角色台词" data="duheng" param="异质物虽然能引发各种超出常识的现象，
+但自身总要遵循一定的规则和模式。" param2="" param3=""/>
+<Test_Blend id="637" originalRow="637" groupSign="" debugClose="" action="角色台词" data="duheng" param="对于404这种人形异质物，{#杜衡送客动作}最重要的就是分析她的『人格』，才能找出隐藏其背后的行为规律。" param2="" param3=""/>
+<Test_Blend id="638" originalRow="638" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}而想要了解404它最便捷的方法，就是探查曾经收容她的那个酒店房间。" param2="" param3=""/>
+<Test_Blend id="639" originalRow="639" groupSign="" debugClose="" action="角色台词" data="duheng" param="找出它她的本体，击败她，然后将她收容。" param2="" param3=""/>
+<Test_Blend id="640" originalRow="640" groupSign="" debugClose="" action="角色台词" data="duheng" param="一切异质物收容前，都不可避免要经历许多战斗，{#杜衡思考表情}可以说STS作战部的日常就是与异质物的各种战斗。" param2="" param3=""/>
+<Test_Blend id="641" originalRow="641" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=左" param2="" param3=""/>
+<Test_Blend id="642" originalRow="642" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#杜衡待机表情}{#凯瑟琳魅惑表情}现在跟他说这些肯定没办法想象啦，总之去了就知道──" param2="" param3=""/>
+<Test_Blend id="643" originalRow="643" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳媚眼动作}其他的知识，我们会慢慢教他的~" param2="" param3=""/>
+<Test_Blend id="644" originalRow="644" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="645" originalRow="645" groupSign="" debugClose="" action="角色台词" data="" param="我还没来得及反应，凯瑟琳就将一个入耳式耳机塞进了我手里。" param2="" param3=""/>
+<Test_Blend id="646" originalRow="646" groupSign="" debugClose="" action="角色台词" data="" param="杜衡看着我有些呆滞的表情微微一笑，摊开我的手掌，将一枚发光的芯片放入我的掌心。" param2="" param3=""/>
+<Test_Blend id="647" originalRow="647" groupSign="" debugClose="" action="角色台词" data="" param="我瞬间感到一阵灼热的疼痛，芯片没入我的掌心，只留下一枚散发着电流光芒的符号。" param2="" param3=""/>
+<Test_Blend id="648" originalRow="648" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}&lt;size=46&gt;这这这这又是什么！？&lt;/size&gt;" param2="" param3=""/>
+<Test_Blend id="649" originalRow="649" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}STS给人身体做改造都是这么随便的吗！？" param2="" param3=""/>
+<Test_Blend id="650" originalRow="650" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="杜衡_思考_动作_开始_01" param3=""/>
+<Test_Blend id="651" originalRow="651" groupSign="" debugClose="" action="角色台词" data="duheng" param="你已经见过涂凌和凯瑟琳如何使用它了。" param2="" param3=""/>
+<Test_Blend id="652" originalRow="652" groupSign="" debugClose="" action="角色台词" data="duheng" param="这是“律之钥”，用来对应昭离公馆已收容异质物的所有权限，从召唤到收容到培养。" param2="" param3=""/>
+<Test_Blend id="653" originalRow="653" groupSign="" debugClose="" action="角色台词" data="duheng" param="包括刚才你召唤的异质物,你也可以通过这个随时回到作战室。" param2="" param3=""/>
+<Test_Blend id="654" originalRow="654" groupSign="" debugClose="" action="角色台词" data="duheng" param="因为你的超感较为特殊，无法直接控制异质物战斗。" param2="" param3=""/>
+<Test_Blend id="655" originalRow="655" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}所以除了这部分权限，其他的权限已经到了最高等级。{0.6}{#杜衡惊讶动作恢复}努力壮大我们的作战实力吧。" param2="" param3=""/>
+<Test_Blend id="656" originalRow="656" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.02}哈哈……哈哈哈，应该说，{0.4}{s=0.01}感谢您的信任吗……" param2="" param3=""/>
+<Test_Blend id="657" originalRow="657" groupSign="" debugClose="" action="角色台词" data="" param="看着杜衡笑而不语的表情，我知道已经任何退路了。" param2="" param3=""/>
+<Test_Blend id="658" originalRow="658" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<Test_Blend id="659" originalRow="659" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃动作}时间不早，我们赶紧出发了。" param2="" param3=""/>
+<Test_Blend id="660" originalRow="660" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="涂凌_待机_动作_开始_02" param3=""/>
+<Test_Blend id="661" originalRow="661" groupSign="" debugClose="" action="角色台词" data="tuling" param="准备出发——！" param2="" param3=""/>
+<Test_Blend id="662" originalRow="662" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="663" originalRow="663" groupSign="" debugClose="" action="角色台词" data="" param="我被赶鸭子上架一样，跟着凯瑟琳和涂凌来到一楼大厅。" param2="" param3=""/>
+<Test_Blend id="664" originalRow="664" groupSign="" debugClose="" action="角色台词" data="wo" param="啊，这是我下午面试的地方……" param2="" param3=""/>
+<Test_Blend id="665" originalRow="665" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}等，等等！那边的角落里，是什么！" param2="" param3=""/>
+<Test_Blend id="666" originalRow="666" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_转笔_动作_开始_01" param3=""/>
+<Test_Blend id="667" originalRow="667" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃表情}看来下午打扫得还不够干净，总有那么几个漏网之鱼。" param2="" param3=""/>
+<Test_Blend id="668" originalRow="668" groupSign="" debugClose="" action="角色台词" data="wo" param="现在就要战斗了吗！？{0.5}我还没有准备好！" param2="" param3=""/>
+<Test_Blend id="669" originalRow="669" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳转笔动作恢复}{#凯瑟琳魅惑表情}实战教学才最快呀。" param2="" param3=""/>
+<Test_Blend id="670" originalRow="670" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="确认当前的可用异质物，直接战斗吧。" param2="" param3=""/>
+<Test_Blend id="671" originalRow="671" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="672" originalRow="672" groupSign="" debugClose="" action="角色台词" data="" param="【进入第三场战斗，教学肉盾卡】" param2="" param3=""/>
+<Test_Blend id="673" originalRow="673" groupSign="" debugClose="" action="角色台词" data="wo" param="呼……呼……{0.6}这些电视机头，都是工作人员变的吗？" param2="" param3=""/>
+<Test_Blend id="674" originalRow="674" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_紧张_动作_开始_01" param3=""/>
+<Test_Blend id="675" originalRow="675" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="目前已知的是，受到那段视频影响的人员会立刻失去意识，并且在昏迷的过程中发生异变。" param2="" param3=""/>
+<Test_Blend id="676" originalRow="676" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃表情}首先是脖子及头部的皮肤产生肉眼可见的蠕动，同时发出微弱但持续的&quot;嘀嗒&quot;声。" param2="" param3=""/>
+<Test_Blend id="677" originalRow="677" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_惊讶_动作_开始_01" param3=""/>
+<Test_Blend id="678" originalRow="678" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}蠕、蠕动！" param2="" param3=""/>
+<Test_Blend id="679" originalRow="679" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="680" originalRow="680" groupSign="" debugClose="" action="角色台词" data="wo" param="……我听到过，类似机械手表发出的声音？" param2="" param3=""/>
+<Test_Blend id="681" originalRow="681" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="" param3=""/>
+<Test_Blend id="682" originalRow="682" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳严肃表情}没错。{0.6}{#凯瑟琳严肃动作}那是有机物以某种形式重组转化为&quot;有机金属&quot;的过程。" param2="" param3=""/>
+<Test_Blend id="683" originalRow="683" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="具体的重组方式目前尚不明确，{0.6}{#凯瑟琳紧张动作}这是在我们报废了一台核磁共振仪之后才发现的……" param2="" param3=""/>
+<Test_Blend id="684" originalRow="684" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#凯瑟琳紧张动作恢复}这次完事以后，东区又要重新装修了……" param2="" param3=""/>
+<Test_Blend id="685" originalRow="685" groupSign="" debugClose="" action="角色台词" data="" param="杜衡通过耳机对我们说道。" param2="" param3=""/>
+<Test_Blend id="686" originalRow="686" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#凯瑟琳思考动作}{#凯瑟琳魅惑表情}X光探查发现，受害者的大脑出现了形如齿轮、发条和电子管的装置，并正按照某种规则装配成型。" param2="" param3=""/>
+<Test_Blend id="687" originalRow="687" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="而、{0.4}而且，{0.6}{#凯瑟琳紧张动作}脑电波图形显示，他们虽然处在昏迷状态，{0.6}{#闪白震slash}{角色表情,kaiselin,凯瑟琳_享受_上脸_开始_01;凯瑟琳_魅惑_下嘴_开始_01}但一直经历着持续的剧痛！" param2="" param3=""/>
+<Test_Blend id="688" originalRow="688" groupSign="" debugClose="1" action="角色台词" data="" param="凯瑟琳似乎有些激动，声音中带着些许颤抖，脸颊还泛起了阵阵绯红。" param2="" param3=""/>
+<Test_Blend id="689" originalRow="689" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}&lt;z=blue&gt;（你在兴奋个什么劲啊喂！！）&lt;/z&gt;" param2="" param3=""/>
+<Test_Blend id="690" originalRow="690" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Test_Blend id="691" originalRow="691" groupSign="" debugClose="" action="角色台词" data="duheng" param="可以说，整个感染的过程，相当于生物逐渐变为某种机械……" param2="" param3=""/>
+<Test_Blend id="692" originalRow="692" groupSign="" debugClose="" action="角色台词" data="" param="我吞了吞口水，背后却不禁渗出一层汗来。" param2="" param3=""/>
+<Test_Blend id="693" originalRow="693" groupSign="" debugClose="" action="角色台词" data="" param="那可不是什么杀人视频，相比之下死掉都算是一种仁慈吧……" param2="" param3=""/>
+<Test_Blend id="694" originalRow="694" groupSign="" debugClose="" action="角色台词" data="duheng" param="总之，无论出于什么原因，你确实是目前唯一受到那段视频的影响却能完全恢复的人。" param2="" param3=""/>
+<Test_Blend id="695" originalRow="695" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=中" param2="凯瑟琳_转笔_动作_开始_01" param3=""/>
+<Test_Blend id="696" originalRow="696" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{#闪白ding}{#凯瑟琳魅惑表情}所以要继续探查才能找到真相，已经没有敌人了，我们下去吧。" param2="" param3=""/>
+<Test_Blend id="697" originalRow="697" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="698" originalRow="698" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Blend id="699" originalRow="699" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>
