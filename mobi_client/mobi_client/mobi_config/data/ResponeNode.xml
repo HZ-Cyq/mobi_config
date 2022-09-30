@@ -1,0 +1,5 @@
+<root>
+<ResponeNode id="1" key_string="Support" responeTitle="接着听听" textColor="#00FF00" responeIconIndex="17"/>
+<ResponeNode id="2" key_string="Threat" responeTitle="逼问一下" textColor="#FF0000" responeIconIndex="2"/>
+<ResponeNode id="3" key_string="Accuse" responeTitle="指出矛盾" textColor="#0000FF" responeIconIndex="11"/>
+</root>

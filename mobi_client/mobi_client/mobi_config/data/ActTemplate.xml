@@ -1,0 +1,7 @@
+<root>
+<ActTemplate id="10001" actId="101" isEnable="1" desc="七日嘉年华1" name="七日嘉年华" type="1" startTime="2022-07-06T05:00:00" endTime="2022-07-26T05:00:00" rewardTime="2022-07-26T12:00:00"/>
+<ActTemplate id="10002" actId="104" isEnable="1" desc="八日签到" name="八日签到" type="1" startTime="2022-07-22T05:00:00" endTime="2022-07-30T05:00:00" rewardTime="2022-07-26T12:00:00" argsInt="" argsString="hero_paintings/hero_116|签到 &lt;size=36&gt;&lt;color=#ebff43&gt;3&lt;/color&gt;&lt;/size&gt; 天    可获得强力三星异质物&lt;size=36&gt;&lt;color=#ebff43&gt;莉尔塔III型&lt;/color&gt;&lt;/size&gt;"/>
+<ActTemplate id="101" actId="102" isEnable="1" desc="xxx排行榜" name="xxx排行榜" type="2" startTime="2022-07-06T05:00:00" endTime="2022-07-26T05:00:00" rewardTime="2022-07-26T12:00:00" argsInt="2999" argsString=""/>
+<ActTemplate id="102" actId="103" isEnable="1" desc="每日签到" name="每日签到" type="0" startTime="0000-00-00T00:00:00" endTime="0000-00-00T00:00:00" rewardTime="0000-00-00T00:00:00"/>
+<LimitState id="LimitState" actId="" isEnable="IN:[0;1]" desc="" name="" type="IN:[0;1;2]" startTime="" endTime="" rewardTime="" argsInt="" argsString=""/>
+</root>

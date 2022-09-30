@@ -1,0 +1,22 @@
+<root>
+<Server id="10001" ip="101.43.199.39" port="10010" name="外网公服-1（内部稳定）"/>
+<Server id="10002" ip="101.43.199.39" port="10020" name="外网公服-2（对外）"/>
+<Server id="10003" ip="101.43.199.39" port="10030" name="外网公服-3（新功能测试）"/>
+<Server id="10004" ip="101.43.199.39" port="10040" name="外网公服-4"/>
+<Server id="10005" ip="101.43.199.39" port="10050" name="外网公服-5"/>
+<Server id="1005" ip="172.30.224.37" port="8844" name="liujing"/>
+<Server id="1006" port="8844" name="mafuwang"/>
+<Server id="1007" ip="182.92.73.58" port="8855" name="liuweiguang(外网调试)"/>
+<Server id="1008" port="8844" name="zhaoliang"/>
+<Server id="1009" port="8844" name="wangwei"/>
+<Server id="1010" port="8844" name="wangxinyuan"/>
+<Server id="1011" port="8844" name="xiangzichuan"/>
+<Server id="1012" port="8844" name="tianjing"/>
+<Server id="1013" port="8844" name="liziyang"/>
+<Server id="1016" port="8844" name="wangjian"/>
+<Server id="1017" ip="172.30.224.62" port="8844" name="qiwentao"/>
+<Server id="1019" ip="172.30.224.15" port="8844" name="lihongwei"/>
+<Server id="1023" ip="172.30.224.42" port="8844" name="chenyuqun"/>
+<Server id="1099" ip="127.0.0.1" port="8844" name="本机私服"/>
+<Server id="10011" ip="101.43.199.39" port="10110" name="兼容测试服"/>
+</root>

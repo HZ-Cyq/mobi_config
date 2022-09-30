@@ -1,0 +1,13 @@
+package com.mobi.config.configModel;
+import com.mobi.config.ConfigModel;
+import com.mobi.config.wrappedArrayList.*;
+public class RpgSceneConfigModel extends ConfigModel {
+	public int group_roomId;//roomId
+	public int sceneLogicType;//场景类型0-普通 1-箱庭 2-迷宫
+	public ArrArrString default_npc;//槽位x;固定npc别名;前置任务Id(完成则出现);后置任务Id(完成则不出现)
+	public String key_name;//可能出现的场景名
+	public String scenePic;//场景图片
+	public ArrInt button;//左下角默认功能按钮
+	public int dataLvLimit;//约会羁绊等级限制
+	public String desc;//房间描述
+}

@@ -1,0 +1,5 @@
+<root>
+<UnitScan id="1" SubQuestId="13003" roomId="30003" doAvg="C3_QYZoffice|相位侦测APP" delay="2"/>
+<UnitScan id="2" SubQuestId="13011" roomId="30004" doAvg="C3_laboratory|相位侦测APP" delay="2"/>
+<LimitState id="LimitState" SubQuestId="" roomId="" doAvg="" delay=""/>
+</root>
