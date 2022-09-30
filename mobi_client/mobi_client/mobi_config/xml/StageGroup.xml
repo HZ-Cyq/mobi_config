@@ -1,6 +1,0 @@
-<root>
-<StageGroup id="1" group_type="0" scene_name="apartment" pre_group="" name="泉舜一号楼" open_level="0" stage_id="2001|2002|2003|2004|2005|2006" target_reward="6;200001|12;200002|18;200003|24;200004"/>
-<StageGroup id="2" group_type="0" scene_name="apartment" pre_group="1" name="泉舜二号楼" open_level="0" stage_id="2011|2012|2013|2014|2015|2016|2017|2018" target_reward="8;201001|16;201002|24;201003|32;201004"/>
-<StageGroup id="3" group_type="0" scene_name="apartment" pre_group="2" name="泉舜三号楼" open_level="0" stage_id="2021|2022|2023|2024|2025|2026|2027|2028|2029|2030" target_reward="10;202001|20;202002|30;202003|40;202004"/>
-<StageGroup id="4" group_type="0" open_level="0" stage_id="2031|2032|2033|2034|2035|2036|2037|2038|2039|2040" target_reward="10;202001|20;202002|30;202003|40;202004"/>
-</root>

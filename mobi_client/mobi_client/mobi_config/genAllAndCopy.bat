@@ -55,8 +55,8 @@ echo .
 
 del /q java\*.java
 del /q csharp\*.cs
-::del /q xml\*.xml
-::del /q xml\AVGScripts\*.xml
+del /q xml\*.xml
+del /q xml\AVGScripts\*.xml
 del /q ConfigManager.java
 del /q csharp\MainCSharp\*.cs
 del /q csharp\HFCSharp\*.cs
