@@ -1,0 +1,119 @@
+<root>
+<PromptInformation id="1" key_variable="CommonOk" value="通用成功"/>
+<PromptInformation id="2" key_variable="CommonFail" value="通用失败"/>
+<PromptInformation id="3" key_variable="CommonIllegalParams" value="通用非法参数"/>
+<PromptInformation id="4" key_variable="LogoutByNewComer" value="被顶号"/>
+<PromptInformation id="5" key_variable="LogoutServerShutdown" value="服务器维护"/>
+<PromptInformation id="6" key_variable="ExpectValueError" value="期望值错误"/>
+<PromptInformation id="7" key_variable="UserCdkeyUnactive" value="账号未激活"/>
+<PromptInformation id="8" key_variable="CdkeyInvalid" value="无效的激活码"/>
+<PromptInformation id="9" key_variable="UserOnlineMax" value="同时在线用户超上限"/>
+<PromptInformation id="10" key_variable="UserChannelUnkown" value="未知渠道"/>
+<PromptInformation id="11" key_variable="NoStamina" value="体力不足"/>
+<PromptInformation id="12" key_variable="NoDiamond" value="钻石不足"/>
+<PromptInformation id="13" key_variable="NoMoney" value="金币不足"/>
+<PromptInformation id="14" key_variable="NoTeamLevel" value="战队等级不足（主角职业等级）"/>
+<PromptInformation id="15" key_variable="TooMuchStamina" value="体力太多，无法再回复"/>
+<PromptInformation id="16" key_variable="RoomNotExist" value="所需的场景不存在"/>
+<PromptInformation id="17" key_variable="RoleNotExist" value="小队成员不存在"/>
+<PromptInformation id="18" key_variable="RoleNotEnoughSkillPoint" value="技能点不足"/>
+<PromptInformation id="19" key_variable="RoleTalentHasUnlocked" value="该天赋已解锁"/>
+<PromptInformation id="20" key_variable="RoleTalentReqNotEnough" value="该天赋未满足前提条件"/>
+<PromptInformation id="21" key_variable="RoleTalentPointNotEnough" value="天赋点不足"/>
+<PromptInformation id="22" key_variable="UnitLevelNotEnough" value="异质物等级不足"/>
+<PromptInformation id="23" key_variable="UnitNotExist" value="异质物不存在"/>
+<PromptInformation id="24" key_variable="UnitLevelMax" value="异质物满级"/>
+<PromptInformation id="25" key_variable="UnitSkillLock" value="异质物技能锁定"/>
+<PromptInformation id="26" key_variable="UnitSpNotEnough" value="异质物技能点不足"/>
+<PromptInformation id="27" key_variable="UnitSkillNoChange" value="异质物技能未改变不能重置"/>
+<PromptInformation id="28" key_variable="UnitQualityMax" value="异质物品质已满"/>
+<PromptInformation id="29" key_variable="UnitQualityError" value="异质物品质错误"/>
+<PromptInformation id="30" key_variable="UnitIsExist" value="异质物已经存在"/>
+<PromptInformation id="31" key_variable="UnitResearchAllOpen" value="异质物研发全部解锁"/>
+<PromptInformation id="32" key_variable="QuestNotExist" value="任务不存在"/>
+<PromptInformation id="33" key_variable="QuestStateError" value="任务状态异常"/>
+<PromptInformation id="34" key_variable="QuestPreNotCompleted" value="前置任务未完成"/>
+<PromptInformation id="35" key_variable="QuestHasCompleted" value="任务曾经已完成，不能再次完成"/>
+<PromptInformation id="36" key_variable="QuestHasExisted" value="任务已存在"/>
+<PromptInformation id="37" key_variable="StageNoPreReq" value="关卡 - 前置条件未完成（前置关卡未完成）"/>
+<PromptInformation id="38" key_variable="StageNoTicket" value="关卡 - 门票不足"/>
+<PromptInformation id="39" key_variable="StageNoSweepReq" value="关卡 - 不满足扫荡条件"/>
+<PromptInformation id="40" key_variable="StageNotComplete" value="关卡 - 未完成"/>
+<PromptInformation id="41" key_variable="StagePointNotEnough" value="关卡 - 积分不足"/>
+<PromptInformation id="42" key_variable="StageRewardGained" value="关卡 - 奖励已领取"/>
+<PromptInformation id="43" key_variable="StageNotStarted" value="关卡 - 未开始"/>
+<PromptInformation id="44" key_variable="ItemNotExist" value="道具不存在"/>
+<PromptInformation id="45" key_variable="ItemNotEnough" value="道具使用 - 数量不足"/>
+<PromptInformation id="46" key_variable="ItemTypeError" value="道具使用类型错误"/>
+<PromptInformation id="47" key_variable="ItemNotSell" value="道具无法出售"/>
+<PromptInformation id="48" key_variable="ItemNotInstance" value="道具实例不存在"/>
+<PromptInformation id="49" key_variable="ItemUseMax" value="道具使用数量达到上限"/>
+<PromptInformation id="50" key_variable="ItemCommonFailed" value="道具内部错误"/>
+<PromptInformation id="51" key_variable="ItemUseTooMuch" value="一次性使用了太多的道具"/>
+<PromptInformation id="52" key_variable="ItemDataParamInvalid" value="道具使用参数异常"/>
+<PromptInformation id="53" key_variable="EquipNotExist" value="装备 - 不存在"/>
+<PromptInformation id="54" key_variable="DropError" value="掉落配置错误"/>
+<PromptInformation id="55" key_variable="ShopDurationInvalid" value="商店不在有效期内"/>
+<PromptInformation id="56" key_variable="ShopGoodsRefreshed" value="商店物品已更新"/>
+<PromptInformation id="57" key_variable="ShopSlotInvalid" value="无效的商品栏位"/>
+<PromptInformation id="58" key_variable="ShopItemSoldOut" value="商品已售完"/>
+<PromptInformation id="59" key_variable="ShopItemNotOnSale" value="商品已下架"/>
+<PromptInformation id="60" key_variable="ShopRefreshInvalid" value="商店不可刷新"/>
+<PromptInformation id="61" key_variable="ShopRefreshUsed" value="商店刷新次数已用完"/>
+<PromptInformation id="62" key_variable="ShopBuyAmountInvalid" value="商店购买量溢出"/>
+<PromptInformation id="63" key_variable="ShopTeamLevelInvalid" value="主角等级不足，无法访问"/>
+<PromptInformation id="64" key_variable="ShopQuestInvalid" value="未完成对应任务"/>
+<PromptInformation id="65" key_variable="GachaScheduleInvalid" value="不在活动时间范围内"/>
+<PromptInformation id="66" key_variable="GachaTimesUsed" value="抽卡次数已用完"/>
+<PromptInformation id="67" key_variable="GachaRequirementInvalid" value="抽卡未满足前提条件"/>
+<PromptInformation id="68" key_variable="GachaDailyTimesUsed" value="该卡池每日次数已用完"/>
+<PromptInformation id="69" key_variable="GachaPrizeGained" value="抽卡奖励已领取"/>
+<PromptInformation id="70" key_variable="GachaPrizeInvalid" value="抽卡奖励无效"/>
+<PromptInformation id="71" key_variable="GachaPrizeNotRequired" value="抽卡奖励条件未满足"/>
+<PromptInformation id="72" key_variable="GachaParamInvalid" value="无效抽卡参数"/>
+<PromptInformation id="73" key_variable="GachaTypeInvalid" value="不支持的适用类型（不支持单抽等等）"/>
+<PromptInformation id="74" key_variable="MailInvalid" value="无效的邮件ID"/>
+<PromptInformation id="75" key_variable="MailIsRead" value="邮件已经读过了（或领过奖励了）"/>
+<PromptInformation id="76" key_variable="MailIsUnread" value="邮件还没有读过，不能删除"/>
+<PromptInformation id="77" key_variable="MailIsEmpty" value="没有有效的邮件"/>
+<PromptInformation id="78" key_variable="MailIsExpire" value="邮件已过期"/>
+<PromptInformation id="79" key_variable="AchievementNotFinished" value="成就未完成"/>
+<PromptInformation id="80" key_variable="AchievementRewardGained" value="成就已领过奖励"/>
+<PromptInformation id="81" key_variable="AchievementInvalidValue" value="成就无效的目标值"/>
+<PromptInformation id="82" key_variable="UserCdkeyUnactive" value="账号未激活，需输入激活码"/>
+<PromptInformation id="83" key_variable="UserCdkeyInvalid" value="不存在的激活码"/>
+<PromptInformation id="84" key_variable="UserCdkeyNotStarted" value="激活码未到使用时间"/>
+<PromptInformation id="85" key_variable="UserCdkeyEnd" value="激活码已过期"/>
+<PromptInformation id="86" key_variable="UserCdkeyIsUsed" value="激活码已使用"/>
+<PromptInformation id="87" key_variable="UserCdkeyChannelForbid" value="激活码该渠道不能使用"/>
+<PromptInformation id="88" key_variable="UserCdkeyTemplateError" value="激活码模板数据错误"/>
+<PromptInformation id="89" key_variable="UserCdkeyChannelError" value="激活码渠道信息有误"/>
+<PromptInformation id="90" key_variable="UserCdkeyServeridInvalid" value="服务器ID错误"/>
+<PromptInformation id="91" key_variable="UserCdkeyParamInvalid" value="激活码返回参数错误"/>
+<PromptInformation id="92" key_variable="GiftKeyInvalid" value="礼包码不存在"/>
+<PromptInformation id="93" key_variable="GiftKeyNotStarted" value="礼包码未到使用时间"/>
+<PromptInformation id="94" key_variable="GiftKeyEnd" value="礼包码已过期"/>
+<PromptInformation id="95" key_variable="GiftKeyUsedSelf" value="该礼包码您已经使用过了"/>
+<PromptInformation id="96" key_variable="GiftKeyUsed" value="礼包码已使用"/>
+<PromptInformation id="97" key_variable="GiftKeyChannelForbid" value="礼包码该渠道不能使用"/>
+<PromptInformation id="98" key_variable="GiftKeyTemplateError" value="礼包码模板信息错误"/>
+<PromptInformation id="99" key_variable="GiftKeyLimited" value="礼包码已达上限"/>
+<PromptInformation id="100" key_variable="GiftKeyInputInvalid" value="礼包码信息错误 (数据不一致)"/>
+<PromptInformation id="101" key_variable="GiftKeyParamInvalid" value="礼包码返回参数错误"/>
+<PromptInformation id="102" key_variable="GmCenterNetError" value="GM服务器连接异常"/>
+<PromptInformation id="103" key_variable="SdkNetError" value="SDK校验服务器连接异常"/>
+<PromptInformation id="104" key_variable="FeedbackFreeMsg" value="自定义消息(服务器直接发文本)"/>
+<PromptInformation id="105" key_variable="BlackUserLogout" value="账号异常,请联系客服"/>
+<PromptInformation id="106" key_variable="MazeCanNotEnter" value="迷宫进入条件未达成"/>
+<PromptInformation id="107" key_variable="MazeEventCanNotOpen" value="迷宫事件未达到开启条件"/>
+<PromptInformation id="108" key_variable="MazeEventCanNotComplete" value="迷宫事件未达到完成条件"/>
+<PromptInformation id="109" key_variable="MazeEventNotFound" value="迷宫事件不存在"/>
+<PromptInformation id="110" key_variable="MazeNotFound" value="迷宫不存在"/>
+<PromptInformation id="111" key_variable="NotGetTime" value="体力领取时间未到"/>
+<PromptInformation id="112" key_variable="HasBeenGet" value="已经领取过体力了"/>
+<PromptInformation id="113" key_variable="NoBuyStaminaTimes" value="购买体力次数已用完"/>
+<PromptInformation id="114" key_variable="UserRegisterMax" value="注册人数达到上限"/>
+<PromptInformation id="115" key_variable="MazeEventHasBeenComplete" value="迷宫事件已经完成过了"/>
+<PromptInformation id="116" key_variable="ShopCoinNotEnough" value="货币不足"/>
+<PromptInformation id="116" key_variable="ServerSeriousError" value="服务器严重错误"/>
+</root>

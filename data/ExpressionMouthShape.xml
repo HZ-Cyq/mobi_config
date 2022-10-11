@@ -1,0 +1,141 @@
+<root>
+<ExpressionMouthShape id="1" key_charAlias="周易_待机_01" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="2" key_charAlias="周易_平静_01" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="3" key_charAlias="周易_害羞_01" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="4" key_charAlias="周易_开心_01" talkAnimName="周易_开心_说话_循环_01"/>
+<ExpressionMouthShape id="5" key_charAlias="周易_忧伤_01" talkAnimName="周易_忧伤_说话_循环_01"/>
+<ExpressionMouthShape id="6" key_charAlias="周易_惊讶_01" talkAnimName="周易_惊讶_说话_循环_01"/>
+<ExpressionMouthShape id="7" key_charAlias="周易_成功_01" talkAnimName="周易_开心_说话_循环_01"/>
+<ExpressionMouthShape id="8" key_charAlias="周易_紧张_01" talkAnimName="周易_紧张_说话_循环_01"/>
+<ExpressionMouthShape id="9" key_charAlias="周易_思考_01" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="10" key_charAlias="周易_思考_02"/>
+<ExpressionMouthShape id="11" key_charAlias="周易_思考_03" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="12" key_charAlias="周易_无奈_01" talkAnimName="周易_无奈_说话_循环_01"/>
+<ExpressionMouthShape id="13" key_charAlias="周易_无奈_02" talkAnimName="周易_无奈_说话_循环_01"/>
+<ExpressionMouthShape id="14" key_charAlias="周易_无奈_03"/>
+<ExpressionMouthShape id="15" key_charAlias="周易_愤怒_01" talkAnimName="周易_愤怒_说话_循环_01"/>
+<ExpressionMouthShape id="16" key_charAlias="周易_怀疑_01" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="17" key_charAlias="周易_成功_01" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="18" key_charAlias="周易_成功_02" talkAnimName="周易_待机_说话_循环_01"/>
+<ExpressionMouthShape id="19" key_charAlias="周易_晕_01" talkAnimName=""/>
+<ExpressionMouthShape id="20" key_charAlias="周易_晕_02" talkAnimName=""/>
+<ExpressionMouthShape id="21"/>
+<ExpressionMouthShape id="22" key_charAlias="李加虎_待机_01" talkAnimName="李加虎_待机_说话_循环_01"/>
+<ExpressionMouthShape id="23" key_charAlias="李加虎_待机_02" talkAnimName="李加虎_待机_说话_循环_01"/>
+<ExpressionMouthShape id="24" key_charAlias="李加虎_开心_01" talkAnimName="李加虎_开心_说话_循环_01"/>
+<ExpressionMouthShape id="25" key_charAlias="李加虎_开心_02" talkAnimName="李加虎_开心_说话_循环_02"/>
+<ExpressionMouthShape id="26" key_charAlias="李加虎_严肃_01" talkAnimName="李加虎_严肃_说话_循环_01"/>
+<ExpressionMouthShape id="27" key_charAlias="李加虎_忧伤_01" talkAnimName="李加虎_忧伤_说话_循环_01"/>
+<ExpressionMouthShape id="28" key_charAlias="李加虎_惊讶_01" talkAnimName="李加虎_惊讶_说话_循环_01"/>
+<ExpressionMouthShape id="29" key_charAlias="李加虎_紧张_01" talkAnimName="李加虎_紧张_说话_循环_01"/>
+<ExpressionMouthShape id="30" key_charAlias="李加虎_思考_01" talkAnimName="李加虎_思考_说话_循环_01"/>
+<ExpressionMouthShape id="31" key_charAlias="李加虎_愤怒_01" talkAnimName="李加虎_愤怒_说话_循环_01"/>
+<ExpressionMouthShape id="32" key_charAlias="李加虎_得意_01" talkAnimName="李加虎_得意_说话_循环_01"/>
+<ExpressionMouthShape id="33" key_charAlias="李加虎_打气_01" talkAnimName="李加虎_打气_说话_循环_01"/>
+<ExpressionMouthShape id="34" key_charAlias="李加虎_害怕_01" talkAnimName="李加虎_害怕_说话_循环_01"/>
+<ExpressionMouthShape id="35" key_charAlias="李加虎_不屑_01" talkAnimName="李加虎_不屑_说话_循环_01"/>
+<ExpressionMouthShape id="36" key_charAlias="李加虎_好奇_01" talkAnimName="李加虎_好奇_说话_循环_01"/>
+<ExpressionMouthShape id="37" key_charAlias="李加虎_着急_01" talkAnimName="李加虎_着急_说话_循环_01"/>
+<ExpressionMouthShape id="38" key_charAlias="李加虎_不屑_02"/>
+<ExpressionMouthShape id="39" key_charAlias="李加虎_击破_01"/>
+<ExpressionMouthShape id="40" key_charAlias="李加虎_击破_02"/>
+<ExpressionMouthShape id="41" key_charAlias="李加虎_击破_03"/>
+<ExpressionMouthShape id="42" key_charAlias="李加虎_击破_04"/>
+<ExpressionMouthShape id="43"/>
+<ExpressionMouthShape id="44" key_charAlias="凯瑟琳_待机_01" talkAnimName="凯瑟琳_待机_说话_循环_01"/>
+<ExpressionMouthShape id="45" key_charAlias="凯瑟琳_开心_01" talkAnimName="凯瑟琳_开心_说话_循环_01"/>
+<ExpressionMouthShape id="46" key_charAlias="凯瑟琳_惊讶_01" talkAnimName="凯瑟琳_惊讶_说话_循环_01"/>
+<ExpressionMouthShape id="47" key_charAlias="凯瑟琳_严肃_01" talkAnimName="凯瑟琳_严肃_说话_循环_01"/>
+<ExpressionMouthShape id="48" key_charAlias="凯瑟琳_忧伤_01" talkAnimName="凯瑟琳_忧伤_说话_循环_01"/>
+<ExpressionMouthShape id="49" key_charAlias="凯瑟琳_紧张_01" talkAnimName="凯瑟琳_待机_说话_循环_01"/>
+<ExpressionMouthShape id="50" key_charAlias="凯瑟琳_思考_01" talkAnimName="凯瑟琳_思考_说话_循环_01"/>
+<ExpressionMouthShape id="51" key_charAlias="凯瑟琳_愤怒_01" talkAnimName="凯瑟琳_愤怒_说话_循环_01"/>
+<ExpressionMouthShape id="52" key_charAlias="凯瑟琳_得意_01" talkAnimName="凯瑟琳_待机_说话_循环_01"/>
+<ExpressionMouthShape id="53" key_charAlias="凯瑟琳_魅惑_01" talkAnimName="凯瑟琳_待机_说话_循环_01"/>
+<ExpressionMouthShape id="54" key_charAlias="凯瑟琳_媚眼_01" talkAnimName="凯瑟琳_待机_说话_循环_01"/>
+<ExpressionMouthShape id="55" key_charAlias="凯瑟琳_享受_01"/>
+<ExpressionMouthShape id="56"/>
+<ExpressionMouthShape id="57" key_charAlias="聂总_待机_01" talkAnimName="聂总_待机_说话_循环_01"/>
+<ExpressionMouthShape id="58" key_charAlias="聂总_开心_01" talkAnimName="聂总_开心_说话_循环_01"/>
+<ExpressionMouthShape id="59" key_charAlias="聂总_严肃_01" talkAnimName="聂总_待机_说话_循环_01"/>
+<ExpressionMouthShape id="60" key_charAlias="聂总_忧伤_01" talkAnimName="聂总_忧伤_说话_循环_01"/>
+<ExpressionMouthShape id="61" key_charAlias="聂总_惊讶_01"/>
+<ExpressionMouthShape id="62" key_charAlias="聂总_紧张_01" talkAnimName="聂总_紧张_说话_循环_01"/>
+<ExpressionMouthShape id="63" key_charAlias="聂总_思考_01" talkAnimName="聂总_待机_说话_循环_01"/>
+<ExpressionMouthShape id="64" key_charAlias="聂总_愤怒_01" talkAnimName="聂总_愤怒_说话_循环_01"/>
+<ExpressionMouthShape id="65" key_charAlias="聂总_得意_01" talkAnimName="聂总_得意_说话_循环_01"/>
+<ExpressionMouthShape id="66" key_charAlias="聂总_尴尬_01" talkAnimName="聂总_尴尬_说话_循环_01"/>
+<ExpressionMouthShape id="67"/>
+<ExpressionMouthShape id="68" key_charAlias="涂凌_待机_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="69" key_charAlias="涂凌_待机_02" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="70" key_charAlias="涂凌_开心_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="71" key_charAlias="涂凌_忧伤_01"/>
+<ExpressionMouthShape id="72" key_charAlias="涂凌_惊讶_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="73" key_charAlias="涂凌_紧张_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="74" key_charAlias="涂凌_思考_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="75" key_charAlias="涂凌_憋气_01"/>
+<ExpressionMouthShape id="76" key_charAlias="涂凌_喘气_01"/>
+<ExpressionMouthShape id="77" key_charAlias="涂凌_无聊_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="78" key_charAlias="涂凌_愤怒_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="79" key_charAlias="涂凌_打字_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="80" key_charAlias="涂凌_憋气_02" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="81" key_charAlias="涂凌_惊恐_01" talkAnimName="涂凌_待机_说话_循环_01"/>
+<ExpressionMouthShape id="82"/>
+<ExpressionMouthShape id="83" key_charAlias="黄权_待机_01" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="84" key_charAlias="黄权_平静_01" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="85" key_charAlias="黄权_开心_01" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="86" key_charAlias="黄权_忧伤_01" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="87" key_charAlias="黄权_紧张_01" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="88" key_charAlias="黄权_思考_01"/>
+<ExpressionMouthShape id="89" key_charAlias="黄权_思考_02"/>
+<ExpressionMouthShape id="90" key_charAlias="黄权_愤怒_01" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="91" key_charAlias="黄权_愤怒_02" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="92" key_charAlias="黄权_尴尬_01" talkAnimName="黄权_待机_说话_循环_01"/>
+<ExpressionMouthShape id="93" key_charAlias="黄权_击破_01"/>
+<ExpressionMouthShape id="94"/>
+<ExpressionMouthShape id="95" key_charAlias="杜衡_待机_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="96" key_charAlias="杜衡_平静_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="97" key_charAlias="杜衡_开心_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="98" key_charAlias="杜衡_忧伤_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="99" key_charAlias="杜衡_惊讶_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="100" key_charAlias="杜衡_紧张_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="101" key_charAlias="杜衡_思考_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="102" key_charAlias="杜衡_愤怒_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="103" key_charAlias="杜衡_愤怒_02"/>
+<ExpressionMouthShape id="104" key_charAlias="杜衡_调戏_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="105" key_charAlias="杜衡_送客_01"/>
+<ExpressionMouthShape id="106" key_charAlias="杜衡_看文件_01" talkAnimName="杜衡_待机_说话_循环_01"/>
+<ExpressionMouthShape id="107"/>
+<ExpressionMouthShape id="108"/>
+<ExpressionMouthShape id="109" talkAnimName=""/>
+<ExpressionMouthShape id="110"/>
+<ExpressionMouthShape id="111" key_charAlias="陈冰_待机_01" talkAnimName="陈冰_待机_说话_循环_01"/>
+<ExpressionMouthShape id="112" key_charAlias="余阿南_待机_01" talkAnimName="余阿南_待机_说话_循环_01"/>
+<ExpressionMouthShape id="113"/>
+<ExpressionMouthShape id="114"/>
+<ExpressionMouthShape id="115" key_charAlias="土山奥_待机_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="116" key_charAlias="土山奥_平静_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="117" key_charAlias="土山奥_开心_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="118" key_charAlias="土山奥_思考_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="119" key_charAlias="土山奥_惊讶_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="120" key_charAlias="土山奥_紧张_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="121" key_charAlias="土山奥_无聊_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="122" key_charAlias="土山奥_忧伤_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="123" key_charAlias="土山奥_生气_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="124" key_charAlias="土山奥_邪恶_01" talkAnimName="土山奥_待机_说话_循环_01"/>
+<ExpressionMouthShape id="125"/>
+<ExpressionMouthShape id="126"/>
+<ExpressionMouthShape id="127" key_charAlias="npc标准男01_待机_01" talkAnimName="npc标准男01_待机_说话_循环_01"/>
+<ExpressionMouthShape id="128" key_charAlias="npc标准男01_愤怒_01" talkAnimName="npc标准男01_愤怒_说话_循环_01"/>
+<ExpressionMouthShape id="129" key_charAlias="npc标准男01_紧张_01" talkAnimName="npc标准男01_紧张_说话_循环_01"/>
+<ExpressionMouthShape id="130"/>
+<ExpressionMouthShape id="131" key_charAlias="npc标准女01_待机_01" talkAnimName="npc标准女01_待机_说话_循环_01"/>
+<ExpressionMouthShape id="132" key_charAlias="npc标准女01_愤怒_01" talkAnimName="npc标准女01_愤怒_说话_循环_01"/>
+<ExpressionMouthShape id="133" key_charAlias="npc标准女01_紧张_01" talkAnimName="npc标准女01_紧张_说话_循环_01"/>
+<ExpressionMouthShape id="134"/>
+<ExpressionMouthShape id="135" key_charAlias="STS科研人员_待机_01" talkAnimName="STS科研人员_待机_说话_循环_01"/>
+<ExpressionMouthShape id="136" key_charAlias="STS科研人员_愤怒_01" talkAnimName="STS科研人员_愤怒_说话_循环_01"/>
+<ExpressionMouthShape id="137" key_charAlias="STS科研人员_紧张_01" talkAnimName="STS科研人员_紧张_说话_循环_01"/>
+<ExpressionMouthShape id="138"/>
+<ExpressionMouthShape id="139"/>
+</root>

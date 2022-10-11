@@ -1,0 +1,5 @@
+<root>
+<DatingGift id="11" veryLike="400110" veryLikeResponeAvg="gift_kaiselin" like="400111|400112|400113" LikeResponeAvg="gift_kaiselin1" normalResponeAvg="gift_kaiselin2" dislike="400130|400111|400112|400113" dislikeResponeAvg="gift_kaiselin3" returnGift="201000|200002|300301|300304|300404" giftCount="1|5|5|3|3" giftWeight="1|10|2|2|2" giftAvg="gift_kaiselin4"/>
+<DatingGift id="12" veryLike="400120" veryLikeResponeAvg="gift_niefei" like="400111|400112|400113" LikeResponeAvg="gift_niefei1" normalResponeAvg="gift_niefei2" dislike="400110|400111|400112|400113" dislikeResponeAvg="gift_niefei3" returnGift="201000|200002|300301|300304|300404" giftCount="1|5|5|3|3" giftWeight="1|10|2|2|2" giftAvg="gift_niefei4"/>
+<DatingGift id="13" veryLike="400130" veryLikeResponeAvg="gift_tuling" like="400111|400112|400113" LikeResponeAvg="gift_tuling1" normalResponeAvg="gift_tuling2" dislike="400120|400111|400112|400113" dislikeResponeAvg="gift_tuling3" returnGift="201000|200002|300301|300304|300404" giftCount="1|5|5|3|3" giftWeight="1|10|2|2|2" giftAvg="gift_tuling4"/>
+</root>

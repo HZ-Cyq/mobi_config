@@ -1,0 +1,66 @@
+<root>
+<GlobalParam id="1" key_variable="KEY_AVG_TYPEWRITER_SPEED" value="0.04" type="float"/>
+<GlobalParam id="2" key_variable="KEY_AVG_COURT_TYPEWRITER_SPEED" value="0.09" type="float"/>
+<GlobalParam id="3" key_variable="KEY_AVG_DIALOG_INTERVAL_TIME" value="2" type="float"/>
+<GlobalParam id="4" key_variable="KEY_KANBAN_IDLE_TIME" value="30" type="float"/>
+<GlobalParam id="5" key_variable="KEY_GAME_PLAYER_ICON_PATH" value="hero_icon/hero_100" type="string"/>
+<GlobalParam id="6" key_variable="KEY_GAME_PLAYER_DRAWING_PATH" value="hero_paintings/zhujue" type="string"/>
+<GlobalParam id="7" key_variable="KEY_SKILL_POINT_ILLUSTRATE" value="在小队天赋中,部分天\n赋会为全员提供技能点" type="string"/>
+<GlobalParam id="8" key_variable="KEY_FAVOR_UP_RATIO_ARRAY" value="400|1000|1500|4000" type="aint"/>
+<GlobalParam id="9" key_variable="KEY_ROLE_REFRESH_TIME_ARRAY" value="6|12|18|24" type="aint"/>
+<GlobalParam id="10" key_variable="KEY_DATING_MISSION_DESCRIBTION" value="在{0}和{1}的见面" type="string"/>
+<GlobalParam id="11" key_variable="KEY_GAME_ROLE_DRAWING_PATH" value="role_paintings" type="string"/>
+<GlobalParam id="12" key_variable="KEY_BATTLE_FAVOR" value="1" type="int"/>
+<GlobalParam id="13" key_variable="KEY_BATTLE_FAITH" value="1" type="int"/>
+<GlobalParam id="14" key_variable="KEY_MAX_TRUST" value="10000" type="int"/>
+<GlobalParam id="15" key_variable="KEY_UNIT_RESETSKILL_COST" value="3|50" type="aint"/>
+<GlobalParam id="16" key_variable="KEY_EXP_ITEMS" value="200001|200002|200003|200004" type="aint"/>
+<GlobalParam id="17" key_variable="KEY_UNIT_DRAWING_ZOOM" value="0.5|2.5" type="afloat"/>
+<GlobalParam id="18" key_variable="KEY_CAROUSEL_DEFAULT_LEFT" value="chapter0_1|chapter0_2|chapter0_3|chapter0_4|chapter0_5|chapter0_6" type="astring"/>
+<GlobalParam id="19" key_variable="KEY_CAROUSEL_DEFAULT_RIGHT" value="yizhiwu_1|yizhiwu_2|yizhiwu_3" type="astring"/>
+<GlobalParam id="20" key_variable="KEY_CAROUSEL_DEFAULT_LEFT_SCENE" value="C0_prologue" type="string"/>
+<GlobalParam id="21" key_variable="KEY_CAROUSEL_DEFAULT_RIGHT_UI" value="ui_unit_package" type="string"/>
+<GlobalParam id="22" key_variable="KEY_QUEST_INIT_DEFAULT" value="主线_第一部_序章" type="astring"/>
+<GlobalParam id="23" key_variable="KEY_SOLOCOURT_FAILED" value="logic_solo|合成失败" type="astring"/>
+<GlobalParam id="24" key_variable="KEY_BGM_FADEIN_TIME" value="3" type="float" multi_params=""/>
+<GlobalParam id="25" key_variable="KEY_BGM_FADEOUT_TIME" value="3" type="float"/>
+<GlobalParam id="26" key_variable="KEY_BGM_DEFAULT_BGM" value="bgm_main" type="string"/>
+<GlobalParam id="27" key_variable="KEY_BGM_HIGH_VOLUME_RATIO" value="1" type="float"/>
+<GlobalParam id="28" key_variable="KEY_BGM_LOW_VOLUME_RATIO" value="0.6" type="float"/>
+<GlobalParam id="29" key_variable="KEY_SHOW_DEVELOPMENT" value="当前为测试版本，不代表最终品质" type="string"/>
+<GlobalParam id="30" key_variable="KEY_BATTLE_LAYOUT_FORMATION" value="-1|-1|-1|105|103|11|-1|101|-1" type="aint"/>
+<GlobalParam id="31" key_variable="KEY_SERVICE_DEFAULT_ID" value="10001" type="int" multi_params=""/>
+<GlobalParam id="32" key_variable="KEY_AVG_PLAY_TIMESCALE" value="8" type="int"/>
+<GlobalParam id="33" key_variable="KEY_MAIL_MAXCOUNT" value="100" type="int" multi_params=""/>
+<GlobalParam id="34" key_variable="KEY_BATTLE_UFXENDTIME" value="0.2" type="float"/>
+<GlobalParam id="35" key_variable="KEY_UPDATE_TIME" value="5:00:00" type="string"/>
+<GlobalParam id="36" key_variable="KEY_STAMINA_MAX" value="1000" type="int"/>
+<GlobalParam id="37" key_variable="KEY_STAMINA_RESTORE_TICKS" value="300000" type="int"/>
+<GlobalParam id="38" key_variable="KEY_PULSE_LONGTIME" value="60" type="int"/>
+<GlobalParam id="39" key_variable="KEY_GOPAY" value="0" type="int"/>
+<GlobalParam id="40" key_variable="KEY_PROMOTION_UI_OPEN_ORDER" value="ui_quest_award_result|ui_unit_add|ui_get_award|ui_player_level_up" type="astring"/>
+<GlobalParam id="41" key_variable="KEY_AVG_DIALOG_WITH_VOICE_INTERVAL_TIME" value="0.9" type="float"/>
+<GlobalParam id="42" key_variable="KEY_TEST_DROP_ID" value="4" type="int"/>
+<GlobalParam id="43" key_variable="KEY_PRIVACY_CHILDREN" value="https://www.seayoo.com/legal/index.html?g=sts&amp;id=ertong" type="string"/>
+<GlobalParam id="44" key_variable="KEY_PRIVACY_POLICY" value="https://www.seayoo.com/legal/index.html?g=sts&amp;id=yinsi" type="string"/>
+<GlobalParam id="45" key_variable="KEY_NTWORK_PROTOCOL" value="https://www.seayoo.com/legal/index.html?g=sts&amp;id=xieyi" type="string"/>
+<GlobalParam id="46" key_variable="KEY_ONLINE_GAME_SYS" value="https://www.seayoo.com/legal/index.html?g=sts&amp;id=fangchenmi" type="string"/>
+<GlobalParam id="47" key_variable="KEY_GUIDE_101_ACT" value="4|1005" type="aint"/>
+<GlobalParam id="48" key_variable="KEY_VIDEO_CAN_SKIP_WAIT_TIME" value="5" type="float"/>
+<GlobalParam id="49" key_variable="PLAYER_NAME_CHANGE_COST" value="100" type="int"/>
+<GlobalParam id="50" key_variable="PLAYER_NAME_WORD_NUMBER" value="7" type="int"/>
+<GlobalParam id="51" key_variable="THINKING_DATA_UPLOAD" value="https://ta.seayoo.com" type="string"/>
+<GlobalParam id="52" key_variable="THINKING_DATA_APPID" value="d2ab297735a64c06aeb806239092ce7c" type="string"/>
+<GlobalParam id="53" key_variable="MAZE_ID_PRODUCE_PARAM" value="1000" type="int"/>
+<GlobalParam id="54" key_variable="KEY_TELENT_ITEM_ID" value="220001" type="int"/>
+<GlobalParam id="55" key_variable="KEY_STAMINA_NOON_TIME" value="12:00:00" type="string"/>
+<GlobalParam id="56" key_variable="KEY_STAMINA_NIGHT_TIME" value="18:00:00" type="string"/>
+<GlobalParam id="57" key_variable="KEY_AVG_LIGHT_COLOR_WRITE" value="255|255|255|255" type="aint"/>
+<GlobalParam id="58" key_variable="KEY_AVG_LIGHT_COLOR_RED" value="219|137|148|255" type="aint"/>
+<GlobalParam id="59" key_variable="KEY_AVG_LIGHT_COLOR_BLUE" value="128|255|255|255" type="aint"/>
+<GlobalParam id="60" key_variable="KEY_AVG_LIGHT_COLOR_GREEN" value="128|255|128|255" type="aint"/>
+<GlobalParam id="61" key_variable="KEY_AVG_LIGHT_COLOR_YELLOW" value="255|255|128|255" type="aint"/>
+<GlobalParam id="62" key_variable="KEY_SECRET_SHOP_RULE" value="0" type="int" multi_params="11;secretshopmanager|xt_9001001;xt_9001002"/>
+<GlobalParam id="63" key_variable="KEY_GACHA_TIMELINE_HIDEHINT_RATIO" value="40" type="int"/>
+<GlobalParam id="63" key_variable="KEY_GACHA_TIMELINE_NUM_REPEAT_LIMIT" value="2" type="int"/>
+</root>

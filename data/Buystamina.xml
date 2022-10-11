@@ -1,0 +1,7 @@
+<root>
+<Buystamina id="1" price="50" acquireStamina="100"/>
+<Buystamina id="2" price="50" acquireStamina="100"/>
+<Buystamina id="3" price="100" acquireStamina="100"/>
+<Buystamina id="4" price="100" acquireStamina="100"/>
+<Buystamina id="5" price="200" acquireStamina="100"/>
+</root>

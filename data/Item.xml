@@ -1,0 +1,556 @@
+<root>
+<Item id="1" key_alias="索引_金币" name="元年币" group_Type="1" data="0" subtypeDes="货币" quality="3" rank="1" jump="2030|2013" icon="item1" image="item1" describe="这座城市流通的货币，绝大多数的物品都可以用它来买到。" limit="1000000000" useLimit="1000000000"/>
+<Item id="2" key_alias="索引_体力" name="体力" group_Type="1" data="0" subtypeDes="体力" quality="4" rank="1" jump="10011|10012" icon="item2" image="item2" describe="在城市中作战需要消耗体力，当体力不足时，则无法进行作战" limit="99999" useLimit="99999"/>
+<Item id="3" key_alias="索引_钻石" name="异晶石" group_Type="1" data="0" subtypeDes="高级货币" quality="5" rank="1" jump="10015" icon="item3" image="item3" describe="随着异质物现象的出现被发掘的新型稀有矿石，一种闪耀着七彩光泽的结晶，流通于黑市，也被用于最前沿的异质物科技研发" limit="1000000000" useLimit="1000000000"/>
+<Item id="4" key_alias="索引_声望" name="声望" group_Type="1" data="0" subtypeDes="声望" quality="4" rank="1" icon="item4" image="item4" describe="玩家在组织内的知名度，通过不断地解决各种问题来提升。" limit="1000000000" useLimit="1000000000"/>
+<Item id="5" key_alias="索引_约会券" name="行动券" group_Type="1" data="0" subtypeDes="消耗品" quality="2" rank="1" jump="10003" icon="item290100" image="item290100" describe="消耗行动券来和小队其他成员进行约会，每当完成一些特定的任务后，会收到这样的行动券" limit="99" useLimit="99"/>
+<Item id="10011" key_alias="索引_凯瑟琳" name="凯瑟琳" group_Type="9" data="11" subtypeDes="小队成员" quality="5" rank="1" jump="0" icon="hero_11" image="kaiselin" describe="凯瑟琳" limit="1" useLimit="1"/>
+<Item id="10012" key_alias="索引_聂飞" name="聂飞" group_Type="9" data="12" subtypeDes="小队成员" quality="5" rank="1" jump="0" icon="hero_12" image="niefei" describe="聂飞" limit="1" useLimit="1"/>
+<Item id="10013" key_alias="索引_涂凌" name="涂凌" group_Type="9" data="13" subtypeDes="小队成员" quality="5" rank="1" jump="0" icon="hero_13" image="tuling" describe="涂凌" limit="1" useLimit="1"/>
+<Item id="10015" key_alias="索引_土山奥" name="土山奥" group_Type="9" data="15" subtypeDes="小队成员" quality="5" rank="1" jump="0" icon="hero_15" image="tushanao" describe="土山奥" limit="1" useLimit="1"/>
+<Item id="10016" key_alias="索引_云倾" name="云倾" group_Type="9" data="16" subtypeDes="小队成员" quality="5" rank="1" jump="0" icon="hero_16" image="yunqing" describe="云倾" limit="1" useLimit="1"/>
+<Item id="100101" key_alias="索引_异质物101" name="电桩少女" group_Type="8" data="101" subtypeDes="异质物" quality="3" rank="3" jump="3" icon="hero_101" image="hero_101" describe="获得异质物电桩少女" limit="1" useLimit="1"/>
+<Item id="100102" key_alias="索引_异质物102" name="爆热音符" group_Type="8" data="102" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_102" image="hero_102" describe="获得异质物爆热音符" limit="1" useLimit="1"/>
+<Item id="100103" key_alias="索引_异质物103" name="织线偶童" group_Type="8" data="103" subtypeDes="异质物" quality="3" rank="3" jump="3" icon="hero_103" image="hero_103" describe="获得异质物织线偶童" limit="1" useLimit="1"/>
+<Item id="100104" key_alias="索引_异质物104" name="使命必达" group_Type="8" data="104" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_104" image="hero_104" describe="获得异质物使命必达" limit="1" useLimit="1"/>
+<Item id="100105" key_alias="索引_异质物105" name="禁止通行" group_Type="8" data="105" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_105" image="hero_105" describe="获得异质物禁止通行" limit="1" useLimit="1"/>
+<Item id="100106" key_alias="索引_异质物106" name="莉尔塔Ⅲ型" group_Type="8" data="106" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_106" image="hero_106" describe="获得异质物莉尔塔Ⅲ型" limit="1" useLimit="1"/>
+<Item id="100107" key_alias="索引_异质物107" name="迷醉金钞" group_Type="8" data="107" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_107" image="hero_107" describe="获得异质物迷醉金钞" limit="1" useLimit="1"/>
+<Item id="100108" key_alias="索引_异质物108" name="爱的拍立得" group_Type="8" data="108" subtypeDes="异质物" quality="3" rank="3" jump="3" icon="hero_108" image="hero_108" describe="获得异质物爱的拍立得" limit="1" useLimit="1"/>
+<Item id="100109" key_alias="索引_异质物109" name="归终挽歌" group_Type="8" data="109" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_109" image="hero_109" describe="获得异质物归终挽歌" limit="1" useLimit="1"/>
+<Item id="100110" key_alias="索引_异质物110" name="迷幻映像" group_Type="8" data="110" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_110" image="hero_110" describe="获得异质物迷幻映像" limit="1" useLimit="1"/>
+<Item id="100111" key_alias="索引_异质物111" name="小僵尸" group_Type="8" data="111" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_111" image="hero_111" describe="获得异质物小僵尸" limit="1" useLimit="1"/>
+<Item id="100112" key_alias="索引_异质物112" name="气球猎人" group_Type="8" data="112" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_112" image="hero_112" describe="获得异质物气球猎人" limit="1" useLimit="1"/>
+<Item id="100113" key_alias="索引_异质物113" name="碎雨" group_Type="8" data="113" subtypeDes="异质物" quality="3" rank="3" jump="3" icon="hero_1003" image="hero_1003" describe="获得异质物碎雨" limit="1" useLimit="1"/>
+<Item id="100114" key_alias="索引_异质物114" name="剧中人" group_Type="8" data="114" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_1003" image="hero_1003" describe="获得异质物剧中人" limit="1" useLimit="1"/>
+<Item id="100115" key_alias="索引_异质物115" name="猩红侵入" group_Type="8" data="115" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_115" image="hero_115" describe="获得异质物猩红侵入" limit="1" useLimit="1"/>
+<Item id="100116" key_alias="索引_异质物116" name="超波频667" group_Type="8" data="116" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_116" image="hero_116" describe="获得异质物超波频667" limit="1" useLimit="1"/>
+<Item id="100117" key_alias="索引_异质物117" name="涂鸦爆弹" group_Type="8" data="117" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_117" image="hero_117" describe="获得异质物涂鸦爆弹" limit="1" useLimit="1"/>
+<Item id="100118" key_alias="索引_异质物118" name="向日葵之夜" group_Type="8" data="118" subtypeDes="异质物" quality="3" rank="3" jump="3" icon="hero_118" image="hero_118" describe="获得异质物向日葵之夜" limit="1" useLimit="1"/>
+<Item id="100119" key_alias="索引_异质物119" name="早茶少女" group_Type="8" data="119" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_119" image="hero_119" describe="获得异质物早茶少女" limit="1" useLimit="1"/>
+<Item id="100120" key_alias="索引_异质物120" name="粉红救援" group_Type="8" data="120" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_120" image="hero_120" describe="获得异质物粉红救援" limit="1" useLimit="1"/>
+<Item id="100121" key_alias="索引_异质物121" name="纯愈因子" group_Type="8" data="121" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_121" image="hero_121" describe="获得异质物纯愈因子" limit="1" useLimit="1"/>
+<Item id="100122" key_alias="索引_异质物122" name="回怒辅助" group_Type="8" data="122" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_123" image="hero_123" describe="获得异质物回怒辅助" limit="1" useLimit="1"/>
+<Item id="100123" key_alias="索引_异质物123" name="致命拥抱" group_Type="8" data="123" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_123" image="hero_123" describe="获得异质物致命拥抱" limit="1" useLimit="1"/>
+<Item id="100124" key_alias="索引_异质物124" name="一善的百面" group_Type="8" data="124" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_1003" image="hero_1003" describe="获得异质物一善的百面" limit="1" useLimit="1"/>
+<Item id="100125" key_alias="索引_异质物125" name="雾灯" group_Type="8" data="125" subtypeDes="异质物" quality="3" rank="3" jump="3" icon="hero_125" image="hero_125" describe="获得异质物雾灯" limit="1" useLimit="1"/>
+<Item id="100126" key_alias="索引_异质物126" name="镜渊" group_Type="8" data="126" subtypeDes="异质物" quality="5" rank="5" jump="3" icon="hero_1003" image="hero_1003" describe="获得异质物镜渊" limit="1" useLimit="1"/>
+<Item id="100127" key_alias="索引_异质物127" name="极速花火" group_Type="8" data="127" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_127" image="hero_127" describe="获得异质物极速花火" limit="1" useLimit="1"/>
+<Item id="100128" key_alias="索引_异质物128" name="无用盒子" group_Type="8" data="128" subtypeDes="异质物" quality="4" rank="4" jump="3" icon="hero_1003" image="hero_1003" describe="获得异质物无用盒子" limit="1" useLimit="1"/>
+<Item id="200001" key_alias="索引_经验道具1" name="初级战斗记忆" group_Type="2" subtype="200" data="100" subtypeDes="异质物经验道具" quality="1" rank="204" jump="2030|2016" icon="jingyan1" image="jingyan1" describe="在战斗中被击败的异质物残存于现实中的记忆结晶（小），对异质物使用后可为其提供100经验" limit="999999" useLimit="999999"/>
+<Item id="200002" key_alias="索引_经验道具2" name="中级战斗记忆" group_Type="2" subtype="200" data="500" subtypeDes="异质物经验道具" quality="2" rank="205" jump="2030|2016" icon="jingyan2" image="jingyan2" describe="在战斗中被击败的异质物残存于现实中的记忆结晶（中），对异质物使用后可为其提供500经验" limit="999999" useLimit="999999"/>
+<Item id="200003" key_alias="索引_经验道具3" name="高级战斗记忆" group_Type="2" subtype="200" data="3000" subtypeDes="异质物经验道具" quality="3" rank="206" jump="2030|2016" icon="jingyan3" image="jingyan3" describe="在战斗中被击败的异质物残存于现实中的记忆结晶（大），对异质物使用后可为其提供3000经验" limit="999999" useLimit="999999"/>
+<Item id="200004" key_alias="索引_经验道具4" name="特级战斗记忆" group_Type="2" subtype="200" data="20000" subtypeDes="异质物经验道具" quality="4" rank="207" jump="2030|2016" icon="jingyan4" image="jingyan4" describe="在战斗中被击败的异质物残存于现实中的记忆结晶（特大），对异质物使用后可为其提供20000经验" limit="999999" useLimit="999999"/>
+<Item id="200011" key_alias="索引_装备经验道具1" name="小型共生之种" group_Type="2" subtype="202" data="10" subtypeDes="共生异质物经验" quality="1" rank="201" jump="" icon="jingyan1" image="jingyan1" describe="共生型异质物力量的来源，能激发其固定特性。共生之种作为共生型异质物最初级特性，由共生型异质物分解产生，可与共生型异质物融合，使其获得10经验的提升。" limit="999999" useLimit="999999"/>
+<Item id="200012" key_alias="索引_装备经验道具2" name="中型共生之种" group_Type="2" subtype="202" data="100" subtypeDes="共生异质物经验" quality="2" rank="202" jump="" icon="jingyan2" image="jingyan2" describe="共生型异质物力量的来源，能激发其固定特性。共生之种作为共生型异质物最初级特性，由共生型异质物分解产生，可与共生型异质物融合，使其获得100经验的提升。" limit="999999" useLimit="999999"/>
+<Item id="200013" key_alias="索引_装备经验道具3" name="大型共生之种" group_Type="2" subtype="202" data="1000" subtypeDes="共生异质物经验" quality="3" rank="203" jump="" icon="jingyan3" image="jingyan3" describe="共生型异质物力量的来源，能激发其固定特性。共生之种作为共生型异质物最初级特性，由共生型异质物分解产生，可与共生型异质物融合，使其获得1000经验的提升。" limit="999999" useLimit="999999"/>
+<Item id="201000" key_alias="索引_抽卡券" name="稳定剂" group_Type="2" subtype="201" subtypeDes="异质物探测道具" quality="5" rank="950" jump="10011" icon="item201000" image="item201000" describe="异质物的力量首次在现实中成型的载体，类似带有DNA的细胞，可用于异质物的探测。" limit="999999" useLimit="999999"/>
+<Item id="201001" key_alias="索引_活动抽卡券" name="特构异核" group_Type="2" subtype="201" subtypeDes="异质物探测道具" quality="5" rank="950" jump="10010" icon="item201001" image="item201001" describe="异质物的力量首次在现实中成型的载体，类似带有DNA的细胞，可用于异质物的探测。" limit="999999" useLimit="999999"/>
+<Item id="210001" key_alias="索引_收集道具1" name="异壳" group_Type="2" subtype="210" subtypeDes="收集品" quality="3" rank="800" jump="10014" icon="item210001" image="item210001" describe="原本是装载着精神力的天然容器，但随着内部的精神力流失后，就只剩异壳了，没有任何研究价值，在市面上也不流通。" limit="999999" useLimit="999999"/>
+<Item id="220001" key_alias="索引_天赋点" name="羁绊结晶" group_Type="2" subtype="220" subtypeDes="天赋点" quality="5" rank="700" jump="" icon="item220001" image="item220001" describe="和小队成员好感度达到一定程度后形成的结晶，可用于小队天赋的提升" limit="999999" useLimit="999999"/>
+<Item id="290001" key_alias="索引_体力药1" name="热狗卷" group_Type="2" subtype="290" data="10" subtypeDes="消耗品" quality="2" rank="997" jump="10001" icon="item290001" image="item290001" describe="使用后获得10体力" limit="999999" useLimit="100"/>
+<Item id="290002" key_alias="索引_体力药2" name="便当盒" group_Type="2" subtype="290" data="50" subtypeDes="消耗品" quality="3" rank="998" jump="10001" icon="item290002" image="item290002" describe="使用后获得50体力" limit="999999" useLimit="100"/>
+<Item id="290003" key_alias="索引_体力药3" name="豪华套餐" group_Type="2" subtype="290" data="100" subtypeDes="消耗品" quality="4" rank="999" jump="10001" icon="item290003" image="item290003" describe="使用后获得100体力" limit="999999" useLimit="100"/>
+<Item id="291001" key_alias="索引_异质物低级碎片包" name="随机低级源种" group_Type="2" subtype="291" data="99;101" subtypeDes="消耗品" quality="3" rank="994" jump="" icon="item291001" image="item291001" describe="使用后获得随机1星或2星的异质物源种" limit="999999" useLimit="100"/>
+<Item id="291002" key_alias="索引_异质物碎片包" name="随机源种" group_Type="2" subtype="291" data="99;102" subtypeDes="消耗品" quality="4" rank="995" jump="" icon="item291002" image="item291002" describe="使用后获得随机异质物源种" limit="999999" useLimit="100"/>
+<Item id="291003" key_alias="索引_异质物高级碎片包" name="随机高级源种" group_Type="2" subtype="291" data="99;103" subtypeDes="消耗品" quality="5" rank="996" jump="" icon="item291003" image="item291003" describe="使用后获得随机3星异质物源种" limit="999999" useLimit="100"/>
+<Item id="292001" key_alias="随机装备宝箱" name="随机装备宝箱" group_Type="2" subtype="291" data="99;125" subtypeDes="随机装备宝箱" quality="4" rank="5" jump="" icon="box1_s" image="box1_l" describe="随机装备宝箱" limit="999999" useLimit="999999"/>
+<Item id="300101" key_alias="索引_开发材料一阶1" name="初级兴奋导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="2" rank="84" jump="10011|2023|2022|2021|2012|2011|2002" icon="item300101" image="item300101" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|100" limit="999999" useLimit="999999"/>
+<Item id="300102" key_alias="索引_开发材料一阶2" name="初级抗躁导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="2" rank="85" jump="10011|2026|2025|2024|2015|2014|2004|2003" icon="item300102" image="item300102" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|100" limit="999999" useLimit="999999"/>
+<Item id="300103" key_alias="索引_开发材料一阶3" name="初级官能导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="2" rank="86" jump="10011|2029|2028|2027|2018|2017|2006|2005" icon="item300103" image="item300103" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|100" limit="999999" useLimit="999999"/>
+<Item id="300104" key_alias="索引_随机一阶" name="随机初级导体" group_Type="2" subtype="291" data="99;111" subtypeDes="消耗品" quality="2" rank="990" jump="10010" icon="item300104" image="item300104" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="300105" key_alias="索引_自选一阶" name="自选初级导体" group_Type="2" subtype="292" data="99;111" subtypeDes="消耗品" quality="2" rank="990" jump="10010" icon="item300105" image="item300105" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="300201" key_alias="索引_开发材料二阶1" name="中级兴奋导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="3" rank="88" jump="10016" icon="item300201" image="item300201" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|200" limit="999999" useLimit="999999"/>
+<Item id="300202" key_alias="索引_开发材料二阶2" name="中级抗躁导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="3" rank="89" jump="10016" icon="item300202" image="item300202" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|200" limit="999999" useLimit="999999"/>
+<Item id="300203" key_alias="索引_开发材料二阶3" name="中级官能导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="3" rank="90" jump="10016" icon="item300203" image="item300203" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|200" limit="999999" useLimit="999999"/>
+<Item id="300204" key_alias="索引_随机二阶" name="随机中级导体" group_Type="2" subtype="291" data="99;112" subtypeDes="消耗品" quality="3" rank="991" jump="10010" icon="item300204" image="item300204" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="300205" key_alias="索引_自选二阶" name="自选中级导体" group_Type="2" subtype="292" data="99;112" subtypeDes="消耗品" quality="3" rank="991" jump="10010" icon="item300205" image="item300205" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="300301" key_alias="索引_开发材料三阶1" name="高级兴奋导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="4" rank="92" jump="10010" icon="item300301" image="item300301" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|500" limit="999999" useLimit="999999"/>
+<Item id="300302" key_alias="索引_开发材料三阶2" name="高级抗躁导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="4" rank="93" jump="10010" icon="item300302" image="item300302" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|500" limit="999999" useLimit="999999"/>
+<Item id="300303" key_alias="索引_开发材料三阶3" name="高级官能导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="4" rank="94" jump="10010" icon="item300303" image="item300303" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|500" limit="999999" useLimit="999999"/>
+<Item id="300304" key_alias="索引_随机三阶" name="随机高级导体" group_Type="2" subtype="291" data="99;113" subtypeDes="消耗品" quality="4" rank="992" jump="10010" icon="item300304" image="item300304" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="300305" key_alias="索引_自选三阶" name="自选高级导体" group_Type="2" subtype="292" data="99;113" subtypeDes="消耗品" quality="4" rank="992" jump="10010" icon="item300305" image="item300305" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="300401" key_alias="索引_开发材料四阶1" name="突变兴奋导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="5" rank="96" jump="10010" icon="item300401" image="item300401" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|1000" limit="999999" useLimit="999999"/>
+<Item id="300402" key_alias="索引_开发材料四阶2" name="突变抗躁导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="5" rank="97" jump="10010" icon="item300402" image="item300402" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|1000" limit="999999" useLimit="999999"/>
+<Item id="300403" key_alias="索引_开发材料四阶3" name="突变官能导体" group_Type="3" subtype="300" subtypeDes="开发材料" quality="5" rank="98" jump="10010" icon="item300403" image="item300403" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" sell="1|1000" limit="999999" useLimit="999999"/>
+<Item id="300404" key_alias="索引_随机四阶" name="随机突变导体" group_Type="2" subtype="291" data="99;114" subtypeDes="消耗品" quality="5" rank="993" jump="10010" icon="item300404" image="item300404" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="300405" key_alias="索引_自选四阶" name="自选突变导体" group_Type="2" subtype="292" data="99;114" subtypeDes="消耗品" quality="5" rank="993" jump="10010" icon="item300405" image="item300405" describe="髓粒是异质物潜意识活动的具象化产物，能够帮助异质物突破自身上限" limit="999999" useLimit="1000"/>
+<Item id="400001" key_alias="索引_通用礼物1" name="特殊的液体样本" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="3" rank="1" jump="10010" icon="item201000" image="item201000" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400002" key_alias="索引_通用礼物2" name="奇怪的生物标本" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="3" rank="1" jump="10010" icon="item201001" image="item201001" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400003" key_alias="索引_通用礼物3" name="精致的手术刀" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="3" rank="1" jump="10010" icon="item290001" image="item290001" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400111" key_alias="索引_凯瑟琳礼物1" name="猫点心" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item290001" image="item290001" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400112" key_alias="索引_凯瑟琳礼物2" name="战争电影碟片" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item290002" image="item290002" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400113" key_alias="索引_凯瑟琳礼物3" name="神秘的图书碎片" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item290003" image="item290003" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400121" key_alias="索引_聂飞礼物1" name="枫叶书签" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item201001" image="item201001" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400122" key_alias="索引_聂飞礼物2" name="鲜花" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item290001" image="item290001" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400123" key_alias="索引_聂飞礼物3" name="巧克力" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item290002" image="item290002" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400131" key_alias="索引_涂凌礼物1" name="电影票" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="5" rank="1" jump="10010" icon="item290003" image="item290003" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400132" key_alias="索引_涂凌礼物2" name="鲨鱼人偶" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item290002" image="item290002" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="400133" key_alias="索引_涂凌礼物3" name="仓鼠人偶" group_Type="4" subtype="400" data="50" subtypeDes="礼物" quality="4" rank="1" jump="10010" icon="item290003" image="item290003" describe="可以送个队员的礼物，用于加深和小队成员的羁绊" limit="999999" useLimit="999999"/>
+<Item id="500000" key_alias="索引_异质物微粒" name="重构之粒" group_Type="5" subtype="500" subtypeDes="异质物源粒" quality="5" rank="11" jump="10002" icon="unit000" image="unit000" describe="每种独立异质物都会有自己的源粒，这是异质物力量的来源，重构之种为最初级特性，可用来融合任意异质物" limit="999999" useLimit="999999"/>
+<Item id="500101" key_alias="索引_101粒子" name="电桩少女源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="3" rank="8" jump="10002|10011" icon="unit101" image="unit101" describe="获得重复的电桩少女时自动分解成对应的源粒，可与电桩少女异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500102" key_alias="索引_102粒子" name="爆热音符源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit102" image="unit102" describe="获得重复的爆热音符时自动分解成对应的源粒，可与爆热音符异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500103" key_alias="索引_103粒子" name="织线偶童源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="3" rank="8" jump="10002|10011" icon="unit103" image="unit103" describe="获得重复的织线偶童时自动分解成对应的源粒，可与织线偶童异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500104" key_alias="索引_104粒子" name="使命必达源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011" icon="unit104" image="unit104" describe="获得重复的使命必达时自动分解成对应的源粒，可与使命必达异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500105" key_alias="索引_105粒子" name="禁止通行源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit105" image="unit105" describe="获得重复的禁止通行时自动分解成对应的源粒，可与禁止通行异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500106" key_alias="索引_106粒子" name="莉尔塔Ⅲ型源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011" icon="unit106" image="unit106" describe="获得重复的莉尔塔Ⅲ型时自动分解成对应的源粒，可与莉尔塔Ⅲ型异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500107" key_alias="索引_107粒子" name="迷醉金钞源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit107" image="unit107" describe="获得重复的迷醉金钞时自动分解成对应的源粒，可与迷醉金钞异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500108" key_alias="索引_108粒子" name="爱的拍立得源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="3" rank="8" jump="10002|10011" icon="unit108" image="unit108" describe="获得重复的爱的拍立得时自动分解成对应的源粒，可与爱的拍立得异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500109" key_alias="索引_109粒子" name="归终挽歌源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011|10008" icon="unit109" image="unit109" describe="获得重复的归终挽歌时自动分解成对应的源粒，可与归终挽歌异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500110" key_alias="索引_110粒子" name="迷幻映像源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011|10008" icon="unit110" image="unit110" describe="获得重复的迷幻映像时自动分解成对应的源粒，可与迷幻映像异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500111" key_alias="索引_111粒子" name="小僵尸源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011" icon="unit111" image="unit111" describe="获得重复的小僵尸时自动分解成对应的源粒，可与小僵尸异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500112" key_alias="索引_112粒子" name="气球猎人源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011|10008" icon="unit112" image="unit112" describe="获得重复的气球猎人时自动分解成对应的源粒，可与气球猎人异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500113" key_alias="索引_113粒子" name="碎雨源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="3" rank="8" jump="10002|10011" icon="unit000" image="unit000" describe="获得重复的碎雨时自动分解成对应的源粒，可与碎雨异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500114" key_alias="索引_114粒子" name="剧中人源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011" icon="unit000" image="unit000" describe="获得重复的剧中人时自动分解成对应的源粒，可与剧中人异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500115" key_alias="索引_115粒子" name="猩红侵入源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011|10009" icon="unit115" image="unit115" describe="获得重复的猩红侵入时自动分解成对应的源粒，可与猩红侵入异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500116" key_alias="索引_116粒子" name="超波频667源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011|10009" icon="unit116" image="unit116" describe="获得重复的超波频667时自动分解成对应的源粒，可与超波频667异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500117" key_alias="索引_117粒子" name="涂鸦爆弹源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011" icon="unit117" image="unit117" describe="获得重复的涂鸦爆弹时自动分解成对应的源粒，可与涂鸦爆弹异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500118" key_alias="索引_118粒子" name="向日葵之夜源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="3" rank="8" jump="10002|10011|10009" icon="unit118" image="unit118" describe="获得重复的向日葵之夜时自动分解成对应的源粒，可与向日葵之夜异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500119" key_alias="索引_119粒子" name="早茶少女源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit119" image="unit119" describe="获得重复的早茶少女时自动分解成对应的源粒，可与早茶少女异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500120" key_alias="索引_120粒子" name="粉红救援源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit120" image="unit120" describe="获得重复的粉红救援时自动分解成对应的源粒，可与粉红救援异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500121" key_alias="索引_121粒子" name="纯愈因子源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit121" image="unit121" describe="获得重复的纯愈因子时自动分解成对应的源粒，可与纯愈因子异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500122" key_alias="索引_122粒子" name="回怒辅助源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit000" image="unit000" limit="999999" useLimit="999999"/>
+<Item id="500123" key_alias="索引_123粒子" name="致命拥抱源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit123" image="unit123" describe="获得重复的致命拥抱时自动分解成对应的源粒，可与致命拥抱异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500124" key_alias="索引_124粒子" name="一善的百面源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011" icon="unit000" image="unit000" describe="获得重复的一善的百面时自动分解成对应的源粒，可与一善的百面异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500125" key_alias="索引_125粒子" name="雾灯源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="3" rank="8" jump="10002|10011" icon="unit125" image="unit125" describe="获得重复的雾灯时自动分解成对应的源粒，可与雾灯异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500126" key_alias="索引_126粒子" name="镜渊源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="5" rank="10" jump="10002|10011" icon="unit000" image="unit000" describe="获得重复的镜渊时自动分解成对应的源粒，可与镜渊异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500127" key_alias="索引_127粒子" name="极速花火源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit127" image="unit127" describe="获得重复的极速花火时自动分解成对应的源粒，可与极速花火异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="500128" key_alias="索引_128粒子" name="无用盒子源粒" group_Type="5" subtype="501" subtypeDes="异质物源粒" quality="4" rank="9" jump="10002|10011" icon="unit000" image="unit000" describe="获得重复的无用盒子时自动分解成对应的源粒，可与无用盒子异质物本体融合，使其获得提升，并使天赋技进化" limit="999999" useLimit="999999"/>
+<Item id="600000" key_alias="索引_测试宝箱1" name="可选测试宝箱1" group_Type="2" subtype="292" data="5;10|10;11|99;12" subtypeDes="宝箱" quality="5" rank="999" jump="3" icon="box1_s" image="box1_l" describe="可以从中选择一个道具获得" limit="9999" useLimit="999"/>
+<Item id="600001" key_alias="索引_测试宝箱2" name="可选测试宝箱2" group_Type="2" subtype="292" data="99;13" subtypeDes="宝箱" quality="5" rank="999" jump="3" icon="box2_s" image="box2_l" describe="可以从中选择一个道具获得" limit="9999" useLimit="999"/>
+<Item id="600002" key_alias="索引_测试宝箱3" name="随机测试宝箱1" group_Type="2" subtype="291" data="99;14" subtypeDes="宝箱" quality="5" rank="999" jump="3" icon="box3_s" image="box3_l" describe="随机获得一定数量的金币" limit="9999" useLimit="999"/>
+<Item id="600003" key_alias="索引_测试宝箱4" name="随机测试宝箱2" group_Type="2" subtype="291" data="99;15" subtypeDes="宝箱" quality="5" rank="999" jump="3" icon="box4_s" image="box4_l" describe="获得金币和钻石" limit="9999" useLimit="999"/>
+<Item id="600004" key_alias="索引_碎片包" name="随机碎片箱" group_Type="2" subtype="291" data="99;26" subtypeDes="宝箱" quality="5" rank="999" jump="6" icon="box4_s" image="box4_l" describe="从以下异质物微粒中随机获得1个——早茶少女、气球商贩、僵尸小童、路障" limit="9999" useLimit="999"/>
+<Item id="700101" key_alias="索引_套装1攻击品质2" name="安江晨间新闻" group_Type="7" data="101" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box1_s" image="box1_l" describe="攻击型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700102" key_alias="索引_套装1防御品质2" name="安江晨间新闻" group_Type="7" data="102" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box1_s" image="box1_l" describe="防御型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700103" key_alias="索引_套装1生命品质2" name="安江晨间新闻" group_Type="7" data="103" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box1_s" image="box1_l" describe="生命型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700104" key_alias="索引_套装1攻击品质3" name="安江晨间新闻" group_Type="7" data="104" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box1_s" image="box1_l" describe="攻击型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700105" key_alias="索引_套装1防御品质3" name="安江晨间新闻" group_Type="7" data="105" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box1_s" image="box1_l" describe="防御型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700106" key_alias="索引_套装1生命品质3" name="安江晨间新闻" group_Type="7" data="106" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box1_s" image="box1_l" describe="生命型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700107" key_alias="索引_套装1攻击品质4" name="安江晨间新闻" group_Type="7" data="107" subtypeDes="共生型异质物" quality="4" rank="999" icon="box1_s" image="box1_l" describe="攻击型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700108" key_alias="索引_套装1防御品质4" name="安江晨间新闻" group_Type="7" data="108" subtypeDes="共生型异质物" quality="4" rank="999" icon="box1_s" image="box1_l" describe="防御型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700109" key_alias="索引_套装1生命品质4" name="安江晨间新闻" group_Type="7" data="109" subtypeDes="共生型异质物" quality="4" rank="999" icon="box1_s" image="box1_l" describe="生命型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700110" key_alias="索引_套装1攻击品质5" name="安江晨间新闻" group_Type="7" data="110" subtypeDes="共生型异质物" quality="5" rank="999" icon="box1_s" image="box1_l" describe="攻击型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700111" key_alias="索引_套装1防御品质5" name="安江晨间新闻" group_Type="7" data="111" subtypeDes="共生型异质物" quality="5" rank="999" icon="box1_s" image="box1_l" describe="防御型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700112" key_alias="索引_套装1生命品质5" name="安江晨间新闻" group_Type="7" data="112" subtypeDes="共生型异质物" quality="5" rank="999" icon="box1_s" image="box1_l" describe="生命型
+2件套：攻击+10%
+3件套：开场提升20%攻击力，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700201" key_alias="索引_套装2攻击品质2" name="顶石吸血鬼" group_Type="7" data="201" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box2_s" image="box2_l" describe="攻击型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700202" key_alias="索引_套装2防御品质2" name="顶石吸血鬼" group_Type="7" data="202" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box2_s" image="box2_l" describe="防御型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700203" key_alias="索引_套装2生命品质2" name="顶石吸血鬼" group_Type="7" data="203" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box2_s" image="box2_l" describe="生命型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700204" key_alias="索引_套装2攻击品质3" name="顶石吸血鬼" group_Type="7" data="204" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box2_s" image="box2_l" describe="攻击型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700205" key_alias="索引_套装2防御品质3" name="顶石吸血鬼" group_Type="7" data="205" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box2_s" image="box2_l" describe="防御型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700206" key_alias="索引_套装2生命品质3" name="顶石吸血鬼" group_Type="7" data="206" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box2_s" image="box2_l" describe="生命型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700207" key_alias="索引_套装2攻击品质4" name="顶石吸血鬼" group_Type="7" data="207" subtypeDes="共生型异质物" quality="4" rank="999" icon="box2_s" image="box2_l" describe="攻击型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700208" key_alias="索引_套装2防御品质4" name="顶石吸血鬼" group_Type="7" data="208" subtypeDes="共生型异质物" quality="4" rank="999" icon="box2_s" image="box2_l" describe="防御型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700209" key_alias="索引_套装2生命品质4" name="顶石吸血鬼" group_Type="7" data="209" subtypeDes="共生型异质物" quality="4" rank="999" icon="box2_s" image="box2_l" describe="生命型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700210" key_alias="索引_套装2攻击品质5" name="顶石吸血鬼" group_Type="7" data="210" subtypeDes="共生型异质物" quality="5" rank="999" icon="box2_s" image="box2_l" describe="攻击型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700211" key_alias="索引_套装2防御品质5" name="顶石吸血鬼" group_Type="7" data="211" subtypeDes="共生型异质物" quality="5" rank="999" icon="box2_s" image="box2_l" describe="防御型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700212" key_alias="索引_套装2生命品质5" name="顶石吸血鬼" group_Type="7" data="212" subtypeDes="共生型异质物" quality="5" rank="999" icon="box2_s" image="box2_l" describe="生命型
+2件套：生命+10%
+3件套：对敌方释放普通攻击和特殊技时降低目标5%防御力，持续2回合。此效果最多叠加5层。" limit="9999" useLimit="999"/>
+<Item id="700301" key_alias="索引_套装3攻击品质2" name="0号公路" group_Type="7" data="301" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box3_s" image="box3_l" describe="攻击型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700302" key_alias="索引_套装3防御品质2" name="0号公路" group_Type="7" data="302" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box3_s" image="box3_l" describe="防御型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700303" key_alias="索引_套装3生命品质2" name="0号公路" group_Type="7" data="303" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box3_s" image="box3_l" describe="生命型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700304" key_alias="索引_套装3攻击品质3" name="0号公路" group_Type="7" data="304" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box3_s" image="box3_l" describe="攻击型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700305" key_alias="索引_套装3防御品质3" name="0号公路" group_Type="7" data="305" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box3_s" image="box3_l" describe="防御型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700306" key_alias="索引_套装3生命品质3" name="0号公路" group_Type="7" data="306" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box3_s" image="box3_l" describe="生命型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700307" key_alias="索引_套装3攻击品质4" name="0号公路" group_Type="7" data="307" subtypeDes="共生型异质物" quality="4" rank="999" icon="box3_s" image="box3_l" describe="攻击型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700308" key_alias="索引_套装3防御品质4" name="0号公路" group_Type="7" data="308" subtypeDes="共生型异质物" quality="4" rank="999" icon="box3_s" image="box3_l" describe="防御型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700309" key_alias="索引_套装3生命品质4" name="0号公路" group_Type="7" data="309" subtypeDes="共生型异质物" quality="4" rank="999" icon="box3_s" image="box3_l" describe="生命型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700310" key_alias="索引_套装3攻击品质5" name="0号公路" group_Type="7" data="310" subtypeDes="共生型异质物" quality="5" rank="999" icon="box3_s" image="box3_l" describe="攻击型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700311" key_alias="索引_套装3防御品质5" name="0号公路" group_Type="7" data="311" subtypeDes="共生型异质物" quality="5" rank="999" icon="box3_s" image="box3_l" describe="防御型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700312" key_alias="索引_套装3生命品质5" name="0号公路" group_Type="7" data="312" subtypeDes="共生型异质物" quality="5" rank="999" icon="box3_s" image="box3_l" describe="生命型
+2件套：防御+15%
+3件套：减免15%受到对位单位的伤害" limit="9999" useLimit="999"/>
+<Item id="700401" key_alias="索引_套装4攻击品质2" name="门后注视者" group_Type="7" data="401" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3105" image="Mon_3105" describe="攻击型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700402" key_alias="索引_套装4防御品质2" name="门后注视者" group_Type="7" data="402" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3105" image="Mon_3105" describe="防御型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700403" key_alias="索引_套装4生命品质2" name="门后注视者" group_Type="7" data="403" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3105" image="Mon_3105" describe="生命型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700404" key_alias="索引_套装4攻击品质3" name="门后注视者" group_Type="7" data="404" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3105" image="Mon_3105" describe="攻击型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700405" key_alias="索引_套装4防御品质3" name="门后注视者" group_Type="7" data="405" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3105" image="Mon_3105" describe="防御型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700406" key_alias="索引_套装4生命品质3" name="门后注视者" group_Type="7" data="406" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3105" image="Mon_3105" describe="生命型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700407" key_alias="索引_套装4攻击品质4" name="门后注视者" group_Type="7" data="407" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3105" image="Mon_3105" describe="攻击型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700408" key_alias="索引_套装4防御品质4" name="门后注视者" group_Type="7" data="408" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3105" image="Mon_3105" describe="防御型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700409" key_alias="索引_套装4生命品质4" name="门后注视者" group_Type="7" data="409" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3105" image="Mon_3105" describe="生命型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700410" key_alias="索引_套装4攻击品质5" name="门后注视者" group_Type="7" data="410" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3105" image="Mon_3105" describe="攻击型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700411" key_alias="索引_套装4防御品质5" name="门后注视者" group_Type="7" data="411" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3105" image="Mon_3105" describe="防御型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700412" key_alias="索引_套装4生命品质5" name="门后注视者" group_Type="7" data="412" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3105" image="Mon_3105" describe="生命型
+2件套：攻击+10%
+3件套：普通攻击、特殊技及被动触发效果，伤害提升20%" limit="9999" useLimit="999"/>
+<Item id="700501" key_alias="索引_套装5攻击品质2" name="赠别古人杨柳" group_Type="7" data="501" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box4_s" image="box4_l" describe="攻击型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700502" key_alias="索引_套装5防御品质2" name="赠别古人杨柳" group_Type="7" data="502" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box4_s" image="box4_l" describe="防御型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700503" key_alias="索引_套装5生命品质2" name="赠别古人杨柳" group_Type="7" data="503" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="box4_s" image="box4_l" describe="生命型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700504" key_alias="索引_套装5攻击品质3" name="赠别古人杨柳" group_Type="7" data="504" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box4_s" image="box4_l" describe="攻击型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700505" key_alias="索引_套装5防御品质3" name="赠别古人杨柳" group_Type="7" data="505" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box4_s" image="box4_l" describe="防御型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700506" key_alias="索引_套装5生命品质3" name="赠别古人杨柳" group_Type="7" data="506" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="box4_s" image="box4_l" describe="生命型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700507" key_alias="索引_套装5攻击品质4" name="赠别古人杨柳" group_Type="7" data="507" subtypeDes="共生型异质物" quality="4" rank="999" icon="box4_s" image="box4_l" describe="攻击型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700508" key_alias="索引_套装5防御品质4" name="赠别古人杨柳" group_Type="7" data="508" subtypeDes="共生型异质物" quality="4" rank="999" icon="box4_s" image="box4_l" describe="防御型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700509" key_alias="索引_套装5生命品质4" name="赠别古人杨柳" group_Type="7" data="509" subtypeDes="共生型异质物" quality="4" rank="999" icon="box4_s" image="box4_l" describe="生命型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700510" key_alias="索引_套装5攻击品质5" name="赠别古人杨柳" group_Type="7" data="510" subtypeDes="共生型异质物" quality="5" rank="999" icon="box4_s" image="box4_l" describe="攻击型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700511" key_alias="索引_套装5防御品质5" name="赠别古人杨柳" group_Type="7" data="511" subtypeDes="共生型异质物" quality="5" rank="999" icon="box4_s" image="box4_l" describe="防御型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700512" key_alias="索引_套装5生命品质5" name="赠别古人杨柳" group_Type="7" data="512" subtypeDes="共生型异质物" quality="5" rank="999" icon="box4_s" image="box4_l" describe="生命型
+2件套：生命+10%
+3件套：每当友方单位阵亡，恢复5%生命值" limit="9999" useLimit="999"/>
+<Item id="700601" key_alias="索引_套装6攻击品质2" name="温暖的被窝" group_Type="7" data="601" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item400011" image="item400011" describe="攻击型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700602" key_alias="索引_套装6防御品质2" name="温暖的被窝" group_Type="7" data="602" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item400011" image="item400011" describe="防御型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700603" key_alias="索引_套装6生命品质2" name="温暖的被窝" group_Type="7" data="603" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item400011" image="item400011" describe="生命型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700604" key_alias="索引_套装6攻击品质3" name="温暖的被窝" group_Type="7" data="604" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item400011" image="item400011" describe="攻击型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700605" key_alias="索引_套装6防御品质3" name="温暖的被窝" group_Type="7" data="605" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item400011" image="item400011" describe="防御型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700606" key_alias="索引_套装6生命品质3" name="温暖的被窝" group_Type="7" data="606" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item400011" image="item400011" describe="生命型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700607" key_alias="索引_套装6攻击品质4" name="温暖的被窝" group_Type="7" data="607" subtypeDes="共生型异质物" quality="4" rank="999" icon="item400011" image="item400011" describe="攻击型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700608" key_alias="索引_套装6防御品质4" name="温暖的被窝" group_Type="7" data="608" subtypeDes="共生型异质物" quality="4" rank="999" icon="item400011" image="item400011" describe="防御型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700609" key_alias="索引_套装6生命品质4" name="温暖的被窝" group_Type="7" data="609" subtypeDes="共生型异质物" quality="4" rank="999" icon="item400011" image="item400011" describe="生命型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700610" key_alias="索引_套装6攻击品质5" name="温暖的被窝" group_Type="7" data="610" subtypeDes="共生型异质物" quality="5" rank="999" icon="item400011" image="item400011" describe="攻击型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700611" key_alias="索引_套装6防御品质5" name="温暖的被窝" group_Type="7" data="611" subtypeDes="共生型异质物" quality="5" rank="999" icon="item400011" image="item400011" describe="防御型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700612" key_alias="索引_套装6生命品质5" name="温暖的被窝" group_Type="7" data="612" subtypeDes="共生型异质物" quality="5" rank="999" icon="item400011" image="item400011" describe="生命型
+2件套：防御+15%
+3件套：开场或复活时获得自身生命最大值15%的护盾，持续2个回合" limit="9999" useLimit="999"/>
+<Item id="700701" key_alias="索引_套装7攻击品质2" name="散播焦虑之人" group_Type="7" data="701" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_2991" image="Mon_2991" describe="攻击型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700702" key_alias="索引_套装7防御品质2" name="散播焦虑之人" group_Type="7" data="702" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_2991" image="Mon_2991" describe="防御型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700703" key_alias="索引_套装7生命品质2" name="散播焦虑之人" group_Type="7" data="703" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_2991" image="Mon_2991" describe="生命型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700704" key_alias="索引_套装7攻击品质3" name="散播焦虑之人" group_Type="7" data="704" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_2991" image="Mon_2991" describe="攻击型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700705" key_alias="索引_套装7防御品质3" name="散播焦虑之人" group_Type="7" data="705" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_2991" image="Mon_2991" describe="防御型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700706" key_alias="索引_套装7生命品质3" name="散播焦虑之人" group_Type="7" data="706" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_2991" image="Mon_2991" describe="生命型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700707" key_alias="索引_套装7攻击品质4" name="散播焦虑之人" group_Type="7" data="707" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_2991" image="Mon_2991" describe="攻击型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700708" key_alias="索引_套装7防御品质4" name="散播焦虑之人" group_Type="7" data="708" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_2991" image="Mon_2991" describe="防御型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700709" key_alias="索引_套装7生命品质4" name="散播焦虑之人" group_Type="7" data="709" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_2991" image="Mon_2991" describe="生命型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700710" key_alias="索引_套装7攻击品质5" name="散播焦虑之人" group_Type="7" data="710" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_2991" image="Mon_2991" describe="攻击型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700711" key_alias="索引_套装7防御品质5" name="散播焦虑之人" group_Type="7" data="711" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_2991" image="Mon_2991" describe="防御型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700712" key_alias="索引_套装7生命品质5" name="散播焦虑之人" group_Type="7" data="712" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_2991" image="Mon_2991" describe="生命型
+2件套：攻击+10%
+3件套：释放必杀技时伤害提升30%,最多触发2次" limit="9999" useLimit="999"/>
+<Item id="700801" key_alias="索引_套装8攻击品质2" name="福音之鸟" group_Type="7" data="801" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3203" image="Mon_3203" describe="攻击型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700802" key_alias="索引_套装8防御品质2" name="福音之鸟" group_Type="7" data="802" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3203" image="Mon_3203" describe="防御型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700803" key_alias="索引_套装8生命品质2" name="福音之鸟" group_Type="7" data="803" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3203" image="Mon_3203" describe="生命型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700804" key_alias="索引_套装8攻击品质3" name="福音之鸟" group_Type="7" data="804" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3203" image="Mon_3203" describe="攻击型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700805" key_alias="索引_套装8防御品质3" name="福音之鸟" group_Type="7" data="805" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3203" image="Mon_3203" describe="防御型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700806" key_alias="索引_套装8生命品质3" name="福音之鸟" group_Type="7" data="806" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3203" image="Mon_3203" describe="生命型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700807" key_alias="索引_套装8攻击品质4" name="福音之鸟" group_Type="7" data="807" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3203" image="Mon_3203" describe="攻击型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700808" key_alias="索引_套装8防御品质4" name="福音之鸟" group_Type="7" data="808" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3203" image="Mon_3203" describe="防御型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700809" key_alias="索引_套装8生命品质4" name="福音之鸟" group_Type="7" data="809" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3203" image="Mon_3203" describe="生命型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700810" key_alias="索引_套装8攻击品质5" name="福音之鸟" group_Type="7" data="810" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3203" image="Mon_3203" describe="攻击型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700811" key_alias="索引_套装8防御品质5" name="福音之鸟" group_Type="7" data="811" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3203" image="Mon_3203" describe="防御型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700812" key_alias="索引_套装8生命品质5" name="福音之鸟" group_Type="7" data="812" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3203" image="Mon_3203" describe="生命型
+2件套：生命+10%
+3件套：战斗中对友方单位的治疗效果提升20%" limit="9999" useLimit="999"/>
+<Item id="700901" key_alias="索引_套装9攻击品质2" name="禁止三缺一" group_Type="7" data="901" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3107" image="Mon_3107" describe="攻击型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700902" key_alias="索引_套装9防御品质2" name="禁止三缺一" group_Type="7" data="902" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3107" image="Mon_3107" describe="防御型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700903" key_alias="索引_套装9生命品质2" name="禁止三缺一" group_Type="7" data="903" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_3107" image="Mon_3107" describe="生命型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700904" key_alias="索引_套装9攻击品质3" name="禁止三缺一" group_Type="7" data="904" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3107" image="Mon_3107" describe="攻击型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700905" key_alias="索引_套装9防御品质3" name="禁止三缺一" group_Type="7" data="905" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3107" image="Mon_3107" describe="防御型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700906" key_alias="索引_套装9生命品质3" name="禁止三缺一" group_Type="7" data="906" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_3107" image="Mon_3107" describe="生命型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700907" key_alias="索引_套装9攻击品质4" name="禁止三缺一" group_Type="7" data="907" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3107" image="Mon_3107" describe="攻击型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700908" key_alias="索引_套装9防御品质4" name="禁止三缺一" group_Type="7" data="908" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3107" image="Mon_3107" describe="防御型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700909" key_alias="索引_套装9生命品质4" name="禁止三缺一" group_Type="7" data="909" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_3107" image="Mon_3107" describe="生命型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700910" key_alias="索引_套装9攻击品质5" name="禁止三缺一" group_Type="7" data="910" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3107" image="Mon_3107" describe="攻击型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700911" key_alias="索引_套装9防御品质5" name="禁止三缺一" group_Type="7" data="911" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3107" image="Mon_3107" describe="防御型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="700912" key_alias="索引_套装9生命品质5" name="禁止三缺一" group_Type="7" data="912" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_3107" image="Mon_3107" describe="生命型
+2件套：防御+15%
+3件套：若己方没有角色阵亡，为己方全体提升15%防御" limit="9999" useLimit="999"/>
+<Item id="701001" key_alias="索引_套装10攻击品质2" name="《宫廷玉液》" group_Type="7" data="1001" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item290003" image="item290003" describe="攻击型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701002" key_alias="索引_套装10防御品质2" name="《宫廷玉液》" group_Type="7" data="1002" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item290003" image="item290003" describe="防御型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701003" key_alias="索引_套装10生命品质2" name="《宫廷玉液》" group_Type="7" data="1003" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item290003" image="item290003" describe="生命型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701004" key_alias="索引_套装10攻击品质3" name="《宫廷玉液》" group_Type="7" data="1004" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item290003" image="item290003" describe="攻击型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701005" key_alias="索引_套装10防御品质3" name="《宫廷玉液》" group_Type="7" data="1005" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item290003" image="item290003" describe="防御型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701006" key_alias="索引_套装10生命品质3" name="《宫廷玉液》" group_Type="7" data="1006" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item290003" image="item290003" describe="生命型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701007" key_alias="索引_套装10攻击品质4" name="《宫廷玉液》" group_Type="7" data="1007" subtypeDes="共生型异质物" quality="4" rank="999" icon="item290003" image="item290003" describe="攻击型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701008" key_alias="索引_套装10防御品质4" name="《宫廷玉液》" group_Type="7" data="1008" subtypeDes="共生型异质物" quality="4" rank="999" icon="item290003" image="item290003" describe="防御型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701009" key_alias="索引_套装10生命品质4" name="《宫廷玉液》" group_Type="7" data="1009" subtypeDes="共生型异质物" quality="4" rank="999" icon="item290003" image="item290003" describe="生命型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701010" key_alias="索引_套装10攻击品质5" name="《宫廷玉液》" group_Type="7" data="1010" subtypeDes="共生型异质物" quality="5" rank="999" icon="item290003" image="item290003" describe="攻击型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701011" key_alias="索引_套装10防御品质5" name="《宫廷玉液》" group_Type="7" data="1011" subtypeDes="共生型异质物" quality="5" rank="999" icon="item290003" image="item290003" describe="防御型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701012" key_alias="索引_套装10生命品质5" name="《宫廷玉液》" group_Type="7" data="1012" subtypeDes="共生型异质物" quality="5" rank="999" icon="item290003" image="item290003" describe="生命型
+2件套：攻击+10%
+3件套：战斗中造成的所有伤害均提升15%" limit="9999" useLimit="999"/>
+<Item id="701101" key_alias="索引_套装11攻击品质2" name="爱心早餐" group_Type="7" data="1101" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item400012" image="item400012" describe="攻击型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701102" key_alias="索引_套装11防御品质2" name="爱心早餐" group_Type="7" data="1102" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item400012" image="item400012" describe="防御型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701103" key_alias="索引_套装11生命品质2" name="爱心早餐" group_Type="7" data="1103" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="item400012" image="item400012" describe="生命型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701104" key_alias="索引_套装11攻击品质3" name="爱心早餐" group_Type="7" data="1104" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item400012" image="item400012" describe="攻击型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701105" key_alias="索引_套装11防御品质3" name="爱心早餐" group_Type="7" data="1105" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item400012" image="item400012" describe="防御型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701106" key_alias="索引_套装11生命品质3" name="爱心早餐" group_Type="7" data="1106" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="item400012" image="item400012" describe="生命型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701107" key_alias="索引_套装11攻击品质4" name="爱心早餐" group_Type="7" data="1107" subtypeDes="共生型异质物" quality="4" rank="999" icon="item400012" image="item400012" describe="攻击型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701108" key_alias="索引_套装11防御品质4" name="爱心早餐" group_Type="7" data="1108" subtypeDes="共生型异质物" quality="4" rank="999" icon="item400012" image="item400012" describe="防御型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701109" key_alias="索引_套装11生命品质4" name="爱心早餐" group_Type="7" data="1109" subtypeDes="共生型异质物" quality="4" rank="999" icon="item400012" image="item400012" describe="生命型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701110" key_alias="索引_套装11攻击品质5" name="爱心早餐" group_Type="7" data="1110" subtypeDes="共生型异质物" quality="5" rank="999" icon="item400012" image="item400012" describe="攻击型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701111" key_alias="索引_套装11防御品质5" name="爱心早餐" group_Type="7" data="1111" subtypeDes="共生型异质物" quality="5" rank="999" icon="item400012" image="item400012" describe="防御型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701112" key_alias="索引_套装11生命品质5" name="爱心早餐" group_Type="7" data="1112" subtypeDes="共生型异质物" quality="5" rank="999" icon="item400012" image="item400012" describe="生命型
+2件套：生命+10%
+3件套：开场获得2格能量" limit="9999" useLimit="999"/>
+<Item id="701201" key_alias="索引_套装12攻击品质2" name="退行犬" group_Type="7" data="1201" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_2995" image="Mon_2995" describe="攻击型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701202" key_alias="索引_套装12防御品质2" name="退行犬" group_Type="7" data="1202" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_2995" image="Mon_2995" describe="防御型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701203" key_alias="索引_套装12生命品质2" name="退行犬" group_Type="7" data="1203" subtypeDes="共生型异质物" quality="2" rank="999" jump="" icon="Mon_2995" image="Mon_2995" describe="生命型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701204" key_alias="索引_套装12攻击品质3" name="退行犬" group_Type="7" data="1204" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_2995" image="Mon_2995" describe="攻击型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701205" key_alias="索引_套装12防御品质3" name="退行犬" group_Type="7" data="1205" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_2995" image="Mon_2995" describe="防御型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701206" key_alias="索引_套装12生命品质3" name="退行犬" group_Type="7" data="1206" subtypeDes="共生型异质物" quality="3" rank="999" jump="" icon="Mon_2995" image="Mon_2995" describe="生命型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701207" key_alias="索引_套装12攻击品质4" name="退行犬" group_Type="7" data="1207" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_2995" image="Mon_2995" describe="攻击型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701208" key_alias="索引_套装12防御品质4" name="退行犬" group_Type="7" data="1208" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_2995" image="Mon_2995" describe="防御型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701209" key_alias="索引_套装12生命品质4" name="退行犬" group_Type="7" data="1209" subtypeDes="共生型异质物" quality="4" rank="999" icon="Mon_2995" image="Mon_2995" describe="生命型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701210" key_alias="索引_套装12攻击品质5" name="退行犬" group_Type="7" data="1210" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_2995" image="Mon_2995" describe="攻击型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701211" key_alias="索引_套装12防御品质5" name="退行犬" group_Type="7" data="1211" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_2995" image="Mon_2995" describe="防御型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+<Item id="701212" key_alias="索引_套装12生命品质5" name="退行犬" group_Type="7" data="1212" subtypeDes="共生型异质物" quality="5" rank="999" icon="Mon_2995" image="Mon_2995" describe="生命型
+2件套：防御+15%
+3件套：提升10%免伤" limit="9999" useLimit="999"/>
+</root>

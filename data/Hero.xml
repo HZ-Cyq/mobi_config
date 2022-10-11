@@ -1,0 +1,14 @@
+<root>
+<Hero id="10" name="测试专用" gender="2" model_id="100" skills="1001|1002|1003" icon="hero_901" boss_type="0"/>
+<Hero id="11" name="凯瑟琳" gender="2" model_id="11" skills="1101|1102|1103|1104" icon="hero_11" boss_type="0"/>
+<Hero id="12" name="聂飞" gender="1" model_id="12" skills="1201|1202|1203|1204" drawing="" icon="hero_12" boss_type="0"/>
+<Hero id="13" name="涂凌" gender="2" model_id="13" skills="1301|1302|1303|1304" drawing="" icon="hero_13" boss_type="0"/>
+<Hero id="19" name="凯瑟琳" gender="2" model_id="11" skills="1901" icon="hero_11" boss_type="0"/>
+<Hero id="20" name="少女" gender="2" model_id="13" skills="1301|1302|1303|1304" drawing="" icon="hero_13" boss_type="0"/>
+<Hero id="14" name="弥尔弥尔" gender="2" model_id="14" skills="1401|1402|1403" icon="hero_14" boss_type="0"/>
+<Hero id="15" name="土山奥" gender="2" model_id="15" skills="1501|1502|1503|1504" drawing="" icon="hero_15" boss_type="0"/>
+<Hero id="16" name="艾琳" gender="2" model_id="16" skills="1601|1602|1603" drawing="" icon="hero_11" boss_type="0"/>
+<Hero id="91" name="测试用-输出角色" gender="1" model_id="91" skills="9101|9102" icon="hero_901" boss_type="0"/>
+<Hero id="92" name="测试用-平衡角色" gender="1" model_id="92" skills="9201|9202" drawing="" icon="hero_902" boss_type="0"/>
+<Hero id="93" name="测试用-防御角色" gender="1" model_id="93" skills="9301|9302" drawing="" icon="hero_903" boss_type="0"/>
+</root>

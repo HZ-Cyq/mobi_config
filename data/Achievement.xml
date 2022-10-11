@@ -1,0 +1,11 @@
+<root>
+<Achievement id="1" group_objType="10101" objParam="0" objRewards="1;10101001|2;10101002|3;10101003|4;10101004|5;10101005|6;10101006|7;10101007|8;10101008|9;10101009|10;10101010|11;10101011|12;10101012|13;10101013|14;10101014|15;10101015|16;10101016|17;10101017|18;10101018|19;10101019|20;10101020" mode="0" showType="1"/>
+<Achievement id="2" group_objType="12101" objParam="1" objRewards="10000;100100" mode="0" showType="0"/>
+<Achievement id="3" group_objType="12101" objParam="3" objRewards="10000;100100" mode="0" showType="0"/>
+<Achievement id="4" group_objType="20100" objParam="0" objRewards="1;100100" mode="0" showType="0"/>
+<Achievement id="5" group_objType="20101" objParam="3" objRewards="10;100100" mode="0" showType="0"/>
+<Achievement id="6" group_objType="20102" objParam="101" objRewards="1;100100" mode="0" showType="0"/>
+<Achievement id="7" group_objType="30101" objParam="200001" objRewards="10;100100" mode="1" showType="0"/>
+<Achievement id="8" group_objType="50101" objParam="0" objRewards="2001;100100|2002;100200|2003;100300" mode="1" showType="0"/>
+<Achievement id="9" group_objType="60101" objParam="0" objRewards="1;100100|11;100200" mode="1" showType="0"/>
+</root>

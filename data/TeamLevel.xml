@@ -1,0 +1,22 @@
+<root>
+<TeamLevel id="1" levelName="1" picture="" prestige="200" mainQuestId="0" stageId="0" desc="欢迎加入STS" rewardItem="" rewardNum="" maxStamina="0" recoverStamina="0" receiveStamina="0"/>
+<TeamLevel id="2" levelName="2" picture="" prestige="300" mainQuestId="0" stageId="0" desc="开启主线：&lt;color=#EE9F38&gt;《旧日时光》&lt;/color&gt;" rewardItem="" rewardNum="" maxStamina="0" recoverStamina="100" receiveStamina="60"/>
+<TeamLevel id="3" levelName="3" picture="" prestige="400" mainQuestId="0" stageId="0" desc="开启主线：&lt;color=#EE9F38&gt;《公寓谜因》&lt;/color&gt;|开启&lt;color=#EE9F38&gt;【通讯】&lt;/color&gt;功能" rewardItem="" rewardNum="" maxStamina="100" recoverStamina="105" receiveStamina="60"/>
+<TeamLevel id="4" levelName="4" picture="" prestige="500" mainQuestId="0" stageId="0" desc="开启&lt;color=#EE9F38&gt;【商店】&lt;/color&gt;功能|体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" rewardItem="" rewardNum="" maxStamina="105" recoverStamina="110" receiveStamina="60"/>
+<TeamLevel id="5" levelName="5" picture="" prestige="600" mainQuestId="0" stageId="0" desc="开启主线：&lt;color=#EE9F38&gt;《心理分型》&lt;/color&gt;|体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" rewardItem="" rewardNum="" maxStamina="110" recoverStamina="115" receiveStamina="60"/>
+<TeamLevel id="6" levelName="6" picture="" prestige="700" mainQuestId="0" stageId="0" desc="可在昭离公馆大厅领取物资|体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" rewardItem="" rewardNum="" maxStamina="115" recoverStamina="120" receiveStamina="60"/>
+<TeamLevel id="7" levelName="7" picture="" prestige="750" mainQuestId="0" stageId="0" desc="开启主线：&lt;color=#EE9F38&gt;《迷失在今夕》&lt;/color&gt;|体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" rewardItem="" rewardNum="" maxStamina="120" recoverStamina="125" receiveStamina="60"/>
+<TeamLevel id="8" levelName="8" picture="" prestige="800" mainQuestId="0" stageId="0" desc="可获得任务：&lt;color=#79C1FD&gt;《窒息》&lt;/color&gt;|体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" rewardItem="" rewardNum="" maxStamina="125" recoverStamina="130" receiveStamina="60"/>
+<TeamLevel id="9" levelName="9" picture="" prestige="850" mainQuestId="0" stageId="0" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" rewardItem="" rewardNum="" maxStamina="130" recoverStamina="135" receiveStamina="60"/>
+<TeamLevel id="10" levelName="10" picture="" prestige="900" mainQuestId="0" stageId="0" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" rewardItem="" rewardNum="" maxStamina="135" recoverStamina="140" receiveStamina="60"/>
+<TeamLevel id="11" levelName="11" prestige="950" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="140" recoverStamina="145" receiveStamina="60"/>
+<TeamLevel id="12" levelName="12" prestige="1000" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="145" recoverStamina="150" receiveStamina="60"/>
+<TeamLevel id="13" levelName="13" prestige="1050" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="150" recoverStamina="155" receiveStamina="60"/>
+<TeamLevel id="14" levelName="14" prestige="1100" desc="开启主线：&lt;color=#EE9F38&gt;《烟花异染》&lt;/color&gt;|体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="155" recoverStamina="160" receiveStamina="60"/>
+<TeamLevel id="15" levelName="15" prestige="1150" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="160" recoverStamina="165" receiveStamina="60"/>
+<TeamLevel id="16" levelName="16" prestige="1200" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="165" recoverStamina="170" receiveStamina="60"/>
+<TeamLevel id="17" levelName="17" prestige="1300" desc="可获得任务：&lt;color=#79C1FD&gt;《欲望游戏》&lt;/color&gt;|体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="170" recoverStamina="175" receiveStamina="60"/>
+<TeamLevel id="18" levelName="18" prestige="1400" desc="体力上限增加&lt;color=#FF000A&gt;5&lt;/color&gt;点" maxStamina="175" recoverStamina="180" receiveStamina="60"/>
+<TeamLevel id="19" levelName="19" prestige="1500" desc="后续内容暂未开放，敬请期待~" maxStamina="180" recoverStamina="180" receiveStamina="60"/>
+<TeamLevel id="20" levelName="20" desc="后续内容暂未开放，敬请期待~" maxStamina="180" recoverStamina="180" receiveStamina="60"/>
+</root>

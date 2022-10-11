@@ -1,0 +1,15 @@
+<root>
+<Topic id="1" roleId="11" passive="1" name="询问凯瑟琳怎么加入的STS" repeatCounts="1" topicScriptName="chat_kaiselin_1" endTime="60" quest="0" urgent="0"/>
+<Topic id="2" roleId="11" passive="1" name="询问404对于自己身体的影响" repeatCounts="1" topicScriptName="chat_kaiselin_2" type="5" param="2" endTime="60" quest="0" urgent="0"/>
+<Topic id="3" roleId="11" passive="1" name="关于漆异之的死亡……" repeatCounts="1" topicScriptName="chat_kaiselin_3" type="1" param="31" endTime="60" quest="0" urgent="0"/>
+<Topic id="4" roleId="12" passive="1" name="关于聂飞的过去……" repeatCounts="1" topicScriptName="chat_niefei_1" type="2" param="31" endTime="60" quest="0" urgent="0"/>
+<Topic id="5" roleId="12" passive="1" name="询问对于顶石事件的看法" repeatCounts="1" topicScriptName="chat_niefei_2" type="3" param="2" endTime="60" quest="0" urgent="0"/>
+<Topic id="7" roleId="13" passive="1" name="向涂凌卖萌……" repeatCounts="1" topicScriptName="chat_tuling_1" type="4" param="1" endTime="60" quest="0" urgent="0"/>
+<Topic id="8" roleId="13" passive="1" name="询问入职情况" repeatCounts="1" topicScriptName="chat_tuling_2" type="5" param="3" endTime="60" quest="0" urgent="0"/>
+<Topic id="9" roleId="13" passive="1" name="关于顶石的安防系统……" repeatCounts="1" topicScriptName="chat_tuling_3" type="10" param="5" endTime="60" quest="0" urgent="0"/>
+<Topic id="10" roleId="101" passive="1" name="关于STS……" repeatCounts="1" topicScriptName="chat_duheng_1" type="3" param="5" endTime="60" quest="0" urgent="0"/>
+<Topic id="11" roleId="101" passive="1" name="关于杜博士……" repeatCounts="1" topicScriptName="chat_duheng_2" type="2" param="11" endTime="60" quest="0" urgent="0"/>
+<Topic id="12" roleId="101" passive="1" name="关于顶石科技……" repeatCounts="1" topicScriptName="chat_duheng_3" type="4" param="2" endTime="60" quest="0" urgent="0"/>
+<Topic id="13" roleId="101" passive="0" name="藤江物流支线" repeatCounts="0" topicScriptName="xt_wuliu_message" type="10" param="5" delayType="1" delayParam="60" priority="1" endTime="999999" quest="3004" urgent="0"/>
+<Topic id="14" roleId="101" passive="0" name="致命拥抱" topicScriptName="xt_hug_start" type="10" param="8" delayType="1" delayParam="20" priority="1" endTime="999999" quest="3009" urgent="0"/>
+</root>

@@ -1,0 +1,37 @@
+<root>
+<SoloCourt id="1001" success_clues="1202|1203" success_result="1209" success_avg="C0_solo_01|成功0-1" end_avg="" end_avg_conditions=""/>
+<SoloCourt id="1002" success_clues="1205|1206" success_result="1313" success_avg="C0_solo_01|成功0-3" end_avg="C0_begin|初次推理成功" end_avg_conditions=""/>
+<SoloCourt id="1003" success_clues="1207|1208" success_result="1305" success_avg="C0_solo_01|成功0-2" end_avg="C0_kaiselinoffice|C0密室推理成功1" end_avg_conditions=""/>
+<SoloCourt id="1004" success_clues="1209|1204" success_result="1211" success_avg="C0_solo_01|成功0-4" end_avg="C0_kaiselinoffice|C0密室推理成功2"/>
+<SoloCourt id="1005" success_clues="1202|1204" success_result="1212" success_avg="C0_solo_01|成功0-5" end_avg=""/>
+<SoloCourt id="1006" success_clues="1212|1203" success_result="1211" success_avg="C0_solo_01|成功0-6" end_avg="C0_kaiselinoffice|C0密室推理成功2"/>
+<SoloCourt id="11001" success_clues="11214|11204" success_result="11205" success_avg="C1_solo_01|成功0-1"/>
+<SoloCourt id="11002" success_clues="11203|11217" success_result="11206" success_avg="C1_solo_01|成功0-2"/>
+<SoloCourt id="11003" success_clues="11205|11206" success_result="11207" success_avg="C1_solo_01|成功0-3" end_avg="C1_404home|视频诱导决策"/>
+<SoloCourt id="3004001" success_clues="3004202|3004205" success_result="3004206" success_avg="tengjiangwuliu_solo|成功1-1" end_avg_conditions=""/>
+<SoloCourt id="3004002" success_clues="3004203|3004204" success_result="3004207" success_avg="tengjiangwuliu_solo|成功1-2" end_avg_conditions=""/>
+<SoloCourt id="3004003" success_clues="3004208|3004210" success_result="3004211" success_avg="tengjiangwuliu_solo|成功2-1" end_avg="xt_wuliu_huaishuli_menkou2|推理结束1" end_avg_conditions="3004211"/>
+<SoloCourt id="3004004" success_clues="3004206|3004207" success_result="3004212" end_avg="xt_wuliu_huaishuli_gongyu|推理结束1" end_avg_conditions="3004212"/>
+<SoloCourt id="3005001" success_clues="3005201|3005203" success_result="3005204" success_avg="xt_shechu_solo|社畜成功" end_avg="xt_shechu_solo|社畜结束"/>
+<SoloCourt id="21001" success_clues="21201|21202" success_result="21203" success_avg="C2_solo_01|成功1-1"/>
+<SoloCourt id="21002" success_clues="21203|21204" success_result="21341" success_avg="C2_solo_01|成功1-2" end_avg="C2_tushanroom|商讨后续" end_avg_conditions="21341|21342"/>
+<SoloCourt id="21003" success_clues="21206|21207" success_result="21208" success_avg="C2_solo_01|成功1-3"/>
+<SoloCourt id="21004" success_clues="21208|21209" success_result="21342" success_avg="C2_solo_01|成功1-4" end_avg="C2_tushanroom|商讨后续" end_avg_conditions="21341|21342"/>
+<SoloCourt id="21005" success_clues="21210|21211" success_result="21212" success_avg="C2_solo_01|成功1-5" end_avg="C2_tushanroom|商讨后续" end_avg_conditions="21341|21342"/>
+<SoloCourt id="21006" success_clues="21213|21214" success_result="21215" success_avg="C2_solo_01|成功2-1" end_avg="" end_avg_conditions=""/>
+<SoloCourt id="21007" success_clues="21215|21216" success_result="21217" success_avg="C2_solo_01|成功2-2" end_avg="" end_avg_conditions=""/>
+<SoloCourt id="21008" success_clues="21218|21219" success_result="21220" success_avg="C2_solo_01|成功2-3" end_avg="" end_avg_conditions=""/>
+<SoloCourt id="21009" success_clues="21217|21220" success_result="21221" success_avg="C2_solo_01|成功2-4" end_avg="" end_avg_conditions=""/>
+<SoloCourt id="21010" success_clues="21221|21222" success_result="21326" success_avg="C2_solo_01|成功2-5" end_avg="C2_caihome|推理结束" end_avg_conditions="21326"/>
+<SoloCourt id="3009001" success_clues="3009201|3009204" success_result="3009206" success_avg="xt_hug_solo1|成功1-1"/>
+<SoloCourt id="3009002" success_clues="3009202|3009205" success_result="3009207" success_avg="xt_hug_solo1|成功1-2"/>
+<SoloCourt id="3009003" success_clues="3009206|3009207" success_result="3009208" success_avg="xt_hug_solo1|成功1-3" end_avg="xt_hug_solo1|结束" end_avg_conditions="3009208"/>
+<SoloCourt id="3009004" success_clues="3009210|3009209" success_result="3009215" success_avg="xt_hug_solo2|成功" end_avg="xt_hug_solo2|结束"/>
+<SoloCourt id="3011001" success_clues="3011203|3011204" success_result="3011202" success_avg="xt_dianzhuang_solo|成功1-1"/>
+<SoloCourt id="3011002" success_clues="3011201|3011202" success_result="3011206" success_avg="xt_dianzhuang_solo|成功1-2" end_avg="xt_dianzhuang_2_kangxin|逻辑结束" end_avg_conditions="3011206"/>
+<SoloCourt id="3010001" success_clues="3010202|3010204" success_result="3010205" success_avg="xt_saiche_3_solo|成功" end_avg="xt_saiche_3_solo|结束" end_avg_conditions="3010205"/>
+<SoloCourt id="3013001" success_clues="3013204|3013205" success_avg="xt_think1_catsfish_solo|成功"/>
+<SoloCourt id="3016001" success_clues="3016202|3016203" success_result="3016205" success_avg="xt_think3_physical_2_solo|成功1" end_avg="" end_avg_conditions=""/>
+<SoloCourt id="3016002" success_clues="3016204|3016205" success_result="3016206" success_avg="xt_think3_physical_2_solo|成功2" end_avg="xt_think3_physical_2_solo|结束" end_avg_conditions="3016206"/>
+<SoloCourt id="3022001" success_clues="3022201|3022203" success_result="3022204" success_avg="xt_qiqiushangfan_solo|成功1-1"/>
+</root>
