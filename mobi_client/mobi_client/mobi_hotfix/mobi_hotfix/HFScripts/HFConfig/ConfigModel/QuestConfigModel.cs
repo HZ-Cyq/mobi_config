@@ -7,6 +7,7 @@
     public int level;//开放等级
     public int preQuest;//前置任务id
     public int isXT;//是否箱庭任务
+    public int canGiveUp;//是否可放弃（填1为可以）
     public System.Collections.Generic.List<int> favorLvReq;//所需小队成员好感度
     public int vis_lv;//可见性-角色等级
     public System.Collections.Generic.List<int> vis_preQuests;//可见性-前置任务集

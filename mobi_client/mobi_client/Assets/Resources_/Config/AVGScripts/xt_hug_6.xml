@@ -66,9 +66,6 @@ $$“没事，你先走吧。”==&gt;你先走吧" param2="" param3=""/>
 <xt_hug_6 id="58" originalRow="58" groupSign="" debugClose="" action="可选对话框" data="" param="$$聂总再见==&gt;聂总再见
 $$聂总再见==&gt;聂总再见
 $$聂总再见==&gt;聂总再见
-$$聂总再见==&gt;聂总再见
-$$聂总再见==&gt;聂总再见
-$$聂总再见==&gt;聂总再见
 $$聂总再见==&gt;聂总再见" param2="" param3=""/>
 <xt_hug_6 id="59" originalRow="59" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_6 id="60" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
@@ -88,9 +85,6 @@ $$聂总再见==&gt;聂总再见" param2="" param3=""/>
 <xt_hug_6 id="74" originalRow="74" groupSign="" debugClose="" action="可选对话框" data="" param="$$拥抱我吧==&gt;拥抱我吧
 $$拥抱我吧==&gt;拥抱我吧
 $$拥抱我吧==&gt;拥抱我吧
-$$拥抱我吧==&gt;拥抱我吧
-$$拥抱我吧==&gt;拥抱我吧
-$$拥抱我吧==&gt;拥抱我吧
 $$拥抱我吧==&gt;拥抱我吧" param2="" param3=""/>
 <xt_hug_6 id="75" originalRow="75" groupSign="拥抱我吧" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_6 id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="wo" param="（拥抱你，可以吗？）" param2="" param3="type=0"/>
@@ -99,9 +93,6 @@ $$拥抱我吧==&gt;拥抱我吧" param2="" param3=""/>
 <xt_hug_6 id="79" originalRow="79" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_6 id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="wo" param="（不对！）" param2="" param3="type=0"/>
 <xt_hug_6 id="81" originalRow="81" groupSign="" debugClose="" action="可选对话框" data="" param="$$抵抗==&gt;抵抗
-$$抵抗==&gt;抵抗
-$$抵抗==&gt;抵抗
-$$抵抗==&gt;抵抗
 $$抵抗==&gt;抵抗
 $$抵抗==&gt;抵抗
 $$抵抗==&gt;抵抗" param2="" param3=""/>

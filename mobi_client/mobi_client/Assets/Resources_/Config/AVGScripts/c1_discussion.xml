@@ -121,7 +121,7 @@ $$第一章_MV报告==&gt;问题二错误2" param2="" param3="type=3"/>
 <C1_Discussion id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,30,0.1}{#涂凌思考动作}{#涂凌思考表情}那应该就是钱越提到的，
 给奶奶寄过来的MV母带吧。{1.2}{#涂凌思考动作恢复}{#涂凌待机表情}" param2="96T那应该就是" param3=""/>
 <C1_Discussion id="95" originalRow="95" groupSign="" debugClose="" action="播放音效" data="avg_paper" param="" param2="" param3=""/>
-<C1_Discussion id="96" originalRow="96" groupSign="" debugClose="" action="打开插画" data="C1_originalmv" param="FALSE" param2="" param3="offy=0.15"/>
+<C1_Discussion id="96" originalRow="96" groupSign="" debugClose="" action="打开插画" data="C1_originalmv" param="FALSE" param2="" param3=""/>
 <C1_Discussion id="97" originalRow="97" groupSign="" debugClose="" action="镜头移动" data="vcamSP2341" param="0.8" param2="" param3=""/>
 <C1_Discussion id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考3动作}那段MV里，歌词、曲调、动作都一模一样，
 只是钱越头上没有电视机。" param2="" param3=""/>

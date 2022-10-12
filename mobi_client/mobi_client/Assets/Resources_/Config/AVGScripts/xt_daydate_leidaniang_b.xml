@@ -1,0 +1,89 @@
+<root>
+<xt_daydate_leidaniang_B id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="谈心的话，果然还是要试着讨好她，按照她的心意行动，让她的心情变好吧。" param2="" param3="type=0"/>
+<xt_daydate_leidaniang_B id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="超波频667似乎没有敌意，试着慢慢朝她靠近。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="leidaniang" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="侦测到信号源靠近，进入攻击范围内。3米，2米……准备击杀目标。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="6" originalRow="6" groupSign="" debugClose="" action="可选对话框" data="" param="$$继续靠近==&gt;选项1-A
+$$原地不动==&gt;选项1-B
+$$远离==&gt;选项1-C" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="8" originalRow="8" groupSign="选项1-A" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="你为什么……不怕我？" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="没有人，靠我这么近过。这种感觉意外地，还不错呢。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="" param="对话阶段3" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="14" originalRow="14" groupSign="选项1-B" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="目标锁定，行动代号洞幺拐勾，开始执行！" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="16" originalRow="16" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4075" param3=""/>
+<xt_daydate_leidaniang_B id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="19" originalRow="19" groupSign="选项1-C" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="果然大家都这样，大家都……远离我。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="21" originalRow="21" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4075" param3=""/>
+<xt_daydate_leidaniang_B id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="26" originalRow="26" groupSign="对话阶段3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="你知道吗，很多人会把我当成收音机，或者太阳能热水器。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="28" originalRow="28" groupSign="" debugClose="" action="可选对话框" data="" param="$$你不是吗？==&gt;选项3-A
+$$所以你是什么？==&gt;选项3-B
+$$我才是收音机==&gt;选项3-C" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="29" originalRow="29" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="33" originalRow="33" groupSign="选项3-A" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="哈哈，也许当一个收音机什么的，感觉也不错呢。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="35" originalRow="35" groupSign="" debugClose="" action="跳转-标签" data="" param="对话阶段5" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="36" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="39" originalRow="39" groupSign="选项3-B" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="我是超波频667，代号3-667，生人勿近，只警告一次。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="42" originalRow="42" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4075" param3=""/>
+<xt_daydate_leidaniang_B id="43" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="44" originalRow="44" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="46" originalRow="46" groupSign="选项3-C" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="我最讨厌的就是收音机了。或者说……" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="一切的，机械。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="50" originalRow="50" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4075" param3=""/>
+<xt_daydate_leidaniang_B id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="52" originalRow="52" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="53" originalRow="53" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="54" originalRow="54" groupSign="对话阶段5" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="我的探测距离可以达到数千千米，可是，我从来没有走出过工作区……" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="虽然可以精确探测到远方的信号，但却没见到过那里的景色呢，是不是很好笑？" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="57" originalRow="57" groupSign="" debugClose="" action="可选对话框" data="" param="$$哈哈哈哈哈哈==&gt;选项5-A
+$$我带你去==&gt;选项5-B
+$$每个人都有自己的命运==&gt;选项5-C" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="58" originalRow="58" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="59" originalRow="59" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="60" originalRow="60" groupSign="选项5-A" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="这种放肆的笑是什么意思？在你看来我就是个乐子吧。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="再不离开，我就准备发动攻击了。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="63" originalRow="63" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4075" param3=""/>
+<xt_daydate_leidaniang_B id="64" originalRow="64" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="65" originalRow="65" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="66" originalRow="66" groupSign="选项5-B" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="请你不要再说这种做不到的话了。" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="68" originalRow="68" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4075" param3=""/>
+<xt_daydate_leidaniang_B id="69" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="70" originalRow="70" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="71" originalRow="71" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="72" originalRow="72" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="73" originalRow="73" groupSign="选项5-C" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="leidaniang" param="你的意思是，我就像恒星一样在自己的轨道里行驶着呢。这样想真不错，谢谢！" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="75" originalRow="75" groupSign="" debugClose="" action="结束且返回值" data="" param="TRUE" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="76" originalRow="76" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="77" originalRow="77" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="78" originalRow="78" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="79" originalRow="79" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daydate_leidaniang_B id="80" originalRow="80" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

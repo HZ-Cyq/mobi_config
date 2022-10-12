@@ -1,0 +1,45 @@
+<root>
+<xt_mizui_part2 id="0" originalRow="0" groupSign="开始"/>
+<xt_mizui_part2 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_mizui_part2 id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_mizui_part2 id="3" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_mizui_part2 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="切，这里怎么一点赌场的气氛都没有？" param2="" param3="type=0"/>
+<xt_mizui_part2 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="都说了是秘密赌场，别表现的一副没有生活经验的样子。" param2="" param3="type=0"/>
+<xt_mizui_part2 id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="本大爷那会儿在东南亚，赌场里可全是用椰子壳挡胸的小妹……" param2="" param3="type=0"/>
+<xt_mizui_part2 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="聂总……" param2="" param3="type=0"/>
+<xt_mizui_part2 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你以为踩这种红线动物保护法罩得住你么？" param2="" param3="type=0"/>
+<xt_mizui_part2 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="niefei" param="咳咳。" param2="" param3="type=0"/>
+<xt_mizui_part2 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="话说这个……" param2="" param3="type=0"/>
+<xt_mizui_part2 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="" param="被称为“门票”的徽章闪着金光。" param2="" param3="type=1"/>
+<xt_mizui_part2 id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="说是门票，具体用法看来还得摸索。" param2="" param3="type=0"/>
+<xt_mizui_part2 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="niefei" param="找人问问呗，还能怎么样？" param2="" param3="type=0"/>
+<xt_mizui_part2 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="niefei" param="还有拿远点，一股呕吐物的味道。" param2="" param3="type=0"/>
+<xt_mizui_part2 id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="对催吐有意见？下次让嫌疑人拉出来，你去回收？" param2="" param3="type=0"/>
+<xt_mizui_part2 id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="niefei" param="我什么也没说。" param2="" param3="type=0"/>
+<xt_mizui_part2 id="26" originalRow="26" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part2 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="" param="徽章躺在掌心，有细微的热度渗出来。" param2="" param3="type=1"/>
+<xt_mizui_part2 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="总觉得……有点发烫？" param2="" param3="type=0"/>
+<xt_mizui_part2 id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="30" originalRow="30" action="角色台词" data="tuling" param="！" param2="" param3="type=0"/>
+<xt_mizui_part2 id="31" originalRow="31" action="角色台词" data="tuling" param="松手。" param2="" param3="type=0"/>
+<xt_mizui_part2 id="32" originalRow="32" action="角色台词" data="tuling" param="就现在，快松手！" param2="" param3="type=0"/>
+<xt_mizui_part2 id="33" originalRow="33" action="角色台词" data="" param="徽章突然白热，在空气中嘶嘶作响。" param2="" param3="type=1"/>
+<xt_mizui_part2 id="34" originalRow="34" action="角色台词" data="" param="之后悬浮在大厅的一侧，那里出现了一个扭曲的入口。" param2="" param3="type=1"/>
+<xt_mizui_part2 id="35" originalRow="35" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="36" originalRow="36" action="角色台词" data="kaiselin02" param="是异质物在引诱我们吗？" param2="" param3="type=0"/>
+<xt_mizui_part2 id="37" originalRow="37" action="角色台词" data="kaiselin02" param="或者说，它是被什么人以某种形式操控着……" param2="" param3="type=0"/>
+<xt_mizui_part2 id="38" originalRow="38" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="39" originalRow="39" action="角色台词" data="tuling" param="小心，入口的异质波动极不稳定……很危险。" param2="" param3="type=0"/>
+<xt_mizui_part2 id="40" originalRow="40" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part2 id="41" originalRow="41" action="角色台词" data="niefei" param="明知山有虎吗……本大爷可不怕！走吧！" param2="" param3="type=0"/>
+<xt_mizui_part2 id="42" originalRow="42" groupSign="结束"/>
+</root>

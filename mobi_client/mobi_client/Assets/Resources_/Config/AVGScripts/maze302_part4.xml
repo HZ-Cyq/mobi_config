@@ -1,0 +1,10 @@
+<root>
+<maze302_part4 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_part4 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze302_part4 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze302_part4 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="周易，你怎么带我们来了一条死路啊。这样本大爷又要费力气绕路去找巢主了。" param2="" param3=""/>
+<maze302_part4 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="聂飞踹了一脚墙，却从墙里听到了沉闷的回声。" param2="" param3="type=1"/>
+<maze302_part4 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这个声音……难道说，隔壁是房间？" param2="" param3=""/>
+<maze302_part4 id="6" originalRow="6" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_part4 id="7" originalRow="7" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

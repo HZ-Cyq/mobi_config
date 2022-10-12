@@ -19,14 +19,15 @@
 <xt_hug_solo1 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="（拨通异质物目击热线，不说话，不解释！）" param2="" param3="type=0"/>
 <xt_hug_solo1 id="18" originalRow="18" groupSign="" debugClose="" action="语法-数值" data="ri_如法炮制=1" param="" param2="" param3=""/>
 <xt_hug_solo1 id="19" originalRow="19" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_hug_solo1 id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_solo1 id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_solo1 id="22" originalRow="22" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_solo1 id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo1 id="20" originalRow="20" groupSign="推理结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo1 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="（对，就是找到座机！）" param2="" param3="type=0"/>
+<xt_hug_solo1 id="22" originalRow="22" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_hug_solo1 id="23" originalRow="23" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_solo1 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_solo1 id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_solo1 id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_solo1 id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_solo1 id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_solo1 id="29" originalRow="29" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_solo1 id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

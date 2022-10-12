@@ -19,4 +19,5 @@
 <AvgServerAction id="901" group_id="9" type="1" param="11;10" questAlias="11" des="看完MV苏醒后好感,选择凯瑟琳"/>
 <AvgServerAction id="902" group_id="9" type="1" param="12;10" questAlias="11" des="看完MV苏醒后好感,选择聂飞"/>
 <AvgServerAction id="903" group_id="9" type="1" param="13;10" questAlias="11" des="看完MV苏醒后好感,选择涂凌"/>
+<AvgServerAction id="21001" group_id="21" type="1" param="11;5" questAlias="21" des="指正冰酒手套"/>
 </root>

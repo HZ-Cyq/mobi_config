@@ -1,0 +1,8 @@
+<root>
+<NPC_SkeletonPoint id="0" key_name="Head" max_name="Head"/>
+<NPC_SkeletonPoint id="1" key_name="Chest" max_name="Spine1"/>
+<NPC_SkeletonPoint id="2" key_name="LeftShoulder" max_name="L Clavicle"/>
+<NPC_SkeletonPoint id="3" key_name="RightShoulder" max_name="R Clavicle"/>
+<NPC_SkeletonPoint id="4" key_name="LeftHand" max_name="L Hand"/>
+<NPC_SkeletonPoint id="5" key_name="RightHand" max_name="R Hand"/>
+</root>

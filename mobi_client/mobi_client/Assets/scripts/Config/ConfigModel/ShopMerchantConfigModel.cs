@@ -5,7 +5,7 @@ namespace ConfigSystem
         public System.Collections.Generic.List<string> autoRefreshTime;//自然刷新时间
         public System.Collections.Generic.List<int> cycleRefreshTime;//周期刷新时间(0:周期天，从开启日期开始算，1每月起始天，2每周起始天）
         public int refreshLimit;//手动刷新上限
-        public System.Collections.Generic.List<System.Collections.Generic.List<int>> refreshCost;//手动刷新消耗（货币：金额）
+        public System.Collections.Generic.List<System.Collections.Generic.List<int>> refreshCost;//手动刷新消耗（货币；金额）
         public System.Collections.Generic.List<System.Collections.Generic.List<int>> storage;//上架物品栏位条件
         public System.Collections.Generic.List<int> costShow;//资源栏
         public int order;//显示排序

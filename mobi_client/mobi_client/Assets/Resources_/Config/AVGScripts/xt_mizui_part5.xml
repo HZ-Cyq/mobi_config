@@ -1,0 +1,132 @@
+<root>
+<xt_mizui_part5 id="0" originalRow="0" groupSign="开始"/>
+<xt_mizui_part5 id="1" originalRow="1" groupSign="眼镜男1"/>
+<xt_mizui_part5 id="2" originalRow="2" groupSign="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_mizui_part5 id="3" originalRow="3" groupSign="" action="设置角色" data="mizuijinchao" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="4" originalRow="4" groupSign="" action="设置角色" data="yanjingnan" param="pos=右"/>
+<xt_mizui_part5 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="" param="戴着眼镜的男人走上去，女人把手放在他胸口。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="她的手透了进去，伸进了男人体内。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="呜！" param2="" param3="type=0"/>
+<xt_mizui_part5 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="女人的手在男人体内上下翻搅。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="找到了。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="" param="她将手拔出，没有留下伤口。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="11" originalRow="11" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="拿出了……手机？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="yanjingnan" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="mizuijinchao" param="pos=左" param2="" param3=""/>
+<xt_mizui_part5 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="18" originalRow="18" action="角色台词" data="mizuijinchao" param="你母亲中风瘫痪八年了，你早就不抱希望恢复。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="但是上个月奇迹发生了，对吧？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="20" originalRow="20" action="角色台词" data="mizuijinchao" param="她的左手手指恢复了活动。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你想要她重新接受治疗，所以需要钱。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="22" originalRow="22" action="角色台词" data="mizuijinchao" param="没问题，在这里多少钱都能赢到手。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="就用这个做你的本金。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="24" originalRow="24" action="角色台词" data="" param="异质物将手机打开来。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="这里存着你母亲中风前发来的语音信息。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你常给她放这些录音，希望她别忘了说话的感觉。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="28" originalRow="28" groupSign="" action="设置角色" data="mizuijinchao" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="如果你输了，这些仅剩的声音也会消失。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="30" originalRow="30" action="角色台词" data="" param="男人深吸了几口气。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="31" originalRow="31" action="角色台词" data="yanjingnan" param="我明白了。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="32" originalRow="32" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_mizui_part5 id="33" originalRow="33" groupSign="" debugClose="" action="" data="" param=""/>
+<xt_mizui_part5 id="34" originalRow="34" groupSign="猥琐男1" debugClose="" action="" data="" param=""/>
+<xt_mizui_part5 id="35" originalRow="35" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<xt_mizui_part5 id="36" originalRow="36" groupSign="" debugClose="" action="设置角色" data="nfc_90024" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="37" originalRow="37" groupSign="" debugClose="" action="设置角色" data="mizuijinchao" param="pos=左" param2="" param3=""/>
+<xt_mizui_part5 id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="nfc_90024" param="我，一样。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="哦？让我看看。你有什么筹码呢？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="nfc_90024" param="我也不知道，老子就烂命一条，能找到什么你都拿去就好了。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="" param="她将手抽出，黑色的液体在她指间旋流。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你一个人流浪了很多年，靠盗窃和拾荒果腹。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你从不接近任何人，语言能力严重退化。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="" param="猥琐男的身体绷紧了。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="可是半年前，你遇到了可怜你的女孩。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你古怪易怒又不会说话，什么工作都做不成。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="唯独在她的花店，你能干活了，也能开口了。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你感觉到了爱，流浪的事好像过去的噩梦。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="可惜花店经营不善，她已经负担不起你了。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="要回到和野狗抢食的生活吗？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="没关系，你还有东西可以抵押。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你那些黑暗的隐私，抢夺、偷窃、玷污的过去。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="如果你输了，我就把这些交给收留你的那孩子。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="" param="砰！猥琐男双拳砸在圆桌桌面。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="nfc_90024" param="你……你……我……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="" param="他重重地叹了口气。" param2="" param3=""/>
+<xt_mizui_part5 id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="nfc_90024" param="好……吧。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="58" originalRow="58" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="niefei" param="真是让人看不下去（嚼）。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="60" originalRow="60" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xt_mizui_part5 id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="tuling" param="她在读取记忆，但是是怎么做到的？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="62" originalRow="62" action="角色台词" data="niefei" param="我们继续看不就知道了（嚼）!" param2="" param3="type=0"/>
+<xt_mizui_part5 id="63" originalRow="63" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_mizui_part5 id="64" originalRow="64" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="65" originalRow="65" groupSign="继续剧情" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="66" originalRow="66" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<xt_mizui_part5 id="67" originalRow="67" groupSign="" debugClose="" action="设置角色" data="mizuijinchao" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="68" originalRow="68" action="角色台词" data="mizuijinchao" param="……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="69" originalRow="69" action="角色台词" data="" param="女人轻敲桌面，筹码便出现在了两人面前。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="" param="面相猥琐的男人的筹码，要比戴眼镜的那位更多。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="既然是游戏，就得有赢家。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="赢下牌局的人，会得到自己期望的那笔钱。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="" param="两个男人都面露喜色。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="75" originalRow="75" groupSign="" debugClose="" action="设置角色" data="yanjingnan" param="pos=右" param2="" param3=""/>
+<xt_mizui_part5 id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="只要赢光对手的筹码就行了吧？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="没错。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="不过，我也接受继续追加抵押。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="追加？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="80" originalRow="80" groupSign="" debugClose="" action="设置角色" data="mizuijinchao" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="{#迷醉金钞微笑}你们连自己最珍惜的东西都抵押了，还怕什么？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="筹码不够用的话，用身体的一部分去换不就好了？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="83" originalRow="83" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="84" originalRow="84" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么（嚼）？！" param2="" param3="type=0"/>
+<xt_mizui_part5 id="86" originalRow="86" groupSign="" debugClose="" action="设置角色" data="mizuijinchao" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="三分之一块肝脏，小指和无名指，或者一颗眼球。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="能换的多的是，努力赢下牌局吧。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="" param="异质物说完，两个男人都陷入了沉默。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="90" originalRow="90" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="91" originalRow="91" groupSign="" debugClose="" action="角色台词" data="tuling" param="如果真到那一步……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="92" originalRow="92" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="他们会换的，一目了然的事情。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="他们会一直追加筹码，直到一个人死在牌桌上。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="95" originalRow="95" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="niefei" param="真是疯了（嚼）！" param2="" param3="type=0"/>
+<xt_mizui_part5 id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="wo" param="话说你从刚才开始一直在吃什么？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="98" originalRow="98" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="niefei" param="呃……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="100" originalRow="100" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="101" originalRow="101" groupSign="" debugClose="" action="角色台词" data="tuling" param="沙丁鱼干？哪里来的？" param2="" param3="type=0"/>
+<xt_mizui_part5 id="102" originalRow="102" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="niefei" param="这里不是个赌场么，我随手就……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="104" originalRow="104" groupSign="" debugClose="" action="设置角色" data="yanjingnan" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="105" originalRow="105" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="我明白了。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="" param="眼镜男死死盯着自己的左手。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="那样的话，请先把我的左手小指换成筹码吧。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="108" originalRow="108" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="niefei" param="哈（嚼）？！" param2="" param3="type=0"/>
+<xt_mizui_part5 id="110" originalRow="110" groupSign="" debugClose="" action="设置角色" data="mizuijinchao" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="112" originalRow="112" groupSign="" debugClose="" action="设置角色" data="yanjingnan" param="pos=右" param2="" param3=""/>
+<xt_mizui_part5 id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="这样你该明白了吧？我有多需要这笔钱！" param2="" param3="type=0"/>
+<xt_mizui_part5 id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="yanjingnan" param="认输吧！我不想伤害你。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="115" originalRow="115" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="116" originalRow="116" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="117" originalRow="117" action="设置角色" data="nfc_90024" param="pos=左" param2="" param3=""/>
+<xt_mizui_part5 id="118" originalRow="118" action="角色台词" data="nfc_90024" param="我……" param2="" param3="type=0"/>
+<xt_mizui_part5 id="119" originalRow="119" action="角色台词" data="nfc_90024" param="那……我……耳朵。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="120" originalRow="120" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="121" originalRow="121" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="122" originalRow="122" action="角色台词" data="niefei" param="喂（嚼）！！" param2="" param3="type=0"/>
+<xt_mizui_part5 id="123" originalRow="123" action="设置角色" data="mizuijinchao" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="124" originalRow="124" action="角色台词" data="mizuijinchao" param="后来的客人真是聒噪呢。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="125" originalRow="125" action="角色台词" data="mizuijinchao" param="既然你们都等不及了，不如插个队吧。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="126" originalRow="126" action="角色台词" data="mizuijinchao" param="你可以替他们中的一个人上场。" param2="" param3="type=0"/>
+<xt_mizui_part5 id="127" originalRow="127" action="角色台词" data="" param="异质物指向我。" param2="" param3="type=1"/>
+<xt_mizui_part5 id="128" originalRow="128" action="跳转-标签" data="" param="结束"/>
+<xt_mizui_part5 id="129" originalRow="129" groupSign="结束"/>
+</root>

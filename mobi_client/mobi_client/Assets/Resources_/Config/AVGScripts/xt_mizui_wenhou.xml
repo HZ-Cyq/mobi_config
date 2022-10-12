@@ -1,0 +1,34 @@
+<root>
+<xt_mizui_wenhou id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_mizui_wenhou id="1" originalRow="1"/>
+<xt_mizui_wenhou id="2" originalRow="2" groupSign="猥琐男问候"/>
+<xt_mizui_wenhou id="3" originalRow="3" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_mizui_wenhou id="4" originalRow="4" action="设置角色" data="@char_1" param="pos=中"/>
+<xt_mizui_wenhou id="5" originalRow="5" action="角色台词" data="@char_1" param="我已经走投无路了。"/>
+<xt_mizui_wenhou id="6" originalRow="6" action="跳转-标签" data="" param="结束"/>
+<xt_mizui_wenhou id="7" originalRow="7" action="" data="" param=""/>
+<xt_mizui_wenhou id="8" originalRow="8" groupSign="通用问候"/>
+<xt_mizui_wenhou id="9" originalRow="9" action="跳转-标签" data="rqs_迷醉金钞5==1" param="眼镜男问候"/>
+<xt_mizui_wenhou id="10" originalRow="10" action="跳转-标签" data="rqs_迷醉金钞6==1" param="猥琐男问候"/>
+<xt_mizui_wenhou id="11" originalRow="11" action="跳转-标签" data="rqs_迷醉金钞8==1" param="眼镜男问候"/>
+<xt_mizui_wenhou id="12" originalRow="12" action="跳转-标签" data="rqs_迷醉金钞9==1" param="猥琐男问候"/>
+<xt_mizui_wenhou id="13" originalRow="13" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_mizui_wenhou id="14" originalRow="14" action="设置角色" data="@char_1" param="pos=中"/>
+<xt_mizui_wenhou id="15" originalRow="15" action="角色台词" data="@char_1" param="..."/>
+<xt_mizui_wenhou id="16" originalRow="16" action="跳转-标签" data="" param="结束"/>
+<xt_mizui_wenhou id="17" originalRow="17"/>
+<xt_mizui_wenhou id="18" originalRow="18" groupSign="眼镜男问候"/>
+<xt_mizui_wenhou id="19" originalRow="19" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_mizui_wenhou id="20" originalRow="20" action="设置角色" data="@char_1" param="pos=中"/>
+<xt_mizui_wenhou id="21" originalRow="21" action="角色台词" data="@char_1" param="这次我一定要赢。"/>
+<xt_mizui_wenhou id="22" originalRow="22" action="跳转-标签" data="" param="结束"/>
+<xt_mizui_wenhou id="23" originalRow="23" action="" data="" param=""/>
+<xt_mizui_wenhou id="24" originalRow="24" groupSign="迷醉金钞问候1"/>
+<xt_mizui_wenhou id="25" originalRow="25" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_mizui_wenhou id="26" originalRow="26" action="设置角色" data="mizuijinchao" param="pos=中"/>
+<xt_mizui_wenhou id="27" originalRow="27" action="角色台词" data="mizuijinchao" param="很好！那我们开始吧！"/>
+<xt_mizui_wenhou id="28" originalRow="28" action="跳转-标签" data="" param="结束"/>
+<xt_mizui_wenhou id="29" originalRow="29" action="" data=""/>
+<xt_mizui_wenhou id="30" originalRow="30" action="" data=""/>
+<xt_mizui_wenhou id="31" originalRow="31" groupSign="结束" action="" data=""/>
+</root>

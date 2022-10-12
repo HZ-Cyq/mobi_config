@@ -114,4 +114,6 @@
 <PromptInformation id="113" key_variable="NoBuyStaminaTimes" value="购买体力次数已用完"/>
 <PromptInformation id="114" key_variable="UserRegisterMax" value="注册人数达到上限"/>
 <PromptInformation id="115" key_variable="MazeEventHasBeenComplete" value="迷宫事件已经完成过了"/>
+<PromptInformation id="116" key_variable="ShopCoinNotEnough" value="货币不足"/>
+<PromptInformation id="116" key_variable="ServerSeriousError" value="服务器严重错误"/>
 </root>

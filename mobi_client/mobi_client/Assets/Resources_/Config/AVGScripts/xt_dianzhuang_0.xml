@@ -10,7 +10,7 @@
 <xt_dianzhuang_0 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="nanren1" param="{#npc标准男01紧张动作恢复}{角色转身,nanren1,左微}小点声，要是吓跑了小偷，全是你们的责任！{#聂飞思考恢复}" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}小偷？什么小偷？{1}{#聂飞惊讶恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="nanren1" param="{#npc标准男01愤怒动作}你怎么什么都不知道，不帮忙就赶紧走，别杵在这碍事。" param2="" param3="type=0"/>
-<xt_dianzhuang_0 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}嘿，老子***当雇佣军的时候，你***还没出生呢！{#npc标准男01愤怒动作恢复}{1}{#聂飞愤怒恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
+<xt_dianzhuang_0 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}嘿，老子当雇佣军的时候，你还没出生呢！{#npc标准男01愤怒动作恢复}{1}{#聂飞愤怒恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="12" originalRow="12" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_dianzhuang_0 id="13" originalRow="13" groupSign="0.5&gt;&gt;" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_0 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心}小飞飞炸毛了，可爱~" param2="" param3="type=0"/>
@@ -31,7 +31,7 @@
 <xt_dianzhuang_0 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}专门在停电的时候作案……这个小偷不简单啊。{#涂凌思考恢复}{#涂凌待机表情}" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="niefei" param="会不会是有异质物的协助呢？感觉单纯人为的难度太大了。{#聂飞思考恢复}" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3="type=0"/>
-<xt_dianzhuang_0 id="32" originalRow="32" groupSign="0.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}我刚才随便看了一下，没有异物质反应，应该是普通人为事件。" param2="" param3="type=0"/>
+<xt_dianzhuang_0 id="32" originalRow="32" groupSign="0.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}我刚才随便看了一下，没有异质物反应，应该是普通人为事件。" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="tuling" param="我调取了周围的监控，没发现什么异常。{#凯瑟琳2思考动作恢复}" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作}这个小区比较老旧，除了小区内自己安装的监控以外，只有离这里200米远的十字路有一个摄像头。{#涂凌严肃动作恢复}" param2="" param3="type=0"/>
 <xt_dianzhuang_0 id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="tuling" param="所以除了正常的车辆以外，没发现什么奇怪的人。" param2="" param3="type=0"/>

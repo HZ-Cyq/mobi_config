@@ -1,8 +1,8 @@
 <root>
 <xt_dianzhuang_3_huaizou id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_dianzhuang_3_huaizou id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="我们很快就抵达了荣光集团分部下属的家属区，与荣光科技园区仅隔了一条马路。" param2="" param3="type=1"/>
-<xt_dianzhuang_3_huaizou id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="涂凌靠着手下的黑客，快速定位了电量异常的住户11号楼5栋1层103。" param2="" param3="type=1"/>
+<xt_dianzhuang_3_huaizou id="2" originalRow="2" groupSign="" debugClose="1" action="角色台词" data="" param="我们很快就抵达了荣光集团分部下属的家属区，与荣光科技园区仅隔了一条马路。" param2="" param3="type=1"/>
+<xt_dianzhuang_3_huaizou id="3" originalRow="3" groupSign="" debugClose="1" action="角色台词" data="" param="涂凌靠着手下的黑客，快速定位了电量异常的住户11号楼5栋1层103。" param2="" param3="type=1"/>
 <xt_dianzhuang_3_huaizou id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="叮咚~" param2="" param3="type=1"/>
 <xt_dianzhuang_3_huaizou id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="" param="伴随着一阵轻盈的脚步声，防盗门缓缓打开，开门的是一位年轻的女士，看上去像是家里的女主人。" param2="" param3="type=1"/>
 <xt_dianzhuang_3_huaizou id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="qizi" param="pos=中" param2="" param3=""/>
@@ -14,25 +14,24 @@
 <xt_dianzhuang_3_huaizou id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="qizi" param="你们是怎么找到这里来到？真是阴魂不散！" param2="" param3="type=0"/>
 <xt_dianzhuang_3_huaizou id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="我们是……" param2="" param3="type=0"/>
 <xt_dianzhuang_3_huaizou id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="15" originalRow="15" groupSign="我们是" debugClose="" action="可选对话框" data="" param="$$STS组织，调查充电桩失窃案==&gt;sts组织
-$$市政厅电力局，调查异常用电情况==&gt;市政厅电力局" param2="" param3=""/>
+<xt_dianzhuang_3_huaizou id="15" originalRow="15" groupSign="我们是" debugClose="" action="可选对话框" data="" param="$$STS组织，调查用电异常情况==&gt;sts组织" param2="" param3=""/>
 <xt_dianzhuang_3_huaizou id="16" originalRow="16" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="17" originalRow="17" groupSign="sts组织" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="18" originalRow="18" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="qizi" param="pos=中" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="qizi" param="STS组织？没听说过，你们有调查令吗？" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="调查令？" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="qizi" param="是啊，这里是荣光集团家属楼，你们没有调查令就上门，我怎么配合你们？" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="qizi" param="再说，你们怎么就认为我们与充电桩失窃有关？" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="qizi" param="我合理的怀疑，你们未经允许盗取了与我们相关的数据。" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="qizi" param="按照高新技术人员信息保密条例，我们是可以起诉你的！" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}跟她废什么话，直接闯进去看看不就知道了！{1}{#聂飞愤怒恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="qizi" param="喂喂！你们要是敢乱来，我要报警了啊！" param2="" param3="type=0"/>
-<xt_dianzhuang_3_huaizou id="29" originalRow="29" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="30" originalRow="30" groupSign="" debugClose="" action="跳转-标签" data="" param="我们是" param2="" param3=""/>
+<xt_dianzhuang_3_huaizou id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dianzhuang_3_huaizou id="18" originalRow="18" groupSign="" debugClose="1" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_dianzhuang_3_huaizou id="19" originalRow="19" groupSign="" debugClose="1" action="设置角色" data="qizi" param="pos=中" param2="" param3=""/>
+<xt_dianzhuang_3_huaizou id="20" originalRow="20" groupSign="" debugClose="1" action="角色台词" data="qizi" param="STS组织？没听说过，你们有调查令吗？" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="21" originalRow="21" groupSign="" debugClose="1" action="角色台词" data="wo" param="调查令？" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="22" originalRow="22" groupSign="" debugClose="1" action="角色台词" data="qizi" param="是啊，这里是荣光集团家属楼，你们没有调查令就上门，我怎么配合你们？" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="23" originalRow="23" groupSign="" debugClose="1" action="角色台词" data="qizi" param="再说，你们怎么就认为我们与充电桩失窃有关？" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="24" originalRow="24" groupSign="" debugClose="1" action="角色台词" data="qizi" param="我合理的怀疑，你们未经允许盗取了与我们相关的数据。" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="25" originalRow="25" groupSign="" debugClose="1" action="角色台词" data="qizi" param="按照高新技术人员信息保密条例，我们是可以起诉你的！" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="26" originalRow="26" groupSign="" debugClose="1" action="设置角色" data="niefei" param="pos=右" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="27" originalRow="27" groupSign="" debugClose="1" action="角色台词" data="niefei" param="{#聂飞愤怒}跟她废什么话，直接闯进去看看不就知道了！{1}{#聂飞愤怒恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="28" originalRow="28" groupSign="" debugClose="1" action="角色台词" data="qizi" param="喂喂！你们要是敢乱来，我要报警了啊！" param2="" param3="type=0"/>
+<xt_dianzhuang_3_huaizou id="29" originalRow="29" groupSign="" debugClose="1" action="移除角色" data="niefei" param="" param2="" param3=""/>
+<xt_dianzhuang_3_huaizou id="30" originalRow="30" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_dianzhuang_3_huaizou id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_dianzhuang_3_huaizou id="32" originalRow="32" groupSign="市政厅电力局" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dianzhuang_3_huaizou id="32" originalRow="32" groupSign="sts组织" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_dianzhuang_3_huaizou id="33" originalRow="33" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_dianzhuang_3_huaizou id="34" originalRow="34" groupSign="" debugClose="" action="设置角色" data="qizi" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_3_huaizou id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="qizi" param="用电使用异常？我怎么不知道？" param2="" param3="type=0"/>

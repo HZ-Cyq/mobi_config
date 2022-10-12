@@ -1,0 +1,42 @@
+<root>
+<chat_niefei_3 id="0" originalRow="0" groupSign="关于神秘组织" debugClose="" action="" data="" param="" param2=""/>
+<chat_niefei_3 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="聂总，你知道杜博士提的那个“诺亚结社”么？" param2=""/>
+<chat_niefei_3 id="2" originalRow="2" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="嗯？？？小鬼居然会来问我这个，有眼光！" param2=""/>
+<chat_niefei_3 id="3" originalRow="3" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="wo" param="哈哈哈，毕竟聂总参加过之前的异质物战争啊。" param2=""/>
+<chat_niefei_3 id="4" originalRow="4" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="所以你问对人了。" param2=""/>
+<chat_niefei_3 id="5" originalRow="5" groupSign="" debugClose="" action="可选对话框" data="" param="$$聂总快告诉我！==&gt;快
+$$真的吗？我只是随口一问。==&gt;真的吗" param2=""/>
+<chat_niefei_3 id="6" originalRow="6" groupSign="快" debugClose="" param="" param2=""/>
+<chat_niefei_3 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="聂总快告诉我！" param2=""/>
+<chat_niefei_3 id="8" originalRow="8" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="不是吹牛，联邦军情九处的机密卷宗就没有本大爷没看过的！" param2=""/>
+<chat_niefei_3 id="9" originalRow="9" action="跳转-标签" param="分支结束"/>
+<chat_niefei_3 id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<chat_niefei_3 id="11" originalRow="11" groupSign="真的吗" debugClose="" action="" data="" param="" param2=""/>
+<chat_niefei_3 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="真的吗？我只是随口一问。" param2=""/>
+<chat_niefei_3 id="13" originalRow="13" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="那当然了！当年联邦军情九处的卷宗室本大爷可是横着走！" param2=""/>
+<chat_niefei_3 id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2=""/>
+<chat_niefei_3 id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<chat_niefei_3 id="16" originalRow="16" groupSign="分支结束" debugClose="" action="" data="" param="" param2=""/>
+<chat_niefei_3 id="17" originalRow="17" groupSign="" debugClose="" action="可选对话框" data="" param="$$所以那是个什么样的组织？==&gt;组织" param2=""/>
+<chat_niefei_3 id="18" originalRow="18" groupSign="组织" debugClose="" param="" param2=""/>
+<chat_niefei_3 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="所以那是个什么样的组织？" param2=""/>
+<chat_niefei_3 id="20" originalRow="20" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="G国的血屠夫宰相伊恩知道吗？" param2=""/>
+<chat_niefei_3 id="21" originalRow="21" groupSign="" debugClose="" action="可选对话框" data="" param="$$知道==&gt;知道" param2=""/>
+<chat_niefei_3 id="22" originalRow="22" groupSign="知道" debugClose="" param="" param2=""/>
+<chat_niefei_3 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="我知道……大学时事课要背的，是异质物战争的最大推动者之一。" param2=""/>
+<chat_niefei_3 id="24" originalRow="24" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="据说就是被这个邪恶组织给洗脑了。" param2=""/>
+<chat_niefei_3 id="25" originalRow="25" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="不过战争结束后，联合议会把这个组织的老巢给端了。" param2=""/>
+<chat_niefei_3 id="26" originalRow="26" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="其实就是一群装神弄鬼搞新型教廷的反人类分子。" param2=""/>
+<chat_niefei_3 id="27" originalRow="27" groupSign="" debugClose="" action="可选对话框" data="" param="$$原来如此==&gt;原来" param2=""/>
+<chat_niefei_3 id="28" originalRow="28" groupSign="原来" debugClose="" param="" param2=""/>
+<chat_niefei_3 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="wo" param="原来如此。" param2=""/>
+<chat_niefei_3 id="30" originalRow="30" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="那么这次的事跟他们有关吗？" param2=""/>
+<chat_niefei_3 id="31" originalRow="31" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="杜衡跟土山奥这么怀疑，我反而会惊讶，毕竟当年已经确定斩草除根了。" param2=""/>
+<chat_niefei_3 id="32" originalRow="32" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="感觉有点复杂。" param2=""/>
+<chat_niefei_3 id="33" originalRow="33" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="需要更多的信息和证据才行！" param2=""/>
+<chat_niefei_3 id="34" originalRow="34" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="想知道就自己多上上心。" param2=""/>
+<chat_niefei_3 id="35" originalRow="35" groupSign="" debugClose="" action="可选对话框" data="" param="$$是！==&gt;是" param2=""/>
+<chat_niefei_3 id="36" originalRow="36" groupSign="是" debugClose="" param="" param2=""/>
+<chat_niefei_3 id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="wo" param="是！" param2=""/>
+<chat_niefei_3 id="38" originalRow="38" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+</root>

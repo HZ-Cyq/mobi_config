@@ -1,0 +1,45 @@
+<root>
+<chat_tushanao_3 id="0" originalRow="0" groupSign="关于新能力"/>
+<chat_tushanao_3 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="杜博士说，你的身体被异质物改造了，有了新的能力？"/>
+<chat_tushanao_3 id="2" originalRow="2" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="嗯。"/>
+<chat_tushanao_3 id="3" originalRow="3" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="将心灵立场实体化作为防御墙。"/>
+<chat_tushanao_3 id="4" originalRow="4" groupSign="" debugClose="" action="可选对话框" data="" param="$$很适合你！==&gt;适合
+$$听起来很厉害。==&gt;厉害" param2=""/>
+<chat_tushanao_3 id="5" originalRow="5" groupSign="适合" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="很适合你！" param2=""/>
+<chat_tushanao_3 id="7" originalRow="7" groupSign="1.5&gt;&gt;" action="角色台词" data="wo" param="我之前观察大家的能力，似乎跟本人的特性有关。"/>
+<chat_tushanao_3 id="8" originalRow="8" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="wo" param="土山的特性居然是“保护”，果然是个温柔的人。" param2=""/>
+<chat_tushanao_3 id="9" originalRow="9" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="哦？" param2=""/>
+<chat_tushanao_3 id="10" originalRow="10" groupSign="1.5&gt;&gt;" action="角色台词" data="wo" param="大家应该都是这么想的！"/>
+<chat_tushanao_3 id="11" originalRow="11" action="跳转-标签" data="" param="分支结束"/>
+<chat_tushanao_3 id="12" originalRow="12" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="13" originalRow="13" groupSign="厉害" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="听起来很厉害！" param2=""/>
+<chat_tushanao_3 id="15" originalRow="15" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="嗯。" param2=""/>
+<chat_tushanao_3 id="16" originalRow="16" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2=""/>
+<chat_tushanao_3 id="17" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="18" originalRow="18" groupSign="分支结束" debugClose="" action="" data="" param=""/>
+<chat_tushanao_3 id="19" originalRow="19" groupSign="" debugClose="" action="可选对话框" data="" param="$$土山平常喜欢做什么？==&gt;喜欢" param2=""/>
+<chat_tushanao_3 id="20" originalRow="20" groupSign="喜欢" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="啊哈哈哈，算了我们聊点别的。" param2=""/>
+<chat_tushanao_3 id="22" originalRow="22" groupSign="1.5&gt;&gt;" action="角色台词" data="wo" param="土山平常喜欢做什么？" param2=""/>
+<chat_tushanao_3 id="23" originalRow="23" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="阅读。" param2=""/>
+<chat_tushanao_3 id="24" originalRow="24" groupSign="" debugClose="" action="可选对话框" data="" param="$$之前就看出来了！！==&gt;之前" param2=""/>
+<chat_tushanao_3 id="25" originalRow="25" groupSign="之前" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="wo" param="之前就看出来了！！" param2=""/>
+<chat_tushanao_3 id="27" originalRow="27" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="文学、生物化学、机械工程、军事战略。" param2=""/>
+<chat_tushanao_3 id="28" originalRow="28" groupSign="" debugClose="" action="可选对话框" data="" param="$$感觉你读过很多文学著作！==&gt;很多" param2=""/>
+<chat_tushanao_3 id="29" originalRow="29" groupSign="很多" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="感觉你读过很多文学著作！" param2=""/>
+<chat_tushanao_3 id="31" originalRow="31" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="故事是生活的比喻。" param2=""/>
+<chat_tushanao_3 id="32" originalRow="32" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="诗人和小说家为我们提供深度和宽度。" param2=""/>
+<chat_tushanao_3 id="33" originalRow="33" groupSign="" debugClose="" action="可选对话框" data="" param="$$你跟杜博士应该很聊得来……==&gt;聊得来" param2=""/>
+<chat_tushanao_3 id="34" originalRow="34" groupSign="聊得来" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="wo" param="你跟杜博士应该很聊得来……" param2=""/>
+<chat_tushanao_3 id="36" originalRow="36" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="wo" param="都是很深奥很哲学的人……" param2=""/>
+<chat_tushanao_3 id="37" originalRow="37" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="还有什么事吗？" param2=""/>
+<chat_tushanao_3 id="38" originalRow="38" groupSign="" debugClose="" action="可选对话框" data="" param="$$啊，没有了！你忙吧！==&gt;忙吧" param2=""/>
+<chat_tushanao_3 id="39" originalRow="39" groupSign="忙吧" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_3 id="40" originalRow="40" debugClose="" action="角色台词" data="wo" param="啊，没有了！你忙吧！" param2=""/>
+<chat_tushanao_3 id="41" originalRow="41" groupSign="结束"/>
+</root>

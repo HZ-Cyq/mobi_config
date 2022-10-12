@@ -3,6 +3,7 @@ namespace ConfigSystem
 ﻿    public class QuestObjectiveConfigModel :ConfigModel {
         public int group_questId;//所属父任务
         public System.Collections.Generic.List<int> objectiveGroup;//并联集完成本条目标后，发放一个任务群，任务群都完成后，才执行下一步任务。
+        public int objectiveType;//任务目标类型0都显示1只显示第一个
         public System.Collections.Generic.List<int> nextObjective;//下一步任务（可填多个任务，但只能完成一个）
         public System.Collections.Generic.List<System.Collections.Generic.List<string>> publisherOperations;//NPC控制(rpgscene名字;npcavg模板别名;控制参数;)控制参数：-1为清npc，1为加npc，0为清理操作
         public int minLv;//可完成条件最小等级

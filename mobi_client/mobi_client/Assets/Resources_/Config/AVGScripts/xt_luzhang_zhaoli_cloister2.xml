@@ -12,7 +12,7 @@
 <xt_luzhang_zhaoli_cloister2 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="嗯……异界回廊的监控也已经恢复了。" param2="" param3="type=4,ctype=2"/>
 <xt_luzhang_zhaoli_cloister2 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="确定是2-909房间的异质物溢出。" param2="" param3="type=4,ctype=2"/>
 <xt_luzhang_zhaoli_cloister2 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#涂凌紧张动作恢复}它的资料和逃离房间之前的监控我传给你们。" param2="" param3="type=4,ctype=2"/>
-<xt_luzhang_zhaoli_cloister2 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="" param="杜衡下一秒就甩了一个文件包过来，" param2="" param3="type=1"/>
+<xt_luzhang_zhaoli_cloister2 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="" param="杜衡下一秒就甩了一个文件包过来。" param2="" param3="type=1"/>
 <xt_luzhang_zhaoli_cloister2 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="" param="我们一起围在了涂凌的电脑前。" param2="" param3="type=1"/>
 <xt_luzhang_zhaoli_cloister2 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_严肃_动作_开始_01" param3=""/>
 <xt_luzhang_zhaoli_cloister2 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌抬头}根据记录，2-909能潜入地面移动。" param2="" param3="type=0"/>
@@ -68,7 +68,7 @@
 <xt_luzhang_zhaoli_cloister2 id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}洒出来的余量不多，他应该喝了大半瓶。" param2="" param3="type=0"/>
 <xt_luzhang_zhaoli_cloister2 id="67" originalRow="67" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
 <xt_luzhang_zhaoli_cloister2 id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="niefei" param="所以2-909会失控的理由是？" param2="" param3="type=0"/>
-<xt_luzhang_zhaoli_cloister2 id="69" originalRow="69" groupSign="" debugClose="" action="可选对话框" data="" param="$$播放设备故障==&gt;选A
+<xt_luzhang_zhaoli_cloister2 id="69" originalRow="69" groupSign="选择" debugClose="" action="可选对话框" data="" param="$$播放设备故障==&gt;选A
 $$被攻击者将酒瓶带进了收容室==&gt;选B
 $$2-909进化出了加速能力==&gt;选C" param2="" param3=""/>
 <xt_luzhang_zhaoli_cloister2 id="70" originalRow="70" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>

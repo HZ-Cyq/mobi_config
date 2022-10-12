@@ -29,12 +29,12 @@
 <C3_QYZoffice_02 id="27" originalRow="27" groupSign="" debugClose="" action="镜头移动" data="camchar0" param="0.5" param2="1" param3=""/>
 <C3_QYZoffice_02 id="28" originalRow="28" action="RPGActor" data="NEO提示" param="2" param2="" param3=""/>
 <C3_QYZoffice_02 id="29" originalRow="29" action="语法-数值" data="rqs_3调查显示器的标志=2"/>
-<C3_QYZoffice_02 id="30" originalRow="30" groupSign="" debugClose="" action="打开插画" data="C2_MonitorLogo" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="30" originalRow="30" groupSign="" debugClose="" action="打开插画" data="C2_MonitorLogo" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="tushanao" param="{角色动作,,土山奥_开心_动作_开始_01}{特殊-闪白效果,1} 果然" param2="" param3=""/>
 <C3_QYZoffice_02 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="tushanao" param="{角色动作,,土山奥_开心_动作_结束_01} 显示器商标的最后一个字母，被一张带花纹的低反光胶纸盖住了。" param2="" param3=""/>
 <C3_QYZoffice_02 id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="" param="土山用指甲小心翼翼的撕下了那张胶纸，发现原本商标最后一个字母的位置被挖了个浅浅的凹槽。" param2="" param3="type=1"/>
 <C3_QYZoffice_02 id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="" param="胶纸边缘被打磨过，如过不是特意用手去扣根本看不出来。" param2="" param3="type=1"/>
-<C3_QYZoffice_02 id="35" originalRow="35" groupSign="" debugClose="" action="打开插画" data="C2_Nano" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="35" originalRow="35" groupSign="" debugClose="" action="打开插画" data="C2_Nano" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,凯瑟琳_思考_动作_开始_01}{角色表情,,凯瑟琳_思考_上脸_开始_01;凯瑟琳_待机_下嘴_开始_01;}{talk,,102101}胶纸背面对应凹槽的位置粘着一张Nano Memo！" param2="" param3=""/>
 <C3_QYZoffice_02 id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="wo" param="那个世界上最小的{特殊-闪白效果,1} 存储卡？" param2="" param3=""/>
 <C3_QYZoffice_02 id="38" originalRow="38" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
@@ -50,7 +50,7 @@
 <C3_QYZoffice_02 id="48" originalRow="48" debugClose="1" action="语法-数值" data="ri_加密压缩包=1" param3=""/>
 <C3_QYZoffice_02 id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,tuling,涂凌_待机_动作_循环_01} {角色表情,tuling,涂凌_待机_上脸_循环_01;涂凌_待机_下嘴_开始_01;}{眨眼速度,tuling,3}先不管啦，挨个看看这些文件吧。" param2="" param3=""/>
 <C3_QYZoffice_02 id="50" originalRow="50" groupSign="查看文件" debugClose="" action="可选对话框" data="" param="$$原型机设计文件==&gt;原型机设计文件\n(FileQYZ1&gt;0)$$头环透视扫描文件==&gt;头环透视扫描文件\n(FileQYZ1&gt;0&amp;&amp;FileQYZ2&gt;0)$$电子邮件==&gt;电子邮件" param2="" param3=""/>
-<C3_QYZoffice_02 id="51" originalRow="51" groupSign="原型机设计文件" debugClose="" action="打开插画" data="C2_Prototype" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="51" originalRow="51" groupSign="原型机设计文件" debugClose="" action="打开插画" data="C2_Prototype" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="wo" param="这些都是工程文件吧？\n完全看不懂啊……" param2="" param3=""/>
 <C3_QYZoffice_02 id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="tushanao" param="这是漆异之在顶石研发的某种原型机，文件命名和注释都很有个人特点。" param2="" param3=""/>
 <C3_QYZoffice_02 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="" param="文件名中的“Q1Z”三个字符大概是“漆异之”的个人签名吧……真是臭屁！" param2="" param3="type=1"/>
@@ -59,7 +59,7 @@
 <C3_QYZoffice_02 id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="tuling" param="嗯……呜……\n可他写的这都是什么啊啊啊啊！！" param2="" param3=""/>
 <C3_QYZoffice_02 id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="tushanao" param="“在设备周围展开任意形状的单连通场，形成红外线以下频率的电磁壁障……”" param2="" param3=""/>
 <C3_QYZoffice_02 id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="wo" param="呃……{0.5}能翻译成中文吗？" param2="" param3=""/>
-<C3_QYZoffice_02 id="60" originalRow="60" groupSign="" debugClose="" action="打开插画" data="C2_Topology" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="60" originalRow="60" groupSign="" debugClose="" action="打开插画" data="C2_Topology" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="tushanao" param="『单连通』是拓扑空间的一种性质，指无孔的连续空间，比如一块形状不规则没有挖洞的橡皮泥。" param2="" param3=""/>
 <C3_QYZoffice_02 id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="tushanao" param="这台原型机能在周围形成一个无孔的连续空间，使空间内特定频率的电磁波不会逸散到空间外。" param2="" param3=""/>
 <C3_QYZoffice_02 id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="tushanao" param="不过只能阻挡频率低于可见光的微波或无线电波。" param2="" param3=""/>
@@ -104,7 +104,7 @@
 <C3_QYZoffice_02 id="102" originalRow="102" groupSign="" debugClose="" action="RPGInfo" data="2" param="白洞" param2="" param3=""/>
 <C3_QYZoffice_02 id="103" originalRow="103" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,tuling,1011} {角色表情,tuling,涂凌_紧张_上脸_循环_01;涂凌_思考_下嘴_开始_01;}{眨眼速度,tuling,3}黑洞啊……\n我房间里倒是一直贴着那部电影的海报~~" param2="" param3=""/>
 <C3_QYZoffice_02 id="104" originalRow="104" groupSign="0.5" debugClose="" action="移除角色" data="tushanao" param="" param2="" param3=""/>
-<C3_QYZoffice_02 id="105" originalRow="105" groupSign="" debugClose="" action="打开插画" data="story_interstellar" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="105" originalRow="105" groupSign="" debugClose="" action="打开插画" data="story_interstellar" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="wo" param="你说那部电影啊……" param2="" param3=""/>
 <C3_QYZoffice_02 id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="" param="男主角飞到黑洞附近的行星考察了三个小时，回来发现女儿都和自己一样大了。" param2="" param3="type=1"/>
 <C3_QYZoffice_02 id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="" param="最倒霉的是留守在母船上的那个黑人科学家，自己一个人被丢在太空舱里呆了20多年。" param2="" param3="type=1"/>
@@ -120,7 +120,7 @@
 <C3_QYZoffice_02 id="118" originalRow="118" groupSign="" debugClose="" action="跳转-标签" data="" param="查看文件" param2="" param3=""/>
 <C3_QYZoffice_02 id="119" originalRow="119" groupSign="头环透视扫描文件" debugClose=""/>
 <C3_QYZoffice_02 id="120" originalRow="120" groupSign="0.5" debugClose="" action="移除角色" data="tuling" param=""/>
-<C3_QYZoffice_02 id="121" originalRow="121" groupSign="" debugClose="" action="打开插画" data="C2_Helmet" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="121" originalRow="121" groupSign="" debugClose="" action="打开插画" data="C2_Helmet" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="122" originalRow="122" debugClose="" action="角色台词" data="wo" param="这是……某种电子设备的X光扫描图？" param2="" param3=""/>
 <C3_QYZoffice_02 id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="tushanao" param="这个造型好像是……" param2="" param3=""/>
 <C3_QYZoffice_02 id="124" originalRow="124" groupSign="" debugClose="" param2="" param3=""/>
@@ -147,9 +147,9 @@
 <C3_QYZoffice_02 id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="wo" param="听起来还真是跨时代的产品……" param2="" param3=""/>
 <C3_QYZoffice_02 id="146" originalRow="146" groupSign="" debugClose="" action="移除角色" data="kaiselin" param="" param2="" param3=""/>
 <C3_QYZoffice_02 id="147" originalRow="147" groupSign="0.5" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
-<C3_QYZoffice_02 id="148" originalRow="148" groupSign="" debugClose="" action="打开插画" data="C2_Helmet" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="148" originalRow="148" groupSign="" debugClose="" action="打开插画" data="C2_Helmet" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="tushanao" param="你们看头环的内部结构，是不是有点像……" param2="" param3=""/>
-<C3_QYZoffice_02 id="150" originalRow="150" groupSign="" debugClose="" action="打开插画" data="C2_Prototype" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="150" originalRow="150" groupSign="" debugClose="" action="打开插画" data="C2_Prototype" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="wo" param="刚才的原型机？" param2="" param3=""/>
 <C3_QYZoffice_02 id="152" originalRow="152" groupSign="" debugClose="" action="角色台词" data="tushanao" param="虽然模块完成了小型化，但基本结构非常相似。" param2="" param3=""/>
 <C3_QYZoffice_02 id="153" originalRow="153" groupSign="0.5" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
@@ -171,11 +171,11 @@
 <C3_QYZoffice_02 id="169" originalRow="169" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,凯瑟琳_思考_动作_开始_01}{角色表情,,凯瑟琳_严肃_上脸_开始_01;凯瑟琳_待机_下嘴_开始_01;}{talk,,102101}头环只在欧洲发布的，机身上应该没中文吧？" param2="" param3=""/>
 <C3_QYZoffice_02 id="170" originalRow="170" groupSign="1" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3="TRUE;TRUE;FALSE"/>
 <C3_QYZoffice_02 id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,tuling,涂凌_紧张_动作_开始_01}{角色表情,tuling,涂凌_待机_上脸_循环_01;涂凌_待机_下嘴_开始_01;}好像还真有！我放大一下──" param2="" param3=""/>
-<C3_QYZoffice_02 id="172" originalRow="172" groupSign="" debugClose="" action="打开插画" data="story_3dev" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="172" originalRow="172" groupSign="" debugClose="" action="打开插画" data="story_3dev" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="173" originalRow="173" groupSign="" debugClose="" action="角色台词" data="wo" param="第三……{0.4}开发组……{0.4}测试用机……" param2="" param3=""/>
 <C3_QYZoffice_02 id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,tuling,1011}{角色表情,tuling,涂凌_待机_上脸_循环_01;涂凌_待机_下嘴_开始_01;}第三开发组……{0.4}\n{角色动作,tuling,涂凌_惊讶_动作_开始_01}{角色表情,tuling,涂凌_惊讶_上脸_循环_01;涂凌_惊讶_下嘴_开始_01;}{特殊-闪白效果,1}邱染？\n" param2="" param3=""/>
 <C3_QYZoffice_02 id="175" originalRow="175" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
-<C3_QYZoffice_02 id="176" originalRow="176" groupSign="" debugClose="" action="打开插画" data="C2_Qiu&amp;QiPhoto" param="FALSE" param2="" param3="offy=0.2"/>
+<C3_QYZoffice_02 id="176" originalRow="176" groupSign="" debugClose="" action="打开插画" data="C2_Qiu&amp;QiPhoto" param="FALSE" param2="" param3=""/>
 <C3_QYZoffice_02 id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{0.3}漆异之的那个女朋友？" param2="" param3=""/>
 <C3_QYZoffice_02 id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,tuling,涂凌_待机_动作_开始_02}{角色表情,tuling,涂凌_待机_上脸_循环_01;涂凌_待机_下嘴_开始_01;}她就是第三开发组的。" param2="" param3=""/>
 <C3_QYZoffice_02 id="179" originalRow="179" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>

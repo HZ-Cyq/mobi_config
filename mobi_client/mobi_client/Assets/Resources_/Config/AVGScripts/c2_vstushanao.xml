@@ -170,7 +170,7 @@
 <C2_VSTushanao id="168" originalRow="168" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="玩家特写视角" param2="0.5" param3=""/>
 <C2_VSTushanao id="169" originalRow="169" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="带去了……{#周易思考动作恢复}死？{shake=1}原来如此！{#周易成功2表情}" param2="" param3=""/>
 <C2_VSTushanao id="170" originalRow="170" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="玩家正面视角" param2="0.3" param3=""/>
-<C2_VSTushanao id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="看这个：{#周易抬手2动作}{0.7}{vscourt=clue}" param2="" param3=""/>
+<C2_VSTushanao id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="所以，你说的是这个吧：{#周易抬手2动作}{0.7}{vscourt=clue}" param2="" param3=""/>
 <C2_VSTushanao id="172" originalRow="172" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_VSTushanao id="173" originalRow="173" groupSign="5_第二章_日记本线索更新" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_VSTushanao id="174" originalRow="174" groupSign="5_第二章_带徽记的戒指" debugClose="" action="" data="" param="" param2="" param3=""/>

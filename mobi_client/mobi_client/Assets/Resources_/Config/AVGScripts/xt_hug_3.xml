@@ -6,9 +6,9 @@
 <xt_hug_3 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
 <xt_hug_3 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="再给我点时间。" param2="" param3="type=0"/>
 <xt_hug_3 id="6" originalRow="6" groupSign="对话选项" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_3 id="7" originalRow="7" groupSign="" debugClose="" action="可选对话框" data="" param="$$询问为何报案==&gt;选项1
-$$询问为何沉默==&gt;选项2
-$$询问白秀竹==&gt;选项3" param2="" param3=""/>
+<xt_hug_3 id="7" originalRow="7" groupSign="" debugClose="" action="可选对话框" data="" param="$$询问白秀竹==&gt;选项3
+$$询问为何报案==&gt;选项1
+$$询问为何沉默==&gt;选项2" param2="" param3=""/>
 <xt_hug_3 id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_3 id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_3 id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>

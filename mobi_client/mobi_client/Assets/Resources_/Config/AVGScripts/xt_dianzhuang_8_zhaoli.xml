@@ -8,7 +8,7 @@ $$之后发生了什么？==&gt;继续" param2="" param3=""/>
 <xt_dianzhuang_8_zhaoli id="5" originalRow="5" groupSign="继续" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_dianzhuang_8_zhaoli id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_8_zhaoli id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}支援队将他抢救出来的时候，情况很不乐观。" param2="" param3="type=0"/>
-<xt_dianzhuang_8_zhaoli id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="虽然我帮他做了紧急医疗，但他的伤势实在是太重了。" param2="" param3="type=0"/>
+<xt_dianzhuang_8_zhaoli id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="虽然帮他做了紧急医疗，但他的伤势实在是太重了。" param2="" param3="type=0"/>
 <xt_dianzhuang_8_zhaoli id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}左右胫骨横型骨折，右侧腓骨粉碎性骨折。" param2="" param3="type=0"/>
 <xt_dianzhuang_8_zhaoli id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="全身重度烧伤，Ⅲ级烧伤面积达到了24%，目前仍然在危险期。" param2="" param3="type=0"/>
 <xt_dianzhuang_8_zhaoli id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="我们去看看他吧。" param2="" param3="type=0"/>
@@ -17,7 +17,7 @@ $$之后发生了什么？==&gt;继续" param2="" param3=""/>
 <xt_dianzhuang_8_zhaoli id="14" originalRow="14" groupSign="医务室" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_dianzhuang_8_zhaoli id="15" originalRow="15" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_dianzhuang_8_zhaoli id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="" param="男人躺在医务室的无菌病房里，身上插满了补液管子和医疗仪器的电线，看上去甚至和198有些相似" param2="" param3="type=1"/>
-<xt_dianzhuang_8_zhaoli id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="对了，异物质呢？" param2="" param3="type=0"/>
+<xt_dianzhuang_8_zhaoli id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="对了，异质物呢？" param2="" param3="type=0"/>
 <xt_dianzhuang_8_zhaoli id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_8_zhaoli id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}已经被封存了，现在是1-198，电桩少女。" param2="" param3="type=0"/>
 <xt_dianzhuang_8_zhaoli id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="那就好……" param2="" param3="type=0"/>

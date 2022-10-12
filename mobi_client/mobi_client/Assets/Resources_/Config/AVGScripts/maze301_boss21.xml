@@ -1,0 +1,9 @@
+<root>
+<maze301_boss21 id="0" originalRow="0" groupSign="开始"/>
+<maze301_boss21 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<maze301_boss21 id="2" originalRow="2"/>
+<maze301_boss21 id="3" originalRow="3" action="角色台词" data="wo" param="有人生来就在终点……有人只会让悲剧一次次重演……" param3="name=醉酒的人"/>
+<maze301_boss21 id="4" originalRow="4"/>
+<maze301_boss21 id="5" originalRow="5"/>
+<maze301_boss21 id="6" originalRow="6" groupSign="结束"/>
+</root>

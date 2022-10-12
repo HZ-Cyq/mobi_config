@@ -4,14 +4,14 @@
 <xt_daythink_breakfast id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_daythink_breakfast id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="（早餐店老板......竟然是她！）" param2="" param3="type=0"/>
 <xt_daythink_breakfast id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="zaochashaonv" param="pos=中" param2="" param3=""/>
-<xt_daythink_breakfast id="5" originalRow="5" groupSign="结束" debugClose="" action="角色台词" data="zaochashaonv" param="看来，你接到了我的委托呢~" param2="" param3="type=0"/>
+<xt_daythink_breakfast id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="zaochashaonv" param="看来，你接到了我的委托呢~" param2="" param3="type=0"/>
 <xt_daythink_breakfast id="6" originalRow="6" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_daythink_breakfast id="7" originalRow="7" groupSign="" debugClose="" action="可选对话框" data="" param="$$是的==&gt;继续
 $$并不知道是你==&gt;继续" param2="" param3=""/>
 <xt_daythink_breakfast id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_breakfast id="9" originalRow="9" groupSign="继续" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_breakfast id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="zaochashaonv" param="pos=中" param2="" param3=""/>
-<xt_daythink_breakfast id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="zaochashaonv" param="无所谓啦。你说，怎么会有人不喜欢我做的早茶呢？明明都那么好吃了……" param2="" param3="type=0"/>
+<xt_daythink_breakfast id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="zaochashaonv" param="无所谓啦。你说，怎么会有人不喜欢我做的早茶呢明明都那么好吃了……" param2="" param3="type=0"/>
 <xt_daythink_breakfast id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="zaochashaonv" param="呐，你喜欢我的早茶吗？" param2="" param3="type=0"/>
 <xt_daythink_breakfast id="13" originalRow="13" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_daythink_breakfast id="14" originalRow="14" groupSign="" debugClose="" action="可选对话框" data="" param="$$喜欢！==&gt;喜欢吃
@@ -51,7 +51,7 @@ $$喂我吃就告诉你==&gt;喂我" param2="" param3=""/>
 <xt_daythink_breakfast id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="" param="早茶少女一下子凑近我……拿出了好多茶点，通通喂给我吃。" param2="" param3="type=0"/>
 <xt_daythink_breakfast id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="" param="她看着我把所有食物都咽下去。" param2="" param3="type=0"/>
 <xt_daythink_breakfast id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="zaochashaonv" param="怎么样怎么样？" param2="" param3="type=0"/>
-<xt_daythink_breakfast id="35" originalRow="35" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_daythink_breakfast id="47" originalRow="47" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_daythink_breakfast id="48" originalRow="48" groupSign="" debugClose="" action="可选对话框" data="" param="$$喜欢==&gt;喜欢
 $$不合口味==&gt;不合口味" param2="" param3=""/>
 <xt_daythink_breakfast id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>

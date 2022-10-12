@@ -28,7 +28,7 @@
 <GlobalParam id="27" key_variable="KEY_BGM_HIGH_VOLUME_RATIO" value="1" type="float"/>
 <GlobalParam id="28" key_variable="KEY_BGM_LOW_VOLUME_RATIO" value="0.6" type="float"/>
 <GlobalParam id="29" key_variable="KEY_SHOW_DEVELOPMENT" value="当前为测试版本，不代表最终品质" type="string"/>
-<GlobalParam id="30" key_variable="KEY_BATTLE_LAYOUT_FORMATION" value="-1|-1|-1|-1|101|-1|-1|103|11" type="aint"/>
+<GlobalParam id="30" key_variable="KEY_BATTLE_LAYOUT_FORMATION" value="-1|-1|-1|105|103|11|-1|101|-1" type="aint"/>
 <GlobalParam id="31" key_variable="KEY_SERVICE_DEFAULT_ID" value="10001" type="int" multi_params=""/>
 <GlobalParam id="32" key_variable="KEY_AVG_PLAY_TIMESCALE" value="8" type="int"/>
 <GlobalParam id="33" key_variable="KEY_MAIL_MAXCOUNT" value="100" type="int" multi_params=""/>
@@ -62,5 +62,6 @@
 <GlobalParam id="61" key_variable="KEY_AVG_LIGHT_COLOR_YELLOW" value="255|255|128|255" type="aint"/>
 <GlobalParam id="62" key_variable="KEY_SECRET_SHOP_RULE" value="0" type="int" multi_params="11;secretshopmanager|xt_9001001;xt_9001002"/>
 <GlobalParam id="63" key_variable="KEY_GACHA_TIMELINE_HIDEHINT_RATIO" value="40" type="int"/>
-<GlobalParam id="63" key_variable="KEY_GACHA_TIMELINE_NUM_REPEAT_LIMIT" value="2" type="int"/>
+<GlobalParam id="64" key_variable="KEY_GACHA_TIMELINE_NUM_REPEAT_LIMIT" value="2" type="int"/>
+<GlobalParam id="65" key_variable="KEY_COMMON_PARTICLE_ID" value="500000" type="int"/>
 </root>

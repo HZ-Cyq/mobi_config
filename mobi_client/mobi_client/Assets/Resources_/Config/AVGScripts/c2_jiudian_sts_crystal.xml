@@ -6,8 +6,8 @@
 <C2_jiudian_sts_crystal id="4" originalRow="4" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="5" originalRow="5" groupSign="" debugClose="" action="打开插画" data="C2_g10_OpenNews" param="" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="电视正在报导论坛开幕前那些领导人们的合照，并试图从每个人的站位来推测各国的立场和诉求。" param2="" param3="type=1"/>
-<C2_jiudian_sts_crystal id="7" originalRow="7" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
-<C2_jiudian_sts_crystal id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="完全是捕风捉影啊……" param2="" param3="type=0"/>
+<C2_jiudian_sts_crystal id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="完全是捕风捉影啊……" param2="" param3="type=0"/>
+<C2_jiudian_sts_crystal id="8" originalRow="8" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}唉，据说保安军正在审查周边街道和楼宇的监控录像寻找身形相似的人。" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="那才叫捕风捉影呢，{#聂飞严肃恢复}估计没十天半个月干不完咯。" param2="" param3="type=0"/>
@@ -70,9 +70,9 @@
 <C2_jiudian_sts_crystal id="67" originalRow="67" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="68" originalRow="68" groupSign="" debugClose="" action="打开插画" data="C2_crystal" param="FALSE" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="tuling" param="{music=bgm_disccusion}『阿斯塔特晶体』，未定级异质物，两周前从联合议会的收容点遗失，调查署怀疑是内部人员所为。" param2="" param3="type=0"/>
-<C2_jiudian_sts_crystal id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="tuling" param="被『从属晶体』附着的生命体会受到某种类似心灵控制效应的影响──" param2="" param3="type=0"/>
+<C2_jiudian_sts_crystal id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}被『从属晶体』附着的生命体会受到某种类似心灵控制效应的影响──" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="tuling" param="被附着者会暂时丧失自己的人格，并获得主导晶体持有者大部分的记忆、能力和情绪。" param2="" param3="type=0"/>
-<C2_jiudian_sts_crystal id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="tuling" param="该效应会屏蔽大脑杏仁核的抑制作用，极限放大被附着者的极端行为。" param2="" param3="type=0"/>
+<C2_jiudian_sts_crystal id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作恢复}该效应会屏蔽大脑杏仁核的抑制作用，极限放大被附着者的极端行为。" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="tuling" param="在已观测过的目标中，有些表现出严重的暴力或自杀倾向、有些则是对食欲、色欲无节制的追求。" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="wo" param="这……这是什么心灵放大镜效果……" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="听起来原理是直接屏蔽了大脑杏仁核的抑制作用……" param2="" param3=""/>

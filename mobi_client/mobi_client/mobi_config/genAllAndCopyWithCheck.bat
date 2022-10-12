@@ -25,7 +25,7 @@ if not exist excel\AVGScripts mkdir excel\AVGScripts
 
 if exist xml\AVGScripts\*.xml del /q xml\AVGScripts\*.xml
 set Path=%JAVA_HOME%\bin
-java -jar parserconfig1.jar strPackageName=%server_package_name% check=true
+java -jar parserconfig.jar strPackageName=%server_package_name% check=true
 
 if exist %clientXmlPath%*.xml del /q %clientXmlPath%*.xml
 if exist %clientXmlPathAVG%*.xml del /q %clientXmlPathAVG%*.xml

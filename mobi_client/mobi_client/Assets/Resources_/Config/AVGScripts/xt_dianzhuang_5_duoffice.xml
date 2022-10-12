@@ -11,12 +11,12 @@
 <xt_dianzhuang_5_duoffice id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_5_duoffice id="10" originalRow="10" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}丑陋的有钱人！(｀_ゝ´)。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_dianzhuang_5_duoffice id="12" originalRow="12" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}我们在他实验室发现了异物质的分身，很有可能本体就藏在他的实验室里。" param2="" param3="type=0"/>
+<xt_dianzhuang_5_duoffice id="12" originalRow="12" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}我们在他实验室发现了异质物的分身，很有可能本体就藏在他的实验室里。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_5_duoffice id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡思考表情}嗯，这就是棘手的地方了，他的实验室里确实有很多项目保密级别比较高，如果要强行搜查的话......" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="duheng" param="嗯...需要申请搜查令，不过荣光财团是不会轻易让我们申请成功的，毕竟这属于是打他们的脸。" param2="" param3="type=0"/>
-<xt_dianzhuang_5_duoffice id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡思考动作恢复}{#杜衡思考表情恢复}那可是异物质，要是造成大范围感染就晚了。" param2="" param3="type=0"/>
-<xt_dianzhuang_5_duoffice id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="但我们确实不能证明，异物质的本体就在他的实验室里。" param2="" param3="type=0"/>
+<xt_dianzhuang_5_duoffice id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡思考动作恢复}{#杜衡思考表情恢复}那可是异质物，要是造成大范围感染就晚了。" param2="" param3="type=0"/>
+<xt_dianzhuang_5_duoffice id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="但我们确实不能证明，异质物的本体就在他的实验室里。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
 <xt_dianzhuang_5_duoffice id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}要我说，就直接打上门去，几个rpg随便一轰，什么搜查令都不用了。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="现在我相信你当过雇佣兵了……{#聂飞愤怒恢复}{#聂飞待机表情}" param2="" param3="type=0"/>

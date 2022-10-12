@@ -1,15 +1,27 @@
 <root>
 <xt_hug_start id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_start id="1" originalRow="1" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
-<xt_hug_start id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
-<xt_hug_start id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="duheng" param="周易，抽空过来一趟。" param2="" param3="type=0"/>
-<xt_hug_start id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="今天？现在？" param2="" param3="type=0"/>
-<xt_hug_start id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
-<xt_hug_start id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="duheng" param="抽~空~" param2="" param3="type=0"/>
-<xt_hug_start id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="duheng" param="哎，看我在你心里的优先级是多少了。" param2="" param3="type=0"/>
-<xt_hug_start id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="……我马上就去！" param2="" param3="type=0"/>
-<xt_hug_start id="9" originalRow="9" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_hug_start id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_start id="11" originalRow="11" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="1" originalRow="1" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="周易，抽空过来一趟。" param2="" param3="type=0"/>
+<xt_hug_start id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" data="" param="$$今天？==&gt;今天？
+$$现在？==&gt;现在？" param2="" param3=""/>
+<xt_hug_start id="3" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="4" originalRow="4" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="5" originalRow="5" groupSign="今天？" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="今天？" param2="" param3="type=0"/>
+<xt_hug_start id="7" originalRow="7" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="抽~空~" param2="" param3="type=0"/>
+<xt_hug_start id="8" originalRow="8" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="哎，看我在你心里的优先级是多少了。" param2="" param3="type=0"/>
+<xt_hug_start id="9" originalRow="9" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="wo" param="……我马上就去！" param2="" param3="type=0"/>
+<xt_hug_start id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_hug_start id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_start id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="14" originalRow="14" groupSign="现在？" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="现在？" param2="" param3="type=0"/>
+<xt_hug_start id="16" originalRow="16" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="抽~空~" param2="" param3="type=0"/>
+<xt_hug_start id="17" originalRow="17" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="哎，看我在你心里的优先级是多少了。" param2="" param3="type=0"/>
+<xt_hug_start id="18" originalRow="18" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="wo" param="……我马上就去！" param2="" param3="type=0"/>
+<xt_hug_start id="19" originalRow="19" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_hug_start id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="21" originalRow="21" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_start id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

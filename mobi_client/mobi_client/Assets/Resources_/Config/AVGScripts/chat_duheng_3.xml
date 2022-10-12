@@ -1,19 +1,34 @@
 <root>
-<chat_duheng_3 id="0" originalRow="0" groupSign="关于顶石" debugClose="" action="" data="" param="" param2=""/>
-<chat_duheng_3 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="博士对顶石科技怎么看？" param2=""/>
-<chat_duheng_3 id="2" originalRow="2" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="这些大公司已经从996变成007了。" param2=""/>
-<chat_duheng_3 id="3" originalRow="3" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="异质物与人类精神立场的“同步性”……" param2=""/>
-<chat_duheng_3 id="4" originalRow="4" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="会产生这样的异质物似乎挺合理。" param2=""/>
-<chat_duheng_3 id="5" originalRow="5" groupSign="" debugClose="" action="可选对话框" data="" param="$$996我知道，007是完全住在公司吗？==&gt;完全住在公司" param2=""/>
-<chat_duheng_3 id="6" originalRow="6" groupSign="完全住在公司" debugClose="" action="" data="" param="" param2=""/>
-<chat_duheng_3 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="996我知道，007是完全住在公司吗？" param2=""/>
-<chat_duheng_3 id="8" originalRow="8" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="是啊，毕竟安江市是经济中心，最讲究效率。" param2=""/>
-<chat_duheng_3 id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" data="" param="$$哈哈哈怎么听起来我们也差不多……==&gt;我们也差不多" param2=""/>
-<chat_duheng_3 id="10" originalRow="10" groupSign="我们也差不多" debugClose="" action="" data="" param="" param2=""/>
-<chat_duheng_3 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="哈哈哈怎么听起来我们也差不多……" param2=""/>
-<chat_duheng_3 id="12" originalRow="12" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="嗯？你这是在指责你老板压榨吗？" param2=""/>
-<chat_duheng_3 id="13" originalRow="13" groupSign="" debugClose="" action="可选对话框" data="" param="$$不不不，我没有这个意思……==&gt;没有这个意思" param2=""/>
-<chat_duheng_3 id="14" originalRow="14" groupSign="没有这个意思" debugClose="" action="" data="" param="" param2=""/>
-<chat_duheng_3 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="不不不，我没有这个意思……" param2=""/>
-<chat_duheng_3 id="16" originalRow="16" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_3 id="0" originalRow="0" groupSign="关于顶石的异质物..." debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_3 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="关于顶石的异质物……" param2=""/>
+<chat_duheng_3 id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" data="" param="$$到底是怎么来的呢？==&gt;怎么来
+$$我们需要继续追踪吗？==&gt;继续追" param2=""/>
+<chat_duheng_3 id="3" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_3 id="4" originalRow="4" groupSign="怎么来" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_3 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="到底是怎么来的呢？" param2=""/>
+<chat_duheng_3 id="6" originalRow="6" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="这些大公司已经从996变成007了。" param2=""/>
+<chat_duheng_3 id="7" originalRow="7" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="异质物与人类精神立场的“同步性”……" param2=""/>
+<chat_duheng_3 id="8" originalRow="8" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="会产生这样的异质物似乎挺合理。" param2=""/>
+<chat_duheng_3 id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" data="" param="$$996我知道，007是完全住在公司吗？==&gt;完全住在公司" param2=""/>
+<chat_duheng_3 id="10" originalRow="10" groupSign="完全住在公司" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_3 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="996我知道，007是完全住在公司吗？" param2=""/>
+<chat_duheng_3 id="12" originalRow="12" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="是啊，毕竟安江市是经济中心，最讲究效率。" param2=""/>
+<chat_duheng_3 id="13" originalRow="13" groupSign="" debugClose="" action="可选对话框" data="" param="$$哈哈哈怎么听起来我们也差不多……==&gt;我们也差不多" param2=""/>
+<chat_duheng_3 id="14" originalRow="14" groupSign="我们也差不多" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_3 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="哈哈哈怎么听起来我们也差不多……" param2=""/>
+<chat_duheng_3 id="16" originalRow="16" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="嗯？你这是在指责你老板压榨吗？" param2=""/>
+<chat_duheng_3 id="17" originalRow="17" groupSign="" debugClose="" action="可选对话框" data="" param="$$不不不，我没有这个意思……==&gt;没有这个意思" param2=""/>
+<chat_duheng_3 id="18" originalRow="18" groupSign="没有这个意思" debugClose="" action="" data="" param="" param2=""/>
+<chat_duheng_3 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="不不不，我没有这个意思！" param2=""/>
+<chat_duheng_3 id="20" originalRow="20" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<chat_duheng_3 id="21" originalRow="21"/>
+<chat_duheng_3 id="22" originalRow="22" groupSign="继续追"/>
+<chat_duheng_3 id="23" originalRow="23" action="角色台词" data="wo" param="我们需要继续追踪吗？"/>
+<chat_duheng_3 id="24" originalRow="24" groupSign="1.6&gt;&gt;" action="角色台词" data="duheng" param="目前来看该异质物危险系数不高。"/>
+<chat_duheng_3 id="25" originalRow="25" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="先把顶石的事调查清楚吧。"/>
+<chat_duheng_3 id="26" originalRow="26" action="可选对话框" param="$$明白了。……==&gt;明白了"/>
+<chat_duheng_3 id="27" originalRow="27" groupSign="明白了" action="" param=""/>
+<chat_duheng_3 id="28" originalRow="28" action="角色台词" data="wo" param="明白了。"/>
+<chat_duheng_3 id="29" originalRow="29"/>
+<chat_duheng_3 id="30" originalRow="30" groupSign="结束"/>
 </root>

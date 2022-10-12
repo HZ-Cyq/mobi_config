@@ -1,7 +1,7 @@
 <root>
 <RpgScene id="1" group_roomId="9001001" sceneLogicType="1" default_npc="0;tuling;11;115|1;duheng;0;0|2;stskeyanrenyuan;0;0" key_name="xt_9001001" button="1|2|3" dataLvLimit="-1" desc="xt_9001001"/>
 <RpgScene id="2" group_roomId="9001002" sceneLogicType="1" default_npc="0;dianshiniang;0;0" key_name="xt_9001002" button="1|2|3" dataLvLimit="-1" desc="xt_9001002"/>
-<RpgScene id="3" sceneLogicType="2" default_npc="" key_name="maze" dataLvLimit="-1" desc="迷宫模板场景"/>
+<RpgScene id="3" sceneLogicType="-1" default_npc="" key_name="maze" dataLvLimit="-1" desc="迷宫模板场景"/>
 <RpgScene id="4" sceneLogicType="2" default_npc="" key_name="maze_1" dataLvLimit="0" desc="装备副本1"/>
 <RpgScene id="5" sceneLogicType="2" default_npc="" key_name="maze_2" dataLvLimit="0" desc="天目剧院"/>
 <RpgScene id="6" sceneLogicType="2" default_npc="" key_name="maze_3" dataLvLimit="0" desc="克雷研究所"/>
@@ -17,44 +17,45 @@
 <RpgScene id="16" sceneLogicType="2" default_npc="0;maze_201_1;11;1020" key_name="maze_201" dataLvLimit="0" desc="入口1"/>
 <RpgScene id="17" sceneLogicType="2" default_npc="0;maze_202_1;11;0|0;maze_202_2;11;0|0;maze_202_3;11;0|0;maze_202_4;11;0|0;maze_202_5;11;0" key_name="maze_202" dataLvLimit="0" desc="入口2"/>
 <RpgScene id="18" sceneLogicType="2" default_npc="" key_name="maze_203" dataLvLimit="0" desc="地道"/>
-<RpgScene id="19" sceneLogicType="2" default_npc="" key_name="maze_301" dataLvLimit="0" desc="入口1"/>
-<RpgScene id="20" sceneLogicType="2" default_npc="" key_name="maze_302" dataLvLimit="0" desc="入口2"/>
+<RpgScene id="19" sceneLogicType="2" default_npc="0;maze_301_1;11;1031|0;maze_301_2;11;1031|0;maze_301_3;11;1031" key_name="maze_301" dataLvLimit="0" desc="入口1"/>
+<RpgScene id="20" sceneLogicType="2" default_npc="0;maze_302_1;11;1033|0;maze_302_5;11;1033|0;maze_302_3;11;1034|0;maze_302_2;11;0" key_name="maze_302" dataLvLimit="0" desc="入口2"/>
 <RpgScene id="21" sceneLogicType="2" default_npc="" key_name="maze_303" dataLvLimit="0" desc="入口3"/>
 <RpgScene id="22" group_roomId="1001" key_name="C0_kaiselin_office" button="1|2|3" dataLvLimit="-1" desc="_未知的房间，非常诡异。"/>
 <RpgScene id="23" group_roomId="1002" key_name="C0_corridor1" button="3" dataLvLimit="-1" desc="_阴暗的走廊，有警报灯在一致闪烁。"/>
 <RpgScene id="24" group_roomId="1003" key_name="C0_du_office" button="3" dataLvLimit="-1" desc="_神秘的办公室，装潢有点特别。"/>
-<RpgScene id="26" group_roomId="12001" key_name="C1_elevator" button="3" dataLvLimit="-1" desc="电梯间"/>
-<RpgScene id="27" group_roomId="12002" key_name="C1_elevator_basement" button="3" dataLvLimit="-1" desc="地下电梯间"/>
-<RpgScene id="28" group_roomId="12003" key_name="C1_cloister_3D" button="3" dataLvLimit="-1" desc="异界回廊"/>
-<RpgScene id="29" group_roomId="12004" key_name="C1_404_home" button="1|2|3" dataLvLimit="-1" desc="收容间404"/>
-<RpgScene id="30" group_roomId="12005" key_name="C1_kaiselin_office" button="3" dataLvLimit="-1" desc="凯瑟琳办公室"/>
-<RpgScene id="31" group_roomId="12007" key_name="C1_du_office" button="3" dataLvLimit="-1" desc="_杜博士的办公室，办公室正门锁住，没有授权的话是不允许进入的…"/>
-<RpgScene id="32" group_roomId="20001" key_name="C2_jiangbei_park" button="" dataLvLimit="-1" desc="江北公园"/>
-<RpgScene id="33" group_roomId="21001" key_name="C2_jiudian_square" button="1|3" dataLvLimit="-1" desc="和平酒店广场"/>
-<RpgScene id="34" group_roomId="21002" key_name="C2_jiudian_lobby" button="1|3" dataLvLimit="-1" desc="和平酒店大堂"/>
-<RpgScene id="35" group_roomId="21003" key_name="C2_jiudian_corridor" button="1|3" dataLvLimit="-1" desc="和平酒店走廊"/>
-<RpgScene id="36" group_roomId="21004" key_name="C2_caiqian_room" button="1|2|3" dataLvLimit="-1" desc="财前毅房间"/>
-<RpgScene id="37" group_roomId="21005" key_name="C2_jiudian_rofftop" button="1|3" dataLvLimit="-1" desc="和平酒店天台"/>
-<RpgScene id="38" group_roomId="22001" key_name="C2_juyuan_lobby" button="1|3" dataLvLimit="-1" desc="天目剧院大堂"/>
-<RpgScene id="39" group_roomId="22002" key_name="C2_tushanao_fangjian" button="1|2|3" dataLvLimit="-1" desc="土山奥剧院房间"/>
-<RpgScene id="40" group_roomId="22003" key_name="C2_juyuan_corridor" button="1|3" dataLvLimit="-1" desc="天幕剧院走廊"/>
-<RpgScene id="41" group_roomId="23001" key_name="C2_du_office" button="3" dataLvLimit="-1" desc="杜博士办公室"/>
-<RpgScene id="42" group_roomId="24001" key_name="C2_huaishuli_loudao" button="3" dataLvLimit="-1" desc="槐树里小区某个居民楼内"/>
-<RpgScene id="43" group_roomId="24002" key_name="C2_CreepToyRoom" button="3" dataLvLimit="-1" desc="出现异质物问题的房间"/>
-<RpgScene id="44" group_roomId="21006" key_name="C2_special_room" button="1|3" dataLvLimit="-1" desc="STS特别房间"/>
-<RpgScene id="45" group_roomId="33001" key_name="C3_prologue" button="" dataLvLimit="-1" desc="_第三章开始地点"/>
-<RpgScene id="46" group_roomId="31001" key_name="C3_dingshi_reception" button="3" dataLvLimit="-1" desc="_顶石大厦的前台，用于接待访客"/>
-<RpgScene id="47" group_roomId="31002" key_name="C3_dingshi_75corridor" button="3" dataLvLimit="-1" desc="_顶石大厦75层的走廊，连接电梯间、前台、休息室和工作区"/>
-<RpgScene id="48" group_roomId="31003" key_name="C3_dingshi_QYZ_office_dark" button="2|3" dataLvLimit="-1" desc="_漆异之的个人工作室..."/>
-<RpgScene id="49" group_roomId="31004" key_name="C3_dingshi_laboratory" button="1|2|3" dataLvLimit="-1" desc="_漆异之进行生物实验的工作台，各种仪器很齐全..."/>
-<RpgScene id="50" group_roomId="31005" key_name="C3_dingshi_resting" button="3" dataLvLimit="-1" desc="_顶石大厦75层的休息区，工作闲暇时放松的地方..."/>
-<RpgScene id="51" group_roomId="31006" key_name="C3_dingshi_ServerCenter" button="3" dataLvLimit="-1" desc="_顶石大厦的顶层76层，存放着云宫主机和风阻尼器..."/>
-<RpgScene id="52" group_roomId="31007" key_name="C3_dingshi_machineroom" button="3" dataLvLimit="-1" desc="_机房，存放着各种电子设备..."/>
-<RpgScene id="53" group_roomId="31008" key_name="C3_dingshi_outside" button="1|3" dataLvLimit="-1" desc="_顶石大厦外部，洒满了绿色液体"/>
-<RpgScene id="54" group_roomId="33002" sceneLogicType="0" default_npc="" key_name="C3_du_office" button="" dataLvLimit="-1" desc="_特种事态派遣科的分部旁的小巷，平时队员们会再次闲逛"/>
-<RpgScene id="55" group_roomId="34001" sceneLogicType="0" default_npc="" key_name="C3_luhuayuan_lobby" button="3" dataLvLimit="-1" desc="_酒店大堂，联通电梯间和客房..."/>
-<RpgScene id="56" group_roomId="34002" key_name="C3_luhuayuan_corridor" button="3" dataLvLimit="-1" desc="_走廊，联通电梯间和总统套房..."/>
-<RpgScene id="57" group_roomId="34003" key_name="C3_luhuayuan_presidential_suite" button="3" dataLvLimit="-1" desc="_新中式装修的顶级套房，红木家具看起来价格不菲..."/>
+<RpgScene id="25" group_roomId="12001" key_name="C1_elevator" button="3" dataLvLimit="-1" desc="电梯间"/>
+<RpgScene id="26" group_roomId="12002" key_name="C1_elevator_basement" button="3" dataLvLimit="-1" desc="地下电梯间"/>
+<RpgScene id="27" group_roomId="12003" key_name="C1_cloister_3D" button="3" dataLvLimit="-1" desc="异界回廊"/>
+<RpgScene id="28" group_roomId="12004" key_name="C1_404_home" button="1|2|3" dataLvLimit="-1" desc="收容间404"/>
+<RpgScene id="29" group_roomId="12005" key_name="C1_kaiselin_office" button="3" dataLvLimit="-1" desc="凯瑟琳办公室"/>
+<RpgScene id="30" group_roomId="12007" key_name="C1_du_office" button="3" dataLvLimit="-1" desc="_杜博士的办公室，办公室正门锁住，没有授权的话是不允许进入的…"/>
+<RpgScene id="31" group_roomId="20001" key_name="C2_jiangbei_park" button="" dataLvLimit="-1" desc="江北公园"/>
+<RpgScene id="32" group_roomId="21001" key_name="C2_jiudian_square" button="1|3" dataLvLimit="-1" desc="和平酒店广场"/>
+<RpgScene id="33" group_roomId="21002" key_name="C2_jiudian_lobby" button="1|3" dataLvLimit="-1" desc="和平酒店大堂"/>
+<RpgScene id="34" group_roomId="21003" key_name="C2_jiudian_corridor" button="1|3" dataLvLimit="-1" desc="和平酒店走廊"/>
+<RpgScene id="35" group_roomId="21004" key_name="C2_caiqian_room" button="1|2|3" dataLvLimit="-1" desc="财前毅房间"/>
+<RpgScene id="36" group_roomId="21005" key_name="C2_jiudian_rofftop" button="1|3" dataLvLimit="-1" desc="和平酒店天台"/>
+<RpgScene id="37" group_roomId="22001" key_name="C2_juyuan_lobby" button="1|3" dataLvLimit="-1" desc="天目剧院大堂"/>
+<RpgScene id="38" group_roomId="22002" key_name="C2_tushanao_fangjian" button="1|2|3" dataLvLimit="-1" desc="土山奥剧院房间"/>
+<RpgScene id="39" group_roomId="22003" key_name="C2_juyuan_corridor" button="1|3" dataLvLimit="-1" desc="天幕剧院走廊"/>
+<RpgScene id="40" group_roomId="23001" key_name="C2_du_office" button="3" dataLvLimit="-1" desc="杜博士办公室"/>
+<RpgScene id="41" group_roomId="24001" key_name="C2_huaishuli_loudao" button="3" dataLvLimit="-1" desc="槐树里小区某个居民楼内"/>
+<RpgScene id="42" group_roomId="24002" key_name="C2_CreepToyRoom" button="3" dataLvLimit="-1" desc="出现异质物问题的房间"/>
+<RpgScene id="43" group_roomId="21006" key_name="C2_special_room" button="1|3" dataLvLimit="-1" desc="STS特别房间"/>
+<RpgScene id="44" group_roomId="33001" key_name="C3_prologue" button="" dataLvLimit="-1" desc="_第三章开始地点"/>
+<RpgScene id="45" group_roomId="31001" key_name="C3_dingshi_reception" button="3" dataLvLimit="-1" desc="_顶石大厦的前台，用于接待访客"/>
+<RpgScene id="46" group_roomId="31002" key_name="C3_dingshi_75corridor" button="3" dataLvLimit="-1" desc="_顶石大厦75层的走廊，连接电梯间、前台、休息室和工作区"/>
+<RpgScene id="47" group_roomId="31003" key_name="C3_dingshi_QYZ_office_dark" button="2|3" dataLvLimit="-1" desc="_漆异之的个人工作室..."/>
+<RpgScene id="48" group_roomId="31004" key_name="C3_dingshi_laboratory" button="1|2|3" dataLvLimit="-1" desc="_漆异之进行生物实验的工作台，各种仪器很齐全..."/>
+<RpgScene id="49" group_roomId="31005" key_name="C3_dingshi_resting" button="3" dataLvLimit="-1" desc="_顶石大厦75层的休息区，工作闲暇时放松的地方..."/>
+<RpgScene id="50" group_roomId="31006" key_name="C3_dingshi_ServerCenter" button="3" dataLvLimit="-1" desc="_顶石大厦的顶层76层，存放着云宫主机和风阻尼器..."/>
+<RpgScene id="51" group_roomId="31007" key_name="C3_dingshi_machineroom" button="3" dataLvLimit="-1" desc="_机房，存放着各种电子设备..."/>
+<RpgScene id="52" group_roomId="31008" key_name="C3_dingshi_outside" button="1|3" dataLvLimit="-1" desc="_顶石大厦外部，洒满了绿色液体"/>
+<RpgScene id="53" group_roomId="33002" sceneLogicType="0" default_npc="" key_name="C3_du_office" button="" dataLvLimit="-1" desc="_特种事态派遣科的分部旁的小巷，平时队员们会再次闲逛"/>
+<RpgScene id="54" group_roomId="34001" sceneLogicType="0" default_npc="" key_name="C3_tulang_lobby" button="3" dataLvLimit="-1" desc="_酒店大堂，联通电梯间和客房..."/>
+<RpgScene id="55" group_roomId="34002" key_name="C3_tulang_corridor" button="3" dataLvLimit="-1" desc="_走廊，联通电梯间和总统套房..."/>
+<RpgScene id="56" group_roomId="34003" key_name="C3_tulang_presidential" button="3" dataLvLimit="-1" desc="_新中式装修的顶级套房，红木家具看起来价格不菲..."/>
+<RpgScene id="57" key_name="operation_office" button="" dataLvLimit="-1" desc="第一章结束后串联用主界面"/>
 <RpgScene id="58" group_roomId="1001001" sceneLogicType="1" default_npc="" key_name="apartment" button="" dataLvLimit="-1" desc="_安江市的【异变区】之一，在被昭离公馆管控的状态内"/>
 <RpgScene id="59" group_roomId="1002001" sceneLogicType="1" default_npc="" key_name="jin_oldhome" button="" dataLvLimit="-1" desc="_安江市的【异变区】之一，在被昭离公馆管控的状态内"/>
 <RpgScene id="60" group_roomId="1003001" sceneLogicType="1" default_npc="" key_name="long_wineshop" button="" dataLvLimit="-1" desc="_安江市的【异变区】之一，在被昭离公馆管控的状态内"/>
@@ -82,32 +83,30 @@
 <RpgScene id="82" group_roomId="5010004" sceneLogicType="1" key_name="XT_Zhaoli_cloister" scenePic="" button="1|3" dataLvLimit="-1" desc="昭离公馆-异界回廊"/>
 <RpgScene id="83" group_roomId="5010005" sceneLogicType="1" key_name="XT_Zhaoli_cloister_2_209" scenePic="" button="1|3" dataLvLimit="-1" desc="昭离公馆-2-909房间前"/>
 <RpgScene id="84" group_roomId="5010006" sceneLogicType="1" key_name="XT_Zhaoli_kaiselin_office" scenePic="" button="1|3" dataLvLimit="-1" desc="昭离公馆-凯瑟琳办公室"/>
-<RpgScene id="85" group_roomId="5020001" sceneLogicType="1" key_name="XT_jiangbei_park" scenePic="" button="1|3" dataLvLimit="-1" desc="江北公园"/>
-<RpgScene id="86" group_roomId="5021001" sceneLogicType="1" key_name="XT_jiudian_square" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店广场"/>
-<RpgScene id="87" group_roomId="5021002" sceneLogicType="1" default_npc="2;heping_dianti;0;0" key_name="XT_jiudian_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店大堂"/>
-<RpgScene id="88" group_roomId="5021003" sceneLogicType="1" key_name="XT_jiudian_corridor" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店走廊"/>
-<RpgScene id="89" group_roomId="5021005" sceneLogicType="1" key_name="XT_jiudian_rofftop" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店天台"/>
-<RpgScene id="90" group_roomId="5021006" sceneLogicType="1" key_name="XT_special_room" scenePic="" button="1|3" dataLvLimit="-1" desc="STS特别房间"/>
-<RpgScene id="91" group_roomId="5022001" sceneLogicType="1" key_name="XT_juyuan_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="天目剧院大堂"/>
-<RpgScene id="92" group_roomId="5022002" sceneLogicType="1" key_name="XT_juyuan_room" scenePic="" button="1|3" dataLvLimit="-1" desc="土山奥剧院房间"/>
-<RpgScene id="93" group_roomId="5031001" sceneLogicType="1" default_npc="2;dingshi_dianti;0;0" key_name="XT_dingshi_reception" scenePic="" button="1|3" dataLvLimit="-1" desc="顶石前台"/>
-<RpgScene id="94" group_roomId="5031002" sceneLogicType="1" key_name="XT_dingshi_75corridor" scenePic="" button="1|3" dataLvLimit="-1" desc="顶石75层走廊"/>
-<RpgScene id="95" group_roomId="5031003" sceneLogicType="1" key_name="XT_dingshi_QYZ_office_dark" scenePic="" button="1|3" dataLvLimit="-1" desc="漆异之工作室"/>
-<RpgScene id="96" group_roomId="5031004" sceneLogicType="1" key_name="XT_dingshi_laboratory" scenePic="" button="1|3" dataLvLimit="-1" desc="生物实验室"/>
-<RpgScene id="97" group_roomId="5031005" sceneLogicType="1" key_name="XT_dingshi_resting" scenePic="" button="1|3" dataLvLimit="-1" desc="75层休息区"/>
-<RpgScene id="98" group_roomId="5031006" sceneLogicType="1" key_name="XT_dingshi_ServerCenter" scenePic="" button="1|3" dataLvLimit="-1" desc="前往76层"/>
-<RpgScene id="99" group_roomId="5031007" sceneLogicType="1" key_name="XT_dingshi_machineroom" scenePic="" button="1|3" dataLvLimit="-1" desc="操作间"/>
-<RpgScene id="100" group_roomId="5031008" sceneLogicType="1" key_name="XT_dingshi_outside" scenePic="" button="1|3" dataLvLimit="-1" desc="顶石大厦外部"/>
-<RpgScene id="101" group_roomId="5101001" sceneLogicType="1" key_name="XT_tianjiang_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="天江壹号别墅大厅"/>
-<RpgScene id="102" group_roomId="5101002" sceneLogicType="1" key_name="XT_tianjiang_corridor" scenePic="" button="1|3" dataLvLimit="-1" desc="天江壹号别墅走廊"/>
-<RpgScene id="103" group_roomId="5101003" sceneLogicType="1" key_name="XT_tianjiang_room" scenePic="" button="1|3" dataLvLimit="-1" desc="天江壹号别墅房间"/>
-<RpgScene id="104" group_roomId="5102001" sceneLogicType="1" key_name="XT_putao_reception" scenePic="" button="1|3" dataLvLimit="-1" desc="葡萄日报社前台"/>
-<RpgScene id="105" group_roomId="5102002" sceneLogicType="1" key_name="XT_putao_office" scenePic="" button="1|3" dataLvLimit="-1" desc="葡萄日报社办公室"/>
-<RpgScene id="106" group_roomId="5103001" sceneLogicType="1" key_name="XT_xingyu_center" scenePic="" button="1|3" dataLvLimit="-1" desc="中央大道"/>
-<RpgScene id="107" group_roomId="5103002" sceneLogicType="1" key_name="XT_xingyu_shop" scenePic="" button="1|3" dataLvLimit="-1" desc="商业街"/>
-<RpgScene id="108" group_roomId="5103003" sceneLogicType="1" key_name="XT_xingyu_side" scenePic="" button="1|3" dataLvLimit="-1" desc="白鹭湖岸边"/>
-<RpgScene id="109" group_roomId="5103004" sceneLogicType="1" key_name="XT_xingyu_park" scenePic="" button="1|3" dataLvLimit="-1" desc="白鹭森林公园"/>
-<RpgScene id="110" group_roomId="5034001" sceneLogicType="1" key_name="XT_luhuayuan_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="鹭华园-大堂"/>
-<RpgScene id="111" group_roomId="5034002" sceneLogicType="1" default_npc="" key_name="XT_luhuayuan_corridor" button="1|3" dataLvLimit="-1" desc="鹭华园-走廊"/>
-<RpgScene id="112" group_roomId="5034003" sceneLogicType="1" default_npc="" key_name="XT_luhuayuan_presidential_suite" button="1|3" dataLvLimit="-1" desc="鹭华园-总统套房"/>
+<RpgScene id="85" group_roomId="5020001" sceneLogicType="1" default_npc="" key_name="XT_jingchaohu_park_enter" scenePic="" button="1|3" dataLvLimit="-1" desc="镜潮湖公园-入口"/>
+<RpgScene id="86" group_roomId="5020002" sceneLogicType="1" key_name="XT_jingchaohu_park" scenePic="" button="1|3" dataLvLimit="-1" desc="镜潮湖公园-内部"/>
+<RpgScene id="87" group_roomId="5021001" sceneLogicType="1" key_name="XT_jiudian_square" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店广场"/>
+<RpgScene id="88" group_roomId="5021002" sceneLogicType="1" default_npc="2;heping_dianti;0;0" key_name="XT_jiudian_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店大堂"/>
+<RpgScene id="89" group_roomId="5021003" sceneLogicType="1" key_name="XT_jiudian_corridor" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店走廊"/>
+<RpgScene id="90" group_roomId="5021005" sceneLogicType="1" key_name="XT_jiudian_rofftop" scenePic="" button="1|3" dataLvLimit="-1" desc="和平酒店天台"/>
+<RpgScene id="91" group_roomId="5021006" sceneLogicType="1" key_name="XT_special_room" scenePic="" button="1|3" dataLvLimit="-1" desc="STS特别房间"/>
+<RpgScene id="92" group_roomId="5022001" sceneLogicType="1" key_name="XT_juyuan_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="天目剧院大堂"/>
+<RpgScene id="93" group_roomId="5022002" sceneLogicType="1" key_name="XT_juyuan_room" scenePic="" button="1|3" dataLvLimit="-1" desc="土山奥剧院房间"/>
+<RpgScene id="94" group_roomId="5031001" sceneLogicType="1" default_npc="2;dingshi_dianti;0;0" key_name="XT_dingshi_reception" scenePic="" button="1|3" dataLvLimit="-1" desc="顶石前台"/>
+<RpgScene id="95" group_roomId="5031002" sceneLogicType="1" key_name="XT_dingshi_75corridor" scenePic="" button="1|3" dataLvLimit="-1" desc="顶石75层走廊"/>
+<RpgScene id="96" group_roomId="5031003" sceneLogicType="1" key_name="XT_dingshi_QYZ_office_dark" scenePic="" button="1|3" dataLvLimit="-1" desc="漆异之工作室"/>
+<RpgScene id="97" group_roomId="5031004" sceneLogicType="1" key_name="XT_dingshi_laboratory" scenePic="" button="1|3" dataLvLimit="-1" desc="生物实验室"/>
+<RpgScene id="98" group_roomId="5031005" sceneLogicType="1" key_name="XT_dingshi_resting" scenePic="" button="1|3" dataLvLimit="-1" desc="75层休息区"/>
+<RpgScene id="99" group_roomId="5031006" sceneLogicType="1" key_name="XT_dingshi_ServerCenter" scenePic="" button="1|3" dataLvLimit="-1" desc="前往76层"/>
+<RpgScene id="100" group_roomId="5031007" sceneLogicType="1" key_name="XT_dingshi_machineroom" scenePic="" button="1|3" dataLvLimit="-1" desc="操作间"/>
+<RpgScene id="101" group_roomId="5031008" sceneLogicType="1" key_name="XT_dingshi_outside" scenePic="" button="1|3" dataLvLimit="-1" desc="顶石大厦外部"/>
+<RpgScene id="102" group_roomId="5101001" sceneLogicType="1" key_name="XT_tianjiang_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="天江壹号别墅大厅"/>
+<RpgScene id="103" group_roomId="5101002" sceneLogicType="1" key_name="XT_tianjiang_corridor" scenePic="" button="1|3" dataLvLimit="-1" desc="天江壹号别墅走廊"/>
+<RpgScene id="104" group_roomId="5101003" sceneLogicType="1" key_name="XT_tianjiang_room" scenePic="" button="1|3" dataLvLimit="-1" desc="天江壹号别墅房间"/>
+<RpgScene id="105" group_roomId="5101004" sceneLogicType="1" key_name="XT_tianjiang_room2" scenePic="" button="1|3" dataLvLimit="-1" desc="谜之赌场"/>
+<RpgScene id="106" group_roomId="5102001" sceneLogicType="1" key_name="XT_putao_reception" scenePic="" button="1|3" dataLvLimit="-1" desc="葡萄日报社前台"/>
+<RpgScene id="107" group_roomId="5102002" sceneLogicType="1" key_name="XT_putao_office" scenePic="" button="1|3" dataLvLimit="-1" desc="葡萄日报社办公室"/>
+<RpgScene id="108" group_roomId="5034001" sceneLogicType="1" key_name="XT_tulang_lobby" scenePic="" button="1|3" dataLvLimit="-1" desc="图朗-大堂"/>
+<RpgScene id="109" group_roomId="5034002" sceneLogicType="1" default_npc="" key_name="XT_tulang_corridor" button="1|3" dataLvLimit="-1" desc="图朗-走廊"/>
+<RpgScene id="110" group_roomId="5034003" sceneLogicType="1" default_npc="" key_name="XT_tulang_presidential" button="1|3" dataLvLimit="-1" desc="图朗-总统套房"/>
 </root>

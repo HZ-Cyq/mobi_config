@@ -148,7 +148,7 @@ public class Config<T extends ConfigModel> {
          *             {heroId1,1},
          *             {heroId2,2},
          *             {heroId3,3},
-         * @param oneDimState 格式：ID:Hero|IN:[1,3,4] 或 1:{ID:Hero}#2:{BETWEEN:[1;3]}
+         * @param twoDimState 格式：ID:Hero|IN:[1,3,4] 或 1:{ID:Hero}#2:{BETWEEN:[1;3]}
          * @return
          */
         private static boolean checkTwoDim(List<Object> list, String twoDimState) {
@@ -332,7 +332,7 @@ public class Config<T extends ConfigModel> {
                     return eleVal >= start && eleVal <= end;
                 });
                 if(!re) {
-                    GameLog.LogError("IntBetweenStrategy check error, BETWEEN:{}, list:{}", limitStateUnitVal, limitStateUnitVal);
+                    GameLog.LogError("IntBetweenStrategy check error, BETWEEN:{}, list:{}", limitStateUnitVal, list);
                 }
                 return re;
             }
@@ -390,7 +390,7 @@ public class Config<T extends ConfigModel> {
     public void Init0(File file, Class<? extends ConfigModel> className) throws IllegalAccessException {
 
         long lastModified = file.lastModified();
-        List<Map> load = ConfigModel.load(file, className);
+        List<Map> load = (List<Map>) ConfigModel.load(file, className);
         dict = (HashMap<Integer, T>) load.get(0);
         limitStateMap = (HashMap<String, String>) load.get(1);
         if (dict == null) {

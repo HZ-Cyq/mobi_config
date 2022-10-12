@@ -1,46 +1,44 @@
 <root>
 <chat_kaiselin_2 id="0" originalRow="0" groupSign="关心自己身体"/>
-<chat_kaiselin_2 id="1" originalRow="1" action="角色台词" data="wo" param="我受到404污染后，会不会有后遗症啊？"/>
-<chat_kaiselin_2 id="2" originalRow="2" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="你的身体指标已经完全没问题了。"/>
-<chat_kaiselin_2 id="3" originalRow="3" groupSign="2.5&gt;&gt;" action="角色台词" data="kaiselin" param="真想看看其他反应呢~"/>
-<chat_kaiselin_2 id="4" originalRow="4" action="可选对话框" data="" param="$$其他……反应？==&gt;其他"/>
-<chat_kaiselin_2 id="5" originalRow="5" groupSign="其他"/>
-<chat_kaiselin_2 id="6" originalRow="6" action="角色台词" data="wo" param="其他……反应？"/>
-<chat_kaiselin_2 id="7" originalRow="7" groupSign="1.6&gt;&gt;" action="角色台词" data="kaiselin" param="我新研发的药，进入临床一期了，需要实验者。"/>
-<chat_kaiselin_2 id="8" originalRow="8" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="你要来试试吗？"/>
-<chat_kaiselin_2 id="9" originalRow="9" groupSign="1.6&gt;&gt;" action="角色台词" data="kaiselin" param="一种新型致幻剂，能让你非常快乐~"/>
-<chat_kaiselin_2 id="10" originalRow="10" action="可选对话框" data="" param="$$为什么非要找我啊喂！==&gt;非要找我"/>
-<chat_kaiselin_2 id="11" originalRow="11" groupSign="非要找我"/>
-<chat_kaiselin_2 id="12" originalRow="12" action="角色台词" data="wo" param="为什么非要找我啊喂！"/>
-<chat_kaiselin_2 id="13" originalRow="13" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="因为你又不会死嘛~"/>
-<chat_kaiselin_2 id="14" originalRow="14" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="万一出了什么事，不需要额外赔偿金。"/>
-<chat_kaiselin_2 id="15" originalRow="15" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="可以看到受体的全部过程。"/>
-<chat_kaiselin_2 id="16" originalRow="16" action="可选对话框" data="" param="$$我没有这么伟大的献身精神，这次还是算了！==&gt;献身精神"/>
-<chat_kaiselin_2 id="17" originalRow="17" groupSign="献身精神"/>
-<chat_kaiselin_2 id="18" originalRow="18" action="角色台词" data="wo" param="我没有这么伟大的献身精神，这次还是算了！"/>
-<chat_kaiselin_2 id="19" originalRow="19" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="啧啧，真可惜……好吧~"/>
-<chat_kaiselin_2 id="20" originalRow="20"/>
-<chat_kaiselin_2 id="21" originalRow="21" groupSign="结束"/>
-<chat_kaiselin_2 id="22" originalRow="22"/>
-<chat_kaiselin_2 id="23" originalRow="23"/>
-<chat_kaiselin_2 id="24" originalRow="24"/>
-<chat_kaiselin_2 id="25" originalRow="25"/>
-<chat_kaiselin_2 id="26" originalRow="26"/>
-<chat_kaiselin_2 id="27" originalRow="27"/>
-<chat_kaiselin_2 id="28" originalRow="28"/>
-<chat_kaiselin_2 id="29" originalRow="29"/>
-<chat_kaiselin_2 id="30" originalRow="30"/>
-<chat_kaiselin_2 id="31" originalRow="31"/>
-<chat_kaiselin_2 id="32" originalRow="32"/>
-<chat_kaiselin_2 id="33" originalRow="33"/>
-<chat_kaiselin_2 id="34" originalRow="34"/>
-<chat_kaiselin_2 id="35" originalRow="35"/>
-<chat_kaiselin_2 id="36" originalRow="36"/>
-<chat_kaiselin_2 id="37" originalRow="37"/>
+<chat_kaiselin_2 id="1" originalRow="1" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="有空的时候，来医务室做复检~"/>
+<chat_kaiselin_2 id="2" originalRow="2" action="可选对话框" data="" param="$$好的==&gt;好的
+$$我身体有状况！？==&gt;状况"/>
+<chat_kaiselin_2 id="3" originalRow="3" groupSign="好的"/>
+<chat_kaiselin_2 id="4" originalRow="4" action="角色台词" data="wo" param="好的"/>
+<chat_kaiselin_2 id="5" originalRow="5" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="你的身体指标已经完全没问题了。"/>
+<chat_kaiselin_2 id="6" originalRow="6" groupSign="2.5&gt;&gt;" action="角色台词" data="kaiselin" param="真想看看其他反应呢~"/>
+<chat_kaiselin_2 id="7" originalRow="7" action="可选对话框" data="" param="$$其他……反应？==&gt;其他"/>
+<chat_kaiselin_2 id="8" originalRow="8" groupSign="其他"/>
+<chat_kaiselin_2 id="9" originalRow="9" action="角色台词" data="wo" param="其他……反应？"/>
+<chat_kaiselin_2 id="10" originalRow="10" action="跳转-标签" data="" param="分支结束"/>
+<chat_kaiselin_2 id="11" originalRow="11" action="" data=""/>
+<chat_kaiselin_2 id="12" originalRow="12" groupSign="状况" action="" data=""/>
+<chat_kaiselin_2 id="13" originalRow="13" action="角色台词" data="wo" param="我身体有状况！？"/>
+<chat_kaiselin_2 id="14" originalRow="14" groupSign="1.6&gt;&gt;" action="角色台词" data="kaiselin" param="从之前的结果看，问题不大。"/>
+<chat_kaiselin_2 id="15" originalRow="15" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="所以迫不及待想要跟你合作呢~"/>
+<chat_kaiselin_2 id="16" originalRow="16" action="可选对话框" data="" param="$$呃，是什么合作呢？==&gt;合作"/>
+<chat_kaiselin_2 id="17" originalRow="17" groupSign="合作"/>
+<chat_kaiselin_2 id="18" originalRow="18" action="角色台词" data="wo" param="呃，是什么合作呢？"/>
+<chat_kaiselin_2 id="19" originalRow="19" action="跳转-标签" data="" param="分支结束"/>
+<chat_kaiselin_2 id="20" originalRow="20" groupSign="分支结束" action="" data=""/>
+<chat_kaiselin_2 id="21" originalRow="21" groupSign="1.6&gt;&gt;" action="角色台词" data="kaiselin" param="我新研发的药，进入临床一期了，需要实验者。"/>
+<chat_kaiselin_2 id="22" originalRow="22" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="你要来试试吗？"/>
+<chat_kaiselin_2 id="23" originalRow="23" groupSign="1.6&gt;&gt;" action="角色台词" data="kaiselin" param="一种促进内啡肽分泌的药剂，能让你非常快乐~"/>
+<chat_kaiselin_2 id="24" originalRow="24" action="可选对话框" data="" param="$$？？？==&gt;？"/>
+<chat_kaiselin_2 id="25" originalRow="25" groupSign="？"/>
+<chat_kaiselin_2 id="26" originalRow="26" action="角色台词" data="wo" param="？？？"/>
+<chat_kaiselin_2 id="27" originalRow="27" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="经费很充足哦，你不考虑看看吗？"/>
+<chat_kaiselin_2 id="28" originalRow="28" action="可选对话框" data="" param="$$为什么非要找我啊喂！==&gt;非要找我"/>
+<chat_kaiselin_2 id="29" originalRow="29" groupSign="非要找我"/>
+<chat_kaiselin_2 id="30" originalRow="30" action="角色台词" data="wo" param="为什么非要找我啊喂！"/>
+<chat_kaiselin_2 id="31" originalRow="31" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="因为你又不会死嘛~"/>
+<chat_kaiselin_2 id="32" originalRow="32" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="万一出了什么事，不需要额外赔偿金。"/>
+<chat_kaiselin_2 id="33" originalRow="33" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="可以看到受体的全部过程。"/>
+<chat_kaiselin_2 id="34" originalRow="34" action="可选对话框" data="" param="$$我没有这么伟大的献身精神，这次还是算了！==&gt;献身精神"/>
+<chat_kaiselin_2 id="35" originalRow="35" groupSign="献身精神"/>
+<chat_kaiselin_2 id="36" originalRow="36" action="角色台词" data="wo" param="我没有这么伟大的献身精神，这次还是算了！"/>
+<chat_kaiselin_2 id="37" originalRow="37" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="啧啧，真可惜……好吧~"/>
 <chat_kaiselin_2 id="38" originalRow="38"/>
-<chat_kaiselin_2 id="39" originalRow="39"/>
+<chat_kaiselin_2 id="39" originalRow="39" groupSign="结束"/>
 <chat_kaiselin_2 id="40" originalRow="40"/>
-<chat_kaiselin_2 id="41" originalRow="41"/>
-<chat_kaiselin_2 id="42" originalRow="42"/>
-<chat_kaiselin_2 id="43" originalRow="43"/>
 </root>

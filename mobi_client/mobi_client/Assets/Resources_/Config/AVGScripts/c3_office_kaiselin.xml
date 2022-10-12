@@ -12,7 +12,7 @@ $$没什么想问的了==&gt;人物出场结束" param2="" param3=""/>
 <C3_office_kaiselin id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="我想再了解一下这次的案件简报。" param2="" param3=""/>
 <C3_office_kaiselin id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="好，那我们一起回顾下案情。" param2="" param3=""/>
 <C3_office_kaiselin id="10" originalRow="10" groupSign="1" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
-<C3_office_kaiselin id="11" originalRow="11" groupSign="1" debugClose="" action="打开插画" data="C3_DIngshiBrief" param="FALSE" param2="" param3="offy=0.15"/>
+<C3_office_kaiselin id="11" originalRow="11" groupSign="1" debugClose="" action="打开插画" data="C3_DIngshiBrief" param="FALSE" param2="" param3=""/>
 <C3_office_kaiselin id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="公安系统的接线员{0.3}在23:06收到了顶石科技大厦发生灵异现象报告。" param2="" param3=""/>
 <C3_office_kaiselin id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="报告说大厦75层一扇落地窗忽然炸开，{0.5}向外涌出大量发光的粘液。" param2="" param3=""/>
 <C3_office_kaiselin id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="无人机拍摄的现场照片显示，{0.5}大楼前的广场上密布着无数光点，{0.5}好似从天上泼下一桶核污水。" param2="" param3=""/>

@@ -7,4 +7,5 @@
     public System.Collections.Generic.List<int> questId;//包含的支线id
     public System.Collections.Generic.List<System.Collections.Generic.List<int>> reward;//进度奖励
     public string resource;//相关资源路径
+    public string scenePreset;//场景效果预制体
 }

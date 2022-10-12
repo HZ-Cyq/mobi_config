@@ -1,0 +1,8 @@
+<root>
+<maze302_boss27 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss27 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze302_boss27 id="2" originalRow="2" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss27 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="你们怎么会出现在这里，前面那帮人是不是该优化一下了，干什么吃的！" param2="" param3="name=主管"/>
+<maze302_boss27 id="4" originalRow="4" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_boss27 id="5" originalRow="5" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

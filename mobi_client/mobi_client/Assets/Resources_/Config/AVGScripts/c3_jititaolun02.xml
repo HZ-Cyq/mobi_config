@@ -8,16 +8,13 @@
 <C3_jititaolun02 id="6" originalRow="6" groupSign="" debugClose="" action="播放音乐" data="bgm_Disccusion" param="" param2="" param3=""/>
 <C3_jititaolun02 id="7" originalRow="7" groupSign="" debugClose="" action="播放timeline" data="C1_404Room_CourtStart_TimeLine" param="TRUE" param2="" param3=""/>
 <C3_jititaolun02 id="8" originalRow="8" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="2" param2="" param3=""/>
-<C3_jititaolun02 id="9" originalRow="9" groupSign="2.5" debugClose="" action="打开插画" data="ui_court_start" param="" param2="" param3=""/>
-<C3_jititaolun02 id="10" originalRow="10" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
 <C3_jititaolun02 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=2" param2="" param3="TRUE;TRUE;FALSE"/>
 <C3_jititaolun02 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=1" param2="" param3="TRUE;TRUE;FALSE"/>
 <C3_jititaolun02 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="pos=3" param2="" param3="TRUE;TRUE;FALSE"/>
 <C3_jititaolun02 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="zhouyi" param="pos=4" param2="" param3="TRUE;TRUE;FALSE"/>
-<C3_jititaolun02 id="15" originalRow="15" groupSign="" debugClose="" action="跳转-标签" data="" param="序文" param2="" param3=""/>
 <C3_jititaolun02 id="16" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_jititaolun02 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="" param="在这个环节中，会和小队其他成员一起进行讨论" param2="" param3="type=1"/>
-<C3_jititaolun02 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="" param="玩家可以随时对其他成员的“&lt;color=#e2bd26&gt;推理&lt;/color&gt;”之处，选择&lt;color=#e2bd26&gt;可以反驳&lt;/color&gt;的“线索”，&lt;color=#e2bd26&gt;上滑指证&lt;/color&gt;。" param2="" param3=""/>
+<C3_jititaolun02 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="" param="玩家可以随时对其他成员的“&lt;color=#e2bd26&gt;推理&lt;/color&gt;”之处，选择&lt;color=#e2bd26&gt;可以反驳&lt;/color&gt;的“线索”，&lt;color=#e2bd26&gt;上滑指证&lt;/color&gt;。" param2="" param3="type=1"/>
 <C3_jititaolun02 id="19" originalRow="19" groupSign="问题1" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_jititaolun02 id="20" originalRow="20" groupSign="" debugClose="" action="镜头切换" data="vcam1" param="" param2="" param3=""/>
 <C3_jititaolun02 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="tuling" param="我们需要整合一下现在的线索了！" param2="" param3="type=3"/>

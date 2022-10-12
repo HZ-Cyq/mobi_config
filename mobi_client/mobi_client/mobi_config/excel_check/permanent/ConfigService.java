@@ -8,6 +8,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import com.mobi.log.GameLog;
 
+/**
+ * 这个文件，mobi项目和表格解析项目不一样，因为mobi项目在解析表之后，会有一些后续的数据处理逻辑，这里不需要。
+ */
 public class ConfigService {
 
     public static boolean init(boolean check) {

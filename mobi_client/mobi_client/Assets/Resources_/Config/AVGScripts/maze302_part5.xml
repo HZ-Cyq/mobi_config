@@ -1,0 +1,13 @@
+<root>
+<maze302_part5 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_part5 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze302_part5 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<maze302_part5 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="凯瑟琳，关于你说的那个问题。也许每个人的答案都不一样吧。" param2="" param3=""/>
+<maze302_part5 id="4" originalRow="4" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_part5 id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<maze302_part5 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="也对，这也是为什么两种情绪都在这个巢里泛滥的原因吧。" param2="" param3=""/>
+<maze302_part5 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="人为组织的痕迹暂时没有发现，但巢变和情绪的关联似乎联系地更紧了。" param2="" param3=""/>
+<maze302_part5 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="巢，到底还有多少我们不知道的秘密呢？" param2="" param3=""/>
+<maze302_part5 id="9" originalRow="9" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_part5 id="10" originalRow="10" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

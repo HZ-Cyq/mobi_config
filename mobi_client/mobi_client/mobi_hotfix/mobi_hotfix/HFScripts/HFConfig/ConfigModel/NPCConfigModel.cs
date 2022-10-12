@@ -7,7 +7,7 @@
     public System.Collections.Generic.List<string> greetings;//箱庭-问候avg
     public System.Collections.Generic.List<string> scene;//对话框显示的场景名称
     public System.Collections.Generic.List<int> level;//对话框开启等级
-    public System.Collections.Generic.List<int> preQuest;//对话框开启前置主任务（完成后显示）
-    public System.Collections.Generic.List<int> postQuest;//对话框开启后置主任务（完成后消失）
+    public System.Collections.Generic.List<int> preQuest;//对话框开启前置父任务（完成后显示）
+    public System.Collections.Generic.List<int> postQuest;//对话框开启后置父任务（完成后消失）
     public System.Collections.Generic.List<System.Collections.Generic.List<string>> game_functions;//功能性(纯客户端)组对话框文本;对话框icon;功能类型Id;参数1;参数2
 }

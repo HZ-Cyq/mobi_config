@@ -30,7 +30,7 @@
 <xt_shechu_part3 id="28" originalRow="28" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_循环_01" param3=""/>
 <xt_shechu_part3 id="29" originalRow="29" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}得快点分离异质物，把感染者送去医院。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="30" originalRow="30" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_害怕_动作_循环_01" param3=""/>
-<xt_shechu_part3 id="31" originalRow="31" action="角色台词" data="lijiahu" param="{#李加虎害怕动作恢复}{#李加虎好奇表情}安静下来了？结束了么？" param2="" param3="type=0"/>
+<xt_shechu_part3 id="31" originalRow="31" action="角色台词" data="lijiahu" param="{#李加虎害怕动作恢复}{#李加虎好奇表情}安静下来了？结束了吗？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="还没有，别出来！" param2="" param3="type=0"/>
 <xt_shechu_part3 id="33" originalRow="33" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
 <xt_shechu_part3 id="34" originalRow="34" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}不，好像没关系。" param2="" param3="type=0"/>
@@ -58,7 +58,7 @@
 <xt_shechu_part3 id="56" originalRow="56" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}这个严重度，就算刚才没打起来，也撑不了多久。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="57" originalRow="57" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="聂总_思考_动作_开始_01" param3=""/>
 <xt_shechu_part3 id="58" originalRow="58" action="角色台词" data="niefei" param="{#聂飞严肃表情}喂，那边的。" param2="" param3="type=0"/>
-<xt_shechu_part3 id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="niefei" param="不是说来话长么？还等什么呢？" param2="" param3="type=0"/>
+<xt_shechu_part3 id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="niefei" param="不是说来话长吗？还等什么呢？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="60" originalRow="60" action="角色台词" data="tuling" param="{#涂凌憋气2表情}这东西什么时候出现的？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="61" originalRow="61" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_shechu_part3 id="62" originalRow="62" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_害怕_动作_循环_01" param3=""/>
@@ -103,7 +103,7 @@
 <xt_shechu_part3 id="101" originalRow="101" action="角色台词" data="tuling" param="{#涂凌思考表情}要开除他？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2待机表情}不用那么激烈，给他放一天假看看。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="103" originalRow="103" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_shechu_part3 id="104" originalRow="104" action="角色台词" data="wo" param="去叫他的主管过来，你认识么？" param2="" param3="type=0"/>
+<xt_shechu_part3 id="104" originalRow="104" action="角色台词" data="wo" param="去叫他的主管过来，你认识吗？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="105" originalRow="105" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_忧伤_动作_循环_01" param3=""/>
 <xt_shechu_part3 id="106" originalRow="106" action="角色台词" data="lijiahu" param="{#李加虎忧伤表情}我知道了。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="107" originalRow="107" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
@@ -115,7 +115,7 @@
 <xt_shechu_part3 id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤动作恢复}但是他说了这个一定能行的，只要……给他。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="114" originalRow="114" action="角色台词" data="wo" param="我来吧。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="115" originalRow="115" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_shechu_part3 id="116" originalRow="116" action="角色台词" data="" param="递过去就可以了么？" param2="" param3="type=1"/>
+<xt_shechu_part3 id="116" originalRow="116" action="角色台词" data="" param="递过去就可以了吗？" param2="" param3="type=1"/>
 <xt_shechu_part3 id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
 <xt_shechu_part3 id="118" originalRow="118" action="角色台词" data="" param="假条落在桌面，马上吸引了“花冠”的注意。" param2="" param3="type=1"/>
 <xt_shechu_part3 id="119" originalRow="119" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
@@ -136,7 +136,7 @@
 <xt_shechu_part3 id="134" originalRow="134" groupSign="" debugClose="" action="角色台词" data="tuling" param="附着体活性减弱，信号波形也安定了。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="135" originalRow="135" action="角色台词" data="" param="整个花冠都枯萎后，它像石头一样陷入静止。" param2="" param3="type=1"/>
 <xt_shechu_part3 id="136" originalRow="136" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<xt_shechu_part3 id="137" originalRow="137" action="角色台词" data="niefei" param="{#聂飞严肃表情}{#涂凌紧张动作恢复}死了么？" param2="" param3="type=0"/>
+<xt_shechu_part3 id="137" originalRow="137" action="角色台词" data="niefei" param="{#聂飞严肃表情}{#涂凌紧张动作恢复}死了吗？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}没有，更像是冻住了。" param2="" param3="type=0"/>
 <xt_shechu_part3 id="139" originalRow="139" action="角色台词" data="wo" param="趁现在——{#涂凌思考动作恢复}" param2="" param3="type=0"/>
 <xt_shechu_part3 id="140" originalRow="140" action="角色台词" data="tuling" param="{#涂凌严肃动作}{#涂凌平静表情}等等，波形在变化！" param2="" param3="type=0"/>
@@ -148,7 +148,7 @@
 <xt_shechu_part3 id="146" originalRow="146" groupSign="" debugClose="" action="RPGActor" data="obj_shechu_2d_half" param="150" param2="idle" param3=""/>
 <xt_shechu_part3 id="147" originalRow="147" action="角色台词" data="wo" param="怎么回事？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="148" originalRow="148" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_shechu_part3 id="149" originalRow="149" action="角色台词" data="niefei" param="{#聂飞严肃表情}果然不会那么顺利么。" param2="" param3="type=0"/>
+<xt_shechu_part3 id="149" originalRow="149" action="角色台词" data="niefei" param="{#聂飞严肃表情}果然不会那么顺利吗……" param2="" param3="type=0"/>
 <xt_shechu_part3 id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="wo" param="这假条有问题？" param2="" param3="type=0"/>
 <xt_shechu_part3 id="151" originalRow="151" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_害怕_动作_循环_01" param3=""/>
 <xt_shechu_part3 id="152" originalRow="152" action="角色台词" data="lijiahu" param="{#李加虎忧伤表情}别看我啊，跟我没关系啊。" param2="" param3="type=0"/>

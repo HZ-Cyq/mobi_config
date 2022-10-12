@@ -1,0 +1,21 @@
+<root>
+<maze302_boss21 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss21 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze302_boss21 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<maze302_boss21 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="前面的，就是巢主了。" param2="" param3=""/>
+<maze302_boss21 id="4" originalRow="4" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss21 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="别叫我巢主，叫我老板！哼。" param2="" param3="name=巢主"/>
+<maze302_boss21 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="这里所有的异质物都是给你打工的吗，我还以为他们能天天泡温泉呢。" param2="" param3=""/>
+<maze302_boss21 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="你这么理解也没错，他们辛苦地工作就是为了能让我天天泡温泉啊，哈哈哈哈哈。" param2="" param3="name=“老板”"/>
+<maze302_boss21 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="感觉这个巢主和杜衡好像……" param2="" param3=""/>
+<maze302_boss21 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="好了，你们是来应聘的呢，还是我今晚的加餐呢？" param2="" param3="name=“老板”"/>
+<maze302_boss21 id="10" originalRow="10" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_boss21 id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="结束" param="" param2="" param3=""/>
+<maze302_boss21 id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss21 id="13" originalRow="13" groupSign="战斗结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss21 id="14" originalRow="14" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze302_boss21 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="真想再揍几拳！拿他出出气！" param2="" param3=""/>
+<maze302_boss21 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="好了，我比较好奇的是，如果说巢是由人的负面情绪凝聚形成的，那么在这个巢里，" param2="" param3=""/>
+<maze302_boss21 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="到底努力工作的激情是负面情绪，还是想休息的心是负面情绪呢？" param2="" param3=""/>
+<maze302_boss21 id="18" originalRow="18" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

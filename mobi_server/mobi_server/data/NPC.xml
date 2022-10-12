@@ -1,111 +1,125 @@
 <root>
-<NPC id="1" key_alias="lijiahu" avg_alias="lijiahu" npc_type="0" greetings="npc_greetings|通用问候_李加虎"/>
-<NPC id="2" key_alias="duheng" avg_alias="duheng" npc_type="0" greetings="npc_greetings|通用问候_杜衡"/>
-<NPC id="3" key_alias="kaiselin02" avg_alias="kaiselin02" npc_type="0" greetings="npc_greetings|通用问候_凯瑟琳"/>
-<NPC id="4" key_alias="stskeyanrenyuan" avg_alias="stskeyanrenyuan" greetings="common_greetings|问候_普通男" game_functions="前往Room9001002;;1;9001002|打开商店界面;ui_inspector_shop;2;ui_shop/ui_shop"/>
-<NPC id="5" key_alias="dianshiniang" avg_alias="dianshiniang" greetings="common_greetings|问候_普通女" game_functions="开启debug;;2;ui_debug/ui_debug|前往Room9001001;;1;9001001"/>
-<NPC id="6" key_alias="tuling" avg_alias="tuling" greetings="common_greetings|问候_普通女"/>
-<NPC id="7" key_alias="secretshopmanager" avg_alias="npc_biaonan001" showName="流浪商贩" npc_type="1" greetings="spical_shop|问候" game_functions="打开商店(黑市)界面;ui_inspector_shop;2;ui_shop/ui_shop;1"/>
-<NPC id="8" key_alias="maze_101_1" avg_alias="char_maze101_1"/>
-<NPC id="9" key_alias="maze_101_2" avg_alias="char_maze101_2" greetings="maze101_npc72|问候"/>
-<NPC id="10" key_alias="maze_102_1" avg_alias="char_maze101_2"/>
-<NPC id="11" key_alias="maze_102_2" avg_alias="char_maze101_1"/>
-<NPC id="12" key_alias="maze_102_3" avg_alias="char_maze101_2"/>
-<NPC id="13" key_alias="maze_201_1" avg_alias="char_maze101_2"/>
-<NPC id="14" key_alias="maze_202_1" avg_alias="baixiuzhu"/>
-<NPC id="15" key_alias="maze_202_2" avg_alias="baixiuzhu"/>
-<NPC id="16" key_alias="maze_202_3" avg_alias="baixiuzhu"/>
-<NPC id="17" key_alias="maze_202_4" avg_alias="baixiuzhu"/>
-<NPC id="18" key_alias="maze_202_5" avg_alias="miermier" greetings="maze202_npc75|开始"/>
-<NPC id="19" key_alias="dingshi_dianti" avg_alias="lijiahu" npc_type="0" greetings="npc_greetings|通用问候_李加虎" game_functions="前往Room5031002;;1;5031002|前往Room5031003;;1;5031003|前往Room5031004;;1;5031004|前往Room5031007;;1;5031007"/>
-<NPC id="20" key_alias="heping_dianti" avg_alias="npc_biaonv001" greetings="common_greetings|问候_普通男" game_functions="前往Room5021005;;1;5021005|前往Room5021006;;1;5021006"/>
-<NPC id="21" key_alias="xt_kaiselin02" avg_alias="kaiselin02"/>
-<NPC id="22" key_alias="xt_tuling" avg_alias="tuling"/>
-<NPC id="23" key_alias="xt_niefei" avg_alias="niefei"/>
-<NPC id="24" key_alias="xt_yuanan" avg_alias="yuanan"/>
-<NPC id="25" key_alias="xt_duheng" avg_alias="duheng"/>
-<NPC id="26" key_alias="xt_npc_female01" avg_alias="npc_biaonv001"/>
-<NPC id="27" key_alias="xt_niefei" avg_alias="niefei" greetings="Intro_partol|巡逻问候" scene="XT_Zhaoli_elevator" level="" preQuest="" postQuest="" game_functions="开始巡逻;;2;ui_quest/ui_popup_patrol"/>
-<NPC id="28" key_alias="xt_guyue" avg_alias="guyue"/>
-<NPC id="29" key_alias="xt_tengjiang_battle" avg_alias="tengjiangwuliu"/>
-<NPC id="30" key_alias="xt_guqiu" avg_alias="guqiu"/>
-<NPC id="31" key_alias="stsqiandaoguan" avg_alias="stsqiandaoguan" greetings="spical_login|问候"/>
-<NPC id="32" key_alias="niefei" avg_alias="niefei"/>
-<NPC id="33" key_alias="xt_xiangjiniang" avg_alias="xiangjiniang"/>
-<NPC id="34" key_alias="xt_baixiuzhu" avg_alias="baixiuzhu"/>
-<NPC id="35" key_alias="xt_xiaonvhai" avg_alias="yunqing"/>
-<NPC id="36" key_alias="xt_biaozhunnan" avg_alias="nfc_90001" showName="员工" greetings="VirtualCharTest|"/>
-<NPC id="37" key_alias="xt_qizi" avg_alias="npc_biaonv001"/>
-<NPC id="38" key_alias="xt_zhangfu" avg_alias="npc_biaonan002"/>
-<NPC id="39" key_alias="xt_nanren" avg_alias="npc_biaonan001"/>
-<NPC id="40" key_alias="xt_npc_male01" avg_alias="npc_biaonan001"/>
-<NPC id="41" key_alias="xt_qizi_dianzhuang_institute" avg_alias="npc_biaonv001" greetings="xt_dianzhuang_0|进实验室问候" game_functions="前往Room5002003;;1;5002003"/>
-<NPC id="42" key_alias="xunluoniefei" avg_alias="niefei" showName="" npc_type="0" greetings="Intro_partol|巡逻问候" scene="XT_Zhaoli_elevator" level="" preQuest="" postQuest="" game_functions="开始巡逻;;2;ui_quest/ui_popup_patrol"/>
-<NPC id="43" key_alias="xt_lijiahu" avg_alias="lijiahu" npc_type="0"/>
-<NPC id="44" key_alias="xt_yuangong" avg_alias="stskeyanrenyuan"/>
-<NPC id="45" key_alias="xt_zaochashaonv" avg_alias="obj_zaochashaonv"/>
-<NPC id="46" key_alias="xt_biaozhunnv1" avg_alias="nfc_90002" showName="女1"/>
-<NPC id="47" key_alias="xt_biaozhunnv2" avg_alias="nfc_90003" showName="女2"/>
-<NPC id="48" key_alias="xt_biaozhunnv3" avg_alias="nfc_90004" showName="女3"/>
-<NPC id="49" key_alias="xt_biaozhunnv4" avg_alias="nfc_90005" showName="女4"/>
-<NPC id="50" key_alias="xt_biaozhunnv5" avg_alias="nfc_90006" showName="女5"/>
-<NPC id="51" key_alias="xt_biaozhunnv6" avg_alias="nfc_90007" showName="女6"/>
-<NPC id="52" key_alias="xt_biaozhunnv7" avg_alias="nfc_90008" showName="女7"/>
-<NPC id="53" key_alias="xt_biaozhunnv8" avg_alias="nfc_90009" showName="女8"/>
-<NPC id="54" key_alias="xt_biaozhunnv9" avg_alias="nfc_90010" showName="女9"/>
-<NPC id="55" key_alias="xt_biaozhunnv10" avg_alias="nfc_90011" showName="女10"/>
-<NPC id="56" key_alias="xt_biaozhunnv11" avg_alias="nfc_90012" showName="女11"/>
-<NPC id="57" key_alias="xt_biaozhunnv12" avg_alias="nfc_90013" showName="女12"/>
-<NPC id="58" key_alias="xt_biaozhunnv13" avg_alias="nfc_90014" showName="女13"/>
-<NPC id="59" key_alias="xt_biaozhunnv14" avg_alias="nfc_90015" showName="女14"/>
-<NPC id="60" key_alias="xt_biaozhunnv15" avg_alias="nfc_90016" showName="女15"/>
-<NPC id="61" key_alias="xt_biaozhunnv16" avg_alias="nfc_90017" showName="女16"/>
-<NPC id="62" key_alias="xt_biaozhunnv17" avg_alias="nfc_90018" showName="女17"/>
-<NPC id="63" key_alias="xt_biaozhunnv18" avg_alias="nfc_90019" showName="女18"/>
-<NPC id="64" key_alias="xt_biaozhunnv19" avg_alias="nfc_90020" showName="女19"/>
-<NPC id="65" key_alias="xt_biaozhunnv20" avg_alias="nfc_90021" showName="女20"/>
-<NPC id="66" key_alias="xt_biaozhunnan2" avg_alias="nfc_90022" showName="员工2"/>
-<NPC id="67" key_alias="xt_biaozhunnan3" avg_alias="nfc_90023" showName="员工3"/>
-<NPC id="68" key_alias="xt_biaozhunnan4" avg_alias="nfc_90024" showName="员工4"/>
-<NPC id="69" key_alias="xt_biaozhunnan5" avg_alias="nfc_90025" showName="员工5"/>
-<NPC id="70" key_alias="xt_biaozhunnan6" avg_alias="nfc_90026" showName="员工6"/>
-<NPC id="71" key_alias="xt_biaozhunnan7" avg_alias="nfc_90027" showName="员工7"/>
-<NPC id="72" key_alias="xt_biaozhunnan8" avg_alias="nfc_90028" showName="员工8"/>
-<NPC id="73" key_alias="xt_biaozhunnan9" avg_alias="nfc_90029" showName="员工9"/>
-<NPC id="74" key_alias="xt_biaozhunnan10" avg_alias="nfc_90030" showName="员工10"/>
-<NPC id="75" key_alias="xt_biaozhunnan11" avg_alias="nfc_90031" showName="员工11"/>
-<NPC id="76" key_alias="xt_biaozhunnan12" avg_alias="nfc_90032" showName="员工12"/>
-<NPC id="77" key_alias="xt_biaozhunnan13" avg_alias="nfc_90033" showName="员工13"/>
-<NPC id="78" key_alias="xt_biaozhunnan14" avg_alias="nfc_90034" showName="员工14"/>
-<NPC id="79" key_alias="xt_biaozhunnan15" avg_alias="nfc_90035" showName="员工15"/>
-<NPC id="80" key_alias="xt_biaozhunnan16" avg_alias="nfc_90036" showName="员工16"/>
-<NPC id="81" key_alias="xt_biaozhunnan17" avg_alias="nfc_90037" showName="员工17"/>
-<NPC id="82" key_alias="xt_biaozhunnan18" avg_alias="nfc_90038" showName="员工18"/>
-<NPC id="83" key_alias="xt_biaozhunnan19" avg_alias="nfc_90039" showName="员工19"/>
-<NPC id="84" key_alias="xt_biaozhunnan20" avg_alias="nfc_90040" showName="员工20"/>
-<NPC id="1001" key_alias="obj_luzhang_battle" avg_alias="obj_luzhang" npc_type="2"/>
-<NPC id="1002" key_alias="obj_dianshiniang" avg_alias="obj_dianshiniang" npc_type="2"/>
-<NPC id="1003" key_alias="obj_upan" avg_alias="obj_upan" npc_type="2"/>
-<NPC id="1004" key_alias="obj_blankclick" avg_alias="obj_blankclick" npc_type="2"/>
-<NPC id="1005" key_alias="obj_find3_1" avg_alias="obj_find3_1" npc_type="2"/>
-<NPC id="1006" key_alias="obj_find3_2" avg_alias="obj_find3_2" npc_type="2"/>
-<NPC id="1007" key_alias="obj_find3_3" avg_alias="obj_find3_3" npc_type="2"/>
-<NPC id="1008" key_alias="obj_find1_1" avg_alias="obj_find1_1" npc_type="2"/>
-<NPC id="1009" key_alias="obj_find1_2" avg_alias="obj_find1_2" npc_type="2"/>
-<NPC id="1010" key_alias="obj_find1_3" avg_alias="obj_find1_3" npc_type="2"/>
-<NPC id="1011" key_alias="obj_zhiming_battle" avg_alias="obj_zhimingyongbao" npc_type="2"/>
-<NPC id="1012" key_alias="obj_leidaniang" avg_alias="obj_leidaniang" npc_type="2"/>
-<NPC id="1013" key_alias="obj_closed_box" avg_alias="obj_closed_box" npc_type="2"/>
-<NPC id="1014" key_alias="obj_findkey_1" avg_alias="obj_findkey_1" npc_type="2"/>
-<NPC id="1015" key_alias="obj_findkey_2" avg_alias="obj_findkey_2" npc_type="2"/>
-<NPC id="1016" key_alias="obj_findkey_3" avg_alias="obj_findkey_3" npc_type="2"/>
-<NPC id="1017" key_alias="obj_dianshiji" avg_alias="obj_sidedianshiji" npc_type="2"/>
-<NPC id="1018" key_alias="xt_dianzhuang_battle" avg_alias="obj_dianzhuangshaonv" npc_type="2"/>
-<NPC id="1019" key_alias="obj_shechu_2d_half" avg_alias="obj_shechu_2d_half" npc_type="2"/>
-<NPC id="1020" key_alias="obj_baoreyinfu" avg_alias="obj_baoreyinfu" npc_type="2"/>
-<NPC id="1021" key_alias="obj_renxingtuya" avg_alias="obj_renxingtuya" npc_type="2"/>
-<NPC id="1023" key_alias="obj_chaobopin667" avg_alias="obj_chaobopin667" npc_type="2"/>
-<NPC id="1024" key_alias="obj_xinghongruqin" avg_alias="obj_xinghongruqin" npc_type="2"/>
-<NPC id="1025" key_alias="obj_zhongguiwange" avg_alias="obj_zhongguiwange" npc_type="2"/>
-<NPC id="1026" key_alias="obj_qiqiushangfan" avg_alias="obj_qiqiushangfan" npc_type="2"/>
+<NPC id="0" key_alias="lijiahu" avg_alias="lijiahu" npc_type="0" greetings="npc_greetings|通用问候_李加虎"/>
+<NPC id="1" key_alias="duheng" avg_alias="duheng" npc_type="0" greetings="npc_greetings|通用问候_杜衡"/>
+<NPC id="2" key_alias="kaiselin02" avg_alias="kaiselin02" npc_type="0" greetings="npc_greetings|通用问候_凯瑟琳"/>
+<NPC id="3" key_alias="stskeyanrenyuan" avg_alias="stskeyanrenyuan" greetings="common_greetings|问候_普通男" game_functions="前往Room9001002;;1;9001002|打开商店界面;ui_inspector_shop;2;ui_shop/ui_shop"/>
+<NPC id="4" key_alias="dianshiniang" avg_alias="dianshiniang" greetings="common_greetings|问候_普通女" game_functions="开启debug;;2;ui_debug/ui_debug|前往Room9001001;;1;9001001"/>
+<NPC id="5" key_alias="tuling" avg_alias="tuling" greetings="common_greetings|问候_普通女"/>
+<NPC id="6" key_alias="secretshopmanager" avg_alias="npc_biaonan001" showName="流浪商贩" npc_type="1" greetings="spical_shop|问候" preQuest="1115" game_functions="打开商店(黑市)界面;ui_inspector_shop;2;ui_shop/ui_shop;1"/>
+<NPC id="7" key_alias="maze_101_1" avg_alias="char_maze101_1"/>
+<NPC id="8" key_alias="maze_101_2" avg_alias="char_maze101_2" greetings="maze101_npc72|问候"/>
+<NPC id="9" key_alias="maze_102_1" avg_alias="char_maze101_2"/>
+<NPC id="10" key_alias="maze_102_2" avg_alias="char_maze101_1"/>
+<NPC id="11" key_alias="maze_102_3" avg_alias="char_maze101_2"/>
+<NPC id="12" key_alias="maze_201_1" avg_alias="char_maze101_2"/>
+<NPC id="13" key_alias="maze_202_1" avg_alias="obj_maze_button"/>
+<NPC id="14" key_alias="maze_202_2" avg_alias="obj_maze_button"/>
+<NPC id="15" key_alias="maze_202_3" avg_alias="obj_maze_button"/>
+<NPC id="16" key_alias="maze_202_4" avg_alias="obj_maze_button"/>
+<NPC id="17" key_alias="maze_202_5" avg_alias="obj_maze_button" greetings="maze202_npc75|开始"/>
+<NPC id="18" key_alias="dingshi_dianti" avg_alias="lijiahu" npc_type="0" greetings="npc_greetings|通用问候_李加虎" game_functions="前往Room5031002;;1;5031002|前往Room5031003;;1;5031003|前往Room5031004;;1;5031004|前往Room5031007;;1;5031007"/>
+<NPC id="19" key_alias="heping_dianti" avg_alias="npc_biaonv001" greetings="common_greetings|问候_普通男" game_functions="前往Room5021005;;1;5021005|前往Room5021006;;1;5021006"/>
+<NPC id="20" key_alias="xt_kaiselin02" avg_alias="kaiselin02"/>
+<NPC id="21" key_alias="xt_tuling" avg_alias="tuling"/>
+<NPC id="22" key_alias="xt_yuanan" avg_alias="yuanan"/>
+<NPC id="23" key_alias="xt_duheng" avg_alias="duheng"/>
+<NPC id="24" key_alias="xt_npc_female01" avg_alias="npc_biaonv001"/>
+<NPC id="25" key_alias="xt_niefei" avg_alias="niefei" greetings="Intro_partol|巡逻问候" scene="XT_Zhaoli_elevator" level="" preQuest="" postQuest="" game_functions="开始巡逻;;2;ui_quest/ui_popup_patrol"/>
+<NPC id="26" key_alias="xt_guyue" avg_alias="guyue"/>
+<NPC id="27" key_alias="xt_guqiu" avg_alias="guqiu"/>
+<NPC id="28" key_alias="stsqiandaoguan" avg_alias="stsqiandaoguan" greetings="spical_login|问候"/>
+<NPC id="29" key_alias="niefei" avg_alias="niefei"/>
+<NPC id="30" key_alias="xt_xiangjiniang" avg_alias="xiangjiniang"/>
+<NPC id="31" key_alias="xt_baixiuzhu" avg_alias="baixiuzhu"/>
+<NPC id="32" key_alias="xt_xiaonvhai" avg_alias="yunqing"/>
+<NPC id="33" key_alias="xt_biaozhunnan" avg_alias="nfc_90001" showName="员工" greetings="VirtualCharTest|"/>
+<NPC id="34" key_alias="xt_qizi" avg_alias="npc_biaonv001"/>
+<NPC id="35" key_alias="xt_zhangfu" avg_alias="npc_biaonan002"/>
+<NPC id="36" key_alias="xt_nanren" avg_alias="npc_biaonan001"/>
+<NPC id="37" key_alias="xt_npc_male01" avg_alias="npc_biaonan001"/>
+<NPC id="38" key_alias="xt_qizi_dianzhuang_institute" avg_alias="npc_biaonv001" greetings="xt_dianzhuang_0|进实验室问候" game_functions="前往Room5002003;;1;5002003"/>
+<NPC id="39" key_alias="xt_lijiahu" avg_alias="lijiahu" npc_type="0" greetings="xt_shechu_wenhou|问候"/>
+<NPC id="40" key_alias="xt_yuangong" avg_alias="stskeyanrenyuan"/>
+<NPC id="41" key_alias="xt_biaozhunnv1" avg_alias="nfc_90002" showName="女1"/>
+<NPC id="42" key_alias="xt_biaozhunnv2" avg_alias="nfc_90003" showName="女2"/>
+<NPC id="43" key_alias="xt_biaozhunnv3" avg_alias="nfc_90004" showName="女3"/>
+<NPC id="44" key_alias="xt_biaozhunnv4" avg_alias="nfc_90005" showName="女4"/>
+<NPC id="45" key_alias="xt_biaozhunnv5" avg_alias="nfc_90006" showName="女5"/>
+<NPC id="46" key_alias="xt_biaozhunnv6" avg_alias="nfc_90007" showName="女6"/>
+<NPC id="47" key_alias="xt_biaozhunnv7" avg_alias="nfc_90008" showName="女7"/>
+<NPC id="48" key_alias="xt_biaozhunnv8" avg_alias="nfc_90009" showName="女8"/>
+<NPC id="49" key_alias="xt_biaozhunnv9" avg_alias="nfc_90010" showName="女9"/>
+<NPC id="50" key_alias="xt_biaozhunnv10" avg_alias="nfc_90011" showName="女10"/>
+<NPC id="51" key_alias="xt_biaozhunnv11" avg_alias="nfc_90012" showName="女11"/>
+<NPC id="52" key_alias="xt_biaozhunnv12" avg_alias="nfc_90013" showName="女12"/>
+<NPC id="53" key_alias="xt_biaozhunnv13" avg_alias="nfc_90014" showName="女13"/>
+<NPC id="54" key_alias="xt_biaozhunnv14" avg_alias="nfc_90015" showName="女14"/>
+<NPC id="55" key_alias="xt_biaozhunnv15" avg_alias="nfc_90016" showName="女15"/>
+<NPC id="56" key_alias="xt_biaozhunnv16" avg_alias="nfc_90017" showName="女16"/>
+<NPC id="57" key_alias="xt_biaozhunnv17" avg_alias="nfc_90018" showName="女17"/>
+<NPC id="58" key_alias="xt_biaozhunnv18" avg_alias="nfc_90019" showName="女18"/>
+<NPC id="59" key_alias="xt_biaozhunnv19" avg_alias="nfc_90020" showName="女19"/>
+<NPC id="60" key_alias="xt_biaozhunnv20" avg_alias="nfc_90021" showName="女20"/>
+<NPC id="61" key_alias="xt_biaozhunnan2" avg_alias="nfc_90022" showName="员工2"/>
+<NPC id="62" key_alias="xt_biaozhunnan3" avg_alias="nfc_90023" showName="员工3"/>
+<NPC id="63" key_alias="xt_biaozhunnan4" avg_alias="nfc_90024" showName="员工4"/>
+<NPC id="64" key_alias="xt_biaozhunnan5" avg_alias="nfc_90025" showName="员工5"/>
+<NPC id="65" key_alias="xt_biaozhunnan6" avg_alias="nfc_90026" showName="员工6"/>
+<NPC id="66" key_alias="xt_biaozhunnan7" avg_alias="nfc_90027" showName="员工7"/>
+<NPC id="67" key_alias="xt_biaozhunnan8" avg_alias="nfc_90028" showName="员工8"/>
+<NPC id="68" key_alias="xt_biaozhunnan9" avg_alias="nfc_90029" showName="员工9"/>
+<NPC id="69" key_alias="xt_biaozhunnan10" avg_alias="nfc_90030" showName="员工10"/>
+<NPC id="70" key_alias="xt_biaozhunnan11" avg_alias="nfc_90031" showName="员工11"/>
+<NPC id="71" key_alias="xt_biaozhunnan12" avg_alias="nfc_90032" showName="员工12"/>
+<NPC id="72" key_alias="xt_biaozhunnan13" avg_alias="nfc_90033" showName="员工13"/>
+<NPC id="73" key_alias="xt_biaozhunnan14" avg_alias="nfc_90034" showName="员工14"/>
+<NPC id="74" key_alias="xt_biaozhunnan15" avg_alias="nfc_90035" showName="员工15"/>
+<NPC id="75" key_alias="xt_biaozhunnan16" avg_alias="nfc_90036" showName="员工16"/>
+<NPC id="76" key_alias="xt_biaozhunnan17" avg_alias="nfc_90037" showName="员工17"/>
+<NPC id="77" key_alias="xt_biaozhunnan18" avg_alias="nfc_90038" showName="员工18"/>
+<NPC id="78" key_alias="xt_biaozhunnan19" avg_alias="nfc_90039" showName="员工19"/>
+<NPC id="79" key_alias="xt_biaozhunnan20" avg_alias="nfc_90040" showName="员工20"/>
+<NPC id="80" key_alias="xt_yanjingnan" avg_alias="npc_biaonan001" showName="眼镜男" greetings="xt_mizui_wenhou|通用问候"/>
+<NPC id="81" key_alias="xt_weisuonan" avg_alias="nfc_90024" showName="猥琐男" greetings="xt_mizui_wenhou|通用问候"/>
+<NPC id="82" key_alias="maze_301_1" avg_alias="nfc_90039" showName="顾客1"/>
+<NPC id="83" key_alias="maze_301_2" avg_alias="nfc_90020" showName="顾客2"/>
+<NPC id="84" key_alias="maze_301_3" avg_alias="nfc_90040" showName="顾客3"/>
+<NPC id="85" key_alias="maze_302_1" avg_alias="nfc_90039" showName="顾客4"/>
+<NPC id="86" key_alias="maze_302_2" avg_alias="nfc_90038" showName="顾客5"/>
+<NPC id="87" key_alias="maze_302_3" avg_alias="nfc_90019" showName="顾客6"/>
+<NPC id="88" key_alias="maze_302_5" avg_alias="nfc_90018" showName="顾客7"/>
+<NPC id="1000" key_alias="obj_luzhang_anim" avg_alias="obj_luzhang_anim" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1001" key_alias="obj_dianshiniang" avg_alias="obj_dianshiniang" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1002" key_alias="obj_upan" avg_alias="obj_upan" npc_type="2"/>
+<NPC id="1003" key_alias="obj_blankclick" avg_alias="obj_blankclick" npc_type="2"/>
+<NPC id="1004" key_alias="obj_find3_1" avg_alias="obj_find3_1" npc_type="2"/>
+<NPC id="1005" key_alias="obj_find3_2" avg_alias="obj_find3_2" npc_type="2"/>
+<NPC id="1006" key_alias="obj_find3_3" avg_alias="obj_find3_3" npc_type="2"/>
+<NPC id="1007" key_alias="obj_find1_1" avg_alias="obj_find1_1" npc_type="2"/>
+<NPC id="1008" key_alias="obj_find1_2" avg_alias="obj_find1_2" npc_type="2"/>
+<NPC id="1009" key_alias="obj_find1_3" avg_alias="obj_find1_3" npc_type="2"/>
+<NPC id="1010" key_alias="obj_zhiming_battle" avg_alias="obj_zhimingyongbao" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1011" key_alias="obj_leidaniang" avg_alias="obj_leidaniang" npc_type="2"/>
+<NPC id="1012" key_alias="obj_closed_box" avg_alias="obj_closed_box" npc_type="2"/>
+<NPC id="1013" key_alias="obj_findkey_1" avg_alias="obj_findkey_1" npc_type="2"/>
+<NPC id="1014" key_alias="obj_findkey_2" avg_alias="obj_findkey_2" npc_type="2"/>
+<NPC id="1015" key_alias="obj_findkey_3" avg_alias="obj_findkey_3" npc_type="2"/>
+<NPC id="1016" key_alias="obj_dianshiji" avg_alias="obj_sidedianshiji" npc_type="2"/>
+<NPC id="1017" key_alias="xt_dianzhuang_battle" avg_alias="obj_dianzhuangshaonv" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1018" key_alias="obj_shechu_2d_half" avg_alias="obj_shechu_2d_half" npc_type="2"/>
+<NPC id="1019" key_alias="obj_baoreyinfu" avg_alias="obj_baoreyinfu" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1020" key_alias="obj_renxingtuya" avg_alias="obj_renxingtuya" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1021" key_alias="obj_chaobopin667" avg_alias="obj_chaobopin667" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1022" key_alias="obj_xinghongruqin" avg_alias="obj_xinghongruqin" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1023" key_alias="obj_zhongguiwange" avg_alias="obj_zhongguiwange" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1024" key_alias="obj_qiqiushangfan" avg_alias="obj_qiqiushangfan" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1025" key_alias="xt_zaochashaonv" avg_alias="obj_zaochashaonv" npc_type="2"/>
+<NPC id="1026" key_alias="obj_luzhang_battle" avg_alias="obj_luzhang" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1027" key_alias="obj_blankclick_qiqiu" avg_alias="obj_blankclick_qiqiu" npc_type="2"/>
+<NPC id="1028" key_alias="obj_trash_box" avg_alias="obj_trash_box" npc_type="2"/>
+<NPC id="1029" key_alias="obj_mizuijinchao" avg_alias="obj_mizuijinchao" npc_type="2" greetings="xt_mizui_wenhou|迷醉金钞问候1"/>
+<NPC id="1030" key_alias="obj_mizuijinchao_fight" avg_alias="obj_mizuijinchao" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1031" key_alias="obj_saicheniang" avg_alias="obj_saicheniang" npc_type="2" icon_name="ui_inspector_fight"/>
+<NPC id="1032" key_alias="obj_saicheniang_talk" avg_alias="obj_saicheniang" npc_type="2" icon_name="ui_inspector_talk"/>
+<NPC id="1033" key_alias="xt_tengjiang_battle" avg_alias="obj_tengjiangwuliu" npc_type="2" icon_name="ui_inspector_fight"/>
 </root>

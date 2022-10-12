@@ -1,0 +1,103 @@
+<root>
+<xt_mizui_part1 id="0" originalRow="0" groupSign="开始"/>
+<xt_mizui_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_mizui_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="nfc_90022" param="pos=中" param2="" param3="type=0"/>
+<xt_mizui_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="nfc_90022" param="喂喂喂喂喂喂！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="事态紧急，麻醉就省掉吧。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="对不起打扰了。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="啊，你来的正好，我们正在急救，来帮我按住他。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="nfc_90022" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="nfc_90022" param="太近了！锯片！锯片太近了！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="怎么看都是活体解剖现场！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="16" originalRow="16" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="17" originalRow="17" debugClose="" action="角色台词" data="kaiselin02" param="怎么会？这是四小时前来的重要嫌疑人。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="18" originalRow="18" debugClose="" action="角色台词" data="kaiselin02" param="不但不说话，还趁我们不注意把异质物吞下去了。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="现在是误食异质物的急救时间。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳掀起嫌疑人的衣服，在腹部擦上酒精。" param2="" param3="type=1"/>
+<xt_mizui_part1 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="要切开胃袋还是造一个胃瘘管呢？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="tuling" param="这个人昨天往银行存了他年收入七十倍的巨款。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="tuling" param="触发了风控，警方介入发现他私藏异质物。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="tuling" param="外形是枚徽章，没有活性，别的还没来得及检查。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="wo" param="七十倍年收入的巨款……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="27" originalRow="27" action="可选对话框" data="" param="$$那也难怪...==&gt;选A
+$$那也不至于...==&gt;选B" param2="" param3=""/>
+<xt_mizui_part1 id="28" originalRow="28" groupSign="选A" action="" data="" param="" param2="" param3=""/>
+<xt_mizui_part1 id="29" originalRow="29" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="30" originalRow="30" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="31" originalRow="31" action="角色台词" data="niefei" param="你这什么表情？羡慕嫉妒恨？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="32" originalRow="32" action="角色台词" data="niefei" param="STS成员靠异质物牟利可是渎职罪，别做梦了。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="33" originalRow="33" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="34" originalRow="34" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="35" originalRow="35" action="角色台词" data="niefei" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="36" originalRow="36" action="角色台词" data="niefei" param="这又是什么表情？想让我给你支招找空子钻么？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="37" originalRow="37" action="角色台词" data="niefei" param="醒醒吧！要是有空子可钻老子早卷款而逃了。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="38" originalRow="38" action="角色台词" data="wo" param="真是了不得的自曝。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="39" originalRow="39" action="跳转-标签" data="" param="继续剧情" param2="" param3=""/>
+<xt_mizui_part1 id="40" originalRow="40" param2="" param3=""/>
+<xt_mizui_part1 id="41" originalRow="41" groupSign="选B" param2="" param3=""/>
+<xt_mizui_part1 id="42" originalRow="42" action="角色台词" data="wo" param="真傻。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="43" originalRow="43" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="44" originalRow="44" action="角色台词" data="tuling" param="哦？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="45" originalRow="45" action="角色台词" data="wo" param="怎么？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="46" originalRow="46" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="47" originalRow="47" action="角色台词" data="tuling" param="男性常会把经济关系优位错视成权利关系优位。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="48" originalRow="48" action="角色台词" data="tuling" param="有钱就是哥，全世界男性都在玩这种角色扮演。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="49" originalRow="49" action="角色台词" data="tuling" param="你这种不进入角色的可是要被排挤的哦。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="50" originalRow="50" action="角色台词" data="wo" param="太夸张了……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="51" originalRow="51" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="52" originalRow="52" groupSign="" action="角色台词" data="tuling" param="理智得不像个男人，你身份证让我检查下。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="53" originalRow="53" action="角色台词" data="wo" param="到底是夸我还是骂我？！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="54" originalRow="54" action="跳转-标签" data="" param="继续剧情"/>
+<xt_mizui_part1 id="55" originalRow="55"/>
+<xt_mizui_part1 id="56" originalRow="56" groupSign="继续剧情"/>
+<xt_mizui_part1 id="57" originalRow="57" action="设置角色" data="nfc_90022" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="58" originalRow="58" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<xt_mizui_part1 id="59" originalRow="59" action="角色台词" data="kaiselin02" param="你不会以为抵抗就能阻止急救吧？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="60" originalRow="60" action="角色台词" data="kaiselin02" param="我可以打晕你，从食管切到胃袋，80秒就够。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="61" originalRow="61" action="角色台词" data="kaiselin02" param="这么粗暴的手术，以后吃饭会感觉像咽玻璃渣呢。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="62" originalRow="62" action="角色台词" data="nfc_90022" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="63" originalRow="63" action="角色台词" data="kaiselin02" param="周易，按住手。蠢猫，脚。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="64" originalRow="64" action="角色台词" data="nfc_90022" param="噫！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="65" originalRow="65" action="角色台词" data="nfc_90022" param="停，停！我说，那地方叫黄金迷夜！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="66" originalRow="66" action="角色台词" data="kaiselin02" param="没头没尾的好像很难懂？手术完了再说吧。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="67" originalRow="67" action="角色台词" data="nfc_90022" param="住手……需要徽章，入口！入口在天江壹号！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="68" originalRow="68" action="角色台词" data="nfc_90022" param="徽章就是门票！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="69" originalRow="69" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part1 id="70" originalRow="70" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="71" originalRow="71" action="角色台词" data="tuling" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="72" originalRow="72" action="角色台词" data="wo" param="想到什么了？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="73" originalRow="73" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="74" originalRow="74" action="角色台词" data="tuling" param="天江壹号的秘密赌场，最近传得很玄。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="75" originalRow="75" action="设置角色" data="nfc_90022" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="76" originalRow="76" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<xt_mizui_part1 id="77" originalRow="77" action="角色台词" data="kaiselin02" param="{#凯瑟琳微笑}这和钱有什么关系？你在里面陪酒？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="78" originalRow="78" action="角色台词" data="nfc_90022" param="是赢来的，那边有不得了的赌局，那天我手气好。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="79" originalRow="79" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="80" originalRow="80" action="角色台词" data="niefei" param="怎么个不得了法？" param2="" param3="type=0"/>
+<xt_mizui_part1 id="81" originalRow="81" action="角色台词" data="nfc_90022" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="82" originalRow="82" action="角色台词" data="nfc_90022" param="输掉的话，会死。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="83" originalRow="83" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part1 id="84" originalRow="84" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="85" originalRow="85" action="角色台词" data="kaiselin02" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="86" originalRow="86" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="87" originalRow="87" action="角色台词" data="tuling" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="88" originalRow="88" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="89" originalRow="89" action="角色台词" data="niefei" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="90" originalRow="90" action="角色台词" data="wo" param="去看看吧。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="91" originalRow="91" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="92" originalRow="92" action="角色台词" data="kaiselin02" param="不是要门票么，稍等我30秒。" param2="" param3="type=0"/>
+<xt_mizui_part1 id="93" originalRow="93" action="设置角色" data="nfc_90022" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="94" originalRow="94" action="角色台词" data="nfc_90022" param="诶？嗯？30秒……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="95" originalRow="95" action="角色台词" data="nfc_90022" param="不要，算了吧，让我自己拉出来吧！" param2="" param3="type=0"/>
+<xt_mizui_part1 id="96" originalRow="96" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_mizui_part1 id="97" originalRow="97" action="角色台词" data="kaiselin02" param="……" param2="" param3="type=0"/>
+<xt_mizui_part1 id="98" originalRow="98" action="角色台词" data="" param="顺利从嫌疑人处获得了徽章……" param2="" param3="type=1"/>
+<xt_mizui_part1 id="99" originalRow="99" groupSign="结束"/>
+</root>

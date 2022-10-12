@@ -1,6 +1,7 @@
 ﻿public class GachaScheduleConfigModel : ConfigSystem.ConfigModel {
     public string name;//名称
     public string background;//背景图
+    public string banner;//banner图
     public int type;//卡池类型
     public System.Collections.Generic.List<System.Collections.Generic.List<int>> requirement;//存在条件(类型 0-等级/1-抽取次数/2-完成任务：0-大于等于/1-小于等于：数值/任务ID）
     public System.Collections.Generic.List<int> inside;//卡池内容显示

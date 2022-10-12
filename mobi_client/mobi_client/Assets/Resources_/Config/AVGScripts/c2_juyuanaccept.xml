@@ -19,7 +19,7 @@
 <C2_juyuanaccept id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_严肃_动作_开始_01" param3=""/>
 <C2_juyuanaccept id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张表情}听、听我们解释！" param2="" param3="type=0"/>
 <C2_juyuanaccept id="19" originalRow="19" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C2_juyuanaccept id="20" originalRow="20" groupSign="" debugClose="" action="打开插画" data="C2_protect" param="" param2="" param3=""/>
+<C2_juyuanaccept id="20" originalRow="20" groupSign="" debugClose="" action="打开插画" data="blackbgimg" param="" param2="" param3=""/>
 <C2_juyuanaccept id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="" param="我们几个团团将土山奥围住护在身后，聂飞找不到空隙，直接跳到了土山头上。" param2="" param3="type=1"/>
 <C2_juyuanaccept id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="tushanao" param="你们……" param2="" param3="type=1"/>
 <C2_juyuanaccept id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="tuling" param="不管！我们不能让他们杀掉你！" param2="" param3="type=0"/>

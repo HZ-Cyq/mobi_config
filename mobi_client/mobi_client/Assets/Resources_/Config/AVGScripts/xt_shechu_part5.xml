@@ -4,7 +4,7 @@
 <xt_shechu_part5 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_不屑_动作_开始_01" param3=""/>
 <xt_shechu_part5 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{music=bgm_disccusion2}{#李加虎害怕表情}累死了！" param2="" param3="type=0"/>
 <xt_shechu_part5 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_shechu_part5 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="好了，这就是全部。" param2="" param3="type=0"/>
+<xt_shechu_part5 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="好，我来看一下...." param2="" param3="type=0"/>
 <xt_shechu_part5 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}能对上时间点的都列在这里，再经过筛选……" param2="" param3="type=0"/>
 <xt_shechu_part5 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <xt_shechu_part5 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}就只剩这几条了？" param2="" param3="type=0"/>
@@ -73,7 +73,7 @@ $$竞争的压力==&gt;选C" param2="" param3=""/>
 <xt_shechu_part5 id="69" originalRow="69" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="李加虎_思考_动作_开始_01" param3=""/>
 <xt_shechu_part5 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="然后6点过它又开花了。" param2="" param3="type=0"/>
 <xt_shechu_part5 id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎思考表情}这时候，有同事私聊过感染者。" param2="" param3="type=0"/>
-<xt_shechu_part5 id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="“买到了上次那种三明治，要带么？”" param2="" param3="type=0"/>
+<xt_shechu_part5 id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="“买到了上次那种三明治，要带吗？”" param2="" param3="type=0"/>
 <xt_shechu_part5 id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎思考表情恢复}{#李加虎思考动作恢复}是这么说的。" param2="" param3="type=0"/>
 <xt_shechu_part5 id="74" originalRow="74" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_shechu_part5 id="75" originalRow="75" groupSign="" debugClose="" action="语法-数值" data="ri_时间节点2=1" param="" param2="" param3=""/>

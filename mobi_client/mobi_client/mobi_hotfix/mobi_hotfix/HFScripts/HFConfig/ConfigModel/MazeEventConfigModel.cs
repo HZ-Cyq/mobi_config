@@ -11,6 +11,7 @@
     public System.Collections.Generic.List<float> touch_icon_postion;//交互图标偏移
     public System.Collections.Generic.List<float> postion;//坐标
     public System.Collections.Generic.List<float> rotation;//朝向
+    public System.Collections.Generic.List<float> touch_icon_scale;//交互图标大小
     public System.Collections.Generic.List<int> preEvent;//前置事件id
     public System.Collections.Generic.List<string> avgName;//触发时avg
     public System.Collections.Generic.List<string> loseAvg;//失败avg

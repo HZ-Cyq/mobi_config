@@ -1,0 +1,41 @@
+<root>
+<maze301_npc73 id="0" originalRow="0" groupSign="开始"/>
+<maze301_npc73 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<maze301_npc73 id="2" originalRow="2"/>
+<maze301_npc73 id="3" originalRow="3" action="角色台词" data="wo" param="迷路的勇者哟，你们也是来寻找传说中的巨龙宝藏的吗？" param3="name=爱做梦的人"/>
+<maze301_npc73 id="4" originalRow="4" action="设置角色" data="niefei" param="pos=中"/>
+<maze301_npc73 id="5" originalRow="5" action="角色台词" data="niefei" param="巨龙宝藏？你在说什么？这里不是巢变的豪华酒店吗？"/>
+<maze301_npc73 id="6" originalRow="6"/>
+<maze301_npc73 id="7" originalRow="7" action="角色台词" data="wo" param="哎呀呀呀，守口如瓶的我又说漏嘴了吗，可恶可恶。" param3="name=爱做梦的人"/>
+<maze301_npc73 id="8" originalRow="8" action="设置角色" data="kaiselin02" param="pos=左"/>
+<maze301_npc73 id="9" originalRow="9" action="角色台词" data="kaiselin02" param="说详细点，什么宝藏？"/>
+<maze301_npc73 id="10" originalRow="10" action="角色台词" data="wo" param="我可不能说出来那是传说沉睡之巨龙埋藏在这间酒店里的传奇宝藏啊！" param3="name=爱做梦的人"/>
+<maze301_npc73 id="11" originalRow="11" action="角色台词" data="wo" param="只有不争不抢不闻不问，以一颗平常心来寻宝才能找到的巨龙宝藏。" param3="name=爱做梦的人"/>
+<maze301_npc73 id="12" originalRow="12"/>
+<maze301_npc73 id="13" originalRow="13" action="角色台词" data="niefei" param="还有这么神奇的事吗？唉，又想到我的休假了。"/>
+<maze301_npc73 id="14" originalRow="14" action="角色台词" data="wo" param="鄙人又说漏嘴了，可恶！既然如此……诸位勇者可以帮我找到我的同伴吗？我们三人本来是一起来寻宝的。" param3="name=爱做梦的人"/>
+<maze301_npc73 id="15" originalRow="15" action="角色台词" data="wo" param="可是他们却找到一半去泡温泉了！一点紧张感都没有，可恶！" param3="name=爱做梦的人"/>
+<maze301_npc73 id="16" originalRow="16"/>
+<maze301_npc73 id="17" originalRow="17" action="角色台词" data="kaiselin02" param="按你刚刚的说法，你这样子反而会找不到吧……"/>
+<maze301_npc73 id="18" originalRow="18" action="角色台词" data="wo" param="所以，鄙人现在只能尽量不去想宝藏的事，只能安静地呆在此地不要走动。拜托你们去帮鄙人寻得同伴吧！"/>
+<maze301_npc73 id="19" originalRow="19" action="跳转-标签" data="" param="结束"/>
+<maze301_npc73 id="20" originalRow="20" data="" param=""/>
+<maze301_npc73 id="21" originalRow="21" data=""/>
+<maze301_npc73 id="22" originalRow="22" groupSign="找到2"/>
+<maze301_npc73 id="23" originalRow="23" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<maze301_npc73 id="24" originalRow="24"/>
+<maze301_npc73 id="25" originalRow="25" action="角色台词" data="wo" param="啊对对对，我是和同伴来找宝藏的。那种事情，再说啦，让我再休息一会，再一小会儿就好了。不要打扰我。" param3="name=爱偷懒的人"/>
+<maze301_npc73 id="26" originalRow="26" action="跳转-标签" data="" param="结束"/>
+<maze301_npc73 id="27" originalRow="27"/>
+<maze301_npc73 id="28" originalRow="28" groupSign="找到3"/>
+<maze301_npc73 id="29" originalRow="29" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<maze301_npc73 id="30" originalRow="30"/>
+<maze301_npc73 id="31" originalRow="31" action="角色台词" data="wo" param="谁要理他们啊！有宝藏的话当然是自己独吞啊。我已经得到了最可靠的情报！" param3="name=自私的人"/>
+<maze301_npc73 id="32" originalRow="32" action="角色台词" data="wo" param="巨龙宝藏就在下一层，而我一定会是三个人里最先去到下一层的，" param3="name=自私的人"/>
+<maze301_npc73 id="33" originalRow="33" action="角色台词" data="wo" param="啊哈哈哈哈哈哈！至于他们的死活我才不管呢！" param3="name=自私的人"/>
+<maze301_npc73 id="34" originalRow="34" action="跳转-标签" data="" param="结束"/>
+<maze301_npc73 id="35" originalRow="35"/>
+<maze301_npc73 id="36" originalRow="36"/>
+<maze301_npc73 id="37" originalRow="37"/>
+<maze301_npc73 id="38" originalRow="38" groupSign="结束"/>
+</root>

@@ -81,8 +81,8 @@
 <C1_elevator id="71" originalRow="71" groupSign="" debugClose="" action="RPGActor" data="怪物2" param="2" param2="" param3=""/>
 <C1_elevator id="72" originalRow="72" groupSign="" debugClose="" action="播放音乐" data="bgm_trapped" param="" param2="" param3=""/>
 <C1_elevator id="73" originalRow="73" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<C1_elevator id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="指挥得还挺像模像样的嘛~" param2="013指挥得还挺像模像样的嘛~" param3=""/>
-<C1_elevator id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="看来对异质物和超感者能力的搭配运用，你已经得心应手了。" param2="014看来对异质物和超感者能力的搭配运用，你已经得心应手了" param3=""/>
+<C1_elevator id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="指挥得还挺像模像样的嘛~" param2="01_01KSL指挥得还" param3=""/>
+<C1_elevator id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="看来对异质物和超感者能力的搭配运用，你已经得心应手了。" param2="01_02KSL看来对异" param3=""/>
 <C1_elevator id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="duheng" param="凯瑟琳，电梯还可以正常使用吗？" param2="73D凯瑟琳" param3="type=4,ctype=2"/>
 <C1_elevator id="77" originalRow="77" groupSign="" debugClose="" action="" data="" param="" param2="凯瑟琳_紧张_动作_开始_01" param3=""/>
 <C1_elevator id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}没问题，功能一切正常。现在前往B3层。" param2="65K没问题" param3=""/>

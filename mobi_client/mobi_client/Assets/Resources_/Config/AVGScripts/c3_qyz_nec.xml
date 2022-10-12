@@ -241,7 +241,7 @@
 <C3_QYZ_NEC id="233" originalRow="233" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
 <C3_QYZ_NEC id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞严肃表情}这么说，漆异之是知道女朋友的死有内情！" param2="" param3="type=0"/>
 <C3_QYZ_NEC id="235" originalRow="235" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C3_QYZ_NEC id="236" originalRow="236" groupSign="" debugClose="" action="打开插画" data="C3_RProject" param="FALSE" param2="" param3="offy=0.15"/>
+<C3_QYZ_NEC id="236" originalRow="236" groupSign="" debugClose="" action="打开插画" data="C3_RProject" param="FALSE" param2="" param3=""/>
 <C3_QYZ_NEC id="237" originalRow="237" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="238" originalRow="238" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_R计划材料=1" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="239" originalRow="239" groupSign="" debugClose="" action="跳转-标签" data="" param="UP调查结束" param2="" param3=""/>
@@ -267,7 +267,7 @@
 <C3_QYZ_NEC id="259" originalRow="259" groupSign="" debugClose="" action="角色台词" data="wo" param="所以邱染参加测试的时机是非常不妥的。" param2="" param3="type=0"/>
 <C3_QYZ_NEC id="260" originalRow="260" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="261" originalRow="261" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_邱染最后的邮件=1" param="" param2="" param3=""/>
-<C3_QYZ_NEC id="262" originalRow="262" groupSign="" debugClose="" action="打开插画" data="C3_TouHuanTuZhi" param="FALSE" param2="" param3="offy=0.15"/>
+<C3_QYZ_NEC id="262" originalRow="262" groupSign="" debugClose="" action="打开插画" data="C3_TouHuanTuZhi" param="FALSE" param2="" param3=""/>
 <C3_QYZ_NEC id="263" originalRow="263" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="264" originalRow="264" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_头环图纸=1" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="265" originalRow="265" groupSign="" debugClose="" action="跳转-标签" data="" param="UP调查结束" param2="" param3=""/>
@@ -378,7 +378,7 @@ $$遥控车遥控器==&gt;灵光4
 <C3_QYZ_NEC id="365" originalRow="365" groupSign="" debugClose="" action="角色台词" data="wo" param="所以，要再看一次监控。" param2="" param3="type=0"/>
 <C3_QYZ_NEC id="366" originalRow="366" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="367" originalRow="367" groupSign="" debugClose="1" action="角色台词" data="" param="3.5软盘来历台词" param2="" param3=""/>
-<C3_QYZ_NEC id="368" originalRow="368" groupSign="" debugClose="" action="打开插画" data="C3_RProject" param="" param2="" param3="offy=0.15"/>
+<C3_QYZ_NEC id="368" originalRow="368" groupSign="" debugClose="" action="打开插画" data="C3_RProject" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="369" originalRow="369" groupSign="" debugClose="" action="关闭插画" data="" param="FALSE" param2="" param3=""/>
 <C3_QYZ_NEC id="370" originalRow="370" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_异质物收容记录=1" param="" param2="" param3=""/>
 <C3_QYZ_NEC id="371" originalRow="371" groupSign="" debugClose="" action="RPGActor" data="UI_QYZOffice_Pic" param="1" param2="" param3=""/>

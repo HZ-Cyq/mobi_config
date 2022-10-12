@@ -1,0 +1,42 @@
+<root>
+<chat_duheng_0 id="0" originalRow="0" groupSign="工作汇报"/>
+<chat_duheng_0 id="1" originalRow="1" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="工作还适应么。"/>
+<chat_duheng_0 id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" data="" param="$$已经完全上手了==&gt;完全上手
+$$还有很多事不懂==&gt;不懂" param2="" param3=""/>
+<chat_duheng_0 id="3" originalRow="3" groupSign="" debugClose="" param="" param3=""/>
+<chat_duheng_0 id="4" originalRow="4" groupSign="完全上手" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="已经完全上手了！" param2="" param3=""/>
+<chat_duheng_0 id="6" originalRow="6" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="哦？真是不错。" param2="" param3=""/>
+<chat_duheng_0 id="7" originalRow="7" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="看来马上可以委派更多任务给你。" param2="" param3=""/>
+<chat_duheng_0 id="8" originalRow="8" groupSign="" debugClose="" action="可选对话框" data="" param="$$不不不已经很饱和了谢谢博士！==&gt;饱和" param2="" param3=""/>
+<chat_duheng_0 id="9" originalRow="9" groupSign="饱和" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="不不不已经很饱和了谢谢博士！" param2="" param3=""/>
+<chat_duheng_0 id="11" originalRow="11" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="呵呵呵，不懂的东西可以多问其他几个人。" param2="" param3=""/>
+<chat_duheng_0 id="12" originalRow="12" groupSign="" debugClose="" action="跳转-标签" param="分支结束" param2="" param3=""/>
+<chat_duheng_0 id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="14" originalRow="14" groupSign="不懂" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="15" originalRow="15" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="不懂的东西可以跟其他人多交流。" param2="" param3=""/>
+<chat_duheng_0 id="16" originalRow="16" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="我这边还有好多工作要指望你呢。" param2="" param3=""/>
+<chat_duheng_0 id="17" originalRow="17" groupSign="" debugClose="" action="可选对话框" data="" param="$$……谢谢博士看重==&gt;谢谢" param2="" param3=""/>
+<chat_duheng_0 id="18" originalRow="18" groupSign="谢谢" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="……谢谢博士看重。" param2="" param3=""/>
+<chat_duheng_0 id="20" originalRow="20" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2="" param3=""/>
+<chat_duheng_0 id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="22" originalRow="22" groupSign="分支结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="23" originalRow="23" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="之后你的工作直接汇报给我就可以。" param2="" param3=""/>
+<chat_duheng_0 id="24" originalRow="24" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="要好好承担队长的重任哟。" param2="" param3=""/>
+<chat_duheng_0 id="25" originalRow="25" groupSign="" debugClose="" action="可选对话框" data="" param="$$我还是没适应突然就变成了队长。==&gt;队长" param2="" param3=""/>
+<chat_duheng_0 id="26" originalRow="26" groupSign="队长" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="我还是没适应突然就变成了队长。" param2="" param3=""/>
+<chat_duheng_0 id="28" originalRow="28" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="少年死而复生后觉醒了特殊的超能力，然后被委以重任。" param2="" param3=""/>
+<chat_duheng_0 id="29" originalRow="29" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="最近大热的番剧不都是这样的套路吗？" param2="" param3=""/>
+<chat_duheng_0 id="30" originalRow="30" groupSign="" debugClose="" action="可选对话框" data="" param="$$杜博士你为什么这么懂！==&gt;这么懂" param2="" param3=""/>
+<chat_duheng_0 id="31" originalRow="31" groupSign="这么懂" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="！！杜博士你为什么这么懂！" param2="" param3=""/>
+<chat_duheng_0 id="33" originalRow="33" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="怎么，你觉得我是个活在上世纪的老古板？" param2="" param3=""/>
+<chat_duheng_0 id="34" originalRow="34" groupSign="" debugClose="" action="可选对话框" data="" param="$$也没有啦。==&gt;也没" param2="" param3=""/>
+<chat_duheng_0 id="35" originalRow="35" groupSign="也没" debugClose="" action="" data="" param="" param2="" param3=""/>
+<chat_duheng_0 id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="wo" param="也没有啦。" param2="" param3=""/>
+<chat_duheng_0 id="37" originalRow="37" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="最好没有。" param2="" param3=""/>
+<chat_duheng_0 id="38" originalRow="38" groupSign="结束" debugClose="" param="" param3=""/>
+</root>

@@ -15,7 +15,7 @@
 <C2_overoffice id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="duheng" param="这会就休息，不去见见你们劫后余生的朋友吗？" param2="" param3="type=0"/>
 <C2_overoffice id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_overoffice id="15" originalRow="15" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="1" param2="" param3=""/>
-<C2_overoffice id="16" originalRow="16" groupSign="" debugClose="" action="打开特效板" data="" param="大厅11" param2="" param3=""/>
+<C2_overoffice id="16" originalRow="16" groupSign="" debugClose="" action="打开特效板" data="" param="STS大厅电梯间" param2="" param3=""/>
 <C2_overoffice id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="" param="我们一行人在杜博士的带领下来到了封存室。" param2="" param3="type=1"/>
 <C2_overoffice id="18" originalRow="18" groupSign="1&gt;&gt;" debugClose="" action="设置角色" data="tushanao" param="pos=中" param2="" param3="TRUE;TRUE;FALSE"/>
 <C2_overoffice id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="只见杜博士用信号端调取了2-855的房间。土山奥从里面走了出来。" param2="" param3="type=1"/>

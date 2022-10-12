@@ -157,13 +157,12 @@ $$到此为止==&gt;到此为止" param2="" param3=""/>
 <xt_hug_8 id="153" originalRow="153" groupSign="" debugClose="" action="设置角色" data="wenwen" param="pos=中" param2="" param3=""/>
 <xt_hug_8 id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="wenwen" param="谢谢……一直……陪着我。" param2="" param3="type=0"/>
 <xt_hug_8 id="155" originalRow="155" groupSign="" debugClose="" action="角色台词" data="wenwen" param="我们……还会见面。一天，一个月，一年，十年五十年，我们都会在一起的！我不要和你分开！" param2="" param3="type=0"/>
-<xt_hug_8 id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="" param="说完这句话，雯雯放声哭了出来，白秀竹想要上去抱住她，却看到雯雯手中抓住的玩偶微微动了一下。" param2="" param3="type=1"/>
-<xt_hug_8 id="157" originalRow="157" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_8 id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="" param="用小小的身体，给了雯雯一个大大的拥抱。" param2="" param3="type=1"/>
-<xt_hug_8 id="159" originalRow="159" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_hug_8 id="160" originalRow="160" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_8 id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="" param="说完这句话，雯雯放声哭了出来，白秀竹想要抱住她，却看到雯雯手中抓住的玩偶微微动了一下。" param2="" param3="type=1"/>
+<xt_hug_8 id="157" originalRow="157" groupSign="" debugClose="" action="角色台词" data="" param="用小小的身体，给了雯雯一个大大的拥抱。" param2="" param3="type=1"/>
+<xt_hug_8 id="158" originalRow="158" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_hug_8 id="159" originalRow="159" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_hug_8 id="160" originalRow="160" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_8 id="161" originalRow="161" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_8 id="162" originalRow="162" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_8 id="163" originalRow="163" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_8 id="164" originalRow="164" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

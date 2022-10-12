@@ -3,9 +3,9 @@
 <xt_hug_5 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <xt_hug_5 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="抓住了聂飞这个救命稻草……" param2="" param3=""/>
 <xt_hug_5 id="3" originalRow="3" groupSign="聂飞对话" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_hug_5 id="4" originalRow="4" groupSign="" debugClose="" action="可选对话框" data="" param="$$“玩偶就是异质物。”==&gt;说玩偶
-$$“不要靠近那个孩子！” ==&gt;说孩子
-$$盯着聂飞不吭声 ==&gt;不吭声" param2="" param3=""/>
+<xt_hug_5 id="4" originalRow="4" groupSign="" debugClose="" action="可选对话框" data="" param="$$盯着聂飞不吭声 ==&gt;不吭声
+$$“玩偶就是异质物。”==&gt;说玩偶
+$$“不要靠近那个孩子！” ==&gt;说孩子" param2="" param3=""/>
 <xt_hug_5 id="5" originalRow="5" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_5 id="6" originalRow="6" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_hug_5 id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>

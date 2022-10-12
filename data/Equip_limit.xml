@@ -1,7 +1,0 @@
-<root>
-<Equip_limit id="1" level="1" gold="5000" reback_item_info="200011;5"/>
-<Equip_limit id="2" level="2" gold="10000" reback_item_info="200012;1"/>
-<Equip_limit id="3" level="3" gold="20000" reback_item_info="200011;5|200012;1"/>
-<Equip_limit id="4" level="4" gold="50000" reback_item_info="200012;2"/>
-<Equip_limit id="5" level="5" gold="100000" reback_item_info="200011;5|200012;2"/>
-</root>

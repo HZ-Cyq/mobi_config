@@ -5,8 +5,9 @@
 <xt_saiche_3_solo id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="在涂凌确认混沌质富集焦点就是司机后，我们也自然先入为主的下了判断……" param2="" param3=""/>
 <xt_saiche_3_solo id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="如果是另一种可能呢？" param2="" param3=""/>
 <xt_saiche_3_solo id="5" originalRow="5" groupSign="" debugClose="" action="语法-数值" data="ri_报案人在说谎=1" param="" param2="" param3=""/>
-<xt_saiche_3_solo id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_saiche_3_solo id="7" originalRow="7" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_saiche_3_solo id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_3_solo id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="再让涂凌确认一下混沌质富集焦点吧。" param2="" param3=""/>
+<xt_saiche_3_solo id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_saiche_3_solo id="8" originalRow="8" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_saiche_3_solo id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_saiche_3_solo id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

@@ -1,0 +1,12 @@
+<root>
+<maze302_boss22 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss22 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze302_boss22 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze302_boss22 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="难道你就是，沉睡的巨龙？一点都不像啊！" param2="" param3=""/>
+<maze302_boss22 id="4" originalRow="4" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_boss22 id="5" originalRow="5" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss22 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="听不懂你在说些什么，我是财务处的，别打扰我算账，不然我找你们算账！" param2="" param3=""/>
+<maze302_boss22 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="好冷。" param2="" param3=""/>
+<maze302_boss22 id="8" originalRow="8" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_boss22 id="9" originalRow="9" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

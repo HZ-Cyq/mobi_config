@@ -237,7 +237,7 @@ $$冰酒的特殊身份==&gt;线索错误" param2="" param3=""/>
 <C2_mirror id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="wo" param="她手上戴的那副泛着金属般淡蓝色光晕的手套。{music=off}" param2="" param3="type=0"/>
 <C2_mirror id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="wo" param="能被编入纺织物中，隔绝异质物影响、泛着淡蓝色光晕的金属。" param2="" param3="type=0"/>
 <C2_mirror id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="……心灵遮断合金？！" param2="" param3="type=0"/>
-<C2_mirror id="234" originalRow="234" groupSign="" debugClose="" action="服务器行为" data="21001" param="" param2="" param3=""/>
+<C2_mirror id="234" originalRow="234" groupSign="" debugClose="1" action="服务器行为" data="21001" param="" param2="" param3=""/>
 <C2_mirror id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="wo" param="我猜这就是为什么昨天刚见面时，冰酒刻意避开了和凯瑟琳的握手，并迅速主导了那场对话──" param2="" param3="type=0"/>
 <C2_mirror id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="wo" param="她当时回避和你握手，可能是怕你有通过接触对方身体触发的某种未知能力。" param2="" param3="type=0"/>
 <C2_mirror id="237" originalRow="237" groupSign="" debugClose="" action="角色台词" data="wo" param="如果那种能力突然失效，她手套的秘密就暴露了。" param2="" param3="type=0"/>
@@ -267,7 +267,7 @@ $$冰酒的特殊身份==&gt;线索错误" param2="" param3=""/>
 <C2_mirror id="261" originalRow="261" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
 <C2_mirror id="262" originalRow="262" groupSign="" debugClose="" action="角色台词" data="tushanao" param="这么说，{shake=1}{#土山奥待机2动作}我记起来，有一次我们一起执行任务的时候，冰酒负伤了。" param2="" param3="type=0"/>
 <C2_mirror id="263" originalRow="263" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C2_mirror id="264" originalRow="264" groupSign="" debugClose="" action="打开插画" data="C2_bingjiu_stamp" param="FALSE" param2="" param3=""/>
+<C2_mirror id="264" originalRow="264" groupSign="" debugClose="" action="打开插画" data="C2_bingjiu_stamp" param="" param2="" param3=""/>
 <C2_mirror id="265" originalRow="265" groupSign="" debugClose="" action="角色台词" data="tushanao" param="我在给她包扎伤口的时候，在她后背上看到一个奇怪的符号。" param2="" param3="type=0"/>
 <C2_mirror id="266" originalRow="266" groupSign="" debugClose="" action="角色台词" data="tushanao" param="有点像一个眼睛，下面有一些三角形。" param2="" param3="type=0"/>
 <C2_mirror id="267" originalRow="267" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么？眼睛？" param2="" param3="type=0"/>

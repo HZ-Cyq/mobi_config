@@ -14,7 +14,7 @@
 聂总向左，凯瑟琳和涂凌向右，率先冲出房间。" param2="" param3="type=1"/>
 <C1_cloister_ex id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="" param="他们都让视线尽量避开电视的位置，
 专心应付可能出现在自己那一侧的敌人。" param2="" param3="type=1"/>
-<C1_cloister_ex id="13" originalRow="13" groupSign="" debugClose="1" action="打开插画" data="c1_404room" param="" param2="" param3="offy=0.15"/>
+<C1_cloister_ex id="13" originalRow="13" groupSign="" debugClose="1" action="打开插画" data="c1_404room" param="" param2="" param3=""/>
 <C1_cloister_ex id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="" param="我不顾两侧的杂音，
 睁开眼睛紧盯着门上的显示屏幕──" param2="" param3="type=1"/>
 <C1_cloister_ex id="15" originalRow="15" groupSign="" debugClose="1" action="打开插画" data="C0_dance_03" param="" param2="" param3=""/>
@@ -100,13 +100,13 @@ $$先回答聂飞==&gt;回答聂飞" param2="" param3=""/>
 那么对应房间号应该是──" param2="146K你刚才说" param3=""/>
 <C1_cloister_ex id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="wo" param="25-0405。" param2="" param3=""/>
 <C1_cloister_ex id="86" originalRow="86" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_紧张_动作_开始_01" param3=""/>
-<C1_cloister_ex id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪红震slash}等、等下！{#凯瑟琳2严肃动作恢复}{#凯瑟琳2待机表情}" param2="046等、等下" param3=""/>
-<C1_cloister_ex id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="tuling" param="链式数据……异质物反应高度聚合，是{shake=1}{#凯瑟琳2惊讶动作}{#凯瑟琳2惊讶表情}『巢』！{1.5}" param2="047链式数据……异质物反应高度聚合，是『巢』" param3=""/>
-<C1_cloister_ex id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}{#凯瑟琳2严肃表情}又把自己藏得深了一些，不想被我们找到呢。" param2="048又把自己藏得深了一些，不想被我们找到呢" param3=""/>
-<C1_cloister_ex id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#闪白ding}终于进入『巢』的核心区域了！" param2="049终于进入『巢』的核心区域了吗" param3=""/>
+<C1_cloister_ex id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪红震slash}等、等下！{#凯瑟琳2严肃动作恢复}{#凯瑟琳2待机表情}" param2="01_02TL等、等下" param3=""/>
+<C1_cloister_ex id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="tuling" param="链式数据……异质物反应高度聚合，是{shake=1}{#凯瑟琳2惊讶动作}{#凯瑟琳2惊讶表情}『巢』！{1.5}" param2="01_05TL链式数据" param3=""/>
+<C1_cloister_ex id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}{#凯瑟琳2严肃表情}又把自己藏得深了一些，不想被我们找到呢。" param2="01_04KSL又把自己" param3=""/>
+<C1_cloister_ex id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#闪白ding}终于进入『巢』的核心区域了！" param2="01_04KSL终于进入" param3=""/>
 <C1_cloister_ex id="91" originalRow="91" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<C1_cloister_ex id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}这个破电视机给我们惹了这么大的麻烦。" param2="050这个破电视机给我们惹了这么大的麻烦" param3=""/>
-<C1_cloister_ex id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震punch}老子要亲手把它揪出来！" param2="051老子要亲手把它揪出来" param3=""/>
+<C1_cloister_ex id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}这个破电视机给我们惹了这么大的麻烦。" param2="01_05NF这个破电" param3=""/>
+<C1_cloister_ex id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震punch}老子要亲手把它揪出来！" param2="01_05NF老子要亲" param3=""/>
 <C1_cloister_ex id="94" originalRow="94" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_cloister_ex id="95" originalRow="95" groupSign="" debugClose="" action="RPGActor" data="camtest22" param="1" param2="" param3=""/>
 <C1_cloister_ex id="96" originalRow="96" groupSign="" debugClose="" action="RPGActor" data="camtest8" param="2" param2="" param3=""/>
@@ -247,17 +247,17 @@ $$先回答聂飞==&gt;回答聂飞" param2="" param3=""/>
 <C1_cloister_ex id="228" originalRow="228" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="2" param2="" param3=""/>
 <C1_cloister_ex id="229" originalRow="229" groupSign="" debugClose="" action="角色台词" data="" param="当我们回过神，周围已经变成了普通酒店走廊的样子。" param2="" param3=""/>
 <C1_cloister_ex id="230" originalRow="230" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<C1_cloister_ex id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌紧张表情}差、差点以为要死掉了。" param2="052差、差点以为要死掉了" param3=""/>
+<C1_cloister_ex id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌紧张表情}差、差点以为要死掉了。" param2="01_05TL差、差点" param3=""/>
 <C1_cloister_ex id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="wo" param="天啊！这就是3级异质物的恐怖吗？" param2="" param3=""/>
 <C1_cloister_ex id="233" originalRow="233" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<C1_cloister_ex id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}我们以前还干掉过更恐怖的唷~" param2="053我们以前还干掉过更恐怖的哟" param3=""/>
+<C1_cloister_ex id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}我们以前还干掉过更恐怖的唷~" param2="01_05KSL我们以前" param3=""/>
 <C1_cloister_ex id="235" originalRow="235" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<C1_cloister_ex id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞得意表情}这次有你加入其实还算轻松啦。" param2="054这次有你加入其实还算轻松啦" param3=""/>
+<C1_cloister_ex id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞得意表情}这次有你加入其实还算轻松啦。" param2="01_05NF这次有你" param3=""/>
 <C1_cloister_ex id="237" originalRow="237" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（不敢想象……）&lt;/z&gt;" param2="" param3=""/>
 <C1_cloister_ex id="238" originalRow="238" groupSign="" debugClose="" action="角色台词" data="wo" param="确定没问题了？" param2="" param3=""/>
 <C1_cloister_ex id="239" originalRow="239" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
-<C1_cloister_ex id="240" originalRow="240" groupSign="" debugClose="" action="角色台词" data="tuling" param="毕竟你已经用{#涂凌点赞动作}{#涂凌开心表情}『律之钥』重新封存了404。" param2="055毕竟你已经用『律之钥』重新封存了404" param3=""/>
-<C1_cloister_ex id="241" originalRow="241" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}随着『巢主』的消失，{#涂凌休闲动作}整个空间扭曲现象也没有啦。" param2="056随着『巢主』的消失，整个空间扭曲现象也没有啦" param3=""/>
+<C1_cloister_ex id="240" originalRow="240" groupSign="" debugClose="" action="角色台词" data="tuling" param="毕竟你已经用{#涂凌点赞动作}{#涂凌开心表情}『律之钥』重新封存了404。" param2="01_05TL毕竟你已" param3=""/>
+<C1_cloister_ex id="241" originalRow="241" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}随着『巢主』的消失，{#涂凌休闲动作}整个空间扭曲现象也没有啦。" param2="01_05TL随着『巢" param3=""/>
 <C1_cloister_ex id="242" originalRow="242" groupSign="" debugClose="" action="角色台词" data="wo" param="原来STS的收容室正常状态下长这样啊。" param2="" param3=""/>
 <C1_cloister_ex id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}不正常的时候也不少，以后总有机会再见的。{1.5}{#凯瑟琳2得意表情}{#凯瑟琳2思考动作恢复}" param2="150K不正常" param3=""/>
 <C1_cloister_ex id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="wo" param="{shake=1}最好不用！" param2="" param3=""/>
@@ -299,7 +299,7 @@ $$先回答聂飞==&gt;回答聂飞" param2="" param3=""/>
 <C1_cloister_ex id="275" originalRow="275" groupSign="" debugClose="1" action="RPGActor" data="主要背景" param="1" param2="" param3=""/>
 <C1_cloister_ex id="276" originalRow="276" groupSign="" debugClose="1" action="RPGActor" data="收容场景" param="2" param2="" param3=""/>
 <C1_cloister_ex id="277" originalRow="277" groupSign="" debugClose="1" action="特殊-闪白效果" data="0" param="2" param2="" param3=""/>
-<C1_cloister_ex id="278" originalRow="278" groupSign="1" debugClose="1" action="打开插画" data="C1_Key_2_404" param="FALSE" param2="" param3="offy=0.15;"/>
+<C1_cloister_ex id="278" originalRow="278" groupSign="1" debugClose="1" action="打开插画" data="C1_Key_2_404" param="FALSE" param2="" param3=""/>
 <C1_cloister_ex id="279" originalRow="279" groupSign="" debugClose="1" action="角色台词" data="" param="我看着手上那把老式酒店的房门钥匙，在显示房间号的挂牌上赫然写着──『2-404』。" param2="" param3=""/>
 <C1_cloister_ex id="280" originalRow="280" groupSign="1" debugClose="1" action="关闭插画" data="" param="" param2="" param3=""/>
 <C1_cloister_ex id="281" originalRow="281" groupSign="" debugClose="1" action="语法-数值" data="ri_第一章_空白钥匙=0" param="" param2="" param3=""/>

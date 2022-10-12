@@ -1,0 +1,46 @@
+<root>
+<chat_tushanao_2 id="0" originalRow="0" groupSign="冰酒的下落"/>
+<chat_tushanao_2 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="关于冰酒的下落……你有什么头绪吗？"/>
+<chat_tushanao_2 id="2" originalRow="2" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="我跟杜衡查过她所有的住址。"/>
+<chat_tushanao_2 id="3" originalRow="3" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="包括每次执行任务的秘密联络点。"/>
+<chat_tushanao_2 id="4" originalRow="4" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="她都没有去过。"/>
+<chat_tushanao_2 id="5" originalRow="5" groupSign="" debugClose="" action="可选对话框" data="" param="$$直接消失了啊。==&gt;消失"/>
+<chat_tushanao_2 id="6" originalRow="6" groupSign="消失" debugClose="" action="" data="" param=""/>
+<chat_tushanao_2 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="直接消失了啊。"/>
+<chat_tushanao_2 id="8" originalRow="8" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="我们猜她现在已经不在国内，甚至不在联合议会能触及的国家里。"/>
+<chat_tushanao_2 id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" data="" param="$$她这么厉害吗？==&gt;厉害
+$$她为什么要陷害你？==&gt;陷害" param2=""/>
+<chat_tushanao_2 id="10" originalRow="10" groupSign="厉害" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="她这么厉害吗？" param2=""/>
+<chat_tushanao_2 id="12" originalRow="12" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="你知道里科赛罗战役最后的反水事件吗？"/>
+<chat_tushanao_2 id="13" originalRow="13" groupSign="" debugClose="" action="可选对话框" data="" param="$$看过报道……是结束异质物战争的关键一战。==&gt;看过" param2=""/>
+<chat_tushanao_2 id="14" originalRow="14" groupSign="看过" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="看过报道……是结束异质物战争的关键一战。" param2=""/>
+<chat_tushanao_2 id="16" originalRow="16" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="策反的统筹者就是冰酒。"/>
+<chat_tushanao_2 id="17" originalRow="17" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="一战成名，联邦军埋藏最深的卧底之一。" param2=""/>
+<chat_tushanao_2 id="18" originalRow="18" groupSign="" debugClose="" action="可选对话框" data="" param="$$真的很厉害啊！==&gt;好家伙" param2=""/>
+<chat_tushanao_2 id="19" originalRow="19" groupSign="好家伙" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="真的很厉害啊！" param2=""/>
+<chat_tushanao_2 id="21" originalRow="21" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2=""/>
+<chat_tushanao_2 id="22" originalRow="22" groupSign="陷害" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="她为什么要陷害你？"/>
+<chat_tushanao_2 id="24" originalRow="24" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="没有别的棋子可以用了。"/>
+<chat_tushanao_2 id="25" originalRow="25" groupSign="1.5&gt;&gt;" action="角色台词" data="tushanao" param="大概。" param2=""/>
+<chat_tushanao_2 id="26" originalRow="26" groupSign="" debugClose="" action="可选对话框" data="" param="$$你恨她吗？==&gt;恨" param2=""/>
+<chat_tushanao_2 id="27" originalRow="27" groupSign="恨" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="你恨她吗？"/>
+<chat_tushanao_2 id="29" originalRow="29" groupSign="2&gt;&gt;" action="角色台词" data="tushanao" param="我只是需要时间接受我从来没有了解过她这个事实。" param2=""/>
+<chat_tushanao_2 id="30" originalRow="30" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2=""/>
+<chat_tushanao_2 id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="32" originalRow="32" groupSign="分支结束" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="33" originalRow="33" groupSign="" debugClose="" action="可选对话框" data="" param="$$这么看来冰酒是一个谍中谍啊！==&gt;碟中谍" param2=""/>
+<chat_tushanao_2 id="34" originalRow="34" groupSign="碟中谍" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="wo" param="这么看来冰酒是一个谍中谍啊！" param2=""/>
+<chat_tushanao_2 id="36" originalRow="36" groupSign="1.5&gt;&gt;" action="角色台词" data="wo" param="背后那个组织太神秘了，有什么可查的资料吗？" param2=""/>
+<chat_tushanao_2 id="37" originalRow="37" groupSign="2&gt;&gt;" action="角色台词" data="tushanao" param="暂时没有。" param2=""/>
+<chat_tushanao_2 id="38" originalRow="38" groupSign="" debugClose="" action="可选对话框" data="" param="$$好吧==&gt;好吧" param2=""/>
+<chat_tushanao_2 id="39" originalRow="39" groupSign="碟中谍" debugClose="" action="" data="" param="" param2=""/>
+<chat_tushanao_2 id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="wo" param="好吧！" param2=""/>
+<chat_tushanao_2 id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param=""/>
+<chat_tushanao_2 id="42" originalRow="42" groupSign="结束" debugClose="" action="" data="" param=""/>
+</root>

@@ -1,5 +1,5 @@
 <root>
-<GachaSchedule id="1" name="异质探测" background="banner/gacha/normal" type="2" requirement="1;1;10" inside="104|106|109|111|116|102|105|112|115|119|121|101|103|108|118" costOne="3|200" amountType="10" group_count="2" ticket="201000" dailyLimit="100" prizeReward=""/>
-<GachaSchedule id="2" name="新人探测" background="banner/gacha/first" type="1" requirement="1;1;30" inside="104|106|109|116|102|105|112|115|119|121|101|103|108|118" costOne="3|120" amountType="10" group_count="1" dailyLimit="100" prizeReward=""/>
-<GachaSchedule id="3" name="异质探测" background="banner/gacha/normal" type="2" inside="104|106|109|111|116|102|105|112|115|119|121|101|103|108|118" costOne="3|200" amountType="1|10" group_count="2" ticket="201000" dailyLimit="100" prizeReward=""/>
+<GachaSchedule id="1" name="异质探测" background="banner/gacha/normal" banner="banner/gacha/ui_extractcard_card1" type="2" requirement="1;1;10" inside="104|109|116|117|124|102|105|107|110|112|115|119|120|121|123|128|101|103|108|113|118|125" costOne="3|200" amountType="1|10" group_count="1" ticket="201000" dailyLimit="100" prizeReward=""/>
+<GachaSchedule id="2" name="新人探测" background="banner/gacha/first" banner="banner/gacha/ui_extractcard_card2" type="1" requirement="1;1;30" inside="104|109|116|117|124|102|105|107|110|112|115|119|120|121|123|128|101|103|108|113|118|125" costOne="3|120" amountType="10" group_count="1" dailyLimit="100" prizeReward=""/>
+<GachaSchedule id="3" name="异质探测" background="banner/gacha/normal" banner="banner/gacha/ui_extractcard_card1" type="2" requirement="2;0;1" inside="104|106|109|111|114|116|117|124|126|102|105|107|110|112|115|119|120|121|123|128|101|103|108|113|118|125" costOne="3|200" amountType="1|10" group_count="2" ticket="201000" dailyLimit="100" prizeReward=""/>
 </root>

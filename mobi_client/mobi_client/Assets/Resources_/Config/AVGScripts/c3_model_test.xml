@@ -35,8 +35,12 @@
 <C3_model_test id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="今天天气真好结束3。" param2="" param3=""/>
 <C3_model_test id="34" originalRow="34" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_model_test id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="" param="角色表演结束" param2="" param3="type=0"/>
-<C3_model_test id="36" originalRow="36" groupSign="" debugClose="1" action="RPGGoL3" data="31112" param="FALSE" param2="" param3=""/>
-<C3_model_test id="37" originalRow="37" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_model_test id="36" originalRow="36" groupSign="" debugClose="" action="RPGActor" data="UI_PartyPhoto" param="1" param2="" param3=""/>
+<C3_model_test id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_model_test id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C3_model_test id="39" originalRow="39" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_model_test id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_model_test id="40" originalRow="40" groupSign="" debugClose="1" action="RPGGoL3" data="31112" param="FALSE" param2="" param3=""/>
+<C3_model_test id="41" originalRow="41" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_model_test id="42" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C3_model_test id="43" originalRow="43" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

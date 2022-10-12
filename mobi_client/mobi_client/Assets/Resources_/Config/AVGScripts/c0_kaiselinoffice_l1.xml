@@ -3,7 +3,7 @@
 <C0_kaiselinoffice_L1 id="1" originalRow="1" groupSign="病历" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="3" originalRow="3" groupSign="2" debugClose="" action="RPGActor" data="cam_bed" param="1" param2="" param3=""/>
-<C0_kaiselinoffice_L1 id="4" originalRow="4" groupSign="1" debugClose="" action="打开插画" data="C0_MedicalRecord" param="FALSE" param2="" param3="offy=0.2"/>
+<C0_kaiselinoffice_L1 id="4" originalRow="4" groupSign="1" debugClose="" action="打开插画" data="C0_MedicalRecord" param="FALSE" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="" param="尸检报告：男，20-25岁" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="死因：因为缺氧导致呼吸中枢急速衰竭。" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="PS：这种状况一般都是在飞机失事时，人没有带吸氧面罩而出现的情况。" param2="" param3=""/>
@@ -19,7 +19,7 @@
 <C0_kaiselinoffice_L1 id="17" originalRow="17" groupSign="047报告1" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="18" originalRow="18" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="这是一份关于某个研究的报告。" param2="" param3=""/>
-<C0_kaiselinoffice_L1 id="20" originalRow="20" groupSign="1" debugClose="" action="打开插画" data="C0_SCP047Daily" param="FALSE" param2="" param3="offy=0.2"/>
+<C0_kaiselinoffice_L1 id="20" originalRow="20" groupSign="1" debugClose="" action="打开插画" data="C0_SCP047Daily" param="FALSE" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="" param="实验编号：047311" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="" param="项目名称：无限免疫修复人偶" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="" param="实验报告：047已经在我的手术台上躺了一个多月了。" param2="" param3=""/>
@@ -235,7 +235,7 @@ $$可以了，去做别的吧==&gt;镜子表情结束" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="226" originalRow="226" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="227" originalRow="227" groupSign="凯瑟琳的日记" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="228" originalRow="228" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<C0_kaiselinoffice_L1 id="229" originalRow="229" groupSign="1" debugClose="" action="打开插画" data="C0_KaiselinNote" param="FALSE" param2="" param3="offy=0.2"/>
+<C0_kaiselinoffice_L1 id="229" originalRow="229" groupSign="1" debugClose="" action="打开插画" data="C0_KaiselinNote" param="FALSE" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="230" originalRow="230" groupSign="" debugClose="" action="角色台词" data="" param="X月X日 天气：阴" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="" param="今天我的员工卡落在办公室，导致医疗部的门打不开了，最后找涂绫那丫头过来帮我破解的密码。" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="" param="为了封口，我还特意把这个月的零食份额让给她了。" param2="" param3=""/>
@@ -252,7 +252,7 @@ $$可以了，去做别的吧==&gt;镜子表情结束" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="243" originalRow="243" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="244" originalRow="244" groupSign="404报告" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="245" originalRow="245" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<C0_kaiselinoffice_L1 id="246" originalRow="246" groupSign="1" debugClose="" action="打开插画" data="C0_SCP404" param="FALSE" param2="" param3="offy=0.2"/>
+<C0_kaiselinoffice_L1 id="246" originalRow="246" groupSign="1" debugClose="" action="打开插画" data="C0_SCP404" param="FALSE" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="247" originalRow="247" groupSign="" debugClose="" action="角色台词" data="我" param="嗯？这个好像是某个研究的资料。" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="248" originalRow="248" groupSign="" debugClose="" action="角色台词" data="" param="STS-404在一处民居中被发现。" param2="" param3=""/>
 <C0_kaiselinoffice_L1 id="249" originalRow="249" groupSign="" debugClose="" action="角色台词" data="" param="据悉，每当到了固定的时间，某个社区内的居民会不受自己控制的开始跳舞。" param2="" param3=""/>

@@ -23,11 +23,11 @@ $$没有什么想问的了==&gt;没有什么想问的了" param2="" param3="type
 <C3_camera_tuling id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="" param="我们不约而同的向窗外望去──" param2="" param3="type=1"/>
 <C3_camera_tuling id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="果然，顶石大厦是附近最高的建筑，这里能看到市区交错的道路一直延伸到海边。" param2="" param3="type=1"/>
 <C3_camera_tuling id="20" originalRow="20" groupSign="1.5" debugClose="" action="RPGActor" data="cam远眺" param="2" param2="" param3=""/>
-<C3_camera_tuling id="21" originalRow="21" groupSign="" debugClose="1" action="打开插画" data="C3_observe" param="FALSE" param2="" param3="offy=0.15"/>
+<C3_camera_tuling id="21" originalRow="21" groupSign="" debugClose="1" action="打开插画" data="C3_observe" param="FALSE" param2="" param3=""/>
 <C3_camera_tuling id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="从这确实能直接看到镜潮湖公园的海滨发射场，直线距离不超过3公里。" param2="" param3=""/>
 <C3_camera_tuling id="23" originalRow="23" groupSign="" debugClose="1" action="关闭插画" data="" param="" param2="" param3=""/>
 <C3_camera_tuling id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="" param="回想起昨晚的烟花大会，我心里可有一肚子苦水儿。" param2="" param3="type=1"/>
-<C3_camera_tuling id="25" originalRow="25" groupSign="" debugClose="" action="打开插画" data="C3_Fireworks" param="FALSE" param2="" param3="offy=0.15"/>
+<C3_camera_tuling id="25" originalRow="25" groupSign="" debugClose="" action="打开插画" data="C3_Fireworks" param="FALSE" param2="" param3=""/>
 <C3_camera_tuling id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="" param="昨晚是一年一度的夏季烟花大会，平时总宅在站点的涂凌非要拉着我和聂总陪她出去看烟花。" param2="" param3="type=1"/>
 <C3_camera_tuling id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="" param="虽然我们只是从站点附近的大厦的露台远眺，效果远不如看网络直播，但她依旧兴奋得不得了。" param2="" param3="type=1"/>
 <C3_camera_tuling id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="" param="烟花大会的规模确实不小，半个小时的时间，不断变化各种颜色和造型，真壮观啊！" param2="" param3="type=1"/>

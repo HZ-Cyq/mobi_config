@@ -1,0 +1,10 @@
+<root>
+<xt_chat_mizui id="0" originalRow="0" groupSign="2.0&gt;&gt;" action="角色台词" data="tuling" param="抓了个私藏异质物的，你过来凯瑟琳办公室看看。"/>
+<xt_chat_mizui id="1" originalRow="1" action="可选对话框" data="" param="$$我这就去==&gt;选A"/>
+<xt_chat_mizui id="2" originalRow="2" action="跳转-标签" data="" param="结束"/>
+<xt_chat_mizui id="3" originalRow="3" groupSign="选A" action=""/>
+<xt_chat_mizui id="4" originalRow="4" action="角色台词" data="wo" param="我这就去"/>
+<xt_chat_mizui id="5" originalRow="5" action="跳转-标签" data="" param="结束"/>
+<xt_chat_mizui id="6" originalRow="6" action="" data=""/>
+<xt_chat_mizui id="7" originalRow="7" groupSign="结束"/>
+</root>

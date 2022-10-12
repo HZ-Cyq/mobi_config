@@ -7,6 +7,7 @@
     public int isWave;//被动技能每波还是每场战斗触发：0每场 1:每波
     public System.Collections.Generic.List<int> subSkills;//子技能组
     public int cd;//技能cd(个人回合数)
+    public int init_cd;//初始cd
     public int condition;//触发条件
     public int c1;//触参1
     public int c2;//触参2

@@ -110,7 +110,7 @@
 勉强够到凯瑟琳的膝盖。" param2="" param3="type=1"/>
 <C1_cloister id="91" originalRow="91" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="嘁，我当年被称为“联邦最强雇佣兵”的时候，
 你这小鬼还穿着校服做广播体操呢。" param2="12我当年" param3=""/>
-<C1_cloister id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}{#闪白震punch}杜衡说让你来指挥，千万别给老子拖后腿，明白吗！" param2="015杜衡说让你来指挥，千万别给老子拖后腿，明白吗" param3=""/>
+<C1_cloister id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}{#闪白震punch}杜衡说让你来指挥，千万别给老子拖后腿，明白吗！" param2="01_02NF杜衡说让" param3=""/>
 <C1_cloister id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="wo" param="明白明白！
 您是前辈！" param2="" param3=""/>
 <C1_cloister id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作恢复}{#聂飞待机表情}哼！" param2="14哼" param3=""/>
@@ -164,9 +164,9 @@
 <C1_cloister id="138" originalRow="138" groupSign="" debugClose="" action="播放音效" data="avg_paper" param="" param2="" param3=""/>
 <C1_cloister id="139" originalRow="139" groupSign="" debugClose="" action="打开插画" data="C1_404HomeSnap" param="TRUE" param2="" param3=""/>
 <C1_cloister id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="异质物初始编号2-404，
-三天前收容于旧城区一位独居老人的公寓中。" param2="016异质物编号2-404，三天前收容于旧城区一位独居老人的公寓中" param3=""/>
+三天前收容于旧城区一位独居老人的公寓中。" param2="01_02KSL异质物编号" param3=""/>
 <C1_cloister id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="wo" param="等下！不是3-404吗！？" param2="" param3=""/>
-<C1_cloister id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="tuling" param="异质物处于失控状态，危险等级会自动调整。" param2="017异质物处于失控状态，危险等级会自动调整" param3=""/>
+<C1_cloister id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="tuling" param="异质物处于失控状态，危险等级会自动调整。" param2="01_01TL异质物处" param3=""/>
 <C1_cloister id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="wo" param="原来是这样……" param2="" param3=""/>
 <C1_cloister id="144" originalRow="144" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
 <C1_cloister id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="当晚公寓楼多名住户报告，
@@ -191,13 +191,13 @@
 <C1_cloister id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="X光显示其内部结构异常复杂，
 甚至还有一些意义不明的齿轮状机械零件。" param2="77KX光" param3=""/>
 <C1_cloister id="159" originalRow="159" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}在东八区每晚7点到7点15，她的屏幕上会开始循环播放时长为45秒的复古MV。" param2="78K在东八区" param3=""/>
-<C1_cloister id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="持续15分钟后结束。" param2="018持续15分钟后结束" param3=""/>
+<C1_cloister id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="持续15分钟后结束。" param2="01_02KSL持续15" param3=""/>
 <C1_cloister id="161" originalRow="161" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}据此，昭离公馆将其评定为危险性较低的2级，
-并收容在对应的地下楼层。" param2="019据此，昭离公馆将其评定为危险性较低的2级，并收容在对应的地下楼层" param3=""/>
+并收容在对应的地下楼层。" param2="01_02KSL据此，昭" param3=""/>
 <C1_cloister id="162" originalRow="162" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="但那段视频并不会对人有生理或精神上的影响，
 {0.6}{#凯瑟琳2得意表情}不知道今晚爆发的MV与平时有什么不同……" param2="80K但那段" param3=""/>
-<C1_cloister id="163" originalRow="163" groupSign="" debugClose="" action="角色台词" data="wo" param="我记得……就好像电影的插帧一样，
-中间时不时会闪现出飞机舱晃动的画面。" param2="" param3=""/>
+<C1_cloister id="163" originalRow="163" groupSign="" debugClose="" action="角色台词" data="wo" param="我记得，在MV播放完毕的时候……
+会闪现出飞机舱晃动的画面。" param2="" param3=""/>
 <C1_cloister id="164" originalRow="164" groupSign="" debugClose="" action="角色台词" data="wo" param="但一瞬间就消失了。" param2="" param3=""/>
 <C1_cloister id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#闪白ding}{#凯瑟琳2严肃表情}飞机舱？{0.4}{#凯瑟琳2紧张动作}原版MV里应该没有任何飞机上的画面……" param2="81K飞机舱" param3=""/>
 <C1_cloister id="166" originalRow="166" groupSign="" debugClose="" action="语法-数值" data="ri_第一章_飞机失事影像=1" param="" param2="" param3=""/>
@@ -333,14 +333,14 @@
 <C1_cloister id="287" originalRow="287" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
 <C1_cloister id="288" originalRow="288" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}我记得这层原本应该只有一条主走廊，
 现在却变成了两条平行的走廊。{#聂飞严肃}" param2="91K我记得" param3=""/>
-<C1_cloister id="289" originalRow="289" groupSign="" debugClose="" action="角色台词" data="niefei" param="这层的情况愈发不妙了……{#聂飞严肃恢复}{#凯瑟琳2思考动作恢复}" param2="025这层的情况愈发不妙了" param3=""/>
+<C1_cloister id="289" originalRow="289" groupSign="" debugClose="" action="角色台词" data="niefei" param="这层的情况愈发不妙了……{#聂飞严肃恢复}{#凯瑟琳2思考动作恢复}" param2="01_02NF这层的情" param3=""/>
 <C1_cloister id="290" originalRow="290" groupSign="" debugClose="1" action="角色台词" data="niefei" param="目前电梯附近还算稳定，但楼道的结构已经发生变化。这些机械头都已经追到这里了。" param2="" param3=""/>
 <C1_cloister id="291" originalRow="291" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="不能坐以待毙。" param2="" param3=""/>
 <C1_cloister id="292" originalRow="292" groupSign="" debugClose="1" action="角色台词" data="niefei" param="那我们顺着这条路继续走。" param2="" param3=""/>
 <C1_cloister id="293" originalRow="293" groupSign="" debugClose="1" action="角色台词" data="" param="我们顺着他指的方向望去，大致能听出MV的音源来自走廊尽头的右侧。" param2="" param3=""/>
 <C1_cloister id="294" originalRow="294" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="我记得这条走廊……应该只能左转吧？" param2="" param3=""/>
 <C1_cloister id="295" originalRow="295" groupSign="" debugClose="1" action="角色台词" data="tuling" param="……奇怪，路完全不对了！之前明明没有这么长的!" param2="" param3=""/>
-<C1_cloister id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="已经进入{#凯瑟琳2严肃动作}『巢』的边界了吗？" param2="026已经进入『巢』的边界了吗" param3=""/>
+<C1_cloister id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="已经进入{#凯瑟琳2严肃动作}『巢』的边界了吗？" param2="01_02KSL已经进入" param3=""/>
 <C1_cloister id="297" originalRow="297" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
 <C1_cloister id="298" originalRow="298" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}『巢』？" param2="" param3=""/>
 <C1_cloister id="299" originalRow="299" groupSign="" debugClose="1" action="角色台词" data="niefei" param="应该还没到。" param2="" param3=""/>
@@ -348,8 +348,8 @@
 <C1_cloister id="301" originalRow="301" groupSign="" debugClose="1" action="角色台词" data="duheng" param="不过之前的规模都很有限，大多只是房门和墙面材质的变化……" param2="" param3=""/>
 <C1_cloister id="302" originalRow="302" groupSign="" debugClose="1" action="角色台词" data="duheng" param="但『巢』直接让整个走廊的结构扭曲了……" param2="" param3=""/>
 <C1_cloister id="303" originalRow="303" groupSign="" debugClose="1" action="角色台词" data="duheng" param="千万小心，被困在里面就很难出来了。" param2="" param3=""/>
-<C1_cloister id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}超规格异质物引发的空间异变，{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}往往形成类似迷宫的形态。" param2="027超规格异质物引发的空间异变，往往形成类似迷宫的形态" param3=""/>
-<C1_cloister id="305" originalRow="305" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这个新出现的分岔路，应该就是『巢』的结构扭曲现象……" param2="028这个新出现的分岔路，应该就是『巢』的结构扭曲现象" param3=""/>
+<C1_cloister id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}超规格异质物引发的空间异变，{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}往往形成类似迷宫的形态。" param2="01_02KSL超规格异" param3=""/>
+<C1_cloister id="305" originalRow="305" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这个新出现的分岔路，应该就是『巢』的结构扭曲现象……" param2="01_02KSL这个新出" param3=""/>
 <C1_cloister id="306" originalRow="306" groupSign="" debugClose="" action="角色台词" data="wo" param="超规格异质物……" param2="" param3=""/>
 <C1_cloister id="307" originalRow="307" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
 <C1_cloister id="308" originalRow="308" groupSign="" debugClose="" action="角色台词" data="wo" param="看来这次3-404产生的影响非常之大啊。" param2="" param3=""/>
@@ -361,8 +361,8 @@
 <C1_cloister id="313" originalRow="313" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}不行！现在这种情况分散战力太危险。" param2="92K不行" param3=""/>
 <C1_cloister id="314" originalRow="314" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}聂飞不是说，原本就是左转几十米就看到了吗？" param2="93K那就先" param3=""/>
 <C1_cloister id="315" originalRow="315" groupSign="" debugClose="" action="角色台词" data="wo" param="那我们两边都走走看好了。" param2="" param3=""/>
-<C1_cloister id="316" originalRow="316" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="那就先选一条，过不去再回来。" param2="031那就先选一条，过不去再回来" param3=""/>
-<C1_cloister id="317" originalRow="317" groupSign="" debugClose="" action="角色台词" data="niefei" param="我可以用放射性荧光喷漆标记一下这里，等会再看看情况。{画面特效效果,Dark}" param2="032我可以用放射性荧光喷漆标记一下这里，等会再看看情况" param3=""/>
+<C1_cloister id="316" originalRow="316" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="那就先选一条，过不去再回来。" param2="01_02KSL那就先选" param3=""/>
+<C1_cloister id="317" originalRow="317" groupSign="" debugClose="" action="角色台词" data="niefei" param="我可以用放射性荧光喷漆标记一下这里，等会再看看情况。{画面特效效果,Dark}" param2="01_02NF我可以用" param3=""/>
 <C1_cloister id="318" originalRow="318" groupSign="" debugClose="" action="RPGActor" data="荧光标记" param="1" param2="" param3=""/>
 <C1_cloister id="319" originalRow="319" groupSign="" debugClose="" action="RPGActor" data="荧光标记1" param="1" param2="" param3=""/>
 <C1_cloister id="320" originalRow="320" groupSign="" debugClose="" action="RPGActor" data="荧光标记2" param="1" param2="" param3=""/>
@@ -470,7 +470,7 @@
 <C1_cloister id="421" originalRow="421" groupSign="" debugClose="" action="角色台词" data="" param="我指着刚才经过的两扇房门，
 门牌号分别是28-0102和29-0405。" param2="" param3="type=1"/>
 <C1_cloister id="422" originalRow="422" groupSign="" debugClose="" action="播放音效" data="avg_paper" param="" param2="" param3=""/>
-<C1_cloister id="423" originalRow="423" groupSign="" debugClose="" action="打开插画" data="C1_roomnumber2" param="FALSE" param2="" param3="offy=0.15"/>
+<C1_cloister id="423" originalRow="423" groupSign="" debugClose="" action="打开插画" data="C1_roomnumber2" param="FALSE" param2="" param3=""/>
 <C1_cloister id="424" originalRow="424" groupSign="" debugClose="" action="角色台词" data="wo" param="异质物的危险等级{&amp;危险等级}根本没有28和29级吧？！" param2="" param3=""/>
 <C1_cloister id="425" originalRow="425" groupSign="" debugClose="" action="角色台词" data="tuling" param="好像在不知不觉间，
 所有房间的门牌号都变了格式……" param2="52T好像" param3="TRUE;TRUE;TRUE"/>
@@ -479,10 +479,10 @@
 <C1_cloister id="428" originalRow="428" groupSign="" debugClose="" action="角色台词" data="" param="我凭印象画出了刚才摸索出的走廊和房间布局，
 并写下了目前已经确认的房间门牌号。" param2="" param3="type=1"/>
 <C1_cloister id="429" originalRow="429" groupSign="" debugClose="" action="播放音效" data="avg_paper" param="" param2="" param3=""/>
-<C1_cloister id="430" originalRow="430" groupSign="" debugClose="" action="打开插画" data="C1_roomnumber3" param="FALSE" param2="" param3="offy=0.15"/>
+<C1_cloister id="430" originalRow="430" groupSign="" debugClose="" action="打开插画" data="C1_roomnumber3" param="FALSE" param2="" param3=""/>
 <C1_cloister id="431" originalRow="431" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="到底是怎么回事……" param2="95K到底" param3=""/>
 <C1_cloister id="432" originalRow="432" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
-<C1_cloister id="433" originalRow="433" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="还好暂时没有敌人出现，再试试另一个方向吧。" param2="034还好暂时没有敌人出现，再试试另一个方向吧" param3=""/>
+<C1_cloister id="433" originalRow="433" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="还好暂时没有敌人出现，再试试另一个方向吧。" param2="01_02KSL还好暂时" param3=""/>
 <C1_cloister id="434" originalRow="434" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_cloister id="435" originalRow="435" groupSign="" debugClose="" action="RPGActor" data="左转" param="1" param2="" param3=""/>
 <C1_cloister id="436" originalRow="436" groupSign="" debugClose="" action="RPGActor" data="右转" param="1" param2="" param3=""/>
@@ -501,14 +501,14 @@
 <C1_cloister id="448" originalRow="448" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_cloister id="449" originalRow="449" groupSign="" debugClose="" action="角色台词" data="duheng" param="终于连上了……{0.4}就在刚才，下面的空间结构又发生了很大的变化，连通讯信号都中断了。" param2="82D终于" param3="type=4,ctype=2"/>
 <C1_cloister id="450" originalRow="450" groupSign="" debugClose="" action="角色台词" data="duheng" param="我刚去看了一眼，
-电梯无法抵达你们那一层。" param2="" param3="type=4,ctype=2"/>
+电梯无法抵达你们那一层。" param2="01_02DH我刚去看" param3="type=4,ctype=2"/>
 <C1_cloister id="451" originalRow="451" groupSign="" debugClose="" action="角色台词" data="duheng" param="连对应的电梯按钮都消失了。" param2="83D连对应" param3="type=4,ctype=2"/>
 <C1_cloister id="452" originalRow="452" groupSign="1" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_惊讶_动作_循环_01" param3="TRUE;TRUE;TRUE"/>
 <C1_cloister id="453" originalRow="453" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张表情}什么！？{0.8}{#聂飞惊讶动作恢复}" param2="33什么" param3=""/>
 <C1_cloister id="454" originalRow="454" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_cloister id="455" originalRow="455" groupSign="1" debugClose="" action="角色台词" data="duheng" param="不要慌，现在的走廊结构应该已经趋于稳定了……" param2="84D不要慌" param3="type=4,ctype=2"/>
-<C1_cloister id="456" originalRow="456" groupSign="" debugClose="" action="角色台词" data="duheng" param="情况越来越失控，你们的时间不多了！" param2="" param3=""/>
-<C1_cloister id="457" originalRow="457" groupSign="" debugClose="" action="角色台词" data="duheng" param="尽快找出404的本体！" param2="" param3=""/>
+<C1_cloister id="456" originalRow="456" groupSign="" debugClose="" action="角色台词" data="duheng" param="情况越来越失控，你们的时间不多了！" param2="01_02DH情况越来" param3=""/>
+<C1_cloister id="457" originalRow="457" groupSign="" debugClose="" action="角色台词" data="duheng" param="尽快找出404的本体！" param2="01_01DH尽快找出" param3=""/>
 <C1_cloister id="458" originalRow="458" groupSign="" debugClose="" action="角色台词" data="duheng" param="你们首先要找到一个锚点，
 最好是无论在哪都能看到或者听到的东西……" param2="85D你们首先" param3="type=4,ctype=2"/>
 <C1_cloister id="459" originalRow="459" groupSign="" debugClose="" action="角色台词" data="wo" param="锚点……啊！那个MV的声音。" param2="" param3=""/>
@@ -708,13 +708,13 @@ $$冲出重围！==&gt;狂奔到404房间" param2="" param3=""/>
 <C1_cloister id="639" originalRow="639" groupSign="" debugClose="" action="RPGActor" data="cam" param="2" param2="" param3=""/>
 <C1_cloister id="640" originalRow="640" groupSign="" debugClose="" action="角色台词" data="wo" param="聂、聂总好厉害！" param2="" param3=""/>
 <C1_cloister id="641" originalRow="641" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
-<C1_cloister id="642" originalRow="642" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}哼哼！本大爷以前可空战军服役，散弹投射技术年年拿王牌就是我！" param2="020哼哼！本大爷以前可空战军服役，散弹投射技术年年拿王牌就是我" param3=""/>
+<C1_cloister id="642" originalRow="642" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}哼哼！本大爷以前可空战军服役，散弹投射技术年年拿王牌就是我！" param2="01_02NF哼哼！本" param3=""/>
 <C1_cloister id="643" originalRow="643" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<C1_cloister id="644" originalRow="644" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}上辈子的事还提来干嘛~{#聂飞军体拳动作}{#聂飞军体拳表情}" param2="021上辈子的事还提来干嘛" param3=""/>
-<C1_cloister id="645" originalRow="645" groupSign="" debugClose="" action="角色台词" data="niefei" param="{shake=1}你——！哼哼，{#聂飞得意表情}大爷不跟你个叛国佬计较。" param2="022你——！哼哼，大爷不跟你个叛国佬计较" param3=""/>
+<C1_cloister id="644" originalRow="644" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}上辈子的事还提来干嘛~{#聂飞军体拳动作}{#聂飞军体拳表情}" param2="01_02KSL上辈子的" param3=""/>
+<C1_cloister id="645" originalRow="645" groupSign="" debugClose="" action="角色台词" data="niefei" param="{shake=1}你——！哼哼，{#聂飞得意表情}大爷不跟你个叛国佬计较。" param2="01_02NF你——！" param3=""/>
 <C1_cloister id="646" originalRow="646" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_cloister id="647" originalRow="647" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<C1_cloister id="648" originalRow="648" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}那我们继续前进？" param2="023那我们继续前进" param3=""/>
+<C1_cloister id="648" originalRow="648" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}那我们继续前进？" param2="01_02TL那我们继" param3=""/>
 <C1_cloister id="649" originalRow="649" groupSign="" debugClose="" action="RPGActor" data="第二次前进" param="1" param2="" param3=""/>
 <C1_cloister id="650" originalRow="650" groupSign="" debugClose="" action="RPGActor" data="门牌标记1" param="1" param2="" param3=""/>
 <C1_cloister id="651" originalRow="651" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
@@ -742,10 +742,10 @@ $$冲出重围！==&gt;狂奔到404房间" param2="" param3=""/>
 <C1_cloister id="673" originalRow="673" groupSign="" debugClose="1" action="角色台词" data="niefei" param="速战速决，每一场都尽量不要浪费体力！" param2="" param3=""/>
 <C1_cloister id="674" originalRow="674" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}等等，走廊上这些房间号怎么这么奇怪……
 3-022，3-924全都是“3-XXX”的形式──" param2="" param3=""/>
-<C1_cloister id="675" originalRow="675" groupSign="" debugClose="" action="打开插画" data="C1_roomnumber1" param="FALSE" param2="" param3="offy=0.15"/>
+<C1_cloister id="675" originalRow="675" groupSign="" debugClose="" action="打开插画" data="C1_roomnumber1" param="FALSE" param2="" param3=""/>
 <C1_cloister id="676" originalRow="676" groupSign="" debugClose="" action="角色台词" data="wo" param="横杠前面的数字都是3开头，
 但后面的数字却并不连续。" param2="" param3=""/>
-<C1_cloister id="677" originalRow="677" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="异质物的危险等级从0到5分为六级，5级为最高。" param2="030异质物的危险等级从0到5分为六级，5级为最高" param3=""/>
+<C1_cloister id="677" originalRow="677" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="异质物的危险等级从0到5分为六级，5级为最高。" param2="01_02KSL异质物的" param3=""/>
 <C1_cloister id="678" originalRow="678" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="门牌号前面的“3”代表这一层收容的，
 全都是危险等级为&lt;z=yellow&gt;“Beth”&lt;/z&gt;的三级异质物。" param2="86K门牌号" param3=""/>
 <C1_cloister id="679" originalRow="679" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="每个异质物都有对应的收容房间和编号，
@@ -772,7 +772,7 @@ $$冲出重围！==&gt;狂奔到404房间" param2="" param3=""/>
 <C1_cloister id="695" originalRow="695" groupSign="" debugClose="" action="角色台词" data="wo" param="哈哈，抱、抱歉啊……" param2="" param3=""/>
 <C1_cloister id="696" originalRow="696" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_cloister id="697" originalRow="697" groupSign="" debugClose="" action="角色台词" data="" param="耳机中传来杜博士异常冷静的声音。" param2="" param3="type=1"/>
-<C1_cloister id="698" originalRow="698" groupSign="" debugClose="" action="角色台词" data="duheng" param="以这一层结构的变化速度，能调查404房间的时间非常有限──你们要尽快抵达。" param2="" param3="type=4,ctype=2"/>
+<C1_cloister id="698" originalRow="698" groupSign="" debugClose="" action="角色台词" data="duheng" param="以这一层结构的变化速度，能调查404房间的时间非常有限──你们要尽快抵达。" param2="01_02DH以这一层" param3="type=4,ctype=2"/>
 <C1_cloister id="699" originalRow="699" groupSign="" debugClose="" action="角色台词" data="wo" param="时间不多，继续往前吧。" param2="" param3="type=0"/>
 <C1_cloister id="700" originalRow="700" groupSign="" debugClose="" action="角色台词" data="wo" param="所以战斗什么的不要指望我，
 全都靠你们了！" param2="" param3="type=0"/>

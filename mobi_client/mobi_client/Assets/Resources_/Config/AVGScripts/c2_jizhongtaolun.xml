@@ -38,13 +38,13 @@
 <C2_jizhongtaolun id="35" originalRow="35" groupSign="问题1一0" debugClose="" action="可选对话框" data="" param="$$第二章_财前的尸检报告==&gt;问题1一错误0
 $$第二章_空气探测器线索==&gt;问题1一错误0
 $$第二章_番伞堂纪念照==&gt;问题1一错误0
-$$第二章_心灵遮断合金==&gt;问题1一错误0
+$$第二章_心灵遮断合金新==&gt;问题1一错误0
 $$第二章_带徽记的戒指==&gt;问题1一错误0" param2="" param3="type=1"/>
 <C2_jizhongtaolun id="36" originalRow="36" groupSign="" debugClose="R1_1" action="角色台词" data="niefei" param="要在这种房间里杀人，使用异质物就可以了嘛！" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
 <C2_jizhongtaolun id="37" originalRow="37" groupSign="问题1一1" debugClose="" action="可选对话框" data="" param="$$第二章_财前的尸检报告==&gt;问题1一错误1
 $$第二章_空气探测器线索==&gt;问题1一错误1
 $$第二章_番伞堂纪念照==&gt;问题1一错误1
-$$第二章_心灵遮断合金==&gt;问题1一正确
+$$第二章_心灵遮断合金新==&gt;问题1一正确
 $$第二章_带徽记的戒指==&gt;问题1一错误1" param2="" param3="type=1"/>
 <C2_jizhongtaolun id="38" originalRow="38" groupSign="" debugClose="R1_2" action="角色台词" data="niefei" param="比如什么&lt;z=yellow&gt;模因类异质物作案&lt;/z&gt;？景象过于恐怖，财前被活活吓到窒息而死。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
 <C2_jizhongtaolun id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;其中一句话是有问题的。&lt;/z&gt;" param2="" param3="type=1"/>
@@ -198,25 +198,25 @@ $$不太可能==&gt;问题3一正确" param2="" param3=""/>
 <C2_jizhongtaolun id="170" originalRow="170" groupSign="问题4" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_jizhongtaolun id="171" originalRow="171" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
 <C2_jizhongtaolun id="172" originalRow="172" groupSign="问题4一0" debugClose="" action="可选对话框" data="" param="$$第二章_电子出入记录==&gt;问题4一错误0
-$$第二章_番伞堂纪念照==&gt;问题4一错误0
+$$第二章_心灵遮断合金新==&gt;问题4一错误0
 $$第二章_带徽记的戒指==&gt;问题4一错误0
 $$第二章_封死的窗户==&gt;问题4一错误0
 $$第二章_空气探测器线索==&gt;问题4一错误0" param2="" param3="type=1"/>
-<C2_jizhongtaolun id="173" originalRow="173" groupSign="" debugClose="R4_1" action="角色台词" data="niefei" param="我在&lt;z=yellow&gt;检查窗户&lt;/z&gt;的时候，忽然考虑到一种可能性" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
+<C2_jizhongtaolun id="173" originalRow="173" groupSign="" debugClose="R4_1" action="角色台词" data="niefei" param="我在&lt;z=yellow&gt;检查窗户&lt;/z&gt;的时候，忽然考虑到一种可能性。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
 <C2_jizhongtaolun id="174" originalRow="174" groupSign="问题4一1" debugClose="" action="可选对话框" data="" param="$$第二章_电子出入记录==&gt;问题4一错误1
-$$第二章_番伞堂纪念照==&gt;问题4一错误1
+$$第二章_心灵遮断合金新==&gt;问题4一错误1
 $$第二章_带徽记的戒指==&gt;问题4一错误1
 $$第二章_封死的窗户==&gt;问题4一错误1
 $$第二章_空气探测器线索==&gt;问题4一错误1" param2="" param3="type=1"/>
-<C2_jizhongtaolun id="175" originalRow="175" groupSign="" debugClose="R4_2" action="角色台词" data="niefei" param="我记得之前我们见到过&lt;z=yellow&gt;攀岩大脚车&lt;/z&gt;，就在给大楼擦玻璃" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
+<C2_jizhongtaolun id="175" originalRow="175" groupSign="" debugClose="R4_2" action="角色台词" data="niefei" param="我记得之前我们见到过&lt;z=yellow&gt;攀岩大脚车&lt;/z&gt;，就在给大楼擦玻璃。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
 <C2_jizhongtaolun id="176" originalRow="176" groupSign="问题4一2" debugClose="" action="可选对话框" data="" param="$$第二章_电子出入记录==&gt;问题4一错误2
-$$第二章_番伞堂纪念照==&gt;问题4一错误2
+$$第二章_心灵遮断合金新==&gt;问题4一错误2
 $$第二章_带徽记的戒指==&gt;问题4一错误2
 $$第二章_封死的窗户==&gt;问题4一正确
 $$第二章_空气探测器线索==&gt;问题4一错误2" param2="" param3="type=1"/>
 <C2_jizhongtaolun id="177" originalRow="177" groupSign="" debugClose="R4_3" action="角色台词" data="niefei" param="或许是有人利用攀岩大脚车，&lt;z=yellow&gt;穿过窗户&lt;/z&gt;对财前喷射了某种化学药品？" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
 <C2_jizhongtaolun id="178" originalRow="178" groupSign="问题4一3" debugClose="" action="可选对话框" data="" param="$$第二章_电子出入记录==&gt;问题4一错误3
-$$第二章_番伞堂纪念照==&gt;问题4一错误3
+$$第二章_心灵遮断合金新==&gt;问题4一错误3
 $$第二章_带徽记的戒指==&gt;问题4一错误3
 $$第二章_封死的窗户==&gt;问题4一错误3
 $$第二章_空气探测器线索==&gt;问题4一错误3" param2="" param3="type=1"/>
@@ -258,72 +258,72 @@ $$第二章_空气探测器线索==&gt;问题4一错误3" param2="" param3="type
 <C2_jizhongtaolun id="214" originalRow="214" groupSign="问题4一正确" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_jizhongtaolun id="215" originalRow="215" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
 <C2_jizhongtaolun id="216" originalRow="216" groupSign="" debugClose="" action="角色台词" data="wo" param="窗户是封死的！而且完全没有任何被破坏的痕迹。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="217" originalRow="217" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_大脚车负重=1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="218" originalRow="218" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="219" originalRow="219" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="220" originalRow="220" groupSign="" debugClose="" action="角色台词" data="niefei" param="除非财前把头伸出去？" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="221" originalRow="221" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="222" originalRow="222" groupSign="" debugClose="" action="角色台词" data="tuling" param="这个窗户结构不支持这样做吧？" param2="" param3=""/>
-<C2_jizhongtaolun id="223" originalRow="223" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="224" originalRow="224" groupSign="" debugClose="" action="角色台词" data="wo" param="不过大脚车确实是大厦里唯一能绕过门外警戒接近房间的东西了……" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="225" originalRow="225" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="226" originalRow="226" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我明白了，问题还是出在怎么把凶器运进来……" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="227" originalRow="227" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="228" originalRow="228" groupSign="" debugClose="" action="角色台词" data="wo" param="没错。已经渐渐开始明朗起来了！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="217" originalRow="217" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="218" originalRow="218" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="219" originalRow="219" groupSign="" debugClose="" action="角色台词" data="niefei" param="除非财前把头伸出去？" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="220" originalRow="220" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="221" originalRow="221" groupSign="" debugClose="" action="角色台词" data="tuling" param="这个窗户结构不支持这样做吧？" param2="" param3=""/>
+<C2_jizhongtaolun id="222" originalRow="222" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="223" originalRow="223" groupSign="" debugClose="" action="角色台词" data="wo" param="不过大脚车确实是大厦里唯一能绕过门外警戒接近房间的东西了……" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="224" originalRow="224" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我明白了，问题还是出在怎么把凶器运进来……" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="226" originalRow="226" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="227" originalRow="227" groupSign="" debugClose="" action="角色台词" data="wo" param="没错。已经渐渐开始明朗起来了！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="228" originalRow="228" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_大脚车负重=1" param="" param2="" param3=""/>
 <C2_jizhongtaolun id="229" originalRow="229" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="" param2="" param3=""/>
 <C2_jizhongtaolun id="230" originalRow="230" groupSign="" debugClose="" action="角色台词" data="niefei" param="凶器是什么还没解决呢！" param2="" param3="type=0"/>
 <C2_jizhongtaolun id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="但如果按这个思路，凶手其实是拿大厦里随处可见的东西作案……" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="232" originalRow="232" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5" param2="" param3=""/>
-<C2_jizhongtaolun id="233" originalRow="233" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="234" originalRow="234" groupSign="问题5" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="235" originalRow="235" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C2_jizhongtaolun id="236" originalRow="236" groupSign="问题5一0" debugClose="" action="可选对话框" data="" param="$$第二章_带徽记的戒指==&gt;问题5一错误0
-$$第二章_番伞堂纪念照==&gt;问题5一错误0
+<C2_jizhongtaolun id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="niefei" param="凶器？那我又有思路了——" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="233" originalRow="233" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5" param2="" param3=""/>
+<C2_jizhongtaolun id="234" originalRow="234" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="235" originalRow="235" groupSign="问题5" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="236" originalRow="236" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C2_jizhongtaolun id="237" originalRow="237" groupSign="问题5一0" debugClose="" action="可选对话框" data="" param="$$第二章_财前的尸检报告==&gt;问题5一错误0
+$$第二章_心灵遮断合金新==&gt;问题5一错误0
 $$第二章_空气探测器线索==&gt;问题5一错误0
 $$第二章_锁死的通风口==&gt;问题5一错误0
 $$第二章_封死的窗户==&gt;问题5一错误0" param2="" param3="type=1"/>
-<C2_jizhongtaolun id="237" originalRow="237" groupSign="" debugClose="R3_1" action="角色台词" data="niefei" param="大厦里用来&lt;z=yellow&gt;营造气氛的干冰&lt;/z&gt;在特定条件下非常危险。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
-<C2_jizhongtaolun id="238" originalRow="238" groupSign="问题5一1" debugClose="" action="可选对话框" data="" param="$$第二章_带徽记的戒指==&gt;问题5一错误1
-$$第二章_番伞堂纪念照==&gt;问题5一错误1
+<C2_jizhongtaolun id="238" originalRow="238" groupSign="" debugClose="R3_1" action="角色台词" data="niefei" param="大厦里用来&lt;z=yellow&gt;营造气氛的干冰&lt;/z&gt;在特定条件下非常危险。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
+<C2_jizhongtaolun id="239" originalRow="239" groupSign="问题5一1" debugClose="" action="可选对话框" data="" param="$$第二章_财前的尸检报告==&gt;问题5一错误1
+$$第二章_心灵遮断合金新==&gt;问题5一错误1
 $$第二章_空气探测器线索==&gt;问题5一错误1
 $$第二章_锁死的通风口==&gt;问题5一错误1
 $$第二章_封死的窗户==&gt;问题5一错误1" param2="" param3="type=1"/>
-<C2_jizhongtaolun id="239" originalRow="239" groupSign="" debugClose="R3_2" action="角色台词" data="niefei" param="融化后，会产生&lt;z=yellow&gt;大量二氧化碳&lt;/z&gt;。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
-<C2_jizhongtaolun id="240" originalRow="240" groupSign="问题5一2" debugClose="" action="可选对话框" data="" param="$$第二章_带徽记的戒指==&gt;问题5一错误2
-$$第二章_番伞堂纪念照==&gt;问题5一错误2
+<C2_jizhongtaolun id="240" originalRow="240" groupSign="" debugClose="R3_2" action="角色台词" data="niefei" param="融化后，会产生&lt;z=yellow&gt;大量二氧化碳&lt;/z&gt;。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
+<C2_jizhongtaolun id="241" originalRow="241" groupSign="问题5一2" debugClose="" action="可选对话框" data="" param="$$第二章_财前的尸检报告==&gt;问题5一错误2
+$$第二章_心灵遮断合金新==&gt;问题5一错误2
 $$第二章_空气探测器线索==&gt;问题5一错误2
 $$第二章_锁死的通风口==&gt;问题5一错误2
 $$第二章_封死的窗户==&gt;问题5一错误2" param2="" param3="type=1"/>
-<C2_jizhongtaolun id="241" originalRow="241" groupSign="" debugClose="R3_3" action="角色台词" data="niefei" param="假如&lt;z=yellow&gt;存放干冰的房间&lt;/z&gt;出了什么意外，财前这里也意外受到影响的话……" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
-<C2_jizhongtaolun id="242" originalRow="242" groupSign="问题5一3" debugClose="" action="可选对话框" data="" param="$$第二章_带徽记的戒指==&gt;问题5一错误3
-$$第二章_番伞堂纪念照==&gt;问题5一错误3
+<C2_jizhongtaolun id="242" originalRow="242" groupSign="" debugClose="R3_3" action="角色台词" data="niefei" param="假如&lt;z=yellow&gt;存放干冰的房间&lt;/z&gt;出了什么意外，财前这里也意外受到影响的话……" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
+<C2_jizhongtaolun id="243" originalRow="243" groupSign="问题5一3" debugClose="" action="可选对话框" data="" param="$$第二章_财前的尸检报告==&gt;问题5一错误3
+$$第二章_心灵遮断合金新==&gt;问题5一错误3
 $$第二章_空气探测器线索==&gt;问题5一正确
 $$第二章_锁死的通风口==&gt;问题5一错误3
 $$第二章_封死的窗户==&gt;问题5一错误3" param2="" param3="type=1"/>
-<C2_jizhongtaolun id="243" originalRow="243" groupSign="" debugClose="R3_4" action="角色台词" data="niefei" param="财前大量吸入&lt;z=yellow&gt;就会无声无息地窒息而死了&lt;/z&gt;。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
-<C2_jizhongtaolun id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="" param="可是如果大量释放出大氧化碳，一定会马上检测到？" param2="" param3="type=1"/>
-<C2_jizhongtaolun id="245" originalRow="245" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5" param2="" param3=""/>
-<C2_jizhongtaolun id="246" originalRow="246" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="247" originalRow="247" groupSign="问题5一错误0" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C2_jizhongtaolun id="248" originalRow="248" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我才刚开始说呢，直接打断我可不行哟。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="249" originalRow="249" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
-<C2_jizhongtaolun id="250" originalRow="250" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="251" originalRow="251" groupSign="问题5一错误1" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C2_jizhongtaolun id="252" originalRow="252" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你提的这些跟我的话有什么关系么？" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="253" originalRow="253" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
-<C2_jizhongtaolun id="254" originalRow="254" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="255" originalRow="255" groupSign="问题5一错误2" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C2_jizhongtaolun id="256" originalRow="256" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你冷静下好好再来反驳我吧？" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="257" originalRow="257" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
-<C2_jizhongtaolun id="258" originalRow="258" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="259" originalRow="259" groupSign="问题5一错误3" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C2_jizhongtaolun id="260" originalRow="260" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="嗯？这些并不能证明不是干冰的问题吧？" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="261" originalRow="261" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
-<C2_jizhongtaolun id="262" originalRow="262" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="263" originalRow="263" groupSign="问题5一正确" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="264" originalRow="264" groupSign="" debugClose="" action="播放timeline" data="通用_指正" param="TRUE" param2="" param3=""/>
-<C2_jizhongtaolun id="265" originalRow="265" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.8" param2="" param3=""/>
-<C2_jizhongtaolun id="266" originalRow="266" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_酒店干冰情况=1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="244" originalRow="244" groupSign="" debugClose="R3_4" action="角色台词" data="niefei" param="财前大量吸入&lt;z=yellow&gt;就会无声无息地窒息而死了&lt;/z&gt;。" param2="" param3="type=3,offx=0.2,offy=-0.2"/>
+<C2_jizhongtaolun id="245" originalRow="245" groupSign="" debugClose="" action="角色台词" data="" param="可是如果大量释放出大氧化碳，一定会马上检测到？" param2="" param3="type=1"/>
+<C2_jizhongtaolun id="246" originalRow="246" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5" param2="" param3=""/>
+<C2_jizhongtaolun id="247" originalRow="247" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="248" originalRow="248" groupSign="问题5一错误0" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C2_jizhongtaolun id="249" originalRow="249" groupSign="" debugClose="" action="角色台词" data="niefei" param="我才刚开始说呢，直接打断我可不行哟。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="250" originalRow="250" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
+<C2_jizhongtaolun id="251" originalRow="251" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="252" originalRow="252" groupSign="问题5一错误1" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C2_jizhongtaolun id="253" originalRow="253" groupSign="" debugClose="" action="角色台词" data="niefei" param="你提的这些跟我的话有什么关系么？" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="254" originalRow="254" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
+<C2_jizhongtaolun id="255" originalRow="255" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="256" originalRow="256" groupSign="问题5一错误2" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C2_jizhongtaolun id="257" originalRow="257" groupSign="" debugClose="" action="角色台词" data="niefei" param="你冷静下好好再来反驳我吧？" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="258" originalRow="258" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
+<C2_jizhongtaolun id="259" originalRow="259" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="260" originalRow="260" groupSign="问题5一错误3" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C2_jizhongtaolun id="261" originalRow="261" groupSign="" debugClose="" action="角色台词" data="niefei" param="嗯？这些并不能证明不是干冰的问题吧？" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="262" originalRow="262" groupSign="" debugClose="" action="跳转-标签" data="" param="问题5一0" param2="" param3=""/>
+<C2_jizhongtaolun id="263" originalRow="263" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="264" originalRow="264" groupSign="问题5一正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="265" originalRow="265" groupSign="" debugClose="" action="播放timeline" data="通用_指正" param="TRUE" param2="" param3=""/>
+<C2_jizhongtaolun id="266" originalRow="266" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.8" param2="" param3=""/>
 <C2_jizhongtaolun id="267" originalRow="267" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{角色表情,zhouyi,;;周易_闭眼_上脸_循环_01,0.5}正是空气检测器证明了这个方式的可行性！" param2="" param3="type=0"/>
 <C2_jizhongtaolun id="268" originalRow="268" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
 <C2_jizhongtaolun id="269" originalRow="269" groupSign="3" debugClose="" action="新角色镜头" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
@@ -338,75 +338,76 @@ $$第二章_封死的窗户==&gt;问题5一错误3" param2="" param3="type=1"/>
 <C2_jizhongtaolun id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="可是这么大的房间，这些二氧化碳要怎么快速集中释放呢？" param2="" param3="type=0"/>
 <C2_jizhongtaolun id="279" originalRow="279" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="" param2="" param3=""/>
 <C2_jizhongtaolun id="280" originalRow="280" groupSign="" debugClose="" action="角色台词" data="wo" param="没错，如果只是循序渐进慢慢释放，会直接被净化系统迅速清理干净。-" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="281" originalRow="281" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6" param2="" param3=""/>
-<C2_jizhongtaolun id="282" originalRow="282" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="283" originalRow="283" groupSign="问题6" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="284" originalRow="284" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C2_jizhongtaolun id="285" originalRow="285" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="目前看来这是最有可能的方式。" param2="" param3=""/>
-<C2_jizhongtaolun id="286" originalRow="286" groupSign="" debugClose="" action="角色台词" data="wo" param="会不会有什么地方被我们疏漏掉了？" param2="" param3=""/>
-<C2_jizhongtaolun id="287" originalRow="287" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6-选择题" param2="" param3=""/>
-<C2_jizhongtaolun id="288" originalRow="288" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="281" originalRow="281" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_酒店干冰情况=1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="282" originalRow="282" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6" param2="" param3=""/>
+<C2_jizhongtaolun id="283" originalRow="283" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="284" originalRow="284" groupSign="问题6" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="285" originalRow="285" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C2_jizhongtaolun id="286" originalRow="286" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="目前看来这是最有可能的方式。" param2="" param3=""/>
+<C2_jizhongtaolun id="287" originalRow="287" groupSign="" debugClose="" action="角色台词" data="wo" param="会不会有什么地方被我们疏漏掉了？" param2="" param3=""/>
+<C2_jizhongtaolun id="288" originalRow="288" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6-选择题" param2="" param3=""/>
 <C2_jizhongtaolun id="289" originalRow="289" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="290" originalRow="290" groupSign="问题6-选择题" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="291" originalRow="291" groupSign="" debugClose="" action="角色台词" data="wo" param="疏漏的环节会是哪里呢？" param2="" param3=""/>
-<C2_jizhongtaolun id="292" originalRow="292" groupSign="" debugClose="" action="可选对话框" data="" param="$$空气监测器==&gt;问题6一错误
+<C2_jizhongtaolun id="290" originalRow="290" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="291" originalRow="291" groupSign="问题6-选择题" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="292" originalRow="292" groupSign="" debugClose="" action="角色台词" data="wo" param="疏漏的环节会是哪里呢？" param2="" param3=""/>
+<C2_jizhongtaolun id="293" originalRow="293" groupSign="" debugClose="" action="可选对话框" data="" param="$$空气监测器==&gt;问题6一错误
 $$卧房换气口==&gt;问题6一正确
 $$财前本人==&gt;财前本人
 $$和平广场大厦的构造==&gt;构造" param2="" param3=""/>
-<C2_jizhongtaolun id="293" originalRow="293" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="294" originalRow="294" groupSign="问题6一错误" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="295" originalRow="295" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="wo" param="空气监测器会是疏漏的点！" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="297" originalRow="297" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="298" originalRow="298" groupSign="" debugClose="" action="角色台词" data="niefei" param="不不不，涂凌都说了，这是最新款，不会有问题的。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="299" originalRow="299" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="300" originalRow="300" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="除了放得比较高，它又怎么能杀死财前呢？" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="301" originalRow="301" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="302" originalRow="302" groupSign="" debugClose="" action="角色台词" data="wo" param="那还是得再想想……" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="303" originalRow="303" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6选择题" param2="" param3=""/>
-<C2_jizhongtaolun id="304" originalRow="304" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="305" originalRow="305" groupSign="财前本人" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="306" originalRow="306" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="307" originalRow="307" groupSign="" debugClose="" action="角色台词" data="wo" param="是财前杀了财前自己！" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="308" originalRow="308" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="309" originalRow="309" groupSign="" debugClose="" action="角色台词" data="niefei" param="额，大厅里听到的，他好像还没活够吧……" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="310" originalRow="310" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="311" originalRow="311" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你要提也是提出一些靠谱的意见吧。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="312" originalRow="312" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="313" originalRow="313" groupSign="" debugClose="" action="角色台词" data="wo" param="那还是得再想想……" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="314" originalRow="314" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6选择题" param2="" param3=""/>
-<C2_jizhongtaolun id="315" originalRow="315" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="316" originalRow="316" groupSign="构造" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="317" originalRow="317" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="318" originalRow="318" groupSign="" debugClose="" action="角色台词" data="niefei" param="高峰会议、末世宫殿，怎么都和构造问题沾不上边吧。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="319" originalRow="319" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="320" originalRow="320" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="如果构造出了问题，建造它的财前也不会把自己置身险境啊。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="321" originalRow="321" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="322" originalRow="322" groupSign="" debugClose="" action="角色台词" data="wo" param="那还是得再想想……" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="323" originalRow="323" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6选择题" param2="" param3=""/>
-<C2_jizhongtaolun id="324" originalRow="324" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="325" originalRow="325" groupSign="问题6一正确" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="326" originalRow="326" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="327" originalRow="327" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色转身,zhouyi,30,0.5}{#周易无奈2动作恢复}{0.3}{角色表情,zhouyi,;;周易_待机_眼睛_开始_01,0.5}那个被聂总你发现的通风口，也有可能释放气体！" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="328" originalRow="328" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.6" param2="" param3=""/>
-<C2_jizhongtaolun id="329" originalRow="329" groupSign="" debugClose="" action="角色台词" data="wo" param="你们忘了吗？最近有大雾……所以房间内的换气系统一定是持续高速运转的！" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="330" originalRow="330" groupSign="" debugClose="" action="角色台词" data="wo" param="真、真的诶！" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="331" originalRow="331" groupSign="" debugClose="" action="角色台词" data="wo" param="如果真的是瞬间释放，应该需要大功率支持才对。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="332" originalRow="332" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="333" originalRow="333" groupSign="" debugClose="" action="角色台词" data="wo" param="在这个前提下，“缓慢灌入气体”的可能性很大。" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="334" originalRow="334" groupSign="" debugClose="" action="角色台词" data="wo" param="而实施的绝佳位置，就是那个通风口！" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="335" originalRow="335" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_换气口上锁=1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="336" originalRow="336" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="337" originalRow="337" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="过去直接看看就好了！" param2="" param3="type=0"/>
-<C2_jizhongtaolun id="338" originalRow="338" groupSign="" debugClose="" action="RPGActor" data="UI_PartyPhoto" param="2" param2="" param3=""/>
-<C2_jizhongtaolun id="339" originalRow="339" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="340" originalRow="340" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="341" originalRow="341" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<C2_jizhongtaolun id="342" originalRow="342" groupSign="" debugClose="" action="跳转-标签" data="" param="C2_caihome.讨论完毕" param2="" param3=""/>
-<C2_jizhongtaolun id="343" originalRow="343" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="344" originalRow="344" groupSign="酒店楼顶" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="345" originalRow="345" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C2_jizhongtaolun id="346" originalRow="346" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="294" originalRow="294" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="295" originalRow="295" groupSign="问题6一错误" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="296" originalRow="296" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="297" originalRow="297" groupSign="" debugClose="" action="角色台词" data="wo" param="空气监测器会是疏漏的点！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="298" originalRow="298" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="299" originalRow="299" groupSign="" debugClose="" action="角色台词" data="niefei" param="不不不，涂凌都说了，这是最新款，不会有问题的。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="300" originalRow="300" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="301" originalRow="301" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="除了放得比较高，它又怎么能杀死财前呢？" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="302" originalRow="302" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="wo" param="那还是得再想想……" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="304" originalRow="304" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6选择题" param2="" param3=""/>
+<C2_jizhongtaolun id="305" originalRow="305" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="306" originalRow="306" groupSign="财前本人" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="307" originalRow="307" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="308" originalRow="308" groupSign="" debugClose="" action="角色台词" data="wo" param="是财前杀了财前自己！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="309" originalRow="309" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="310" originalRow="310" groupSign="" debugClose="" action="角色台词" data="niefei" param="额，大厅里听到的，他好像还没活够吧……" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="311" originalRow="311" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="312" originalRow="312" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你要提也是提出一些靠谱的意见吧。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="313" originalRow="313" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="314" originalRow="314" groupSign="" debugClose="" action="角色台词" data="wo" param="那还是得再想想……" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="315" originalRow="315" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6选择题" param2="" param3=""/>
+<C2_jizhongtaolun id="316" originalRow="316" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="317" originalRow="317" groupSign="构造" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="318" originalRow="318" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="319" originalRow="319" groupSign="" debugClose="" action="角色台词" data="niefei" param="高峰会议、末世宫殿，怎么都和构造问题沾不上边吧。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="320" originalRow="320" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="321" originalRow="321" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="如果构造出了问题，建造它的财前也不会把自己置身险境啊。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="322" originalRow="322" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="323" originalRow="323" groupSign="" debugClose="" action="角色台词" data="wo" param="那还是得再想想……" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="324" originalRow="324" groupSign="" debugClose="" action="跳转-标签" data="" param="问题6选择题" param2="" param3=""/>
+<C2_jizhongtaolun id="325" originalRow="325" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="326" originalRow="326" groupSign="问题6一正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="327" originalRow="327" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="328" originalRow="328" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色转身,zhouyi,30,0.5}{#周易无奈2动作恢复}{0.3}{角色表情,zhouyi,;;周易_待机_眼睛_开始_01,0.5}那个被聂总你发现的通风口，也有可能释放气体！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="329" originalRow="329" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.6" param2="" param3=""/>
+<C2_jizhongtaolun id="330" originalRow="330" groupSign="" debugClose="" action="角色台词" data="wo" param="你们忘了吗？最近有大雾……所以房间内的换气系统一定是持续高速运转的！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="331" originalRow="331" groupSign="" debugClose="" action="角色台词" data="wo" param="真、真的诶！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="332" originalRow="332" groupSign="" debugClose="" action="角色台词" data="wo" param="如果真的是瞬间释放，应该需要大功率支持才对。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="333" originalRow="333" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="334" originalRow="334" groupSign="" debugClose="" action="角色台词" data="wo" param="在这个前提下，“缓慢灌入气体”的可能性很大。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="335" originalRow="335" groupSign="" debugClose="" action="角色台词" data="wo" param="而实施的绝佳位置，就是那个通风口！" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="336" originalRow="336" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_换气口上锁=1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="337" originalRow="337" groupSign="" debugClose="1" action="镜头移动" data="vcam1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="338" originalRow="338" groupSign="" debugClose="" action="角色台词" data="wo" param="接下来，先梳理一下思路吧。" param2="" param3="type=0"/>
+<C2_jizhongtaolun id="339" originalRow="339" groupSign="" debugClose="" action="RPGActor" data="UI_PartyPhoto" param="2" param2="" param3=""/>
+<C2_jizhongtaolun id="340" originalRow="340" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="341" originalRow="341" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="342" originalRow="342" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C2_jizhongtaolun id="343" originalRow="343" groupSign="" debugClose="" action="跳转-标签" data="" param="C2_caihome.讨论完毕" param2="" param3=""/>
+<C2_jizhongtaolun id="344" originalRow="344" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="345" originalRow="345" groupSign="酒店楼顶" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="346" originalRow="346" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <C2_jizhongtaolun id="347" originalRow="347" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_jizhongtaolun id="348" originalRow="348" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="348" originalRow="348" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_jizhongtaolun id="349" originalRow="349" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

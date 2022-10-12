@@ -6,4 +6,6 @@
 <FunctionLock id="201" key_function="Phone_Unlock" annotation="通讯系统解锁-主界面" uiname="ui_mainhome" into="0" conditions="3" conditionsValue="11" showType="1" window="0"/>
 <FunctionLock id="202" key_function="Phone_Unlock_Area" annotation="通讯系统解锁-地图界面" uiname="ui_areas" into="0" conditions="3" conditionsValue="11" showType="1" window="0"/>
 <FunctionLock id="203" key_function="Phone_Unlock_Inspector" annotation="通讯系统解锁-inspector界面" uiname="ui_inspector" into="0" conditions="3" conditionsValue="11" showType="1" window="0"/>
+<FunctionLock id="301" key_function="Home_team_Lock" annotation="主界面商店加锁" group="3" uiname="ui_mainhome" into="0" conditions="1" conditionsValue="1" showType="2" describe="完成第一章解锁！" window="0"/>
+<FunctionLock id="302" key_function="Home_team_Unlock" annotation="主界面商店解锁" group="3" uiname="ui_mainhome" into="0" conditions="3" conditionsValue="11" showType="3" describe="完成第一章解锁！" window="0"/>
 </root>

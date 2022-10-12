@@ -1,0 +1,32 @@
+<root>
+<xt_shechu_wenhou id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_wenhou id="1" originalRow="1" groupSign="问候" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_shechu_wenhou id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<xt_shechu_wenhou id="3" originalRow="3" groupSign="" debugClose="" action="跳转-标签" data="rqs_3005001社畜支线1==1" param="社畜问候1" param2="" param3=""/>
+<xt_shechu_wenhou id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="rqs_3005005社畜支线5==1" param="社畜问候2" param2="" param3=""/>
+<xt_shechu_wenhou id="5" originalRow="5" groupSign="" debugClose="" action="跳转-标签" data="rqs_3005007社畜支线7==1" param="社畜问候3" param2="" param3=""/>
+<xt_shechu_wenhou id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="" param3=""/>
+<xt_shechu_wenhou id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="小螺丝大梦想，果然不管去到哪里我都是最不可或缺的那一颗螺丝钉啊！" param2="" param3=""/>
+<xt_shechu_wenhou id="8" originalRow="8" action="跳转-标签" data="" param="结束"/>
+<xt_shechu_wenhou id="9" originalRow="9"/>
+<xt_shechu_wenhou id="10" originalRow="10" groupSign="社畜问候1"/>
+<xt_shechu_wenhou id="11" originalRow="11" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_shechu_wenhou id="12" originalRow="12" action="设置角色" data="lijiahu" param="pos=中"/>
+<xt_shechu_wenhou id="13" originalRow="13" action="角色台词" data="lijiahu" param="完蛋了完蛋了！这下工作是真的保不住了哇！"/>
+<xt_shechu_wenhou id="14" originalRow="14" action="跳转-标签" data="" param="结束"/>
+<xt_shechu_wenhou id="15" originalRow="15"/>
+<xt_shechu_wenhou id="16" originalRow="16" groupSign="社畜问候2"/>
+<xt_shechu_wenhou id="17" originalRow="17" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_shechu_wenhou id="18" originalRow="18" action="设置角色" data="lijiahu" param="pos=中"/>
+<xt_shechu_wenhou id="19" originalRow="19" action="角色台词" data="lijiahu" param="我拿到了!"/>
+<xt_shechu_wenhou id="20" originalRow="20" action="跳转-标签" data="" param="结束"/>
+<xt_shechu_wenhou id="21" originalRow="21" action="" data="" param=""/>
+<xt_shechu_wenhou id="22" originalRow="22" groupSign="社畜问候3"/>
+<xt_shechu_wenhou id="23" originalRow="23" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<xt_shechu_wenhou id="24" originalRow="24" action="设置角色" data="lijiahu" param="pos=中"/>
+<xt_shechu_wenhou id="25" originalRow="25" action="角色台词" data="lijiahu" param="准备好了？"/>
+<xt_shechu_wenhou id="26" originalRow="26" action="跳转-标签" data="" param="结束"/>
+<xt_shechu_wenhou id="27" originalRow="27" action="" data=""/>
+<xt_shechu_wenhou id="28" originalRow="28" action="" data=""/>
+<xt_shechu_wenhou id="29" originalRow="29" groupSign="结束" action="" data=""/>
+</root>

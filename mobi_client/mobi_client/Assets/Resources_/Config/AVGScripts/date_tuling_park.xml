@@ -14,7 +14,7 @@
 <Date_tuling_Park id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（算了算了……还是换个话题吧。）&lt;/z&gt;"/>
 <Date_tuling_Park id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌开心动作恢复}对了，你有什么想去的地方吗？{1.2}
 {#闪白ding}{#涂凌紧张表情}难得出门一趟，就听你的吧~"/>
-<Date_tuling_Park id="13" originalRow="13" groupSign="" debugClose="" action="打开插画" data="Side_parkmap" param="FALSE" param3="offy=0.2"/>
+<Date_tuling_Park id="13" originalRow="13" groupSign="" debugClose="" action="打开插画" data="Side_parkmap" param="FALSE" param3=""/>
 <Date_tuling_Park id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{播放音效,voice_typing}地图显示东边水面面积58.6公顷，西边草地有片平坦的草坪。"/>
 <Date_tuling_Park id="15" originalRow="15" groupSign="" debugClose="" action="关闭插画" data="" param=""/>
 <Date_tuling_Park id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌待机2动作}{#涂凌无聊表情}为、为什么一直盯着我啊？不是说听你的嘛？"/>

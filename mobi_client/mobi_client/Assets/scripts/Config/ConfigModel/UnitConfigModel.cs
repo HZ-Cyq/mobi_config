@@ -4,7 +4,7 @@ namespace ConfigSystem
         public string name;//名字
         public int appear;//是否显示
         public int gender;//性别(1男，2女，3妖怪)
-        public System.Collections.Generic.List<int> race;//种族（1:对位,2:亡语,3:AOE,4:融合,5:刺客）
+        public System.Collections.Generic.List<int> race;//种族（1:对位,2:亡语,3:AOE,4:刺客）
         public System.Collections.Generic.List<int> profession;//职业(1:输出，2:肉盾，3:辅助，4:治疗)
         public int energyLevel;//初始分级
         public System.Collections.Generic.List<System.Collections.Generic.List<int>> disintegrate;//同名卡牌分解粒子数量
