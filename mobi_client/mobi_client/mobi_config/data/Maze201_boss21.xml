@@ -1,7 +1,0 @@
-<root>
-<maze201_boss21 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
-<maze201_boss21 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
-<maze201_boss21 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="stranger1" param="咦哈哈哈，走到死胡同咯！" param2=""/>
-<maze201_boss21 id="3" originalRow="3" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<maze201_boss21 id="4" originalRow="4" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
-</root>

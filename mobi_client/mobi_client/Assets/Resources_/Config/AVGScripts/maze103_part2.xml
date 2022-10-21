@@ -1,7 +1,7 @@
 <root>
 <maze103_part2 id="0" originalRow="0" groupSign="开始"/>
 <maze103_part2 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
-<maze103_part2 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<maze103_part2 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
 <maze103_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="前面的异质物很强，以安全评定来说，还是先绕开换条路走比较好。" param2=""/>
 <maze103_part2 id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
 <maze103_part2 id="5" originalRow="5" groupSign="结束"/>

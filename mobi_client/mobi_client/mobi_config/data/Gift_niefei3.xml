@@ -1,7 +1,0 @@
-<root>
-<gift_niefei3 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
-<gift_niefei3 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="no_postprocessing" param2=""/>
-<gift_niefei3 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="这个是什么？能吃吗？" param2=""/>
-<gift_niefei3 id="3" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<gift_niefei3 id="4" originalRow="4" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
-</root>

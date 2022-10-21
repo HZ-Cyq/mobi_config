@@ -3,7 +3,7 @@
 <Intro_C0_battle01_2 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
 <Intro_C0_battle01_2 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3="涂凌_开心_动作_循环_01"/>
 <Intro_C0_battle01_2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌开心表情}哇啊啊！电光炮！！好帅！" param2="" param3=""/>
-<Intro_C0_battle01_2 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="tuling" param="呼呼，搞定！！" param2="" param3="type=0"/>
+<Intro_C0_battle01_2 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="tuling" param="呼呼，搞定！！" param2="" param3="name=鲨鱼服少女"/>
 <Intro_C0_battle01_2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="等、等一下，那边好像又来了一个。" param2="" param3=""/>
 <Intro_C0_battle01_2 id="6" originalRow="6" groupSign="" debugClose="" action="角色动作" data="tuling" param="涂凌_思考_动作_循环_01" param2="" param3=""/>
 <Intro_C0_battle01_2 id="7" originalRow="7" groupSign="" debugClose="1" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
@@ -11,19 +11,20 @@
 <Intro_C0_battle01_2 id="9" originalRow="9" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <Intro_C0_battle01_2 id="10" originalRow="10" groupSign="引导涂凌技能" debugClose="" action="" data="" param="" param2="" param3=""/>
 <Intro_C0_battle01_2 id="11" originalRow="11" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
-<Intro_C0_battle01_2 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="又要攻过来了！！
-你往左边偏40°，打准一点啊！" param2="" param3=""/>
+<Intro_C0_battle01_2 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="又要攻过来了！
+它怎么老是对着病床打啊！" param2="" param3=""/>
 <Intro_C0_battle01_2 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3="涂凌_紧张_动作_循环_01"/>
 <Intro_C0_battle01_2 id="14" originalRow="14" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_紧张_上脸_开始_01;涂凌_紧张_下嘴_开始_01" param2=""/>
-<Intro_C0_battle01_2 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="嗷呜——！！
-没有『稳定剂』，我很难保持思考！" param2="" param3="type=0"/>
-<Intro_C0_battle01_2 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="你既然看得这么清楚！
-直接告诉我们怎么做吧！！" param2="" param3="type=0"/>
-<Intro_C0_battle01_2 id="17" originalRow="17" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<Intro_C0_battle01_2 id="18" originalRow="18" groupSign="" debugClose="1" action="角色台词" data="" param="{music=high}" param2="" param3=""/>
-<Intro_C0_battle01_2 id="19" originalRow="19" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
-<Intro_C0_battle01_2 id="20" originalRow="20" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
-<Intro_C0_battle01_2 id="21" originalRow="21" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
-<Intro_C0_battle01_2 id="22" originalRow="22" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<Intro_C0_battle01_2 id="23" originalRow="23" groupSign="结束" debugClose="" action="" data="" param=""/>
+<Intro_C0_battle01_2 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="&lt;z=highlight&gt;异质物优先攻击正面的敌方单位&lt;/z&gt;，
+这是我也无法控制的事。" param2="" param3="name=鲨鱼服少女"/>
+<Intro_C0_battle01_2 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="但我的能力可以将&lt;z=highlight&gt;异质物移动到上方对应的位置&lt;/z&gt;。" param2="" param3="name=鲨鱼服少女"/>
+<Intro_C0_battle01_2 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="目前没有『稳定剂』，我没有足够的力量。" param2="" param3="name=鲨鱼服少女"/>
+<Intro_C0_battle01_2 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌严肃动作}没办法，就由你来指引我吧。" param2="" param3="name=鲨鱼服少女"/>
+<Intro_C0_battle01_2 id="19" originalRow="19" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<Intro_C0_battle01_2 id="20" originalRow="20" groupSign="" debugClose="1" action="角色台词" data="" param="{music=high}" param2="" param3=""/>
+<Intro_C0_battle01_2 id="21" originalRow="21" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_C0_battle01_2 id="22" originalRow="22" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_C0_battle01_2 id="23" originalRow="23" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_C0_battle01_2 id="24" originalRow="24" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<Intro_C0_battle01_2 id="25" originalRow="25" groupSign="结束" debugClose="" action="" data="" param=""/>
 </root>

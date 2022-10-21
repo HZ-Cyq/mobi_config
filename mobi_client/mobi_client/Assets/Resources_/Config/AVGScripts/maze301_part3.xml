@@ -1,0 +1,9 @@
+<root>
+<maze301_part3 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze301_part3 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze301_part3 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze301_part3 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="喂！是谁找的这条路呀，这里根本啥都没有啊，" param2="" param3=""/>
+<maze301_part3 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="我们还是听杜博士的回去朝东走吧！" param2="" param3=""/>
+<maze301_part3 id="5" originalRow="5" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze301_part3 id="6" originalRow="6" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+</root>

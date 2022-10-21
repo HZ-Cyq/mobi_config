@@ -2,15 +2,20 @@
 <maze101_boss22 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
 <maze101_boss22 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze101_boss22 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<maze101_boss22 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="周易，前面似乎没路了。" param2=""/>
+<maze101_boss22 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}前面似乎没路了。" param2=""/>
 <maze101_boss22 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<maze101_boss22 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="绕了这么久的迷宫，结果是死路一条吗！到底要怎么样才能去下层啊！" param2=""/>
-<maze101_boss22 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="stranger1" param="哈哈！确实是死路一条！更下层的巢只对拥有更多心智导体的人开放，而在这里……" param2=""/>
-<maze101_boss22 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="stranger1" param="我就是拥有最多心智导体的那一个！自不量力的人啊，你们应该知道怎么做了吧！" param2=""/>
+<maze101_boss22 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}绕了这么久的迷宫，结果是死路一条吗！到底要怎么样才能去下层啊！" param2=""/>
+<maze101_boss22 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="stranger1" param="哈哈！确实是死路一条！更下层的巢只对拥有更多&lt;z=highlight&gt;『心智导体』&lt;/z&gt;的人开放，而在这里……" param2=""/>
+<maze101_boss22 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="stranger1" param="我就是拥有最多&lt;z=highlight&gt;『心智导体』&lt;/z&gt;的那一个！自不量力的人啊，你们应该知道怎么做了吧！" param2=""/>
 <maze101_boss22 id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <maze101_boss22 id="9" originalRow="9" groupSign="胜利" debugClose="" action="" data="" param="" param2=""/>
 <maze101_boss22 id="10" originalRow="10" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
-<maze101_boss22 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<maze101_boss22 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="检测到二号楼的入口已经开启了，事不宜迟，我们准备前往二号楼吧。" param2=""/>
-<maze101_boss22 id="13" originalRow="13" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze101_boss22 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze101_boss22 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="哇，那家伙果然没骗人啊！
+这么多的&lt;z=highlight&gt;『心智导体』&lt;/z&gt;，这次大丰收啦！" param2=""/>
+<maze101_boss22 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<maze101_boss22 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}检测到二号楼的入口已经开启了，
+在那里我们应该可以收获到更多的材料。" param2=""/>
+<maze101_boss22 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心}本大爷已经迫不及待咯！快点一起过去吧喵！" param2=""/>
+<maze101_boss22 id="16" originalRow="16" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
 </root>

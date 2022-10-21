@@ -210,7 +210,7 @@ $$无法开启的大门==&gt;无法开启的大门" param2="" param3=""/>
 <C1_kaiselinoffice id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="" param="难道，这个某个人“观测到”的情景？" param2="" param3="type=1"/>
 <C1_kaiselinoffice id="175" originalRow="175" groupSign="" debugClose="" action="角色台词" data="" param="……{shake=1}{特殊-闪白效果,1}
 头疼好像加重了。" param2="" param3="type=1"/>
-<C1_kaiselinoffice id="176" originalRow="176" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=yellow&gt;&lt;size=60&gt;“25-D！！！”&lt;/size&gt;&lt;/z&gt;" param2="" param3=""/>
+<C1_kaiselinoffice id="176" originalRow="176" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=highlight&gt;&lt;size=60&gt;“25-D！！！”&lt;/size&gt;&lt;/z&gt;" param2="" param3=""/>
 <C1_kaiselinoffice id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="" param="我不由自主地喊出了这个编号。" param2="" param3="type=1"/>
 <C1_kaiselinoffice id="178" originalRow="178" groupSign="" debugClose="" action="镜头震动" data="1;1.5;1.5;2" param="" param2="" param3=""/>
 <C1_kaiselinoffice id="179" originalRow="179" groupSign="1" debugClose="" action="打开插画" data="blank" param="" param2="" param3=""/>

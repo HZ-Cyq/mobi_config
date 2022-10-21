@@ -1,12 +1,12 @@
 <root>
 <Test_WulianNpc id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
 <Test_WulianNpc id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
-<Test_WulianNpc id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="nfc90022" param="pos=中" param2="" param3=""/>
-<Test_WulianNpc id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="nfc90022" param="{#npc标准男01待机动作}这里是待机动作" param2="" param3=""/>
-<Test_WulianNpc id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="nfc90022" param="{#npc标准男01愤怒动作}{#npc标准男01愤怒表情}这里是愤怒动作" param2="" param3=""/>
-<Test_WulianNpc id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="nfc90022" param="{#npc标准男01愤怒动作恢复}{#npc标准男01待机表情}这里是愤怒动作恢复" param2="" param3=""/>
-<Test_WulianNpc id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="nfc90022" param="{#npc标准男01紧张动作}{#npc标准男01紧张表情}这里是紧张动作" param2="" param3=""/>
-<Test_WulianNpc id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="nfc90022" param="{#npc标准男01紧张动作恢复}{#npc标准男01待机表情}这里是紧张动作恢复" param2="" param3=""/>
+<Test_WulianNpc id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="npc_biaonan001" param="pos=中" param2="" param3=""/>
+<Test_WulianNpc id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01待机动作}这里是待机动作" param2="" param3=""/>
+<Test_WulianNpc id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01愤怒动作}{#npc标准男01愤怒表情}这里是愤怒动作" param2="" param3=""/>
+<Test_WulianNpc id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01愤怒动作恢复}{#npc标准男01待机表情}这里是愤怒动作恢复" param2="" param3=""/>
+<Test_WulianNpc id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01紧张动作}{#npc标准男01紧张表情}这里是紧张动作" param2="" param3=""/>
+<Test_WulianNpc id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="npc_biaonan001" param="{#npc标准男01紧张动作恢复}{#npc标准男01待机表情}这里是紧张动作恢复" param2="" param3=""/>
 <Test_WulianNpc id="8" originalRow="8" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <Test_WulianNpc id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="npc_biaonan002" param="pos=中" param2="" param3=""/>
 <Test_WulianNpc id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="npc_biaonan002" param="{#npc标准男02待机动作}{#npc标准男02待机表情}这里是待机动作" param2="" param3=""/>
@@ -22,6 +22,5 @@
 <Test_WulianNpc id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01紧张动作}{#npc标准女01紧张表情}这里是紧张动作" param2="" param3=""/>
 <Test_WulianNpc id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="npc_biaonv001" param="{#npc标准女01紧张动作恢复}{#npc标准女01待机表情}这里是紧张动作恢复" param2="" param3=""/>
 <Test_WulianNpc id="22" originalRow="22" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<Test_WulianNpc id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<Test_WulianNpc id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_WulianNpc id="23" originalRow="23" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

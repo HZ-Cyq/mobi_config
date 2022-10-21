@@ -6,6 +6,7 @@
     public string desc;//任务描述(详细)
     public string PanelDesc;//任务面板描述（简短）
     public System.Collections.Generic.List<int> targetRoomIds;//任务所在二级场景
+    public int traceRoomId;//任务追踪房间
     public int hide;//是否是隐藏任务（0或者不填 为普通任务 1 为隐藏任务）
     public int hideUI;//是否在UI显示（0或者不填 显示 1 不显示）
     public System.Collections.Generic.List<System.Collections.Generic.List<string>> roomScene;//room对应的场景

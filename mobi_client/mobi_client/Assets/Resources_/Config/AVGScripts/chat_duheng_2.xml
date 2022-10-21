@@ -26,7 +26,7 @@ $$博士平日喜欢做什么呢？==&gt;博士平日喜欢做什么" param2=""/
 <chat_duheng_2 id="23" originalRow="23" groupSign="" debugClose="" action="可选对话框" data="" param="$$呃……康德是……好像是个哲学家？==&gt;好像是个哲学家" param2=""/>
 <chat_duheng_2 id="24" originalRow="24" groupSign="好像是个哲学家" debugClose="" action="" data="" param2=""/>
 <chat_duheng_2 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="wo" param="呃……康德是……好像是个哲学家？" param2=""/>
-<chat_duheng_2 id="26" originalRow="26" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="懂的不少嘛。" param2=""/>
+<chat_duheng_2 id="26" originalRow="26" groupSign="0.9&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="懂的不少嘛。" param2=""/>
 <chat_duheng_2 id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2=""/>
 <chat_duheng_2 id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <chat_duheng_2 id="29" originalRow="29" groupSign="分支结束" action="" param=""/>

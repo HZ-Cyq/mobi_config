@@ -2,9 +2,9 @@
 <maze301_part4 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data=""/>
 <maze301_part4 id="1" originalRow="1" groupSign="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
 <maze301_part4 id="2" originalRow="2" groupSign="" action="设置角色" data="niefei" param="pos=中"/>
-<maze301_part4 id="3" originalRow="3" groupSign="" action="角色台词" data="niefei" param="又是一个岔路口……本大爷累了，本大爷想休假……"/>
+<maze301_part4 id="3" originalRow="3" groupSign="" action="角色台词" data="niefei" param="{#聂飞馋动作}又是一个岔路口……本大爷累了 本大爷想休假……"/>
 <maze301_part4 id="4" originalRow="4" groupSign="" action="设置角色" data="tuling" param="pos=右"/>
-<maze301_part4 id="5" originalRow="5" groupSign="" action="角色台词" data="tuling" param="如果我们想去出口的话，应该往东南方向前进。"/>
+<maze301_part4 id="5" originalRow="5" groupSign="" action="角色台词" data="tuling" param="{#涂凌思考动作}如果我们想去出口的话，应该往东南方向前进。"/>
 <maze301_part4 id="6" originalRow="6" groupSign="" action="移除角色" data="" param=""/>
 <maze301_part4 id="7" originalRow="7" groupSign="结束" debugClose="" action="" data=""/>
 </root>

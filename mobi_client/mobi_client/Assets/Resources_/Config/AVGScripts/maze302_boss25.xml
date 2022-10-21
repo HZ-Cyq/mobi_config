@@ -1,8 +1,9 @@
 <root>
 <maze302_boss25 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
 <maze302_boss25 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<maze302_boss25 id="2" originalRow="2" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<maze302_boss25 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="即使我已经连续工作了172个小时，现在我依然状态满满，我不会让你们过去的！" param2="" param3="name=尽力的保镖"/>
-<maze302_boss25 id="4" originalRow="4" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<maze302_boss25 id="5" originalRow="5" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_boss25 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="@char_1" param="" param2="" param3=""/>
+<maze302_boss25 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="@char_1" param="即使我已经连续工作了172个小时，现在我" param2="" param3="name=尽力的保镖"/>
+<maze302_boss25 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="@char_1" param="依然状态满满！我不会让你们过去的！" param2="" param3="name=尽力的保镖"/>
+<maze302_boss25 id="5" originalRow="5" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<maze302_boss25 id="6" originalRow="6" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

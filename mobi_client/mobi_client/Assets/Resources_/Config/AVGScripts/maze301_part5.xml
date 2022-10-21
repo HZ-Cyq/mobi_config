@@ -2,8 +2,8 @@
 <maze301_part5 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data=""/>
 <maze301_part5 id="1" originalRow="1" groupSign="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
 <maze301_part5 id="2" originalRow="2" groupSign="" action="设置角色" data="tuling" param="pos=中"/>
-<maze301_part5 id="3" originalRow="3" groupSign="" action="角色台词" data="tuling" param="杜博士说的果然没错，巢的路线很清晰，我们选择的路线是正确的。只不过……"/>
-<maze301_part5 id="4" originalRow="4" groupSign="" action="角色台词" data="tuling" param="前面的异质波动太强了，我有点担心。"/>
+<maze301_part5 id="3" originalRow="3" groupSign="" action="角色台词" data="tuling" param="{#涂凌紧张动作}杜博士说的果然没错，巢的路线很清晰，我们选择的路线是正确的。只不过……"/>
+<maze301_part5 id="4" originalRow="4" groupSign="" action="角色台词" data="tuling" param="{#涂凌思考动作}前面的异质波动太强了，我有点担心。"/>
 <maze301_part5 id="5" originalRow="5" groupSign="" action="移除角色" data="" param=""/>
 <maze301_part5 id="6" originalRow="6" groupSign="结束" debugClose="" action="" data=""/>
 </root>

@@ -2,75 +2,81 @@
 <xt_xiangji_gongyulouxia_1 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_xiangji_gongyulouxia_1 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_xiangji_gongyulouxia_1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="喂！说，你到底是谁！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="stranger" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="stranger" param="你们是刚刚的……" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="别装了！我们已经知道了你的底细，你是异质物对吧！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="我们只是猜测……" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}喂！说，你到底是谁！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="nfc_90014" param="pos=右" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="nfc_90014" param="{#FANN紧张动作}你们是刚刚的……" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作}别装了！我们已经知道了你的底细，你是异质物对吧！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="我们只是猜测……" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="8" originalRow="8" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_xiangji_gongyulouxia_1 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="嘘……这是审讯的一种方式啦~" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="通过意外强大的气场让对方以为自己已经被抓住了把柄，
-小飞飞作为特种兵出身，这种方法还是很熟练的。" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="niefei" param="最近精神失常的小区住户，还有余阿南咳血！都是拜你所赐吧！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="stranger" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="stranger" param="爱人他只是身体抱恙，我不知道你在说什么……" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="niefei" param="可恶，她竟然不吃我这一套！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="原来聂飞的审讯这么无力吗……" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="tuling" param="哎，没办法了……周易，顺着刚刚聂飞的假设，找到关键的证据揭穿她的谎言吧！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="23" originalRow="23" groupSign="" debugClose="" action="可选对话框" data="" param="$$暗恋对象==&gt;正确选项
+<xt_xiangji_gongyulouxia_1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}嘘……这是审讯的一种方式啦~" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}通过意外强大的气场让对方以为自己已经被抓住了把柄，" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}小飞飞作为特种兵出身，这种方法还是很熟练的。" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}最近精神失常的小区住户，还有余阿南咳血！都是拜你所赐吧！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="nfc_90014" param="pos=右" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="nfc_90014" param="{#FANN质问动作}爱人他只是身体抱恙，我不知道你在说什么……" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}可恶，她竟然不吃我这一套！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="20" originalRow="20" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}{#凯瑟琳2威慑表情}原来聂飞的审讯这么无力吗……" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="23" originalRow="23" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌灵感动作}哎，没办法了……周易，顺着刚刚聂飞的假设，找到关键的证据揭穿她的谎言吧！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="25" originalRow="25" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="26" originalRow="26" groupSign="" debugClose="" action="可选对话框" data="" param="$$暗恋对象==&gt;正确选项
 $$母胎单身==&gt;正确选项
 $$他的幻想==&gt;正确选项" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="26" originalRow="26" groupSign="正确选项" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="根据我们的调查，母胎单身的余阿南幻想出的暗恋对象其实早就已经在外地结婚生子。" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="不可能同时出现在两个地方，你必然是假扮的！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="stranger" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="stranger" param="没想到你们能查到这么深，我原本以为已经天衣无缝了呢。" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="31" originalRow="31" groupSign="异质物立绘出现" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="32" originalRow="32" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="没办法了，不会让你们打扰我和阿南的！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="34" originalRow="34" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="niefei" param="是异质物！她现出真身了！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="36" originalRow="36" groupSign="进入战斗" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="37" originalRow="37" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="周易，准备收容！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="39" originalRow="39" groupSign="战斗结束" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="40" originalRow="40" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="不会就这样结束的……不会让你们得逞的！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="42" originalRow="42" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="niefei" param="可恶，被她逃掉了！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="44" originalRow="44" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="涂凌，能追踪到异质物的去向吗？" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="46" originalRow="46" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="tuling" param="没办法……这个异质物似乎特别善于隐藏自己的异质波动，上次她和余阿南一起出现，我们也没发现她。" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="48" originalRow="48" groupSign="对话选项" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="49" originalRow="49" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="niefei" param="没办法了，想想看她会去哪吧。" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="51" originalRow="51" groupSign="" debugClose="" action="可选对话框" data="" param="$$昭离公馆==&gt;昭离公馆
+<xt_xiangji_gongyulouxia_1 id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="29" originalRow="29" groupSign="正确选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="30" originalRow="30" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="根据我们的调查，母胎单身的余阿南幻想出的暗恋对象其实早就已经在外地结婚生子。" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="不可能同时出现在两个地方，你必然是假扮的！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="33" originalRow="33" groupSign="" debugClose="" action="设置角色" data="nfc_90014" param="pos=中" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="nfc_90014" param="{#FANN开心动作}没想到你们能查到这么深，我原本以为已经天衣无缝了呢。" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="35" originalRow="35" groupSign="异质物立绘出现" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="36" originalRow="36" groupSign="0.3&gt;&gt;" debugClose="" action="设置角色" data="xiangjiniang" param="pos=中" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="没办法了，不会让你们打扰我和阿南的！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="niefei" param="是异质物！她现出真身了！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="准备收容！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="40" originalRow="40" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="42" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="43" originalRow="43" groupSign="战斗结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="44" originalRow="44" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="45" originalRow="45" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="pos=中" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="不会就这样结束的……不会让你们得逞的！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="47" originalRow="47" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="48" originalRow="48" groupSign="0.8&gt;&gt;" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}可恶，被她逃掉了！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="50" originalRow="50" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="涂凌，能追踪到异质物的去向吗？" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="52" originalRow="52" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="tuling" param="没办法……这个异质物似乎特别善于隐藏自己的异质波动。" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="tuling" param="上次她和余阿南一起出现，我们也没发现她。" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="55" originalRow="55" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="56" originalRow="56" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}没办法了，想想看她会去哪吧。" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="58" originalRow="58" groupSign="对话选项" debugClose="" action="可选对话框" data="" param="$$昭离公馆==&gt;昭离公馆
 $$余阿南家==&gt;余阿南家" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="52" originalRow="52" groupSign="昭离公馆" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="53" originalRow="53" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="哈哈哈，现在还有心情开玩笑，真不愧是你呢~" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="55" originalRow="55" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="niefei" param="哎呀！本大爷的思绪都被你搞乱了，快再想想！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="57" originalRow="57" groupSign="" debugClose="" action="跳转-标签" data="" param="对话选项" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="58" originalRow="58" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="59" originalRow="59" groupSign="余阿南家" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="60" originalRow="60" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="去找被她影响的虚假爱人吗？确实有些道理。
-哎，该怎么评价这样的感情呢~" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="62" originalRow="62" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么感情！异质物正在伤害余阿南，我们快上楼去找她吧！" param2="" param3="type=0"/>
-<xt_xiangji_gongyulouxia_1 id="64" originalRow="64" groupSign="" debugClose="" action="语法-数值" data="rqs_3006004相机娘支线4=2" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="65" originalRow="65" groupSign="" debugClose="" action="语法-数值" data="rqs_3006005相机娘支线5=1" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="66" originalRow="66" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="67" originalRow="67" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_gongyulouxia_1 id="68" originalRow="68" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="59" originalRow="59" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="60" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="61" originalRow="61" groupSign="昭离公馆" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="62" originalRow="62" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="凯瑟琳_紧张_动作_开始_01" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}哈哈哈，现在还有心情开玩笑，真不愧是你呢~" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="niefei" param="哎呀！{#聂飞愤怒表情}本大爷的思绪都被你搞乱了，快再想想！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="65" originalRow="65" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="66" originalRow="66" groupSign="" debugClose="" action="跳转-标签" data="" param="对话选项" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="67" originalRow="67" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="68" originalRow="68" groupSign="余阿南家" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="69" originalRow="69" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}{#聂飞待机表情}去找被她影响的虚假爱人吗？确实有些道理。
+{#凯瑟琳2得意表情}{#凯瑟琳2得意动作}哎，该怎么评价这样的感情呢~" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞军体拳}什么感情！异质物正在伤害余阿南，我们快去余阿南家找她吧！" param2="" param3="type=0"/>
+<xt_xiangji_gongyulouxia_1 id="72" originalRow="72" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="73" originalRow="73" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="74" originalRow="74" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_gongyulouxia_1 id="75" originalRow="75" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

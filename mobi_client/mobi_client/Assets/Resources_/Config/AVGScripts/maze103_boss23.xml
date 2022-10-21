@@ -3,19 +3,19 @@
 <maze103_boss23 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze103_boss23 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="stranger1" param="呜啊……我要吃饭！肚子又在唱歌啦！" param2=""/>
 <maze103_boss23 id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<maze103_boss23 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么情况？！这就是巢主吗？他是我们之前遇见过的那个吧！" param2=""/>
+<maze103_boss23 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}什么情况？！这就是巢主吗？他是我们之前遇见过的那个吧！" param2=""/>
 <maze103_boss23 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="stranger1" param="呜啊感觉你们很好吃，肚子唱得更响了，烦人儿！" param2=""/>
 <maze103_boss23 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
-<maze103_boss23 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你的朋友呢？" param2=""/>
-<maze103_boss23 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="巢主的肚子咕噜咕噜地响。" param2=""/>
-<maze103_boss23 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="可恶，别跟他废话了，周易，上吧！" param2=""/>
+<maze103_boss23 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2严肃表情}你的朋友呢？" param2=""/>
+<maze103_boss23 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="巢主的肚子咕噜咕噜地响。" param2="" param3="type=1"/>
+<maze103_boss23 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作}{#聂飞愤怒表情}可恶，别跟他废话了，上吧！" param2=""/>
 <maze103_boss23 id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <maze103_boss23 id="11" originalRow="11" groupSign="胜利" debugClose="" action="" data="" param="" param2=""/>
 <maze103_boss23 id="12" originalRow="12" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze103_boss23 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<maze103_boss23 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="niefei" param="终于结束了，这个巢算是清理干净了吧！" param2=""/>
+<maze103_boss23 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞馋动作}终于结束了，这个巢算是清理干净了吧！" param2=""/>
 <maze103_boss23 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
-<maze103_boss23 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="好像不是这样，巢变反应没有并没有消失。" param2=""/>
+<maze103_boss23 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}好像不是这样，巢变反应没有并没有消失。" param2=""/>
 <maze103_boss23 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="我先把情报发给杜博士吧，看看她怎么说。" param2=""/>
 <maze103_boss23 id="18" originalRow="18" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <maze103_boss23 id="19" originalRow="19" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>

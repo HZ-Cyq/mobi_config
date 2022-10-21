@@ -2,16 +2,21 @@
 <Intro_C1_battle02_layout id="0" originalRow="0" groupSign="开始" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
 <Intro_C1_battle02_layout id="1" originalRow="1" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
 <Intro_C1_battle02_layout id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
-<Intro_C1_battle02_layout id="3" originalRow="3" debugClose="" action="" data="" param="" param2="" param3=""/>
-<Intro_C1_battle02_layout id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<Intro_C1_battle02_layout id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="" param3=""/>
-<Intro_C1_battle02_layout id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么？" param2="" param3=""/>
-<Intro_C1_battle02_layout id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="需要老子我也参战？" param2="" param3=""/>
-<Intro_C1_battle02_layout id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="那就把我疗伤的这个异质物借你用用吧！" param2="" param3=""/>
-<Intro_C1_battle02_layout id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="用完要还！" param2="" param3=""/>
-<Intro_C1_battle02_layout id="10" originalRow="10" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
-<Intro_C1_battle02_layout id="11" originalRow="11" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
-<Intro_C1_battle02_layout id="12" originalRow="12" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
-<Intro_C1_battle02_layout id="13" originalRow="13" groupSign="结束" debugClose="" action="" data="" param=""/>
-<Intro_C1_battle02_layout id="14" originalRow="14"/>
+<Intro_C1_battle02_layout id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<Intro_C1_battle02_layout id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<Intro_C1_battle02_layout id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}{#涂凌开心表情}这下小飞飞也归队了，
+我们STS作战小队就到齐了。" param2="" param3=""/>
+<Intro_C1_battle02_layout id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="赶紧把他也派遣上场吧。" param2="" param3=""/>
+<Intro_C1_battle02_layout id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<Intro_C1_battle02_layout id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}什么？" param2="" param3=""/>
+<Intro_C1_battle02_layout id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="让这个小毛孩指挥我？" param2="" param3=""/>
+<Intro_C1_battle02_layout id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="这是杜博士的任命！" param2="" param3=""/>
+<Intro_C1_battle02_layout id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}！！！" param2="" param3=""/>
+<Intro_C1_battle02_layout id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞军体拳}一级战斗员，聂飞准备就绪。
+请指示！" param2="" param3=""/>
+<Intro_C1_battle02_layout id="13" originalRow="13" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_C1_battle02_layout id="14" originalRow="14" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_C1_battle02_layout id="15" originalRow="15" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_C1_battle02_layout id="16" originalRow="16" groupSign="结束" debugClose="" action="" data="" param=""/>
+<Intro_C1_battle02_layout id="17" originalRow="17"/>
 </root>

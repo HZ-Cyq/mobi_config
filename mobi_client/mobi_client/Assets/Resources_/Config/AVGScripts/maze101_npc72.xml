@@ -6,27 +6,27 @@
 <maze101_npc72 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
 <maze101_npc72 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="朋友？" param2=""/>
 <maze101_npc72 id="6" originalRow="6" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
-<maze101_npc72 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="大家向它讲述了刚刚的遭遇……" param2=""/>
-<maze101_npc72 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="可恶！原来他要找的食物就是我吗！亏我还好心帮他，怕他被吃掉，这家伙原来是把我当成食物了啊！" param2=""/>
-<maze101_npc72 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="你们还不知道吧，在巢里，我们就是注定为巢主服务的，这是我的坚定不移的职责和使命！" param2=""/>
-<maze101_npc72 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="并且，拥有心智导体越多的同伴，就代表他实力越强，可以在更靠近巢主的地方侍奉他。" param2=""/>
-<maze101_npc72 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="想要获得更多的心智导体，只有一种方法……吃掉同类！就可以拥有他所拥有的心智导体了。" param2=""/>
-<maze101_npc72 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
-<maze101_npc72 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="弱肉强食的丛林法则吗……" param2=""/>
-<maze101_npc72 id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
-<maze101_npc72 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="随便你们怎么想，总之被吃掉是可耻的事情，代表着再也完成不了自己的使命了！" param2=""/>
-<maze101_npc72 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="本来想跟他一起去下层的，没想到他竟然想吃掉我！我不管他了！让他自生自灭去吧！" param2=""/>
-<maze101_npc72 id="17" originalRow="17" action="跳转-标签" param="结束"/>
-<maze101_npc72 id="18" originalRow="18" groupSign="问候"/>
-<maze101_npc72 id="19" originalRow="19" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<maze101_npc72 id="20" originalRow="20" groupSign="" debugClose="" action="设置角色" data="char_maze101_2" param="pos=中" param2="" param3=""/>
-<maze101_npc72 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="人类，竟然能闯到这里吗……真厉害啊。" param2=""/>
-<maze101_npc72 id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<maze101_npc72 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="niefei" param="异质物靠近，一级戒备！" param2=""/>
-<maze101_npc72 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="别！别打我！我不会对你们做什么的！" param2=""/>
-<maze101_npc72 id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<maze101_npc72 id="26" originalRow="26" groupSign="结束"/>
-<maze101_npc72 id="27" originalRow="27"/>
+<maze101_npc72 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="大家向它讲述了刚刚的遭遇……" param2="" param3="type=1"/>
+<maze101_npc72 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="可恶！原来他要找的食物就是我吗！亏我还好心帮他，怕他被吃掉，" param2=""/>
+<maze101_npc72 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="这家伙原来是把我当成食物了啊！" param2=""/>
+<maze101_npc72 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="你们还不知道吧，在巢里，我们就是注定为巢主服务的，这是我的坚定不移的职责和使命！" param2=""/>
+<maze101_npc72 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="并且，拥有&lt;z=highlight&gt;『心智导体』&lt;/z&gt;越多的同伴，就代表他实力越强，可以在更靠近巢主的地方侍奉他。" param2=""/>
+<maze101_npc72 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="想要获得更多的&lt;z=highlight&gt;『心智导体』&lt;/z&gt;，只有一种方法……吃掉同类！就可以拥有他的&lt;z=highlight&gt;『心智导体』&lt;/z&gt;了。" param2=""/>
+<maze101_npc72 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<maze101_npc72 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}弱肉强食的丛林法则吗……" param2=""/>
+<maze101_npc72 id="15" originalRow="15" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
+<maze101_npc72 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="随便你们怎么想，总之被吃掉是可耻的事情，代表着再也完成不了自己的使命了！" param2=""/>
+<maze101_npc72 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="本来想跟他一起去下层的，没想到他竟然想吃掉我！我不管他了！让他自生自灭去吧！" param2=""/>
+<maze101_npc72 id="18" originalRow="18" action="跳转-标签" param="结束"/>
+<maze101_npc72 id="19" originalRow="19" groupSign="问候"/>
+<maze101_npc72 id="20" originalRow="20" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<maze101_npc72 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="char_maze101_2" param="pos=中" param2="" param3=""/>
+<maze101_npc72 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="人类，竟然能闯到这里吗……真厉害啊。" param2=""/>
+<maze101_npc72 id="23" originalRow="23" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<maze101_npc72 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}异质物靠近，一级戒备！" param2=""/>
+<maze101_npc72 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="char_maze101_2" param="别！别打我！我不会对你们做什么的！" param2=""/>
+<maze101_npc72 id="26" originalRow="26" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze101_npc72 id="27" originalRow="27" groupSign="结束"/>
 <maze101_npc72 id="28" originalRow="28"/>
 <maze101_npc72 id="29" originalRow="29"/>
 <maze101_npc72 id="30" originalRow="30"/>
@@ -37,7 +37,8 @@
 <maze101_npc72 id="35" originalRow="35"/>
 <maze101_npc72 id="36" originalRow="36"/>
 <maze101_npc72 id="37" originalRow="37"/>
-<maze101_npc72 id="38" originalRow="38" data=""/>
-<maze101_npc72 id="39" originalRow="39"/>
-<maze101_npc72 id="40" originalRow="40" groupSign=""/>
+<maze101_npc72 id="38" originalRow="38"/>
+<maze101_npc72 id="39" originalRow="39" data=""/>
+<maze101_npc72 id="40" originalRow="40"/>
+<maze101_npc72 id="41" originalRow="41" groupSign=""/>
 </root>

@@ -20,5 +20,20 @@ $$我现在有点忙诶。==&gt;我现在有点忙诶。" param2="" param3=""/>
 <xt_wuliu_message id="17" originalRow="17" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="wo" param="也太多了吧！！" param2="" param3="type=0"/>
 <xt_wuliu_message id="18" originalRow="18" groupSign="2.0&gt;&gt;" debugClose="" action="角色台词" data="wo" param="我知道了……我马上过来。" param2="" param3="type=0"/>
 <xt_wuliu_message id="19" originalRow="19" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_wuliu_message id="20" originalRow="20" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="21" originalRow="21" groupSign="快递问候" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="22" originalRow="22" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_wuliu_message id="23" originalRow="23" groupSign="" debugClose="" action="设置角色" data="niefei" param="" param2="" param3=""/>
+<xt_wuliu_message id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="动手吧！" param2="" param3="type=0"/>
+<xt_wuliu_message id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_wuliu_message id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="27" originalRow="27" groupSign="快递谷秋问候" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="28" originalRow="28" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_wuliu_message id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="guqiu" param="" param2="" param3=""/>
+<xt_wuliu_message id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="guqiu" param="怎么？" param2="" param3=""/>
+<xt_wuliu_message id="31" originalRow="31" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_wuliu_message id="32" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="33" originalRow="33" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_wuliu_message id="35" originalRow="35" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

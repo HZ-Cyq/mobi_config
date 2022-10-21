@@ -117,7 +117,7 @@
 <MazeResource id="22002" type="0" prefab="U1_02.prefab" icon="Maze/MazeIcon/ui_maze_t1a2" towards="0"/>
 <MazeResource id="22003" type="0" prefab="U1_03.prefab" icon="Maze/MazeIcon/ui_maze_t1a3" towards="0"/>
 <MazeResource id="22004" type="0" prefab="U1_04.prefab" icon="Maze/MazeIcon/ui_maze_t1a4" towards="0"/>
-<MazeResource id="22005" type="0" prefab="I1_01.prefab|I2_01.prefab" icon="Maze/MazeIcon/ui_maze_t2a1" towards="0"/>
+<MazeResource id="22005" type="0" prefab="I1_01.prefab" icon="Maze/MazeIcon/ui_maze_t2a1" towards="0"/>
 <MazeResource id="22006" type="0" prefab="I1_02.prefab|I2_02.prefab" icon="Maze/MazeIcon/ui_maze_t2a2" towards="0"/>
 <MazeResource id="22007" type="0" prefab="L1_01.prefab" icon="Maze/MazeIcon/ui_maze_t2b1" towards="0"/>
 <MazeResource id="22008" type="0" prefab="L1_02.prefab" icon="Maze/MazeIcon/ui_maze_t2b2" towards="0"/>

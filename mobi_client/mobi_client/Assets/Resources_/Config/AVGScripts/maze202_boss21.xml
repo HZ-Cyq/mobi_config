@@ -2,7 +2,7 @@
 <maze202_boss21 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
 <maze202_boss21 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze202_boss21 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="stranger1" param="我最喜欢做的事情呢，就是翘着脚看艺术片啦，毕竟我只是给巢主看大门的。" param2=""/>
-<maze202_boss21 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="stranger1" param="你问我喜欢看什么？烦人！反正肯定不是头文字啦！" param2=""/>
+<maze202_boss21 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="stranger1" param="你问我喜欢看什么？烦人！ 反正肯定不会是头文字啦！" param2=""/>
 <maze202_boss21 id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <maze202_boss21 id="5" originalRow="5" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
 </root>

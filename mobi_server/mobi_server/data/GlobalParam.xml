@@ -60,8 +60,9 @@
 <GlobalParam id="59" key_variable="KEY_AVG_LIGHT_COLOR_BLUE" value="128|255|255|255" type="aint"/>
 <GlobalParam id="60" key_variable="KEY_AVG_LIGHT_COLOR_GREEN" value="128|255|128|255" type="aint"/>
 <GlobalParam id="61" key_variable="KEY_AVG_LIGHT_COLOR_YELLOW" value="255|255|128|255" type="aint"/>
-<GlobalParam id="62" key_variable="KEY_SECRET_SHOP_RULE" value="0" type="int" multi_params="11;secretshopmanager|xt_9001001;xt_9001002"/>
+<GlobalParam id="62" key_variable="KEY_SECRET_SHOP_RULE" value="0" type="int" multi_params="21;secretshopmanager|XT_jingchaohu_park_enter;XT_jiudian_square;XT_Kangxin_menkou"/>
 <GlobalParam id="63" key_variable="KEY_GACHA_TIMELINE_HIDEHINT_RATIO" value="40" type="int"/>
 <GlobalParam id="64" key_variable="KEY_GACHA_TIMELINE_NUM_REPEAT_LIMIT" value="2" type="int"/>
 <GlobalParam id="65" key_variable="KEY_COMMON_PARTICLE_ID" value="500000" type="int"/>
+<GlobalParam id="66" key_variable="KEY_PRIVACY" value="https://www.seayoo.com/legal/index.html?g=sts&amp;id=" type="string"/>
 </root>

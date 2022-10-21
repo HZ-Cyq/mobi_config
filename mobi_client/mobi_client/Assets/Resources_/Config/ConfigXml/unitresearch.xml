@@ -1502,7 +1502,7 @@
 <UnitResearch id="124107" group_cardId="124" group_unitStagekey="124100" stage="1" name="第一阶段" index="5" cell="7" type="2" content="3" num="4" item="1;200|300101;3" refresh="3|10"/>
 <UnitResearch id="124109" group_cardId="124" group_unitStagekey="124100" stage="1" name="第一阶段" index="6" cell="9" type="3" content="10" num="5" item="1;200|300101;5" refresh="3|10"/>
 <UnitResearch id="124119" group_cardId="124" group_unitStagekey="124100" stage="1" name="第一阶段" index="7" cell="19" type="1" content="3|20" num="6" item="1;1000|300101;20|300102;10" refresh=""/>
-<UnitResearch id="124199" group_cardId="124" group_unitStagekey="124100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="12302" num="7" item="" refresh=""/>
+<UnitResearch id="124199" group_cardId="124" group_unitStagekey="124100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="12402" num="7" item="" refresh=""/>
 <UnitResearch id="124201" group_cardId="124" group_unitStagekey="124200" stage="2" name="第二阶段" index="9" cell="1" type="3" content="15" num="0" item="1;5000|300201;1" refresh=""/>
 <UnitResearch id="124202" group_cardId="124" group_unitStagekey="124200" stage="2" name="第二阶段" index="10" cell="2" type="2" content="10" num="1" item="1;1000|300201;3" refresh="3|10"/>
 <UnitResearch id="124203" group_cardId="124" group_unitStagekey="124200" stage="2" name="第二阶段" index="11" cell="3" type="1" content="1|160" num="2" item="1;1000|300201;3" refresh="3|10"/>
@@ -1517,7 +1517,7 @@
 <UnitResearch id="124218" group_cardId="124" group_unitStagekey="124200" stage="2" name="第二阶段" index="20" cell="18" type="2" content="20" num="11" item="1;1000|300201;16" refresh="3|10"/>
 <UnitResearch id="124219" group_cardId="124" group_unitStagekey="124200" stage="2" name="第二阶段" index="21" cell="19" type="1" content="3|40" num="12" item="1;5000|300201;60|300202;30" refresh=""/>
 <UnitResearch id="124299" group_cardId="124" group_unitStagekey="124200" stage="2" name="第二阶段" index="22" cell="99" type="7" content="1" num="13" item="" refresh=""/>
-<UnitResearch id="124301" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="12302" num="0" item="1;8000|300301;1" refresh=""/>
+<UnitResearch id="124301" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="12402" num="0" item="1;8000|300301;1" refresh=""/>
 <UnitResearch id="124302" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="24" cell="2" type="1" content="31|30" num="1" item="1;2000|300301;4" refresh="3|10"/>
 <UnitResearch id="124303" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="25" cell="3" type="2" content="20" num="2" item="1;2000|300301;4" refresh="3|10"/>
 <UnitResearch id="124304" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="26" cell="4" type="1" content="3|48" num="3" item="1;2000|300301;8" refresh="3|10"/>
@@ -1537,7 +1537,7 @@
 <UnitResearch id="124320" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="40" cell="20" type="3" content="10" num="17" item="1;2000|300301;40" refresh="3|10"/>
 <UnitResearch id="124331" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="41" cell="31" type="1" content="1|768" num="18" item="1;8000|300301;80|300302;40" refresh=""/>
 <UnitResearch id="124399" group_cardId="124" group_unitStagekey="124300" stage="3" name="第三阶段" index="42" cell="99" type="6" content="3" num="19" item="" refresh=""/>
-<UnitResearch id="124401" group_cardId="124" group_unitStagekey="124400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="12303" num="0" item="1;20000|300401;1" refresh=""/>
+<UnitResearch id="124401" group_cardId="124" group_unitStagekey="124400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="12403" num="0" item="1;20000|300401;1" refresh=""/>
 <UnitResearch id="124402" group_cardId="124" group_unitStagekey="124400" stage="4" name="第四阶段" index="44" cell="2" type="1" content="2|280" num="1" item="1;10000|300401;5" refresh="3|10"/>
 <UnitResearch id="124403" group_cardId="124" group_unitStagekey="124400" stage="4" name="第四阶段" index="45" cell="3" type="2" content="30" num="2" item="1;10000|300401;5" refresh="3|10"/>
 <UnitResearch id="124404" group_cardId="124" group_unitStagekey="124400" stage="4" name="第四阶段" index="46" cell="4" type="1" content="31|30" num="3" item="1;10000|300401;10" refresh="3|10"/>
@@ -1570,7 +1570,7 @@
 <UnitResearch id="125109" group_cardId="125" group_unitStagekey="125100" stage="1" name="第一阶段" index="5" cell="9" type="2" content="3" num="4" item="1;200|300103;3" refresh="3|10"/>
 <UnitResearch id="125114" group_cardId="125" group_unitStagekey="125100" stage="1" name="第一阶段" index="6" cell="14" type="3" content="10" num="5" item="1;200|300103;5" refresh="3|10"/>
 <UnitResearch id="125119" group_cardId="125" group_unitStagekey="125100" stage="1" name="第一阶段" index="7" cell="19" type="1" content="3|20" num="6" item="1;1000|300103;20|300101;10" refresh=""/>
-<UnitResearch id="125199" group_cardId="125" group_unitStagekey="125100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="11902" num="7" item="" refresh=""/>
+<UnitResearch id="125199" group_cardId="125" group_unitStagekey="125100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="12502" num="7" item="" refresh=""/>
 <UnitResearch id="125201" group_cardId="125" group_unitStagekey="125200" stage="2" name="第二阶段" index="9" cell="1" type="3" content="15" num="0" item="1;5000|300203;1" refresh=""/>
 <UnitResearch id="125202" group_cardId="125" group_unitStagekey="125200" stage="2" name="第二阶段" index="10" cell="2" type="2" content="10" num="1" item="1;1000|300203;3" refresh="3|10"/>
 <UnitResearch id="125203" group_cardId="125" group_unitStagekey="125200" stage="2" name="第二阶段" index="11" cell="3" type="1" content="1|160" num="2" item="1;1000|300203;3" refresh="3|10"/>
@@ -1585,7 +1585,7 @@
 <UnitResearch id="125222" group_cardId="125" group_unitStagekey="125200" stage="2" name="第二阶段" index="20" cell="22" type="2" content="20" num="11" item="1;1000|300203;16" refresh="3|10"/>
 <UnitResearch id="125229" group_cardId="125" group_unitStagekey="125200" stage="2" name="第二阶段" index="21" cell="29" type="1" content="3|40" num="12" item="1;5000|300203;60|300201;30" refresh=""/>
 <UnitResearch id="125299" group_cardId="125" group_unitStagekey="125200" stage="2" name="第二阶段" index="22" cell="99" type="7" content="1" num="13" item="" refresh=""/>
-<UnitResearch id="125301" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="11902" num="0" item="1;8000|300303;1" refresh=""/>
+<UnitResearch id="125301" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="12502" num="0" item="1;8000|300303;1" refresh=""/>
 <UnitResearch id="125302" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="24" cell="2" type="1" content="20|30" num="1" item="1;2000|300303;4" refresh="3|10"/>
 <UnitResearch id="125303" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="25" cell="3" type="2" content="20" num="2" item="1;2000|300303;4" refresh="3|10"/>
 <UnitResearch id="125305" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="26" cell="5" type="1" content="3|48" num="3" item="1;2000|300303;8" refresh="3|10"/>
@@ -1605,7 +1605,7 @@
 <UnitResearch id="125329" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="40" cell="29" type="3" content="10" num="17" item="1;2000|300303;40" refresh="3|10"/>
 <UnitResearch id="125331" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="41" cell="31" type="1" content="1|768" num="18" item="1;8000|300303;80|300301;40" refresh=""/>
 <UnitResearch id="125399" group_cardId="125" group_unitStagekey="125300" stage="3" name="第三阶段" index="42" cell="99" type="6" content="3" num="19" item="" refresh=""/>
-<UnitResearch id="125401" group_cardId="125" group_unitStagekey="125400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="11903" num="0" item="1;20000|300403;1" refresh=""/>
+<UnitResearch id="125401" group_cardId="125" group_unitStagekey="125400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="12503" num="0" item="1;20000|300403;1" refresh=""/>
 <UnitResearch id="125402" group_cardId="125" group_unitStagekey="125400" stage="4" name="第四阶段" index="44" cell="2" type="1" content="2|280" num="1" item="1;10000|300403;5" refresh="3|10"/>
 <UnitResearch id="125403" group_cardId="125" group_unitStagekey="125400" stage="4" name="第四阶段" index="45" cell="3" type="2" content="30" num="2" item="1;10000|300403;5" refresh="3|10"/>
 <UnitResearch id="125405" group_cardId="125" group_unitStagekey="125400" stage="4" name="第四阶段" index="46" cell="5" type="1" content="20|30" num="3" item="1;10000|300403;10" refresh="3|10"/>
@@ -1638,7 +1638,7 @@
 <UnitResearch id="126105" group_cardId="126" group_unitStagekey="126100" stage="1" name="第一阶段" index="5" cell="5" type="2" content="3" num="4" item="1;200|300102;3" refresh="3|10"/>
 <UnitResearch id="126106" group_cardId="126" group_unitStagekey="126100" stage="1" name="第一阶段" index="6" cell="6" type="1" content="3|20" num="5" item="1;200|300102;5" refresh="3|10"/>
 <UnitResearch id="126107" group_cardId="126" group_unitStagekey="126100" stage="1" name="第一阶段" index="7" cell="7" type="3" content="10" num="6" item="1;1000|300102;20|300103;10" refresh=""/>
-<UnitResearch id="126199" group_cardId="126" group_unitStagekey="126100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="10602" num="7" item="" refresh=""/>
+<UnitResearch id="126199" group_cardId="126" group_unitStagekey="126100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="12602" num="7" item="" refresh=""/>
 <UnitResearch id="126201" group_cardId="126" group_unitStagekey="126200" stage="2" name="第二阶段" index="9" cell="1" type="3" content="15" num="0" item="1;5000|300202;1" refresh=""/>
 <UnitResearch id="126202" group_cardId="126" group_unitStagekey="126200" stage="2" name="第二阶段" index="10" cell="2" type="1" content="3|20" num="1" item="1;1000|300202;3" refresh="3|10"/>
 <UnitResearch id="126203" group_cardId="126" group_unitStagekey="126200" stage="2" name="第二阶段" index="11" cell="3" type="1" content="2|50" num="2" item="1;1000|300202;3" refresh="3|10"/>
@@ -1653,7 +1653,7 @@
 <UnitResearch id="126215" group_cardId="126" group_unitStagekey="126200" stage="2" name="第二阶段" index="20" cell="15" type="1" content="2|100" num="11" item="1;1000|300202;16" refresh="3|10"/>
 <UnitResearch id="126219" group_cardId="126" group_unitStagekey="126200" stage="2" name="第二阶段" index="21" cell="19" type="1" content="1|320" num="12" item="1;5000|300202;60|300203;30" refresh=""/>
 <UnitResearch id="126299" group_cardId="126" group_unitStagekey="126200" stage="2" name="第二阶段" index="22" cell="99" type="7" content="1" num="13" item="" refresh=""/>
-<UnitResearch id="126301" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="10602" num="0" item="1;8000|300302;1" refresh=""/>
+<UnitResearch id="126301" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="12602" num="0" item="1;8000|300302;1" refresh=""/>
 <UnitResearch id="126302" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="24" cell="2" type="1" content="34|30" num="1" item="1;2000|300302;4" refresh="3|10"/>
 <UnitResearch id="126303" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="25" cell="3" type="1" content="2|120" num="2" item="1;2000|300302;4" refresh="3|10"/>
 <UnitResearch id="126304" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="26" cell="4" type="1" content="3|48" num="3" item="1;2000|300302;8" refresh="3|10"/>
@@ -1673,7 +1673,7 @@
 <UnitResearch id="126325" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="40" cell="25" type="3" content="10" num="17" item="1;2000|300302;40" refresh="3|10"/>
 <UnitResearch id="126326" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="41" cell="26" type="1" content="2|240" num="18" item="1;8000|300302;80|300303;40" refresh=""/>
 <UnitResearch id="126399" group_cardId="126" group_unitStagekey="126300" stage="3" name="第三阶段" index="42" cell="99" type="6" content="3" num="19" item="" refresh=""/>
-<UnitResearch id="126401" group_cardId="126" group_unitStagekey="126400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="10603" num="0" item="1;20000|300402;1" refresh=""/>
+<UnitResearch id="126401" group_cardId="126" group_unitStagekey="126400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="12603" num="0" item="1;20000|300402;1" refresh=""/>
 <UnitResearch id="126402" group_cardId="126" group_unitStagekey="126400" stage="4" name="第四阶段" index="44" cell="2" type="1" content="3|112" num="1" item="1;10000|300402;5" refresh="3|10"/>
 <UnitResearch id="126403" group_cardId="126" group_unitStagekey="126400" stage="4" name="第四阶段" index="45" cell="3" type="2" content="30" num="2" item="1;10000|300402;5" refresh="3|10"/>
 <UnitResearch id="126404" group_cardId="126" group_unitStagekey="126400" stage="4" name="第四阶段" index="46" cell="4" type="1" content="2|280" num="3" item="1;10000|300402;10" refresh="3|10"/>
@@ -1706,7 +1706,7 @@
 <UnitResearch id="127106" group_cardId="127" group_unitStagekey="127100" stage="1" name="第一阶段" index="5" cell="6" type="1" content="1|160" num="4" item="1;200|300103;3" refresh="3|10"/>
 <UnitResearch id="127107" group_cardId="127" group_unitStagekey="127100" stage="1" name="第一阶段" index="6" cell="7" type="1" content="2|50" num="5" item="1;200|300103;5" refresh="3|10"/>
 <UnitResearch id="127115" group_cardId="127" group_unitStagekey="127100" stage="1" name="第一阶段" index="7" cell="15" type="1" content="3|20" num="6" item="1;1000|300103;20|300101;10" refresh=""/>
-<UnitResearch id="127199" group_cardId="127" group_unitStagekey="127100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="11802" num="7" item="" refresh=""/>
+<UnitResearch id="127199" group_cardId="127" group_unitStagekey="127100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="12702" num="7" item="" refresh=""/>
 <UnitResearch id="127201" group_cardId="127" group_unitStagekey="127200" stage="2" name="第二阶段" index="9" cell="1" type="3" content="15" num="0" item="1;5000|300203;1" refresh=""/>
 <UnitResearch id="127202" group_cardId="127" group_unitStagekey="127200" stage="2" name="第二阶段" index="10" cell="2" type="3" content="10" num="1" item="1;1000|300203;3" refresh="3|10"/>
 <UnitResearch id="127203" group_cardId="127" group_unitStagekey="127200" stage="2" name="第二阶段" index="11" cell="3" type="2" content="10" num="2" item="1;1000|300203;3" refresh="3|10"/>
@@ -1721,7 +1721,7 @@
 <UnitResearch id="127219" group_cardId="127" group_unitStagekey="127200" stage="2" name="第二阶段" index="20" cell="19" type="1" content="21|20" num="11" item="1;1000|300203;16" refresh="3|10"/>
 <UnitResearch id="127220" group_cardId="127" group_unitStagekey="127200" stage="2" name="第二阶段" index="21" cell="20" type="1" content="33|10" num="12" item="1;5000|300203;60|300201;30" refresh=""/>
 <UnitResearch id="127299" group_cardId="127" group_unitStagekey="127200" stage="2" name="第二阶段" index="22" cell="99" type="7" content="1" num="13" item="" refresh=""/>
-<UnitResearch id="127301" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="11802" num="0" item="1;8000|300303;1" refresh=""/>
+<UnitResearch id="127301" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="12702" num="0" item="1;8000|300303;1" refresh=""/>
 <UnitResearch id="127302" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="24" cell="2" type="2" content="30" num="1" item="1;2000|300303;4" refresh="3|10"/>
 <UnitResearch id="127303" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="25" cell="3" type="2" content="30" num="2" item="1;2000|300303;4" refresh="3|10"/>
 <UnitResearch id="127304" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="26" cell="4" type="2" content="30" num="3" item="1;2000|300303;8" refresh="3|10"/>
@@ -1741,7 +1741,7 @@
 <UnitResearch id="127326" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="40" cell="26" type="1" content="33|30" num="17" item="1;2000|300303;40" refresh="3|10"/>
 <UnitResearch id="127331" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="41" cell="31" type="1" content="21|60" num="18" item="1;8000|300303;80|300301;40" refresh=""/>
 <UnitResearch id="127399" group_cardId="127" group_unitStagekey="127300" stage="3" name="第三阶段" index="42" cell="99" type="6" content="3" num="19" item="" refresh=""/>
-<UnitResearch id="127401" group_cardId="127" group_unitStagekey="127400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="11803" num="0" item="1;20000|300403;1" refresh=""/>
+<UnitResearch id="127401" group_cardId="127" group_unitStagekey="127400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="12703" num="0" item="1;20000|300403;1" refresh=""/>
 <UnitResearch id="127402" group_cardId="127" group_unitStagekey="127400" stage="4" name="第四阶段" index="44" cell="2" type="2" content="45" num="1" item="1;10000|300403;5" refresh="3|10"/>
 <UnitResearch id="127403" group_cardId="127" group_unitStagekey="127400" stage="4" name="第四阶段" index="45" cell="3" type="2" content="30" num="2" item="1;10000|300403;5" refresh="3|10"/>
 <UnitResearch id="127404" group_cardId="127" group_unitStagekey="127400" stage="4" name="第四阶段" index="46" cell="4" type="3" content="10" num="3" item="1;10000|300403;10" refresh="3|10"/>
@@ -1774,7 +1774,7 @@
 <UnitResearch id="128107" group_cardId="128" group_unitStagekey="128100" stage="1" name="第一阶段" index="5" cell="7" type="2" content="3" num="4" item="1;200|300102;3" refresh="3|10"/>
 <UnitResearch id="128109" group_cardId="128" group_unitStagekey="128100" stage="1" name="第一阶段" index="6" cell="9" type="1" content="3|20" num="5" item="1;200|300102;5" refresh="3|10"/>
 <UnitResearch id="128119" group_cardId="128" group_unitStagekey="128100" stage="1" name="第一阶段" index="7" cell="19" type="3" content="10" num="6" item="1;1000|300102;20|300103;10" refresh=""/>
-<UnitResearch id="128199" group_cardId="128" group_unitStagekey="128100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="10602" num="7" item="" refresh=""/>
+<UnitResearch id="128199" group_cardId="128" group_unitStagekey="128100" stage="1" name="第一阶段" index="8" cell="99" type="4" content="12802" num="7" item="" refresh=""/>
 <UnitResearch id="128201" group_cardId="128" group_unitStagekey="128200" stage="2" name="第二阶段" index="9" cell="1" type="3" content="15" num="0" item="1;5000|300202;1" refresh=""/>
 <UnitResearch id="128203" group_cardId="128" group_unitStagekey="128200" stage="2" name="第二阶段" index="10" cell="3" type="1" content="3|20" num="1" item="1;1000|300202;3" refresh="3|10"/>
 <UnitResearch id="128204" group_cardId="128" group_unitStagekey="128200" stage="2" name="第二阶段" index="11" cell="4" type="1" content="2|50" num="2" item="1;1000|300202;3" refresh="3|10"/>
@@ -1789,7 +1789,7 @@
 <UnitResearch id="128220" group_cardId="128" group_unitStagekey="128200" stage="2" name="第二阶段" index="20" cell="20" type="1" content="2|100" num="11" item="1;1000|300202;16" refresh="3|10"/>
 <UnitResearch id="128231" group_cardId="128" group_unitStagekey="128200" stage="2" name="第二阶段" index="21" cell="31" type="1" content="1|320" num="12" item="1;5000|300202;60|300203;30" refresh=""/>
 <UnitResearch id="128299" group_cardId="128" group_unitStagekey="128200" stage="2" name="第二阶段" index="22" cell="99" type="7" content="1" num="13" item="" refresh=""/>
-<UnitResearch id="128301" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="10602" num="0" item="1;8000|300302;1" refresh=""/>
+<UnitResearch id="128301" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="23" cell="1" type="5" content="12802" num="0" item="1;8000|300302;1" refresh=""/>
 <UnitResearch id="128303" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="24" cell="3" type="1" content="19|30" num="1" item="1;2000|300302;4" refresh="3|10"/>
 <UnitResearch id="128304" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="25" cell="4" type="1" content="2|120" num="2" item="1;2000|300302;4" refresh="3|10"/>
 <UnitResearch id="128305" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="26" cell="5" type="1" content="3|48" num="3" item="1;2000|300302;8" refresh="3|10"/>
@@ -1809,7 +1809,7 @@
 <UnitResearch id="128326" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="40" cell="26" type="3" content="10" num="17" item="1;2000|300302;40" refresh="3|10"/>
 <UnitResearch id="128331" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="41" cell="31" type="1" content="2|240" num="18" item="1;8000|300302;80|300303;40" refresh=""/>
 <UnitResearch id="128399" group_cardId="128" group_unitStagekey="128300" stage="3" name="第三阶段" index="42" cell="99" type="6" content="3" num="19" item="" refresh=""/>
-<UnitResearch id="128401" group_cardId="128" group_unitStagekey="128400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="10603" num="0" item="1;20000|300402;1" refresh=""/>
+<UnitResearch id="128401" group_cardId="128" group_unitStagekey="128400" stage="4" name="第四阶段" index="43" cell="1" type="5" content="12803" num="0" item="1;20000|300402;1" refresh=""/>
 <UnitResearch id="128403" group_cardId="128" group_unitStagekey="128400" stage="4" name="第四阶段" index="44" cell="3" type="1" content="3|112" num="1" item="1;10000|300402;5" refresh="3|10"/>
 <UnitResearch id="128404" group_cardId="128" group_unitStagekey="128400" stage="4" name="第四阶段" index="45" cell="4" type="2" content="30" num="2" item="1;10000|300402;5" refresh="3|10"/>
 <UnitResearch id="128405" group_cardId="128" group_unitStagekey="128400" stage="4" name="第四阶段" index="46" cell="5" type="1" content="2|280" num="3" item="1;10000|300402;10" refresh="3|10"/>

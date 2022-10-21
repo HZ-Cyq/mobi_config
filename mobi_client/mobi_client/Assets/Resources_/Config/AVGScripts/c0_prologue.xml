@@ -8,7 +8,7 @@
 <C0_prologue id="6" originalRow="6" groupSign="" debugClose="" action="画面特效效果" data="变暗" param="" param2="" param3=""/>
 <C0_prologue id="7" originalRow="7" groupSign="" debugClose="" action="等待几秒" data="1" param="" param2="" param3=""/>
 <C0_prologue id="8" originalRow="8" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
-<C0_prologue id="9" originalRow="9" groupSign="1" debugClose="1" action="故事板" data="3" param="『机械』与『生命』的含义一直在不断延展。
+<C0_prologue id="9" originalRow="9" groupSign="1" debugClose="" action="故事板" data="3" param="『机械』与『生命』的含义一直在不断延展。
 未来的某一天，所有结构复杂的东西都将被看作机器，
 而所有能自维持的机器也都将被看作生命体。
 只有生命才能进化，而进化的代价就是失控。

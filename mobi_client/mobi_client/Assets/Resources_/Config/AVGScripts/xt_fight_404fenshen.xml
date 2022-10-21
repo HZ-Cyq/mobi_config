@@ -38,17 +38,18 @@
 <xt_fight_404fenshen id="36" originalRow="36" groupSign="聂飞介绍404分身" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_fight_404fenshen id="37" originalRow="37" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing          " param2="" param3=""/>
 <xt_fight_404fenshen id="38" originalRow="38" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_fight_404fenshen id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="niefei" param="404的分身泄露出昭离公馆以外，现在，安江市的任何地方都有可能出现暴走的404！" param2="" param3="type=0"/>
-<xt_fight_404fenshen id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="niefei" param="抓紧时间，赶快行动起来吧！" param2="" param3="type=0"/>
-<xt_fight_404fenshen id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="niefei" param="当然，如果你更关心巢那边的事，也不是不可以喵……呜呜……" param2="" param3="type=0"/>
-<xt_fight_404fenshen id="42" originalRow="42" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_fight_404fenshen id="43" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_fight_404fenshen id="44" originalRow="44" groupSign="任务结束" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_fight_404fenshen id="45" originalRow="45" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing          " param2="" param3=""/>
-<xt_fight_404fenshen id="46" originalRow="46" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_fight_404fenshen id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="niefei" param="真是帮了大忙了呀周易！" param2="" param3="type=0"/>
-<xt_fight_404fenshen id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="niefei" param="以后的日常委托也拜托你了哦，当然，报酬少不了你的！" param2="" param3="type=0"/>
-<xt_fight_404fenshen id="49" originalRow="49" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_fight_404fenshen id="50" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_fight_404fenshen id="51" originalRow="51" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_404fenshen id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}404的分身泄露出昭离公馆以外，现在，" param2="" param3="type=0"/>
+<xt_fight_404fenshen id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="niefei" param="安江市的任何地方都有可能出现暴走的404！" param2="" param3="type=0"/>
+<xt_fight_404fenshen id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作恢复}抓紧时间，赶快行动起来吧！" param2="" param3="type=0"/>
+<xt_fight_404fenshen id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞忧伤}当然，如果你更关心巢那边的事，也不是不可以喵……呜呜……" param2="" param3="type=0"/>
+<xt_fight_404fenshen id="43" originalRow="43" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_fight_404fenshen id="44" originalRow="44" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_404fenshen id="45" originalRow="45" groupSign="任务结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_404fenshen id="46" originalRow="46" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing          " param2="" param3=""/>
+<xt_fight_404fenshen id="47" originalRow="47" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_fight_404fenshen id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意}真是帮了大忙了呀！" param2="" param3="type=0"/>
+<xt_fight_404fenshen id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="niefei" param="以后的日常委托也拜托你了哦，当然，报酬少不了你的！" param2="" param3="type=0"/>
+<xt_fight_404fenshen id="50" originalRow="50" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_fight_404fenshen id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_404fenshen id="52" originalRow="52" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

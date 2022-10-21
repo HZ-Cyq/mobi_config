@@ -33,8 +33,8 @@
 <C1_Epilogue id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="wo" param="我们联系到了当年经纪公司的工作人员。" param2="" param3=""/>
 <C1_Epilogue id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="他说那首歌名叫《流星乐园》，
 可惜原始文件已经丢失了。" param2="" param3=""/>
-<C1_Epilogue id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="但他不记得当时的歌词中有“&lt;z=yellow&gt;缺氧&lt;/z&gt;”、
-“&lt;z=yellow&gt;等你来&lt;/z&gt;”之类的字眼……" param2="" param3=""/>
+<C1_Epilogue id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="但他不记得当时的歌词中有&lt;z=highlight&gt;“缺氧”&lt;/z&gt;、
+&lt;z=highlight&gt;“等你来”&lt;/z&gt;之类的字眼……" param2="" param3=""/>
 <C1_Epilogue id="29" originalRow="29" groupSign="" debugClose="" action="播放音效" data="avg_paper" param="" param2="" param3=""/>
 <C1_Epilogue id="30" originalRow="30" groupSign="" debugClose="" action="打开插画" data="C1_Report" param="FALSE" param2="" param3=""/>
 <C1_Epilogue id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="可惜，钱越在流星航空990号航班上值班时，
@@ -70,7 +70,7 @@ $$事出有因的非恶意事件==&gt;结论2" param2="" param3="type=0"/>
 <C1_Epilogue id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="wo" param="有受害者死亡，导致了2-404的伤害能力升级，
 在MV里加进了空难时的死亡记忆。" param2="" param3=""/>
 <C1_Epilogue id="51" originalRow="51" groupSign="" debugClose="1" action="角色台词" data="duheng" param="哦？我知道了。" param2="" param3=""/>
-<C1_Epilogue id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡思考动作恢复}我这几天一直在想，什么叫“失控”？" param2="" param3=""/>
+<C1_Epilogue id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡思考动作恢复}我这几天一直在想，什么叫&lt;z=highlight&gt;“失控”&lt;/z&gt;？" param2="" param3=""/>
 <C1_Epilogue id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="wo" param="或许对异质物而言，就是其不稳定的精神状态，
 导致失去了对自己身体和能力的控制──" param2="" param3=""/>
 <C1_Epilogue id="54" originalRow="54" groupSign="1" debugClose="" action="移除角色" data="duheng" param="" param2="" param3=""/>
@@ -99,7 +99,8 @@ $$事出有因的非恶意事件==&gt;结论2" param2="" param3="type=0"/>
 <C1_Epilogue id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="wo" param="据说我是在那片空难的海域被发现的……" param2="" param3=""/>
 <C1_Epilogue id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="wo" param="但我什么也不记得了。" param2="" param3=""/>
 <C1_Epilogue id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}真遗憾。" param2="01_06DH真遗憾。" param3=""/>
-<C1_Epilogue id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="wo" param="我在想，说不定我小时候的事，就是跟异质物有关？" param2="" param3=""/>
+<C1_Epilogue id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="wo" param="我在想，说不定我小时候的事，
+就是跟异质物有关？" param2="" param3=""/>
 <C1_Epilogue id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="duheng" param="嗯哼？你是这么想的？" param2="01_06DH嗯哼？你" param3=""/>
 <C1_Epilogue id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="wo" param="会不会那片海域有异质物出现了？" param2="" param3=""/>
 <C1_Epilogue id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="wo" param="导致了飞机失事？" param2="" param3=""/>
@@ -134,7 +135,7 @@ $$事出有因的非恶意事件==&gt;结论2" param2="" param3="type=0"/>
 <C1_Epilogue id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="wo" param="这让MV的伤害效果升级至致死，
 而失控造成后果却并非其所愿。" param2="" param3=""/>
 <C1_Epilogue id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}哦？仔细说说。" param2="89D仔细说说" param3=""/>
-<C1_Epilogue id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="wo" param="我这几天一直在想，什么叫“失控”？" param2="" param3=""/>
+<C1_Epilogue id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="wo" param="我这几天一直在想，什么叫&lt;z=highlight&gt;“失控”&lt;/z&gt;？" param2="" param3=""/>
 <C1_Epilogue id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="wo" param="对异质物而言，失控才是天然的状态和目的。{#杜衡思考动作恢复}" param2="" param3=""/>
 <C1_Epilogue id="99" originalRow="99" groupSign="1" debugClose="" action="移除角色" data="duheng" param="" param2="" param3=""/>
 <C1_Epilogue id="100" originalRow="100" groupSign="" debugClose="" action="播放音效" data="avg_paper" param="" param2="" param3=""/>
@@ -179,8 +180,8 @@ $$事出有因的非恶意事件==&gt;结论2" param2="" param3="type=0"/>
 <C1_Epilogue id="137" originalRow="137" groupSign="" debugClose="" action="角色台词" data="duheng" param="最早记录……2018年8月……被发现时衣服全被烧光……中度脑震荡……失忆……" param2="01_06DH最早记录" param3=""/>
 <C1_Epilogue id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="duheng" param="无法联系到双亲……分配给保育机构抚养……" param2="01_06DH无法联系" param3=""/>
 <C1_Epilogue id="139" originalRow="139" groupSign="" debugClose="" action="角色台词" data="duheng" param="2023年进入安江大学……" param2="01_06DH 2023" param3=""/>
-<C1_Epilogue id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="duheng" param="呵呵……" param2="" param3=""/>
-<C1_Epilogue id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="" param="接着她又开始反复播放着几天前医务室的监控录像。" param2="" param3="type=1"/>
+<C1_Epilogue id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="duheng" param="呵呵……" param2="01_06DH呵呵" param3=""/>
+<C1_Epilogue id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="" param="接着她又开始反复播放几天前医务室的监控录像。" param2="" param3="type=1"/>
 <C1_Epilogue id="142" originalRow="142" groupSign="" debugClose="" action="打开插画" data="C1_Monitor_End" param="" param2="" param3=""/>
 <C1_Epilogue id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="" param="录像中，已经变为电视头的人躺在手术台上，
 他头部的电视外壳忽然出现了数道崩开的裂纹。" param2="" param3="type=1"/>

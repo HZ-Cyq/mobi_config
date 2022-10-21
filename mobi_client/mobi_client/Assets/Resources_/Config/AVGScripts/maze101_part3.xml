@@ -2,11 +2,14 @@
 <maze101_part3 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
 <maze101_part3 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze101_part3 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<maze101_part3 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="这个门牌号怎么是201？" param2=""/>
+<maze101_part3 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}这个门牌号怎么是201？" param2=""/>
 <maze101_part3 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="怎么一下子就到二楼了！我们并没有上楼啊！" param2=""/>
 <maze101_part3 id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<maze101_part3 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="笨猫，不要大惊小怪的。" param2=""/>
-<maze101_part3 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="先进去看看吧~" param2=""/>
-<maze101_part3 id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<maze101_part3 id="9" originalRow="9" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze101_part3 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2严肃表情}笨猫，不要大惊小怪的。" param2=""/>
+<maze101_part3 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<maze101_part3 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}还是因为空间不稳定的关系？" param2=""/>
+<maze101_part3 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="扭曲的空间让整栋楼都处在一个平面上了。{#凯瑟琳2严肃动作恢复}{#凯瑟琳2待机表情}" param2=""/>
+<maze101_part3 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="先进去看看吧。" param2=""/>
+<maze101_part3 id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze101_part3 id="12" originalRow="12" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
 </root>

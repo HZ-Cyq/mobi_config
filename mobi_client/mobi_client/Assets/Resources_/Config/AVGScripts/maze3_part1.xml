@@ -2,9 +2,9 @@
 <maze3_part1 id="0" originalRow="0" groupSign="开始"/>
 <maze3_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <maze3_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<maze3_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这样的环境，真让人不舒服……" param2=""/>
+<maze3_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2紧张表情}这样的环境，真让人不舒服……" param2=""/>
 <maze3_part1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<maze3_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="不知道这里以前是什么样子呢？" param2=""/>
+<maze3_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#凯瑟琳2紧张动作恢复}{#凯瑟琳2待机表情}{#涂凌思考动作}不知道这里以前是什么样子呢？" param2=""/>
 <maze3_part1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我们进去看看吧。" param2=""/>
 <maze3_part1 id="7" originalRow="7" action="跳转-标签" param="结束"/>
 <maze3_part1 id="8" originalRow="8" groupSign="结束"/>

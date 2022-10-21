@@ -1,7 +1,8 @@
 <root>
 <StageVictory id="1" typeID="1" param="5" desc="坚持5回合计算为战斗胜利"/>
-<StageVictory id="2" typeID="2" param="3" desc="3回合内击杀全部敌人"/>
-<StageVictory id="3" typeID="2" param="4" desc="4回合内击杀全部敌人"/>
+<StageVictory id="2" typeID="2" param="3" desc="3回合内击败全部敌人"/>
+<StageVictory id="3" typeID="2" param="4" desc="4回合内击败全部敌人"/>
 <StageVictory id="4" typeID="3" param="1202|1204" desc="击杀完所有的指定怪物"/>
-<StageVictory id="5" typeID="2" param="3" desc="2回合内击杀全部敌人"/>
+<StageVictory id="5" typeID="2" param="3" desc="2回合内击败全部敌人"/>
+<StageVictory id="6" typeID="2" param="5" desc="5回合内击败全部敌人"/>
 </root>

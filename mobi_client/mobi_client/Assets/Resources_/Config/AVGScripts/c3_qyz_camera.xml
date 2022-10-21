@@ -129,7 +129,7 @@ $$跳过照片调查==&gt;Debug跳过" param2="" param3=""/>
 <C3_QYZ_camera id="123" originalRow="123" groupSign="手绘表情" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_QYZ_camera id="124" originalRow="124" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C3_QYZ_camera id="125" originalRow="125" groupSign="" debugClose="" action="语法-数值" data="ri_合影照片调查标记=1" param="" param2="" param3=""/>
-<C3_QYZ_camera id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="" param="照片背面画着一颗心，看来照片里的两个人关系不一般。" param2="" param3=""/>
+<C3_QYZ_camera id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="" param="照片背面画着一颗心，看来照片里的两个人关系不一般。" param2="" param3="type=1"/>
 <C3_QYZ_camera id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="niefei" param="这姑娘应该就是叫“染”的女生吧。" param2="" param3=""/>
 <C3_QYZ_camera id="128" originalRow="128" groupSign="" debugClose="" action="跳转-标签" data="rqs_3调查漆异之的电脑==2" param="结束" param2="" param3=""/>
 <C3_QYZ_camera id="129" originalRow="129" groupSign="" debugClose="" action="跳转-标签" data="ri_合影照片调查标记2==1" param="查看合照完成" param2="" param3=""/>

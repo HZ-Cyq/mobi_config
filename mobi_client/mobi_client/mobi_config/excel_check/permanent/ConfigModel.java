@@ -5,9 +5,11 @@ import com.mobi.log.GameLog;
 import org.jdom.Attribute;
 import org.jdom.Document;
 import org.jdom.Element;
+import org.jdom.JDOMException;
 import org.jdom.input.SAXBuilder;
 
 import java.io.File;
+import java.io.IOException;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
@@ -42,9 +44,7 @@ public abstract class ConfigModel {
         List<Map> re = new ArrayList<>();
         try {
             Map items2 = new HashMap();
-            Map limitStateMap = new HashMap();
             re.add(items2);
-            re.add(limitStateMap);
 
             SAXBuilder builder = new SAXBuilder();
 
@@ -56,19 +56,12 @@ public abstract class ConfigModel {
             Element element = doc.getRootElement();
             List<Element> list = element.getChildren();
             Field[] fields = className.getFields();
+
+            Map limitStateMap = createLimitStateMap(className.getSimpleName(), fields);
+            re.add(limitStateMap);
+
             // 遍历每一行xml,根据fields和这一行的xml生成一个具体的ModelConfig实例，并将实例put进items2中。
             for (Element e : list) {
-                if("LimitState".equals(e.getName())) {
-                    for (Field field : fields) {
-                        if(field.getName().startsWith("_")) continue;
-                        Attribute attribute = e.getAttribute(field.getName());
-                        if(attribute == null) continue;
-                        String value = e.getAttribute(field.getName()).getValue();
-                        if(value == null || value.isEmpty()) continue;
-                        limitStateMap.put(field.getName(), value);
-                    }
-                    continue;
-                }
                 ConfigModel model = className.newInstance();
                 for (Field f : fields) {
                     String fieldName = f.getName();
@@ -239,6 +232,35 @@ public abstract class ConfigModel {
             GameLog.LogException("[EX]{}", e);
             return null;
         }
+    }
+
+    private static HashMap<String, String> createLimitStateMap(String simpleName, Field[] fields) {
+        HashMap<String, String> limitStateMap = new HashMap<>();
+        File limitStateFile = new File(Config._path + "__limitState.xml");
+        Element rootElement = null;
+        try {
+            rootElement = (new SAXBuilder()).build(limitStateFile).getRootElement();
+        } catch (JDOMException | IOException e) {
+            throw new RuntimeException(e);
+        }
+        System.out.println(rootElement);
+        Element child = null;
+        if (simpleName.endsWith("ConfigModel")) {
+            child = rootElement.getChild(simpleName.substring(0, simpleName.length() - "ConfigModel".length()));
+        } else if(simpleName.endsWith("ConfigModelEx")){
+            child = rootElement.getChild(simpleName.substring(0, simpleName.length() - "ConfigModelEx".length()));
+        }
+        if(child != null) {
+            for (Field field : fields) {
+                if(field.getName().startsWith("_")) continue;
+                Attribute attribute = child.getAttribute(field.getName());
+                if(attribute == null) continue;
+                String value = child.getAttribute(field.getName()).getValue();
+                if(value == null || value.isEmpty()) continue;
+                limitStateMap.put(field.getName(), value);
+            }
+        }
+        return limitStateMap;
     }
 
     public boolean build() {

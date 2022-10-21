@@ -7,7 +7,7 @@ $$原来不是应聘啊。==&gt;不是应聘" param2=""/>
 <chat_kaiselin_1 id="4" originalRow="4" action="" data="" param=""/>
 <chat_kaiselin_1 id="5" originalRow="5" groupSign="缘分" debugClose="" action="" data="" param="" param2=""/>
 <chat_kaiselin_1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="什么样的缘分？" param2=""/>
-<chat_kaiselin_1 id="7" originalRow="7" groupSign="0.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="秘密。" param2=""/>
+<chat_kaiselin_1 id="7" originalRow="7" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="秘密。" param2=""/>
 <chat_kaiselin_1 id="8" originalRow="8" groupSign="" debugClose="" action="可选对话框" data="" param="$$想知道。==&gt;知道" param2=""/>
 <chat_kaiselin_1 id="9" originalRow="9" groupSign="知道" debugClose="" action="" data="" param="" param2="" param3=""/>
 <chat_kaiselin_1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="想知道。" param2="" param3=""/>
@@ -27,7 +27,7 @@ $$原来不是应聘啊。==&gt;不是应聘" param2=""/>
 <chat_kaiselin_1 id="24" originalRow="24" action="" data=""/>
 <chat_kaiselin_1 id="25" originalRow="25" groupSign="分支结束" action="" data="" param=""/>
 <chat_kaiselin_1 id="26" originalRow="26" action="角色台词" data="wo" param="好吧……以后的工作还请多多指教。"/>
-<chat_kaiselin_1 id="27" originalRow="27" groupSign="0.6&gt;&gt;" action="角色台词" data="kaiselin" param="嗯哼，没问题。"/>
+<chat_kaiselin_1 id="27" originalRow="27" groupSign="0.8&gt;&gt;" action="角色台词" data="kaiselin" param="嗯哼，没问题。"/>
 <chat_kaiselin_1 id="28" originalRow="28" groupSign="2&gt;&gt;" action="角色台词" data="kaiselin" param="如果你愿意多多参与我的研发试验。"/>
 <chat_kaiselin_1 id="29" originalRow="29" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="我会给你更多奖励~"/>
 <chat_kaiselin_1 id="30" originalRow="30" groupSign="" debugClose="" action="可选对话框" data="" param="$$不必了！！！==&gt;不必" param2=""/>

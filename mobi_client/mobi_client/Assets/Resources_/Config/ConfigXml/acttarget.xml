@@ -7,12 +7,12 @@
 <ActTarget id="1016" desc="通关主线副本第4章" group_actId="10001" name="通关主线副本第4章" dayNum="6" giftIdAndCount="1;1000|3;105" conditionTimes="1" taskId="20102" conditionType="0" conditionArgs="4"/>
 <ActTarget id="1017" desc="抽卡得到一个品2级的异质物" group_actId="10001" name="抽卡得到一个品2级的异质物" dayNum="7" giftIdAndCount="1;1000|3;106" conditionTimes="1" taskId="30101" conditionType="0" conditionArgs="2"/>
 <ActTarget id="1018" desc="任意异质物升级到第3阶段" group_actId="10001" name="任意异质物升级到第2阶段" dayNum="8" giftIdAndCount="1;1000|3;107" conditionTimes="1" taskId="50101" conditionType="0" conditionArgs="1|3"/>
-<ActTarget id="1019" desc="第一天签到" group_actId="10002" name="Day1" dayNum="1" giftIdAndCount="3;500" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
+<ActTarget id="1019" desc="第一天签到" group_actId="10002" name="Day1" dayNum="1" giftIdAndCount="3;200" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1020" desc="第二天签到" group_actId="10002" name="Day2" dayNum="2" giftIdAndCount="201000;10" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1021" desc="第三天签到" group_actId="10002" name="Day3" dayNum="3" giftIdAndCount="100106;1" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1022" desc="第四天签到" group_actId="10002" name="Day4" dayNum="4" giftIdAndCount="290002;5" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
-<ActTarget id="1023" desc="第五天签到" group_actId="10002" name="Day5" dayNum="5" giftIdAndCount="500000;20" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
-<ActTarget id="1024" desc="第六天签到" group_actId="10002" name="Day6" dayNum="6" giftIdAndCount="3;1000" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
+<ActTarget id="1023" desc="第五天签到" group_actId="10002" name="Day5" dayNum="5" giftIdAndCount="3;1000" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
+<ActTarget id="1024" desc="第六天签到" group_actId="10002" name="Day6" dayNum="6" giftIdAndCount="500000;20" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1025" desc="第七天签到" group_actId="10002" name="Day7" dayNum="7" giftIdAndCount="3;2000" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1026" desc="第八天签到" group_actId="10002" name="Day8" dayNum="8" giftIdAndCount="201000;30" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 </root>

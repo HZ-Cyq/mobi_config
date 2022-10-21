@@ -4,11 +4,12 @@
 <xt_fight_renxingtuya id="2" originalRow="2" groupSign="战斗前" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_fight_renxingtuya id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_fight_renxingtuya id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_fight_renxingtuya id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="在顶石大厦里涂鸦？！疯了吧！听说她还在大厦里上蹿下跳的，我们要抓紧了！" param2="" param3="type=0"/>
-<xt_fight_renxingtuya id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_fight_renxingtuya id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_renxingtuya id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}{#聂飞严肃动作}在顶石大厦里涂鸦？！疯了吧！听说她还在大厦里上蹿下跳的，我们要抓紧了！" param2="" param3="type=0"/>
+<xt_fight_renxingtuya id="6" originalRow="6" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_fight_renxingtuya id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_fight_renxingtuya id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_fight_renxingtuya id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_fight_renxingtuya id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_fight_renxingtuya id="11" originalRow="11" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_renxingtuya id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_renxingtuya id="12" originalRow="12" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

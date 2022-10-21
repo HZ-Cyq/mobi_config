@@ -27,6 +27,11 @@ if exist xml\AVGScripts\*.xml del /q xml\AVGScripts\*.xml
 set Path=%JAVA_HOME%\bin
 java -jar parserconfig.jar strPackageName=%server_package_name% check=true
 
+rd /s /Q .\excel_check\class
+md .\excel_check\class
+rd /s /Q .\excel_check\temporary
+md .\excel_check\temporary
+
 if exist %clientXmlPath%*.xml del /q %clientXmlPath%*.xml
 if exist %clientXmlPathAVG%*.xml del /q %clientXmlPathAVG%*.xml
 
@@ -79,5 +84,9 @@ for /f "delims=" %%i in ('dir /b/s/a-d %clientXmlPathAVG%\%suf%') do (
   ren "%%i" "!h!"%suf%
 )
 endlocal
+
+  cfgCheck:
+    isCheck: true
+    continueIfCheckFail: false
 
 pause

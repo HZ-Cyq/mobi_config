@@ -35,11 +35,11 @@
 <common_greetings id="33" originalRow="33" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <common_greetings id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <common_greetings id="35" originalRow="35" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<common_greetings id="36" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<common_greetings id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<common_greetings id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<common_greetings id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<common_greetings id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<common_greetings id="36" originalRow="36" groupSign="问候_箱庭杜衡" debugClose="" action="" data="" param="" param2="" param3=""/>
+<common_greetings id="37" originalRow="37" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<common_greetings id="38" originalRow="38" groupSign="" debugClose="" action="设置角色" data="duheng" param="" param2="" param3=""/>
+<common_greetings id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="duheng" param="你来了~~" param2="" param3=""/>
+<common_greetings id="40" originalRow="40" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <common_greetings id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <common_greetings id="42" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <common_greetings id="43" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>

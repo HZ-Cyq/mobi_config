@@ -1,17 +1,17 @@
 <root>
-<maze201_part0 id="0" originalRow="0" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
-<maze201_part0 id="1" originalRow="1" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
-<maze201_part0 id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
-<maze201_part0 id="3" originalRow="3" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
-<maze201_part0 id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
-<maze201_part0 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="duheng" param="看来你们已经出色地完成了这次的任务。" param2=""/>
-<maze201_part0 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="duheng" param="有很多种猜测，但是剩下的只有等你们进去才能知道了。地点在今夕养老院。巢的秘密，我们必须要揭开。" param2=""/>
-<maze201_part0 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2=""/>
-<maze201_part0 id="8" originalRow="8" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2=""/>
-<maze201_part0 id="9" originalRow="9" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2=""/>
-<maze201_part0 id="10" originalRow="10" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2=""/>
-<maze201_part0 id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
-<maze201_part0 id="12" originalRow="12" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze201_part0 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
+<maze201_part0 id="1" originalRow="1" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="队长，有空吗？" param2="" param3=""/>
+<maze201_part0 id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" data="" param="$$怎么了？==&gt;怎么了" param2="" param3=""/>
+<maze201_part0 id="3" originalRow="3" groupSign="怎么了" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze201_part0 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="怎么了？" param2="" param3=""/>
+<maze201_part0 id="5" originalRow="5" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="我们又在安江市内发现了一个新的巢。" param2=""/>
+<maze201_part0 id="6" originalRow="6" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="从数据波形来看，和泉舜公寓很像，但有有些不同……" param2=""/>
+<maze201_part0 id="7" originalRow="7" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="地点在金夕养老院。" param2=""/>
+<maze201_part0 id="8" originalRow="8" groupSign="" debugClose="" action="可选对话框" data="" param="$$明白了，我们一起去看看~==&gt;明白" param2=""/>
+<maze201_part0 id="9" originalRow="9" groupSign="明白" debugClose="" action="" data="" param="" param2=""/>
+<maze201_part0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="明白了，我们一起去看看~" param2=""/>
+<maze201_part0 id="11" originalRow="11" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze201_part0 id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze201_part0 id="13" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze201_part0 id="14" originalRow="14" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze201_part0 id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2=""/>
@@ -23,7 +23,4 @@
 <maze201_part0 id="21" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze201_part0 id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze201_part0 id="23" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<maze201_part0 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<maze201_part0 id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<maze201_part0 id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 </root>

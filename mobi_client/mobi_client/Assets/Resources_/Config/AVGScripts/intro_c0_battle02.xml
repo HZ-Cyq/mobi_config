@@ -4,7 +4,7 @@
 <Intro_C0_battle02 id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
 <Intro_C0_battle02 id="3" originalRow="3" debugClose="1" action="角色台词" data="" param="{music=low}" param2="" param3=""/>
 <Intro_C0_battle02 id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
-<Intro_C0_battle02 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="诶！？你用的……跟那个叫鲨鱼服的不一样。" param2="" param3=""/>
+<Intro_C0_battle02 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="诶！？你用的……跟那个鲨鱼服不一样。" param2="" param3=""/>
 <Intro_C0_battle02 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
 <Intro_C0_battle02 id="7" originalRow="7" groupSign="" debugClose="" action="角色动作" data="kaiselin02" param="凯瑟琳_严肃_动作_循环_01" param2="" param3=""/>
 <Intro_C0_battle02 id="8" originalRow="8" groupSign="" debugClose="" action="角色表情" data="kaiselin02" param="凯瑟琳_得意_上脸_开始_01;凯瑟琳_得意_下嘴_开始_01" param2="" param3=""/>

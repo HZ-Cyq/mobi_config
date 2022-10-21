@@ -53,7 +53,7 @@
 <ModelSkill id="124" skills="12401|12402|12403|12404" model_qversion="char_yishandebaimian" init_scale="1"/>
 <ModelSkill id="125" skills="12501|12502|12503|12504" model_qversion="char_wudeng" init_scale="1"/>
 <ModelSkill id="126" skills="12601|12602|12603|12604" model_qversion="char_miruisi" init_scale="1"/>
-<ModelSkill id="127" skills="12701|12702|12703|12704" model_qversion="char_luzhang" init_scale="1"/>
+<ModelSkill id="127" skills="12701|12702|12703|12704" model_qversion="char_luobeidi" init_scale="1"/>
 <ModelSkill id="128" skills="12801|12802|12803|12804" model_qversion="char_tunshilimasu" init_scale="1"/>
 <ModelSkill id="1101" skills="10101|10102|10103|10104|10106" model_qversion="char_yidongchongdianzhan" init_scale="1.3"/>
 <ModelSkill id="1102" skills="10201|10202|10203|10204|110203" model_qversion="char_dropthebeat" init_scale="1.3"/>
@@ -75,11 +75,12 @@
 <ModelSkill id="1117" skills="11701|11702|11703|11704" model_qversion="char_tuyabaodan" init_scale="1.3"/>
 <ModelSkill id="1118" skills="11801|11802|11803|11804" model_qversion="char_shechu" init_scale="1.3"/>
 <ModelSkill id="1119" skills="11901|11902|11903|11904" model_qversion="char_zaochashaonv" init_scale="1.3"/>
+<ModelSkill id="1120" skills="12001|12002|12003|12004" model_qversion="char_fenhongjiuyuan" init_scale="1.3"/>
 <ModelSkill id="1121" skills="12101|12102|12103|12104" model_qversion="char_xibaoniang" init_scale="1.3"/>
 <ModelSkill id="1123" skills="12301|12302|12303|12304" model_qversion="char_zhimingyongbao" init_scale="1.3"/>
 <ModelSkill id="1124" skills="12401|12402|12403|12404" model_qversion="char_yishandebaimian" init_scale="1.3"/>
-<ModelSkill id="1126" skills="12601|12602|12603|12604" model_qversion="char_luzhang" init_scale="1.3"/>
-<ModelSkill id="1127" skills="12701|12702|12703|12704" model_qversion="char_luzhang" init_scale="1.3"/>
+<ModelSkill id="1126" skills="12601|12602|12603|12604" model_qversion="char_miruisi" init_scale="1.3"/>
+<ModelSkill id="1127" skills="12701|12702|12703|12704" model_qversion="char_luobeidi" init_scale="1.3"/>
 <ModelSkill id="1128" skills="12802|12803|12804" model_qversion="char_tunshilimasu" init_scale="1.3"/>
 <ModelSkill id="1129" skills="320101" model_qversion="char_diancizhuangzhi" init_scale="1.3"/>
 <ModelSkill id="1201" skills="" model_qversion="char_bingchuang" init_scale="1"/>
@@ -108,15 +109,15 @@
 <ModelSkill id="3202" skills="320201" model_qversion="char_yaojiguairen" init_scale="1"/>
 <ModelSkill id="3203" skills="320301" model_qversion="char_shirenhua" init_scale="1"/>
 <ModelSkill id="3204" skills="320401|320402" model_qversion="char_rongheguai" init_scale="1"/>
-<ModelSkill id="2981" skills="298101|298102" model_qversion="char_jixiesheshou" init_scale="1"/>
-<ModelSkill id="2982" skills="298201|298202" model_qversion="char_jixiezhanshi" init_scale="1" onhit_audio1=" "/>
-<ModelSkill id="2983" skills="298301|298302" model_qversion="char_wulianroudun" init_scale="1"/>
-<ModelSkill id="2984" skills="298401|298402" model_qversion="char_wuliannvhushi" init_scale="1"/>
-<ModelSkill id="2985" skills="298501|298502" model_qversion="char_jixiecike" init_scale="1"/>
-<ModelSkill id="2986" skills="298101|298102" model_qversion="char_jixiesheshou" init_scale="1.3"/>
-<ModelSkill id="2987" skills="298201|298202" model_qversion="char_jixiezhanshi" init_scale="1.3" onhit_audio1=" "/>
-<ModelSkill id="2988" skills="298301|298302" model_qversion="char_wulianroudun" init_scale="1.3"/>
-<ModelSkill id="2989" skills="298501|298502" model_qversion="char_jixiecike" init_scale="1.3"/>
+<ModelSkill id="2981" skills="298101|298102" model_qversion="char_jixiesheshou" init_scale="0.8"/>
+<ModelSkill id="2982" skills="298201|298202" model_qversion="char_jixiezhanshi" init_scale="0.8" onhit_audio1=" "/>
+<ModelSkill id="2983" skills="298301|298302" model_qversion="char_wulianroudun" init_scale="0.8"/>
+<ModelSkill id="2984" skills="298401|298402" model_qversion="char_jixiezhiliao" init_scale="0.8"/>
+<ModelSkill id="2985" skills="298501|298502" model_qversion="char_jixiecike" init_scale="0.8"/>
+<ModelSkill id="2986" skills="298101|298102" model_qversion="char_jixiesheshou" init_scale="1"/>
+<ModelSkill id="2987" skills="298201|298202" model_qversion="char_jixiezhanshi" init_scale="1" onhit_audio1=" "/>
+<ModelSkill id="2988" skills="298301|298302" model_qversion="char_wulianroudun" init_scale="1"/>
+<ModelSkill id="2989" skills="298501|298502" model_qversion="char_jixiecike" init_scale="1"/>
 <ModelSkill id="2991" skills="299101|299102" model_qversion="char_wuliansheshou" init_scale="1"/>
 <ModelSkill id="2992" skills="299201|299202" model_qversion="char_wulianzhanshi" init_scale="1" onhit_audio1=" "/>
 <ModelSkill id="2993" skills="299301|299302" model_qversion="char_wulianroudun" init_scale="1"/>
@@ -130,6 +131,8 @@
 <ModelSkill id="1992" skills="199201|199202" model_qversion="char_chidourenqiqiu" init_scale="1"/>
 <ModelSkill id="1206" skills="120601|120602|120603" model_qversion="char_STSkeyanrenyuan" init_scale="1"/>
 <ModelSkill id="1207" skills="120701|120702" model_qversion="char_STSanbaorenyuan" init_scale="1"/>
+<ModelSkill id="1208" skills="120601|120602|120603" model_qversion="char_STSkeyanrenyuan" init_scale="1.3"/>
+<ModelSkill id="1209" skills="120701|120702" model_qversion="char_STSanbaorenyuan" init_scale="1.3"/>
 <ModelSkill id="4001" skills="400101" model_qversion="char_123" init_scale="1"/>
 <ModelSkill id="4002" skills="400201|400202" model_qversion="char_114" init_scale="1"/>
 <ModelSkill id="4003" skills="400301|400302" model_qversion="char_104" init_scale="1"/>

@@ -1,24 +1,24 @@
 <root>
 <chat_tuling_2 id="0" originalRow="0" groupSign="关于土山奥" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_2 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="涂凌好像很喜欢土山？" param2=""/>
-<chat_tuling_2 id="2" originalRow="2" groupSign="0.1&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="对呀！" param2=""/>
+<chat_tuling_2 id="2" originalRow="2" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="对呀！" param2=""/>
 <chat_tuling_2 id="3" originalRow="3" groupSign="" debugClose="" action="可选对话框" data="" param="$$很少见你这样。==&gt;很少
 $$你喜欢她什么？==&gt;喜欢" param2=""/>
 <chat_tuling_2 id="4" originalRow="4" groupSign="很少" debugClose="" action="" data="" param2=""/>
 <chat_tuling_2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="很少见你这样。" param2=""/>
-<chat_tuling_2 id="6" originalRow="6" groupSign="0.1&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="什么意思？" param2=""/>
+<chat_tuling_2 id="6" originalRow="6" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="什么意思？" param2=""/>
 <chat_tuling_2 id="7" originalRow="7" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="很少见你这么没有障碍地亲近一个人。" param2=""/>
-<chat_tuling_2 id="8" originalRow="8" groupSign="0.1&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="(*^▽^*)嘿嘿嘿~你——吃醋？" param2=""/>
+<chat_tuling_2 id="8" originalRow="8" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="(*^▽^*)嘿嘿嘿~你——吃醋？" param2=""/>
 <chat_tuling_2 id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" param="$$哪有！！！……==&gt;哪有" param2=""/>
 <chat_tuling_2 id="10" originalRow="10" groupSign="哪有" debugClose="" param2=""/>
 <chat_tuling_2 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="哪有！！！" param2=""/>
 <chat_tuling_2 id="12" originalRow="12" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="wo" param="不要乱说！！" param2=""/>
 <chat_tuling_2 id="13" originalRow="13" groupSign="1.2&gt;&gt;" action="角色台词" data="tuling" param="吃醋也没关系的嘛。" param2=""/>
-<chat_tuling_2 id="14" originalRow="14" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="我对大家一视同仁的哦。"/>
+<chat_tuling_2 id="14" originalRow="14" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="我对大家一视同仁的哦。"/>
 <chat_tuling_2 id="15" originalRow="15" action="可选对话框" data="" param="$$少来那副语气，一点都不像。……==&gt;不想"/>
 <chat_tuling_2 id="16" originalRow="16" groupSign="不想" action="" data="" param=""/>
 <chat_tuling_2 id="17" originalRow="17" action="角色台词" data="wo" param="少来那副语气，一点都不像。"/>
-<chat_tuling_2 id="18" originalRow="18" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="(ˉ▽￣～) 切~~"/>
+<chat_tuling_2 id="18" originalRow="18" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="(ˉ▽￣～) 切~~"/>
 <chat_tuling_2 id="19" originalRow="19" action="跳转-标签" data="" param="分支结束"/>
 <chat_tuling_2 id="20" originalRow="20" action="" data="" param=""/>
 <chat_tuling_2 id="21" originalRow="21" groupSign="喜欢" action="" data="" param=""/>
@@ -26,22 +26,22 @@ $$你喜欢她什么？==&gt;喜欢" param2=""/>
 <chat_tuling_2 id="23" originalRow="23" groupSign="0.8&gt;&gt;" action="角色台词" data="tuling" param="因为她很有趣啊。"/>
 <chat_tuling_2 id="24" originalRow="24" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="我觉得土山其实比我们还紧张啦。"/>
 <chat_tuling_2 id="25" originalRow="25" groupSign="1&gt;&gt;" action="角色台词" data="wo" param="哈！？"/>
-<chat_tuling_2 id="26" originalRow="26" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="在面对别人的关心和爱护的时候，很紧张。"/>
-<chat_tuling_2 id="27" originalRow="27" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="所以用酷酷的样子遮掩。"/>
+<chat_tuling_2 id="26" originalRow="26" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="在面对别人的关心和爱护的时候，很紧张。"/>
+<chat_tuling_2 id="27" originalRow="27" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="所以用酷酷的样子遮掩。"/>
 <chat_tuling_2 id="28" originalRow="28" action="可选对话框" data="" param="$$你为什么这么了解？==&gt;为啥"/>
 <chat_tuling_2 id="29" originalRow="29" groupSign="为啥" param=""/>
 <chat_tuling_2 id="30" originalRow="30" action="角色台词" data="wo" param="你为什么这么了解？"/>
-<chat_tuling_2 id="31" originalRow="31" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="因为我当年也这样呀！"/>
+<chat_tuling_2 id="31" originalRow="31" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="因为我当年也这样呀！"/>
 <chat_tuling_2 id="32" originalRow="32" action="可选对话框" data="" param="$$什么当年啊！……==&gt;什么当年"/>
 <chat_tuling_2 id="33" originalRow="33" groupSign="什么当年" param=""/>
 <chat_tuling_2 id="34" originalRow="34" action="角色台词" data="wo" param="什么当年，你是个16岁的小鬼头好不好！"/>
-<chat_tuling_2 id="35" originalRow="35" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="你再怼我，我就把你手里的私藏拷贝全部泄露出去。"/>
+<chat_tuling_2 id="35" originalRow="35" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="你再怼我，我就把你手里的私藏拷贝全部泄露出去。"/>
 <chat_tuling_2 id="36" originalRow="36" groupSign="1&gt;&gt;" action="角色台词" data="wo" param="别别别！"/>
 <chat_tuling_2 id="37" originalRow="37" groupSign="分支结束" action="" data="" param=""/>
 <chat_tuling_2 id="38" originalRow="38" action="可选对话框" data="" param="$$算了。我去忙了。==&gt;算了"/>
 <chat_tuling_2 id="39" originalRow="39" groupSign="算了"/>
 <chat_tuling_2 id="40" originalRow="40" action="角色台词" data="wo" param="算了。我去忙了。"/>
-<chat_tuling_2 id="41" originalRow="41" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="掰掰┏(＾0＾)┛"/>
+<chat_tuling_2 id="41" originalRow="41" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="掰掰┏(＾0＾)┛"/>
 <chat_tuling_2 id="42" originalRow="42"/>
 <chat_tuling_2 id="43" originalRow="43" groupSign="结束"/>
 </root>

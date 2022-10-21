@@ -35,19 +35,19 @@
 <C2_juyuan_first_enter id="33" originalRow="33" groupSign="1" debugClose="" action="特殊-转场效果" data="0" param="1" param2="" param3=""/>
 <C2_juyuan_first_enter id="34" originalRow="34" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="就是她吧——" param2="" param3="type=0"/>
 <C2_juyuan_first_enter id="35" originalRow="35" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<C2_juyuan_first_enter id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="niefei" param="站住！喂——" param2="" param3="type=0"/>
-<C2_juyuan_first_enter id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="" param="然而瘦高的人影顿了一顿，在拐弯处闪过不见了。" param2="" param3="type=1"/>
+<C2_juyuan_first_enter id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作}{#聂飞严肃表情}站住！喂——" param2="" param3="type=0"/>
+<C2_juyuan_first_enter id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="" param="{#聂飞愤怒动作恢复}然而瘦高的人影顿了一顿，在拐弯处闪过不见了。" param2="" param3="type=1"/>
 <C2_juyuan_first_enter id="38" originalRow="38" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
 <C2_juyuan_first_enter id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="tuling" param="跑的真快。" param2="" param3="type=0"/>
 <C2_juyuan_first_enter id="40" originalRow="40" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_juyuan_first_enter id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="wo" param="不过你们看到了吗？" param2="" param3="type=0"/>
-<C2_juyuan_first_enter id="42" originalRow="42" groupSign="" debugClose="" action="打开插画" data="C2_juyuan_heiying" param="FALSE" param2="" param3=""/>
+<C2_juyuan_first_enter id="42" originalRow="42" groupSign="" debugClose="" action="打开插画" data="C2_juyuan_heiying" param="" param2="" param3=""/>
 <C2_juyuan_first_enter id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="嗯……虽然离得有点远，但借着一点光源能看清，确实是她的胸针没错。" param2="" param3="type=0"/>
 <C2_juyuan_first_enter id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="niefei" param="她应该往里走了，我们也进去吧！" param2="" param3="type=0"/>
 <C2_juyuan_first_enter id="45" originalRow="45" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
 <C2_juyuan_first_enter id="46" originalRow="46" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_剧院的黑影=1" param="" param2="" param3=""/>
 <C2_juyuan_first_enter id="47" originalRow="47" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<C2_juyuan_first_enter id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="niefei" param="停！上面——有东西？？" param2="" param3="type=0"/>
+<C2_juyuan_first_enter id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}停！上面——有东西？？" param2="" param3="type=0"/>
 <C2_juyuan_first_enter id="49" originalRow="49" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
 <C2_juyuan_first_enter id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶}噫！！那、那些东西好可怕！" param2="" param3="type=0"/>
 <C2_juyuan_first_enter id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="" param="走廊一侧的橱窗里摆着整排戴着各式面具的破旧人偶，在昏暗的灯光下显得森然而诡异。{#涂凌惊讶恢复}" param2="" param3="type=1"/>
@@ -74,8 +74,7 @@
 <C2_juyuan_first_enter id="72" originalRow="72" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_juyuan_first_enter id="73" originalRow="73" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_juyuan_first_enter id="74" originalRow="74" groupSign="进入迷宫" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_juyuan_first_enter id="75" originalRow="75" groupSign="" debugClose="" action="可选对话框" data="" param="$$进入走廊==&gt;迷宫开始
-$$（临时）直接跳过迷宫==&gt;跳过迷宫" param2="" param3=""/>
+<C2_juyuan_first_enter id="75" originalRow="75" groupSign="" debugClose="" action="可选对话框" data="" param="$$进入走廊==&gt;迷宫开始" param2="" param3=""/>
 <C2_juyuan_first_enter id="76" originalRow="76" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <C2_juyuan_first_enter id="77" originalRow="77" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_juyuan_first_enter id="78" originalRow="78" groupSign="迷宫开始" debugClose="" action="" data="" param="" param2="" param3=""/>

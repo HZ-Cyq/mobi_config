@@ -340,8 +340,8 @@
 <DialogMacro id="339" key_name="震屏闪白" macroContent="{shake=1}{特殊-闪白效果,1}" macroName="{#震屏闪白}"/>
 <DialogMacro id="340" key_name="闪白震slash" macroContent="{shake=1}{特殊-闪白效果,1}{播放音效,avg_sslash}" macroName="{#闪白震slash}"/>
 <DialogMacro id="341" key_name="闪白震punch" macroContent="{shake=1}{特殊-闪白效果,1}" macroName="{#闪白震punch}"/>
-<DialogMacro id="342" key_name="闪白ding" macroContent="{特殊-闪白效果,1}{播放音效,avg_sding}" macroName="{#闪白ding}"/>
-<DialogMacro id="343" key_name="闪白inspiration" macroContent="{特殊-闪白效果,1}{播放音效,avg_sInspiration}" macroName="{#闪白inspiration}"/>
+<DialogMacro id="342" key_name="闪白ding" macroContent="{特殊-闪白效果,1}{播放音效,avg_Sding}" macroName="{#闪白ding}"/>
+<DialogMacro id="343" key_name="闪白inspiration" macroContent="{特殊-闪白效果,1}{播放音效,avg_sinspiration}" macroName="{#闪白inspiration}"/>
 <DialogMacro id="344" key_name="玩家舌战减血" macroContent="{2}{舌战减血,zhouyi}" macroName="{#玩家舌战减血}"/>
 <DialogMacro id="345" key_name="敌对舌战减血" macroContent="{2}{舌战减血,other}" macroName="{#敌对舌战减血}"/>
 <DialogMacro id="346" key_name="常规点头动作" macroContent="{角色转头,,}{0.5}{角色转头,,上微,,0.2}{0.3}{角色转头,,下大,,0.3}{0.4}{角色转头,,0.2}{0.3}" macroName="{#常规点头动作}"/>
@@ -352,7 +352,7 @@
 <DialogMacro id="351" key_name="震屏闪红" macroContent="{shake=1}{特殊-闪红效果}" macroName="{#震屏闪红}"/>
 <DialogMacro id="352" key_name="闪红震slash" macroContent="{shake=1}{特殊-闪红效果}{播放音效,avg_sslash}" macroName="{#闪红震slash}"/>
 <DialogMacro id="353" key_name="闪红震punch" macroContent="{shake=1}{特殊-闪红效果}{播放音效,voice_lightpunch}" macroName="{#闪红震punch}"/>
-<DialogMacro id="354" key_name="闪红ding" macroContent="{特殊-闪红效果}{播放音效,avg_sding}" macroName="{#闪红ding}"/>
+<DialogMacro id="354" key_name="闪红ding" macroContent="{特殊-闪红效果}{播放音效,avg_Sding}" macroName="{#闪红ding}"/>
 <DialogMacro id="355" key_name="闪红inspiration" macroContent="{特殊-闪红效果}{播放音效,voice_inspiration}" macroName="{#闪红inspiration}"/>
 <DialogMacro id="356" key_name="隐藏跳过" macroContent="{场景-执行脚本,AvgShow:btn_skip,0}" macroName="{#隐藏跳过}"/>
 <DialogMacro id="357" key_name="隐藏自动" macroContent="{场景-执行脚本,AvgShow:btn_auto,0}" macroName="{#隐藏自动}"/>
@@ -418,7 +418,7 @@
 <DialogMacro id="1052" key_name="涂凌灵感动作恢复" macroContent="{角色动作,tuling,涂凌_灵感_动作_结束_01}" macroName="{#涂凌灵感动作恢复}"/>
 <DialogMacro id="1053" key_name="涂凌打字表情" macroContent="{角色表情,tuling,涂凌_打字_上脸_开始_01;涂凌_待机_下嘴_开始_01,0.25}" macroName="{#涂凌打字表情}"/>
 <DialogMacro id="1054" key_name="涂凌开心表情" macroContent="{角色表情,tuling,涂凌_开心_上脸_开始_01;涂凌_开心_下嘴_开始_01,0.25}" macroName="{#涂凌开心表情}"/>
-<DialogMacro id="1055" key_name="涂凌待机表情" macroContent="{角色表情,tuling,涂凌_打字_上脸_开始_01;涂凌_待机_下嘴_开始_01,0.25}" macroName="{#涂凌待机表情}"/>
+<DialogMacro id="1055" key_name="涂凌待机表情" macroContent="{角色表情,tuling,涂凌_待机_上脸_开始_01;涂凌_待机_下嘴_开始_01,0.25}" macroName="{#涂凌待机表情}"/>
 <DialogMacro id="1056" key_name="涂凌平静表情" macroContent="{角色表情,tuling,涂凌_待机_上脸_开始_01;涂凌_待机_下嘴_开始_01,0.25}" macroName="{#涂凌平静表情}"/>
 <DialogMacro id="1057" key_name="涂凌忧伤表情" macroContent="{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01,0.3}" macroName="{#涂凌忧伤表情}"/>
 <DialogMacro id="1058" key_name="涂凌惊讶表情" macroContent="{角色表情,tuling,涂凌_惊讶_上脸_开始_01;涂凌_惊讶_下嘴_开始_01}" macroName="{#涂凌惊讶表情}"/>
@@ -463,12 +463,12 @@
 <DialogMacro id="1097" key_name="涂凌惊恐表情" macroContent="{角色表情,tuling,涂凌_惊恐_上脸_开始_01;涂凌_惊恐_下嘴_开始_01,0.25}" macroName="{#涂凌惊恐表情}"/>
 <DialogMacro id="1098" key_name="涂凌慌张表情" macroContent="{角色表情,tuling,涂凌_慌张_上脸_开始_01;涂凌_慌张_下嘴_开始_01}" macroName="{#涂凌慌张表情}"/>
 <DialogMacro id="1099" key_name="涂凌动漫说话挂件" macroContent="{表情符号,动漫_说话,tuling,头,1;x=0.05;y=0.08;z=0.1}" macroName="{#涂凌动漫说话挂件}"/>
-<DialogMacro id="1100" key_name="涂凌动漫星星挂件" macroContent="{表情符号,动漫_说话,tuling,头,1;x=-0.01;y=0.37;z=0.1}" macroName="{#涂凌动漫星星挂件}"/>
-<DialogMacro id="1101" key_name="涂凌动漫疑问挂件" macroContent="{表情符号,动漫_说话,tuling,头,1;x=0.05;y=0.1;z=0.1}" macroName="{#涂凌动漫疑问挂件}"/>
-<DialogMacro id="1102" key_name="涂凌动漫汗滴挂件" macroContent="{表情符号,动漫_说话,tuling,头,1;x=0.05;y=0.05;z=0.1}" macroName="{#涂凌动漫汗滴挂件}"/>
-<DialogMacro id="1103" key_name="涂凌动漫黑线挂件" macroContent="{表情符号,动漫_说话,tuling,头,1;x=-0.04;y=0.08;z=0.1}" macroName="{#涂凌动漫黑线挂件}"/>
-<DialogMacro id="1104" key_name="涂凌动漫叹气挂件" macroContent="{表情符号,动漫_说话,tuling,头,1;x=-0.01;y=-0.01;z=0.1}" macroName="{#涂凌动漫叹气挂件}"/>
-<DialogMacro id="1105" key_name="涂凌动漫出窍挂件" macroContent="{表情符号,动漫_说话,tuling,头,1;x=-0.13;y=0.2;z=0.1}" macroName="{#涂凌动漫出窍挂件}"/>
+<DialogMacro id="1100" key_name="涂凌动漫星星挂件" macroContent="{表情符号,动漫_星星,tuling,头,1;x=-0.01;y=0.37;z=0.1}" macroName="{#涂凌动漫星星挂件}"/>
+<DialogMacro id="1101" key_name="涂凌动漫疑问挂件" macroContent="{表情符号,动漫_疑问,tuling,头,1;x=0.05;y=0.1;z=0.1}" macroName="{#涂凌动漫疑问挂件}"/>
+<DialogMacro id="1102" key_name="涂凌动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,tuling,头,1;x=0.05;y=0.05;z=0.1}" macroName="{#涂凌动漫汗滴挂件}"/>
+<DialogMacro id="1103" key_name="涂凌动漫黑线挂件" macroContent="{表情符号,动漫_黑线,tuling,头,1;x=-0.04;y=0.08;z=0.1}" macroName="{#涂凌动漫黑线挂件}"/>
+<DialogMacro id="1104" key_name="涂凌动漫叹气挂件" macroContent="{表情符号,动漫_叹气,tuling,头,1;x=-0.01;y=-0.01;z=0.1}" macroName="{#涂凌动漫叹气挂件}"/>
+<DialogMacro id="1105" key_name="涂凌动漫出窍挂件" macroContent="{表情符号,动漫_出窍,tuling,头,1;x=-0.13;y=0.2;z=0.1}" macroName="{#涂凌动漫出窍挂件}"/>
 <DialogMacro id="1106" key_name="关闭涂凌动漫挂件" macroContent="{关闭符号,,tuling}" macroName="{#关闭涂凌动漫挂件}"/>
 <DialogMacro id="1107" key_name="关闭动漫挂件" macroContent="{关闭符号,,,}" macroName="{#关闭动漫挂件}"/>
 <DialogMacro id="1108"/>
@@ -598,12 +598,12 @@
 <DialogMacro id="2121" key_name="凯瑟琳2待机2动作" macroContent="{角色动作,kaiselin02,凯瑟琳_主界面_动作_循环_01}" macroName="{#凯瑟琳2待机2动作}"/>
 <DialogMacro id="2122"/>
 <DialogMacro id="2123" key_name="凯瑟琳动漫说话挂件" macroContent="{表情符号,动漫_说话,kaiselin02,头,1;x=0.01;y=0.03;z=0.1}" macroName="{#凯瑟琳动漫说话挂件}"/>
-<DialogMacro id="2124" key_name="凯瑟琳动漫星星挂件" macroContent="{表情符号,动漫_说话,kaiselin02,头,1;x=-0.01;y=-0.43;z=0.1}" macroName="{#凯瑟琳动漫星星挂件}"/>
-<DialogMacro id="2125" key_name="凯瑟琳动漫疑问挂件" macroContent="{表情符号,动漫_说话,kaiselin02,头,1;x=0.06;y=0.01;z=0.1}" macroName="{#凯瑟琳动漫疑问挂件}"/>
-<DialogMacro id="2126" key_name="凯瑟琳动漫汗滴挂件" macroContent="{表情符号,动漫_说话,kaiselin02,头,1;x=0.06;y=0.05;z=0.1}" macroName="{#凯瑟琳动漫汗滴挂件}"/>
-<DialogMacro id="2127" key_name="凯瑟琳动漫黑线挂件" macroContent="{表情符号,动漫_说话,kaiselin02,头,1;x=-0.08;y=0.05;z=0.1}" macroName="{#凯瑟琳动漫黑线挂件}"/>
-<DialogMacro id="2128" key_name="凯瑟琳动漫叹气挂件" macroContent="{表情符号,动漫_说话,kaiselin02,头,1;x=-0.02;y=-0.02;z=0.1}" macroName="{#凯瑟琳动漫叹气挂件}"/>
-<DialogMacro id="2129" key_name="凯瑟琳动漫出窍挂件" macroContent="{表情符号,动漫_说话,kaiselin02,头,1;x=-0.12;y=0.13;z=0.1}" macroName="{#凯瑟琳动漫出窍挂件}"/>
+<DialogMacro id="2124" key_name="凯瑟琳动漫星星挂件" macroContent="{表情符号,动漫_星星,kaiselin02,头,1;x=-0.01;y=-0.43;z=0.1}" macroName="{#凯瑟琳动漫星星挂件}"/>
+<DialogMacro id="2125" key_name="凯瑟琳动漫疑问挂件" macroContent="{表情符号,动漫_疑问,kaiselin02,头,1;x=0.06;y=0.01;z=0.1}" macroName="{#凯瑟琳动漫疑问挂件}"/>
+<DialogMacro id="2126" key_name="凯瑟琳动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,kaiselin02,头,1;x=0.06;y=0.05;z=0.1}" macroName="{#凯瑟琳动漫汗滴挂件}"/>
+<DialogMacro id="2127" key_name="凯瑟琳动漫黑线挂件" macroContent="{表情符号,动漫_黑线,kaiselin02,头,1;x=-0.08;y=0.05;z=0.1}" macroName="{#凯瑟琳动漫黑线挂件}"/>
+<DialogMacro id="2128" key_name="凯瑟琳动漫叹气挂件" macroContent="{表情符号,动漫_叹气,kaiselin02,头,1;x=-0.02;y=-0.02;z=0.1}" macroName="{#凯瑟琳动漫叹气挂件}"/>
+<DialogMacro id="2129" key_name="凯瑟琳动漫出窍挂件" macroContent="{表情符号,动漫_出窍,kaiselin02,头,1;x=-0.12;y=0.13;z=0.1}" macroName="{#凯瑟琳动漫出窍挂件}"/>
 <DialogMacro id="2130" key_name="关闭凯瑟琳动漫挂件" macroContent="{关闭符号,,kaiselin02}" macroName="{#关闭凯瑟琳动漫挂件}"/>
 <DialogMacro id="2131"/>
 <DialogMacro id="3001" key_name="聂飞待机" macroContent="{角色动作,niefei,聂总_待机_动作_循环_01}{角色表情,niefei,聂总_待机_上脸_开始_01;聂总_待机_下嘴_开始_01}" macroName="{#聂飞待机}"/>
@@ -663,12 +663,12 @@
 <DialogMacro id="3055" key_name="聂飞军体拳表情" macroContent="{角色表情,niefei,聂总_愤怒_上脸_开始_01;聂总_尴尬_下嘴_开始_01}{4.8}{角色表情,niefei,聂总_待机_上脸_开始_01;聂总_待机_下嘴_开始_01}" macroName="{#聂飞军体拳表情}"/>
 <DialogMacro id="3056" key_name="聂飞尴尬表情" macroContent="{角色表情,niefei,聂总_尴尬_上脸_开始_01;聂总_尴尬_下嘴_开始_01}" macroName="{#聂飞尴尬表情}"/>
 <DialogMacro id="3057" key_name="聂飞动漫说话挂件" macroContent="{表情符号,动漫_说话,niefei,头,1;x=0.03;y=0.01;y=0.1}" macroName="{#聂飞动漫说话挂件}"/>
-<DialogMacro id="3058" key_name="聂飞动漫星星挂件" macroContent="{表情符号,动漫_说话,niefei,头,1;x=0.01;y=-0.42;y=0.1}" macroName="{#聂飞动漫星星挂件}"/>
-<DialogMacro id="3059" key_name="聂飞动漫疑问挂件" macroContent="{表情符号,动漫_说话,niefei,头,1;x=0.06;y=0.04;y=0.1}" macroName="{#聂飞动漫疑问挂件}"/>
-<DialogMacro id="3060" key_name="聂飞动漫汗滴挂件" macroContent="{表情符号,动漫_说话,niefei,头,1;x=0.06;y=0.04;y=0.1}" macroName="{#聂飞动漫汗滴挂件}"/>
-<DialogMacro id="3061" key_name="聂飞动漫黑线挂件" macroContent="{表情符号,动漫_说话,niefei,头,1;x=-0.065;y=0.05;y=0.1}" macroName="{#聂飞动漫黑线挂件}"/>
-<DialogMacro id="3062" key_name="聂飞动漫叹气挂件" macroContent="{表情符号,动漫_说话,niefei,头,1;x=-0.01;y=-0.01;y=0.1}" macroName="{#聂飞动漫叹气挂件}"/>
-<DialogMacro id="3063" key_name="聂飞动漫出窍挂件" macroContent="{表情符号,动漫_说话,niefei,头,1;x=-0.1;y=0.13;y=0.1}" macroName="{#聂飞动漫出窍挂件}"/>
+<DialogMacro id="3058" key_name="聂飞动漫星星挂件" macroContent="{表情符号,动漫_星星,niefei,头,1;x=0.01;y=-0.42;y=0.1}" macroName="{#聂飞动漫星星挂件}"/>
+<DialogMacro id="3059" key_name="聂飞动漫疑问挂件" macroContent="{表情符号,动漫_疑问,niefei,头,1;x=0.06;y=0.04;y=0.1}" macroName="{#聂飞动漫疑问挂件}"/>
+<DialogMacro id="3060" key_name="聂飞动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,niefei,头,1;x=0.06;y=0.04;y=0.1}" macroName="{#聂飞动漫汗滴挂件}"/>
+<DialogMacro id="3061" key_name="聂飞动漫黑线挂件" macroContent="{表情符号,动漫_黑线,niefei,头,1;x=-0.065;y=0.05;y=0.1}" macroName="{#聂飞动漫黑线挂件}"/>
+<DialogMacro id="3062" key_name="聂飞动漫叹气挂件" macroContent="{表情符号,动漫_叹气,niefei,头,1;x=-0.01;y=-0.01;y=0.1}" macroName="{#聂飞动漫叹气挂件}"/>
+<DialogMacro id="3063" key_name="聂飞动漫出窍挂件" macroContent="{表情符号,动漫_出窍,niefei,头,1;x=-0.1;y=0.13;y=0.1}" macroName="{#聂飞动漫出窍挂件}"/>
 <DialogMacro id="3064" key_name="关闭聂飞动漫挂件" macroContent="{关闭符号,,niefei}" macroName="{#关闭聂飞动漫挂件}"/>
 <DialogMacro id="4001" key_name="李加虎待机动作" macroContent="{角色动作,lijiahu,李加虎_待机_动作_循环_01}" macroName="{#李加虎待机动作}"/>
 <DialogMacro id="4002" key_name="李加虎开心动作" macroContent="{角色动作,lijiahu,李加虎_开心_动作_开始_01}" macroName="{#李加虎开心动作}"/>
@@ -744,12 +744,12 @@
 <DialogMacro id="4072" key_name="李加虎紧张2表情恢复" macroContent="{角色表情,lijiahu,李加虎_紧张_上脸_开始_01;李加虎_待机_下嘴_开始_01,0.25}" macroName="{#李加虎紧张2表情恢复}"/>
 <DialogMacro id="4073" key_name="李加虎紧张2动作恢复" macroContent="{角色动作,lijiahu,李加虎_紧张_动作_结束_02}" macroName="{#李加虎紧张2动作恢复}"/>
 <DialogMacro id="4074" key_name="李加虎动漫说话挂件" macroContent="{表情符号,动漫_说话,lijiahu,头,1;x=0.02;y=0.04;z=0.1}" macroName="{#李加虎动漫说话挂件}"/>
-<DialogMacro id="4075" key_name="李加虎动漫星星挂件" macroContent="{表情符号,动漫_说话,lijiahu,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#李加虎动漫星星挂件}"/>
-<DialogMacro id="4076" key_name="李加虎动漫疑问挂件" macroContent="{表情符号,动漫_说话,lijiahu,头,1;x=0.08;y=-0.01;z=0.1}" macroName="{#李加虎动漫疑问挂件}"/>
-<DialogMacro id="4077" key_name="李加虎动漫汗滴挂件" macroContent="{表情符号,动漫_说话,lijiahu,头,1;x=0.07;y=0.07;z=0.1}" macroName="{#李加虎动漫汗滴挂件}"/>
-<DialogMacro id="4078" key_name="李加虎动漫黑线挂件" macroContent="{表情符号,动漫_说话,lijiahu,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#李加虎动漫黑线挂件}"/>
-<DialogMacro id="4079" key_name="李加虎动漫叹气挂件" macroContent="{表情符号,动漫_说话,lijiahu,头,1;x=0.013;y=-0.001;z=0.1}" macroName="{#李加虎动漫叹气挂件}"/>
-<DialogMacro id="4080" key_name="李加虎动漫出窍挂件" macroContent="{表情符号,动漫_说话,lijiahu,头,1;x=-0.1;y=0.17;z=0.1}" macroName="{#李加虎动漫出窍挂件}"/>
+<DialogMacro id="4075" key_name="李加虎动漫星星挂件" macroContent="{表情符号,动漫_星星,lijiahu,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#李加虎动漫星星挂件}"/>
+<DialogMacro id="4076" key_name="李加虎动漫疑问挂件" macroContent="{表情符号,动漫_疑问,lijiahu,头,1;x=0.08;y=-0.01;z=0.1}" macroName="{#李加虎动漫疑问挂件}"/>
+<DialogMacro id="4077" key_name="李加虎动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,lijiahu,头,1;x=0.07;y=0.07;z=0.1}" macroName="{#李加虎动漫汗滴挂件}"/>
+<DialogMacro id="4078" key_name="李加虎动漫黑线挂件" macroContent="{表情符号,动漫_黑线,lijiahu,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#李加虎动漫黑线挂件}"/>
+<DialogMacro id="4079" key_name="李加虎动漫叹气挂件" macroContent="{表情符号,动漫_叹气,lijiahu,头,1;x=0.013;y=-0.001;z=0.1}" macroName="{#李加虎动漫叹气挂件}"/>
+<DialogMacro id="4080" key_name="李加虎动漫出窍挂件" macroContent="{表情符号,动漫_出窍,lijiahu,头,1;x=-0.1;y=0.17;z=0.1}" macroName="{#李加虎动漫出窍挂件}"/>
 <DialogMacro id="4081" key_name="关闭李加虎动漫挂件" macroContent="{关闭符号,,lijiahu}" macroName="{#关闭李加虎动漫挂件}"/>
 <DialogMacro id="4082"/>
 <DialogMacro id="5001" key_name="周易待机动作" macroContent="{角色动作,zhouyi,周易_待机_动作_循环_01}" macroName="{#周易待机动作}"/>
@@ -772,7 +772,7 @@
 <DialogMacro id="5018" key_name="周易思考动作恢复" macroContent="{角色动作,zhouyi,周易_思考_动作_结束_01}" macroName="{#周易思考动作恢复}"/>
 <DialogMacro id="5019" key_name="周易思考2动作恢复" macroContent="{角色动作,zhouyi,周易_思考_动作_结束_02}" macroName="{#周易思考2动作恢复}"/>
 <DialogMacro id="5020" key_name="周易思考3动作恢复" macroContent="{角色动作,zhouyi,周易_思考_动作_结束_03}" macroName="{#周易思考3动作恢复}"/>
-<DialogMacro id="5021" key_name="周易成功动作恢复" macroContent="{角色动作,zhouyi,周易_待机_动作_循环_01}" macroName="{#周易成功动作恢复}"/>
+<DialogMacro id="5021" key_name="周易成功动作恢复" macroContent="{角色动作,zhouyi,周易_胜利_动作_结束_01}" macroName="{#周易成功动作恢复}"/>
 <DialogMacro id="5022" key_name="周易抬手动作恢复" macroContent="{角色动作,zhouyi,周易_抬手_动作_结束_01}" macroName="{#周易抬手动作恢复}"/>
 <DialogMacro id="5023" key_name="周易抬手2动作恢复" macroContent="{角色动作,zhouyi,周易_抬手_动作_结束_02}" macroName="{#周易抬手2动作恢复}"/>
 <DialogMacro id="5024" key_name="周易抬手3动作恢复" macroContent="{角色动作,zhouyi,周易_抬手_动作_结束_03}" macroName="{#周易抬手3动作恢复}"/>
@@ -792,53 +792,55 @@
 <DialogMacro id="5038" key_name="周易思考2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易思考2表情恢复}"/>
 <DialogMacro id="5039" key_name="周易思考3表情" macroContent="{角色表情,zhouyi,周易_思考_上脸_开始_03;周易_思考_下嘴_开始_01,0.25}" macroName="{#周易思考3表情}"/>
 <DialogMacro id="5040" key_name="周易思考3表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易思考3表情恢复}"/>
-<DialogMacro id="5041" key_name="周易成功表情" macroContent="{角色表情,zhouyi,周易_成功_上脸_开始_01;周易_成功_下嘴_开始_01,0.25}" macroName="{#周易成功表情}"/>
-<DialogMacro id="5042" key_name="周易成功2表情" macroContent="{角色表情,zhouyi,周易_成功_上脸_开始_02;周易_成功_下嘴_开始_02,0.25}" macroName="{#周易成功2表情}"/>
-<DialogMacro id="5043" key_name="周易成功表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易成功表情恢复}"/>
-<DialogMacro id="5044" key_name="周易抬手表情" macroContent="{角色表情,zhouyi,周易_待机_上脸_开始_01;周易_成功_下嘴_开始_01,0.25}" macroName="{#周易抬手表情}"/>
-<DialogMacro id="5045" key_name="周易抬手表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易抬手表情恢复}"/>
-<DialogMacro id="5046" key_name="周易抬手2表情" macroContent="{角色表情,zhouyi,周易_抬手_上脸_开始_02;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易抬手2表情}"/>
-<DialogMacro id="5047" key_name="周易抬手2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易抬手2表情恢复}"/>
-<DialogMacro id="5048" key_name="周易无奈表情" macroContent="{角色表情,zhouyi,周易_无奈_上脸_开始_01;周易_无奈_下嘴_开始_01,0.25}" macroName="{#周易无奈表情}"/>
-<DialogMacro id="5049" key_name="周易无奈表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈表情恢复}"/>
-<DialogMacro id="5050" key_name="周易害羞表情" macroContent="{角色表情,zhouyi,周易_害羞_上脸_结束_01;周易_害羞_下嘴_结束_01,0.25}" macroName="{#周易害羞表情}"/>
-<DialogMacro id="5051" key_name="周易害羞表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易害羞表情恢复}"/>
-<DialogMacro id="5052" key_name="周易平静表情" macroContent="{角色表情,zhouyi,周易_平静_上脸_开始_01;周易_平静_下嘴_开始_01,0.25}" macroName="{#周易平静表情}"/>
-<DialogMacro id="5053" key_name="周易平静表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易平静表情恢复}"/>
-<DialogMacro id="5054" key_name="周易开心表情" macroContent="{角色表情,zhouyi,周易_开心_上脸_开始_01;周易_开心_下嘴_开始_01,0.25}" macroName="{#周易开心表情}"/>
-<DialogMacro id="5055" key_name="周易开心表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易开心表情恢复}"/>
-<DialogMacro id="5056" key_name="周易忧伤表情" macroContent="{角色表情,zhouyi,周易_忧伤_上脸_开始_01;周易_忧伤_下嘴_开始_01,0.25}" macroName="{#周易忧伤表情}"/>
-<DialogMacro id="5057" key_name="周易忧伤表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易忧伤表情恢复}"/>
-<DialogMacro id="5058" key_name="周易怀疑表情" macroContent="{角色表情,zhouyi,周易_怀疑_上脸_开始_01;周易_怀疑_下嘴_开始_01,0.25}" macroName="{#周易怀疑表情}"/>
-<DialogMacro id="5059" key_name="周易怀疑表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易怀疑表情恢复}"/>
-<DialogMacro id="5060" key_name="周易惊讶表情" macroContent="{角色表情,zhouyi,周易_惊讶_上脸_开始_01;周易_惊讶_下嘴_开始_01,0.25}" macroName="{#周易惊讶表情}"/>
-<DialogMacro id="5061" key_name="周易惊讶表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易惊讶表情恢复}"/>
-<DialogMacro id="5062" key_name="周易晕表情" macroContent="{角色表情,zhouyi,周易_晕_上脸_开始_01;周易_晕_下嘴_开始_01}" macroName="{#周易晕表情}"/>
-<DialogMacro id="5063" key_name="周易晕表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01}" macroName="{#周易晕表情恢复}"/>
-<DialogMacro id="5064" key_name="周易晕2表情" macroContent="{角色表情,zhouyi,周易_晕_上脸_开始_02;周易_晕_下嘴_开始_02}" macroName="{#周易晕2表情}"/>
-<DialogMacro id="5065" key_name="周易晕2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01}" macroName="{#周易晕2表情恢复}"/>
-<DialogMacro id="5066" key_name="周易紧张表情" macroContent="{角色表情,zhouyi,周易_紧张_上脸_开始_01;周易_紧张_下嘴_开始_01,0.25}" macroName="{#周易紧张表情}"/>
-<DialogMacro id="5067" key_name="周易紧张表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易紧张表情恢复}"/>
-<DialogMacro id="5068" key_name="周易胜利表情" macroContent="{角色表情,zhouyi,周易_成功_上脸_开始_01;周易_成功_下嘴_开始_01}{1}{角色表情,zhouyi,周易_成功_上脸_开始_02;周易_成功_下嘴_开始_02}" macroName="{#周易胜利表情}"/>
-<DialogMacro id="5069" key_name="周易胜利表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易胜利表情恢复}"/>
-<DialogMacro id="5070" key_name="周易无奈2表情" macroContent="{角色表情,zhouyi,周易_紧张_上脸_开始_01;周易_无奈_下嘴_开始_01,0.25}" macroName="{#周易无奈2表情}"/>
-<DialogMacro id="5071" key_name="周易无奈3表情" macroContent="{角色表情,zhouyi,周易_无奈_上脸_开始_02;周易_无奈_下嘴_开始_02,0.25}" macroName="{#周易无奈3表情}"/>
-<DialogMacro id="5072" key_name="周易无奈2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈2表情恢复}"/>
-<DialogMacro id="5073" key_name="周易无奈3表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈3表情恢复}"/>
-<DialogMacro id="5074" key_name="周易惊讶动作" macroContent="{角色动作,zhouyi,周易_惊讶_动作_开始_01}" macroName="{#周易惊讶动作}"/>
-<DialogMacro id="5075" key_name="周易惊讶动作恢复" macroContent="{角色动作,zhouyi,周易_惊讶_动作_结束_01}" macroName="{#周易惊讶动作恢复}"/>
-<DialogMacro id="5076" key_name="周易转头左极眨眼转眼" macroContent="{角色转头,zhouyi,左极}{单次眨眼}{角色表情,zhouyi,;;右看_开始_01}" macroName="{#周易转头左极眨眼转眼}"/>
-<DialogMacro id="5077" key_name="周易转头右极眨眼转眼" macroContent="{角色转头,zhouyi,右极}{单次眨眼}{角色表情,zhouyi,;;左看_开始_01}" macroName="{#周易转头右极眨眼转眼}"/>
-<DialogMacro id="5078" key_name="周易待机2动作" macroContent="{角色动作,zhouyi,周易_待机_动作_循环_02}" macroName="{#周易待机2动作}"/>
-<DialogMacro id="5079" key_name="周易动漫说话挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.03,y=0.04,z=0.1}" macroName="{#周易动漫说话挂件}"/>
-<DialogMacro id="5080" key_name="周易动漫星星挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#周易动漫星星挂件}"/>
-<DialogMacro id="5081" key_name="周易动漫疑问挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.04;y=-0.01;z=0.1}" macroName="{#周易动漫疑问挂件}"/>
-<DialogMacro id="5082" key_name="周易动漫汗滴挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.05;y=0.034;z=0.1}" macroName="{#周易动漫汗滴挂件}"/>
-<DialogMacro id="5083" key_name="周易动漫黑线挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#周易动漫黑线挂件}"/>
-<DialogMacro id="5084" key_name="周易动漫叹气挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.03;y=0.01;z=0.1}" macroName="{#周易动漫叹气挂件}"/>
-<DialogMacro id="5085" key_name="周易动漫出窍挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=-0.1;y=0.15;z=0.1}" macroName="{#周易动漫出窍挂件}"/>
-<DialogMacro id="5086" key_name="关闭周易动漫挂件" macroContent="{关闭符号,,zhouyi}" macroName="{#关闭周易动漫挂件}"/>
-<DialogMacro id="5087"/>
+<DialogMacro id="5041" key_name="周易思考4表情" macroContent="{角色表情,zhouyi,周易_思考_上脸_开始_02;周易_思考_下嘴_开始_02,0.25}" macroName="{#周易思考4表情}"/>
+<DialogMacro id="5042" key_name="周易思考4表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易思考4表情恢复}"/>
+<DialogMacro id="5043" key_name="周易成功表情" macroContent="{角色表情,zhouyi,周易_成功_上脸_开始_01;周易_成功_下嘴_开始_01,0.25}" macroName="{#周易成功表情}"/>
+<DialogMacro id="5044" key_name="周易成功2表情" macroContent="{角色表情,zhouyi,周易_成功_上脸_开始_02;周易_成功_下嘴_开始_02,0.25}" macroName="{#周易成功2表情}"/>
+<DialogMacro id="5045" key_name="周易成功表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易成功表情恢复}"/>
+<DialogMacro id="5046" key_name="周易抬手表情" macroContent="{角色表情,zhouyi,周易_待机_上脸_开始_01;周易_成功_下嘴_开始_01,0.25}" macroName="{#周易抬手表情}"/>
+<DialogMacro id="5047" key_name="周易抬手表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易抬手表情恢复}"/>
+<DialogMacro id="5048" key_name="周易抬手2表情" macroContent="{角色表情,zhouyi,周易_抬手_上脸_开始_02;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易抬手2表情}"/>
+<DialogMacro id="5049" key_name="周易抬手2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易抬手2表情恢复}"/>
+<DialogMacro id="5050" key_name="周易无奈表情" macroContent="{角色表情,zhouyi,周易_无奈_上脸_开始_01;周易_无奈_下嘴_开始_01,0.25}" macroName="{#周易无奈表情}"/>
+<DialogMacro id="5051" key_name="周易无奈表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈表情恢复}"/>
+<DialogMacro id="5052" key_name="周易害羞表情" macroContent="{角色表情,zhouyi,周易_害羞_上脸_结束_01;周易_害羞_下嘴_结束_01,0.25}" macroName="{#周易害羞表情}"/>
+<DialogMacro id="5053" key_name="周易害羞表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易害羞表情恢复}"/>
+<DialogMacro id="5054" key_name="周易平静表情" macroContent="{角色表情,zhouyi,周易_平静_上脸_开始_01;周易_平静_下嘴_开始_01,0.25}" macroName="{#周易平静表情}"/>
+<DialogMacro id="5055" key_name="周易平静表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易平静表情恢复}"/>
+<DialogMacro id="5056" key_name="周易开心表情" macroContent="{角色表情,zhouyi,周易_开心_上脸_开始_01;周易_开心_下嘴_开始_01,0.25}" macroName="{#周易开心表情}"/>
+<DialogMacro id="5057" key_name="周易开心表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易开心表情恢复}"/>
+<DialogMacro id="5058" key_name="周易忧伤表情" macroContent="{角色表情,zhouyi,周易_忧伤_上脸_开始_01;周易_忧伤_下嘴_开始_01,0.25}" macroName="{#周易忧伤表情}"/>
+<DialogMacro id="5059" key_name="周易忧伤表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易忧伤表情恢复}"/>
+<DialogMacro id="5060" key_name="周易怀疑表情" macroContent="{角色表情,zhouyi,周易_怀疑_上脸_开始_01;周易_怀疑_下嘴_开始_01,0.25}" macroName="{#周易怀疑表情}"/>
+<DialogMacro id="5061" key_name="周易怀疑表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易怀疑表情恢复}"/>
+<DialogMacro id="5062" key_name="周易惊讶表情" macroContent="{角色表情,zhouyi,周易_惊讶_上脸_开始_01;周易_惊讶_下嘴_开始_01,0.25}" macroName="{#周易惊讶表情}"/>
+<DialogMacro id="5063" key_name="周易惊讶表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易惊讶表情恢复}"/>
+<DialogMacro id="5064" key_name="周易晕表情" macroContent="{角色表情,zhouyi,周易_晕_上脸_开始_01;周易_晕_下嘴_开始_01}" macroName="{#周易晕表情}"/>
+<DialogMacro id="5065" key_name="周易晕表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01}" macroName="{#周易晕表情恢复}"/>
+<DialogMacro id="5066" key_name="周易晕2表情" macroContent="{角色表情,zhouyi,周易_晕_上脸_开始_02;周易_晕_下嘴_开始_02}" macroName="{#周易晕2表情}"/>
+<DialogMacro id="5067" key_name="周易晕2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01}" macroName="{#周易晕2表情恢复}"/>
+<DialogMacro id="5068" key_name="周易紧张表情" macroContent="{角色表情,zhouyi,周易_紧张_上脸_开始_01;周易_紧张_下嘴_开始_01,0.25}" macroName="{#周易紧张表情}"/>
+<DialogMacro id="5069" key_name="周易紧张表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易紧张表情恢复}"/>
+<DialogMacro id="5070" key_name="周易胜利表情" macroContent="{角色表情,zhouyi,周易_成功_上脸_开始_01;周易_成功_下嘴_开始_01}{1}{角色表情,zhouyi,周易_成功_上脸_开始_02;周易_成功_下嘴_开始_02}" macroName="{#周易胜利表情}"/>
+<DialogMacro id="5071" key_name="周易胜利表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易胜利表情恢复}"/>
+<DialogMacro id="5072" key_name="周易无奈2表情" macroContent="{角色表情,zhouyi,周易_紧张_上脸_开始_01;周易_无奈_下嘴_开始_01,0.25}" macroName="{#周易无奈2表情}"/>
+<DialogMacro id="5073" key_name="周易无奈3表情" macroContent="{角色表情,zhouyi,周易_无奈_上脸_开始_02;周易_无奈_下嘴_开始_02,0.25}" macroName="{#周易无奈3表情}"/>
+<DialogMacro id="5074" key_name="周易无奈2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈2表情恢复}"/>
+<DialogMacro id="5075" key_name="周易无奈3表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈3表情恢复}"/>
+<DialogMacro id="5076" key_name="周易惊讶动作" macroContent="{角色动作,zhouyi,周易_惊讶_动作_开始_01}" macroName="{#周易惊讶动作}"/>
+<DialogMacro id="5077" key_name="周易惊讶动作恢复" macroContent="{角色动作,zhouyi,周易_惊讶_动作_结束_01}" macroName="{#周易惊讶动作恢复}"/>
+<DialogMacro id="5078" key_name="周易转头左极眨眼转眼" macroContent="{角色转头,zhouyi,左极}{单次眨眼}{角色表情,zhouyi,;;右看_开始_01}" macroName="{#周易转头左极眨眼转眼}"/>
+<DialogMacro id="5079" key_name="周易转头右极眨眼转眼" macroContent="{角色转头,zhouyi,右极}{单次眨眼}{角色表情,zhouyi,;;左看_开始_01}" macroName="{#周易转头右极眨眼转眼}"/>
+<DialogMacro id="5080" key_name="周易待机2动作" macroContent="{角色动作,zhouyi,周易_待机_动作_循环_02}" macroName="{#周易待机2动作}"/>
+<DialogMacro id="5081" key_name="周易动漫说话挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.03,y=0.04,z=0.1}" macroName="{#周易动漫说话挂件}"/>
+<DialogMacro id="5082" key_name="周易动漫星星挂件" macroContent="{表情符号,动漫_星星,zhouyi,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#周易动漫星星挂件}"/>
+<DialogMacro id="5083" key_name="周易动漫疑问挂件" macroContent="{表情符号,动漫_疑问,zhouyi,头,1;x=0.04;y=-0.01;z=0.1}" macroName="{#周易动漫疑问挂件}"/>
+<DialogMacro id="5084" key_name="周易动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,zhouyi,头,1;x=0.05;y=0.034;z=0.1}" macroName="{#周易动漫汗滴挂件}"/>
+<DialogMacro id="5085" key_name="周易动漫黑线挂件" macroContent="{表情符号,动漫_黑线,zhouyi,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#周易动漫黑线挂件}"/>
+<DialogMacro id="5086" key_name="周易动漫叹气挂件" macroContent="{表情符号,动漫_叹气,zhouyi,头,1;x=0.03;y=0.01;z=0.1}" macroName="{#周易动漫叹气挂件}"/>
+<DialogMacro id="5087" key_name="周易动漫出窍挂件" macroContent="{表情符号,动漫_出窍,zhouyi,头,1;x=-0.1;y=0.15;z=0.1}" macroName="{#周易动漫出窍挂件}"/>
+<DialogMacro id="5088" key_name="关闭周易动漫挂件" macroContent="{关闭符号,,zhouyi}" macroName="{#关闭周易动漫挂件}"/>
+<DialogMacro id="5089"/>
 <DialogMacro id="6001" key_name="黄权待机动作" macroContent="{角色动作,huangquan,黄权_待机_动作_循环_01}" macroName="{#黄权待机动作}"/>
 <DialogMacro id="6002" key_name="黄权开心动作" macroContent="{角色动作,huangquan,黄权_开心_动作_开始_01}" macroName="{#黄权开心动作}"/>
 <DialogMacro id="6003" key_name="黄权平静动作" macroContent="{角色动作,huangquan,黄权_平静_动作_开始_01}" macroName="{#黄权平静动作}"/>
@@ -884,66 +886,13 @@
 <DialogMacro id="6043" key_name="黄权击破表情" macroContent="{角色表情,huangquan,黄权_击破_上脸_开始_01;黄权_击破_下嘴_开始_01}" macroName="{#黄权击破表情}"/>
 <DialogMacro id="6044" key_name="黄权击破表情恢复" macroContent="{角色表情,huangquan,黄权_待机_上脸_开始_01;黄权_待机_下嘴_开始_01}" macroName="{#黄权击破表情恢复}"/>
 <DialogMacro id="6045" key_name="黄权动漫说话挂件" macroContent="{表情符号,动漫_说话,huangquan,头,1;x=-0.03;y=0.04;z=0.1}" macroName="{#黄权动漫说话挂件}"/>
-<DialogMacro id="6046" key_name="黄权动漫星星挂件" macroContent="{表情符号,动漫_说话,huangquan,头,1;x=-0.01;y=-0.4;z=0.1}" macroName="{#黄权动漫星星挂件}"/>
-<DialogMacro id="6047" key_name="黄权动漫疑问挂件" macroContent="{表情符号,动漫_说话,huangquan,头,1;x=0.07;y=-0.01;z=0.1}" macroName="{#黄权动漫疑问挂件}"/>
-<DialogMacro id="6048" key_name="黄权动漫汗滴挂件" macroContent="{表情符号,动漫_说话,huangquan,头,1;x=0.08;y=0.06;z=0.1}" macroName="{#黄权动漫汗滴挂件}"/>
-<DialogMacro id="6049" key_name="黄权动漫黑线挂件" macroContent="{表情符号,动漫_说话,huangquan,头,1;x=-0.07;y=0.07;z=0.1}" macroName="{#黄权动漫黑线挂件}"/>
-<DialogMacro id="6050" key_name="黄权动漫叹气挂件" macroContent="{表情符号,动漫_说话,huangquan,头,1;x=0.3;y=0.005;z=0.1}" macroName="{#黄权动漫叹气挂件}"/>
-<DialogMacro id="6051" key_name="黄权动漫出窍挂件" macroContent="{表情符号,动漫_说话,huangquan,头,1;x=-0.1;y=0.157;z=0.1}" macroName="{#黄权动漫出窍挂件}"/>
+<DialogMacro id="6046" key_name="黄权动漫星星挂件" macroContent="{表情符号,动漫_星星,huangquan,头,1;x=-0.01;y=-0.4;z=0.1}" macroName="{#黄权动漫星星挂件}"/>
+<DialogMacro id="6047" key_name="黄权动漫疑问挂件" macroContent="{表情符号,动漫_疑问,huangquan,头,1;x=0.07;y=-0.01;z=0.1}" macroName="{#黄权动漫疑问挂件}"/>
+<DialogMacro id="6048" key_name="黄权动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,huangquan,头,1;x=0.08;y=0.06;z=0.1}" macroName="{#黄权动漫汗滴挂件}"/>
+<DialogMacro id="6049" key_name="黄权动漫黑线挂件" macroContent="{表情符号,动漫_黑线,huangquan,头,1;x=-0.07;y=0.07;z=0.1}" macroName="{#黄权动漫黑线挂件}"/>
+<DialogMacro id="6050" key_name="黄权动漫叹气挂件" macroContent="{表情符号,动漫_叹气,huangquan,头,1;x=0.3;y=0.005;z=0.1}" macroName="{#黄权动漫叹气挂件}"/>
+<DialogMacro id="6051" key_name="黄权动漫出窍挂件" macroContent="{表情符号,动漫_出窍,huangquan,头,1;x=-0.1;y=0.157;z=0.1}" macroName="{#黄权动漫出窍挂件}"/>
 <DialogMacro id="6052" key_name="关闭黄权动漫挂件" macroContent="{关闭符号,,huangquan}" macroName="{#关闭黄权动漫挂件}"/>
-<DialogMacro id="12001" key_name="杜衡待机动作" macroContent="{角色动作,duheng,杜衡_待机_动作_循环_01}" macroName="{#杜衡待机动作}"/>
-<DialogMacro id="12002" key_name="杜衡开心动作" macroContent="{角色动作,duheng,杜衡_开心_动作_开始_01}" macroName="{#杜衡开心动作}"/>
-<DialogMacro id="12003" key_name="杜衡平静动作" macroContent="{角色动作,duheng,杜衡_平静_动作_开始_01}" macroName="{#杜衡平静动作}"/>
-<DialogMacro id="12004" key_name="杜衡忧伤动作" macroContent="{角色动作,duheng,杜衡_忧伤_动作_开始_01}" macroName="{#杜衡忧伤动作}"/>
-<DialogMacro id="12005" key_name="杜衡惊讶动作" macroContent="{角色动作,duheng,杜衡_惊讶_动作_开始_01}" macroName="{#杜衡惊讶动作}"/>
-<DialogMacro id="12006" key_name="杜衡紧张动作" macroContent="{角色动作,duheng,杜衡_紧张_动作_开始_01}" macroName="{#杜衡紧张动作}"/>
-<DialogMacro id="12007" key_name="杜衡思考动作" macroContent="{角色动作,duheng,杜衡_思考_动作_开始_01}" macroName="{#杜衡思考动作}"/>
-<DialogMacro id="12008" key_name="杜衡愤怒动作" macroContent="{角色动作,duheng,杜衡_愤怒_动作_开始_01}" macroName="{#杜衡愤怒动作}"/>
-<DialogMacro id="12009" key_name="杜衡愤怒2动作" macroContent="{角色动作,duheng,杜衡_愤怒_动作_开始_02}" macroName="{#杜衡愤怒2动作}"/>
-<DialogMacro id="12010" key_name="杜衡调戏动作" macroContent="{角色动作,duheng,杜衡_调戏_动作_开始_01}" macroName="{#杜衡调戏动作}"/>
-<DialogMacro id="12011" key_name="杜衡送客动作" macroContent="{角色动作,duheng,杜衡_送客_动作_开始_01}" macroName="{#杜衡送客动作}"/>
-<DialogMacro id="12012" key_name="杜衡看文件动作" macroContent="{角色动作,duheng,杜衡_看文件_动作_开始_01}" macroName="{#杜衡看文件动作}"/>
-<DialogMacro id="12013" key_name="杜衡看文件动作恢复" macroContent="{角色动作,duheng,杜衡_看文件_动作_结束_01}" macroName="{#杜衡看文件动作恢复}"/>
-<DialogMacro id="12014" key_name="杜衡开心动作恢复" macroContent="{角色动作,duheng,杜衡_开心_动作_结束_01}" macroName="{#杜衡开心动作恢复}"/>
-<DialogMacro id="12015" key_name="杜衡平静动作恢复" macroContent="{角色动作,duheng,杜衡_平静_动作_结束_01}" macroName="{#杜衡平静动作恢复}"/>
-<DialogMacro id="12016" key_name="杜衡忧伤动作恢复" macroContent="{角色动作,duheng,杜衡_忧伤_动作_结束_01}" macroName="{#杜衡忧伤动作恢复}"/>
-<DialogMacro id="12017" key_name="杜衡惊讶动作恢复" macroContent="{角色动作,duheng,杜衡_惊讶_动作_结束_01}" macroName="{#杜衡惊讶动作恢复}"/>
-<DialogMacro id="12018" key_name="杜衡紧张动作恢复" macroContent="{角色动作,duheng,杜衡_紧张_动作_结束_01}" macroName="{#杜衡紧张动作恢复}"/>
-<DialogMacro id="12019" key_name="杜衡思考动作恢复" macroContent="{角色动作,duheng,杜衡_思考_动作_结束_01}" macroName="{#杜衡思考动作恢复}"/>
-<DialogMacro id="12020" key_name="杜衡愤怒动作恢复" macroContent="{角色动作,duheng,杜衡_愤怒_动作_结束_01}" macroName="{#杜衡愤怒动作恢复}"/>
-<DialogMacro id="12021" key_name="杜衡愤怒2动作恢复" macroContent="{角色动作,duheng,杜衡_愤怒_动作_结束_02}" macroName="{#杜衡愤怒2动作恢复}"/>
-<DialogMacro id="12022" key_name="杜衡调戏动作恢复" macroContent="{角色动作,duheng,杜衡_调戏_动作_结束_01}" macroName="{#杜衡调戏动作恢复}"/>
-<DialogMacro id="12023"/>
-<DialogMacro id="12024" key_name="杜衡待机表情" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_开始_01,0.25}" macroName="{#杜衡待机表情}"/>
-<DialogMacro id="12025" key_name="杜衡开心表情" macroContent="{角色表情,duheng,杜衡_开心_上脸_开始_01;杜衡_开心_下嘴_开始_01,0.25}" macroName="{#杜衡开心表情}"/>
-<DialogMacro id="12026" key_name="杜衡开心表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡开心表情恢复}"/>
-<DialogMacro id="12027" key_name="杜衡平静表情" macroContent="{角色表情,duheng,杜衡_平静_上脸_开始_01;杜衡_平静_下嘴_开始_01,0.3}" macroName="{#杜衡平静表情}"/>
-<DialogMacro id="12028" key_name="杜衡平静表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡平静表情恢复}"/>
-<DialogMacro id="12029" key_name="杜衡忧伤表情" macroContent="{角色表情,duheng,杜衡_忧伤_上脸_开始_01;杜衡_忧伤_下嘴_开始_01,0.25}" macroName="{#杜衡忧伤表情}"/>
-<DialogMacro id="12030" key_name="杜衡忧伤表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡忧伤表情恢复}"/>
-<DialogMacro id="12031" key_name="杜衡惊讶表情" macroContent="{角色表情,duheng,杜衡_惊讶_上脸_开始_01;杜衡_惊讶_下嘴_开始_01,0.25}" macroName="{#杜衡惊讶表情}"/>
-<DialogMacro id="12032" key_name="杜衡惊讶表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡惊讶表情恢复}"/>
-<DialogMacro id="12033" key_name="杜衡紧张表情" macroContent="{角色表情,duheng,杜衡_紧张_上脸_开始_01;杜衡_紧张_下嘴_开始_01,0.3}" macroName="{#杜衡紧张表情}"/>
-<DialogMacro id="12034" key_name="杜衡紧张表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡紧张表情恢复}"/>
-<DialogMacro id="12035" key_name="杜衡思考表情" macroContent="{角色表情,duheng,杜衡_思考_上脸_开始_01;杜衡_思考_下嘴_开始_01,0.25}" macroName="{#杜衡思考表情}"/>
-<DialogMacro id="12036" key_name="杜衡思考表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡思考表情恢复}"/>
-<DialogMacro id="12037" key_name="杜衡愤怒表情" macroContent="{角色表情,duheng,杜衡_愤怒_上脸_开始_01;杜衡_愤怒_下嘴_开始_01,0.25}" macroName="{#杜衡愤怒表情}"/>
-<DialogMacro id="12038" key_name="杜衡愤怒表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡愤怒表情恢复}"/>
-<DialogMacro id="12039" key_name="杜衡愤怒2表情" macroContent="{角色表情,duheng,杜衡_愤怒_上脸_开始_02;杜衡_愤怒_下嘴_开始_02,0.25}" macroName="{#杜衡愤怒2表情}"/>
-<DialogMacro id="12040" key_name="杜衡愤怒2表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡愤怒2表情恢复}"/>
-<DialogMacro id="12041"/>
-<DialogMacro id="12042" key_name="杜衡看文件2动作" macroContent="{角色动作,duheng,杜衡_看文件_动作_开始_02}" macroName="{#杜衡看文件2动作}"/>
-<DialogMacro id="12043" key_name="杜衡看文件2动作恢复" macroContent="{角色动作,duheng,杜衡_看文件_动作_结束_02}" macroName="{#杜衡看文件2动作恢复}"/>
-<DialogMacro id="12044"/>
-<DialogMacro id="12045" key_name="杜衡动漫说话挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=-0.02;y=0.04;z=0.1}" macroName="{#杜衡动漫说话挂件}"/>
-<DialogMacro id="12046" key_name="杜衡动漫星星挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=-0.01;y=-0.43;z=0.1}" macroName="{#杜衡动漫星星挂件}"/>
-<DialogMacro id="12047" key_name="杜衡动漫疑问挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=0.07;y=0.01;z=0.1}" macroName="{#杜衡动漫疑问挂件}"/>
-<DialogMacro id="12048" key_name="杜衡动漫汗滴挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=0.055;y=0.03;z=0.1}" macroName="{#杜衡动漫汗滴挂件}"/>
-<DialogMacro id="12049" key_name="杜衡动漫黑线挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#杜衡动漫黑线挂件}"/>
-<DialogMacro id="12050" key_name="杜衡动漫叹气挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=-0.03;y=0.01;z=0.1}" macroName="{#杜衡动漫叹气挂件}"/>
-<DialogMacro id="12051" key_name="杜衡动漫出窍挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=-0.1;y=0.15;z=0.1}" macroName="{#杜衡动漫出窍挂件}"/>
-<DialogMacro id="12052" key_name="关闭杜衡动漫挂件" macroContent="{关闭符号,,duheng}" macroName="{#关闭杜衡动漫挂件}"/>
-<DialogMacro id="12053"/>
 <DialogMacro id="8001" key_name="土山奥待机动作" macroContent="{角色动作,tushanao,土山奥_待机_动作_循环_01}" macroName="{#土山奥待机动作}"/>
 <DialogMacro id="8002" key_name="土山奥开心动作" macroContent="{角色动作,tushanao,土山奥_开心_动作_开始_01}" macroName="{#土山奥开心动作}"/>
 <DialogMacro id="8003" key_name="土山奥忧伤动作" macroContent="{角色动作,tushanao,土山奥_忧伤_动作_开始_01}" macroName="{#土山奥忧伤动作}"/>
@@ -983,44 +932,46 @@
 <DialogMacro id="8037" key_name="土山奥平静表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥平静表情恢复}"/>
 <DialogMacro id="8038" key_name="土山奥忧伤表情" macroContent="{角色表情,tushanao,土山奥_忧伤_上脸_开始_01;土山奥_忧伤_下嘴_开始_01,0.25}" macroName="{#土山奥忧伤表情}"/>
 <DialogMacro id="8039" key_name="土山奥忧伤表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥忧伤表情恢复}"/>
-<DialogMacro id="8040" key_name="土山奥惊讶表情" macroContent="{角色表情,tushanao,土山奥_惊讶_上脸_开始_01;土山奥_惊讶_下嘴_开始_01,0.25}" macroName="{#土山奥惊讶表情}"/>
-<DialogMacro id="8041" key_name="土山奥惊讶表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥惊讶表情恢复}"/>
-<DialogMacro id="8042" key_name="土山奥紧张表情" macroContent="{角色表情,tushanao,土山奥_紧张_上脸_开始_01;土山奥_紧张_下嘴_开始_01,0.25}" macroName="{#土山奥紧张表情}"/>
-<DialogMacro id="8043" key_name="土山奥紧张表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥紧张表情恢复}"/>
-<DialogMacro id="8044" key_name="土山奥思考表情" macroContent="{角色表情,tushanao,土山奥_思考_上脸_开始_01;土山奥_思考_下嘴_开始_01,0.25}" macroName="{#土山奥思考表情}"/>
-<DialogMacro id="8045" key_name="土山奥思考表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥思考表情恢复}"/>
-<DialogMacro id="8046" key_name="土山奥愤怒表情" macroContent="{角色表情,tushanao,土山奥_愤怒_上脸_开始_01;土山奥_愤怒_下嘴_开始_01,0.25}" macroName="{#土山奥愤怒表情}"/>
-<DialogMacro id="8047" key_name="土山奥愤怒表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥愤怒表情恢复}"/>
-<DialogMacro id="8048" key_name="土山奥无聊表情" macroContent="{角色表情,tushanao,土山奥_无聊_上脸_开始_01;土山奥_无聊_下嘴_开始_01,0.25}" macroName="{#土山奥无聊表情}"/>
-<DialogMacro id="8049" key_name="土山奥无聊表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥无聊表情恢复}"/>
-<DialogMacro id="8050" key_name="土山奥邪恶表情" macroContent="{角色表情,tushanao,土山奥_邪恶_上脸_开始_01;土山奥_邪恶_下嘴_开始_01,0.3}" macroName="{#土山奥邪恶表情}"/>
-<DialogMacro id="8051" key_name="土山奥邪恶表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥邪恶表情恢复}"/>
-<DialogMacro id="8052" key_name="土山奥待机2表情" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥待机2表情}"/>
-<DialogMacro id="8053" key_name="土山奥打住表情" macroContent="{角色表情,tushanao,土山奥_打住_上脸_开始_01;土山奥_打住_下嘴_开始_01,0.25}" macroName="{#土山奥打住表情}"/>
-<DialogMacro id="8054" key_name="土山奥打住表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥打住表情恢复}"/>
-<DialogMacro id="8055" key_name="土山奥坏笑表情" macroContent="{角色表情,tushanao,土山奥_坏笑_上脸_开始_01;土山奥_坏笑_下嘴_开始_01,0.25}" macroName="{#土山奥坏笑表情}"/>
-<DialogMacro id="8056" key_name="土山奥坏笑表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥坏笑表情恢复}"/>
-<DialogMacro id="8057" key_name="土山奥伤心表情" macroContent="{角色表情,tushanao,土山奥_伤心_上脸_开始_01;土山奥_伤心_下嘴_开始_01,0.25}" macroName="{#土山奥伤心表情}"/>
-<DialogMacro id="8058" key_name="土山奥伤心表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥伤心表情恢复}"/>
-<DialogMacro id="8059" key_name="土山奥威胁表情" macroContent="{角色表情,tushanao,土山奥_威胁_上脸_开始_01;土山奥_威胁_下嘴_开始_01,0.25}" macroName="{#土山奥威胁表情}"/>
-<DialogMacro id="8060" key_name="土山奥威胁表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥威胁表情恢复}"/>
-<DialogMacro id="8061" key_name="土山奥无奈表情" macroContent="{角色表情,tushanao,土山奥_无奈_上脸_开始_01;土山奥_无奈_下嘴_开始_01,0.25}" macroName="{#土山奥无奈表情}"/>
-<DialogMacro id="8062" key_name="土山奥无奈表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥无奈表情恢复}"/>
-<DialogMacro id="8063" key_name="土山奥行礼表情" macroContent="{角色表情,tushanao,土山奥_行礼_上脸_开始_01;土山奥_行礼_下嘴_开始_01,0.25}" macroName="{#土山奥行礼表情}"/>
-<DialogMacro id="8064" key_name="土山奥行礼表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥行礼表情恢复}"/>
-<DialogMacro id="8065" key_name="土山奥开心2表情" macroContent="{角色表情,tushanao,土山奥_开心_上脸_开始_02;土山奥_开心_下嘴_开始_02,0.25}" macroName="{#土山奥开心2表情}"/>
-<DialogMacro id="8066" key_name="土山奥开心2表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_02;土山奥_待机_下嘴_开始_02,0.25}" macroName="{#土山奥开心2表情恢复}"/>
-<DialogMacro id="8067"/>
-<DialogMacro id="8068" key_name="土山奥动漫说话挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫说话挂件}"/>
-<DialogMacro id="8069" key_name="土山奥动漫星星挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫星星挂件}"/>
-<DialogMacro id="8070" key_name="土山奥动漫疑问挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫疑问挂件}"/>
-<DialogMacro id="8071" key_name="土山奥动漫汗滴挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫汗滴挂件}"/>
-<DialogMacro id="8072" key_name="土山奥动漫黑线挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫黑线挂件}"/>
-<DialogMacro id="8073" key_name="土山奥动漫叹气挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫叹气挂件}"/>
-<DialogMacro id="8074" key_name="土山奥动漫出窍挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫出窍挂件}"/>
-<DialogMacro id="8075" key_name="关闭土山奥动漫挂件" macroContent="{关闭符号,,tushanao}" macroName="{#关闭土山奥动漫挂件}"/>
-<DialogMacro id="8076"/>
-<DialogMacro id="8077"/>
+<DialogMacro id="8040" key_name="土山奥忧伤2表情" macroContent="{角色表情,tushanao,土山奥_忧伤_上脸_开始_02;土山奥_忧伤_下嘴_开始_02,0.25}" macroName="{#土山奥忧伤2表情}"/>
+<DialogMacro id="8041" key_name="土山奥忧伤2表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_02;土山奥_待机_下嘴_开始_02,0.25}" macroName="{#土山奥忧伤2表情恢复}"/>
+<DialogMacro id="8042" key_name="土山奥惊讶表情" macroContent="{角色表情,tushanao,土山奥_惊讶_上脸_开始_01;土山奥_惊讶_下嘴_开始_01,0.25}" macroName="{#土山奥惊讶表情}"/>
+<DialogMacro id="8043" key_name="土山奥惊讶表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥惊讶表情恢复}"/>
+<DialogMacro id="8044" key_name="土山奥紧张表情" macroContent="{角色表情,tushanao,土山奥_紧张_上脸_开始_01;土山奥_紧张_下嘴_开始_01,0.25}" macroName="{#土山奥紧张表情}"/>
+<DialogMacro id="8045" key_name="土山奥紧张表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥紧张表情恢复}"/>
+<DialogMacro id="8046" key_name="土山奥思考表情" macroContent="{角色表情,tushanao,土山奥_思考_上脸_开始_01;土山奥_思考_下嘴_开始_01,0.25}" macroName="{#土山奥思考表情}"/>
+<DialogMacro id="8047" key_name="土山奥思考表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥思考表情恢复}"/>
+<DialogMacro id="8048" key_name="土山奥愤怒表情" macroContent="{角色表情,tushanao,土山奥_愤怒_上脸_开始_01;土山奥_愤怒_下嘴_开始_01,0.25}" macroName="{#土山奥愤怒表情}"/>
+<DialogMacro id="8049" key_name="土山奥愤怒表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥愤怒表情恢复}"/>
+<DialogMacro id="8050" key_name="土山奥无聊表情" macroContent="{角色表情,tushanao,土山奥_无聊_上脸_开始_01;土山奥_无聊_下嘴_开始_01,0.25}" macroName="{#土山奥无聊表情}"/>
+<DialogMacro id="8051" key_name="土山奥无聊表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥无聊表情恢复}"/>
+<DialogMacro id="8052" key_name="土山奥邪恶表情" macroContent="{角色表情,tushanao,土山奥_邪恶_上脸_开始_01;土山奥_邪恶_下嘴_开始_01,0.3}" macroName="{#土山奥邪恶表情}"/>
+<DialogMacro id="8053" key_name="土山奥邪恶表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥邪恶表情恢复}"/>
+<DialogMacro id="8054" key_name="土山奥待机2表情" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_02;土山奥_待机_下嘴_开始_02,0.25}" macroName="{#土山奥待机2表情}"/>
+<DialogMacro id="8055" key_name="土山奥打住表情" macroContent="{角色表情,tushanao,土山奥_打住_上脸_开始_01;土山奥_打住_下嘴_开始_01,0.25}" macroName="{#土山奥打住表情}"/>
+<DialogMacro id="8056" key_name="土山奥打住表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥打住表情恢复}"/>
+<DialogMacro id="8057" key_name="土山奥坏笑表情" macroContent="{角色表情,tushanao,土山奥_坏笑_上脸_开始_01;土山奥_坏笑_下嘴_开始_01,0.25}" macroName="{#土山奥坏笑表情}"/>
+<DialogMacro id="8058" key_name="土山奥坏笑表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥坏笑表情恢复}"/>
+<DialogMacro id="8059" key_name="土山奥伤心表情" macroContent="{角色表情,tushanao,土山奥_伤心_上脸_开始_01;土山奥_伤心_下嘴_开始_01,0.25}" macroName="{#土山奥伤心表情}"/>
+<DialogMacro id="8060" key_name="土山奥伤心表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥伤心表情恢复}"/>
+<DialogMacro id="8061" key_name="土山奥威胁表情" macroContent="{角色表情,tushanao,土山奥_威胁_上脸_开始_01;土山奥_威胁_下嘴_开始_01,0.25}" macroName="{#土山奥威胁表情}"/>
+<DialogMacro id="8062" key_name="土山奥威胁表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥威胁表情恢复}"/>
+<DialogMacro id="8063" key_name="土山奥无奈表情" macroContent="{角色表情,tushanao,土山奥_无奈_上脸_开始_01;土山奥_无奈_下嘴_开始_01,0.25}" macroName="{#土山奥无奈表情}"/>
+<DialogMacro id="8064" key_name="土山奥无奈表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥无奈表情恢复}"/>
+<DialogMacro id="8065" key_name="土山奥行礼表情" macroContent="{角色表情,tushanao,土山奥_行礼_上脸_开始_01;土山奥_行礼_下嘴_开始_01,0.25}" macroName="{#土山奥行礼表情}"/>
+<DialogMacro id="8066" key_name="土山奥行礼表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_01;土山奥_待机_下嘴_开始_01,0.25}" macroName="{#土山奥行礼表情恢复}"/>
+<DialogMacro id="8067" key_name="土山奥开心2表情" macroContent="{角色表情,tushanao,土山奥_开心_上脸_开始_02;土山奥_开心_下嘴_开始_02,0.25}" macroName="{#土山奥开心2表情}"/>
+<DialogMacro id="8068" key_name="土山奥开心2表情恢复" macroContent="{角色表情,tushanao,土山奥_待机_上脸_开始_02;土山奥_待机_下嘴_开始_02,0.25}" macroName="{#土山奥开心2表情恢复}"/>
+<DialogMacro id="8069"/>
+<DialogMacro id="8070" key_name="土山奥动漫说话挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫说话挂件}"/>
+<DialogMacro id="8071" key_name="土山奥动漫星星挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫星星挂件}"/>
+<DialogMacro id="8072" key_name="土山奥动漫疑问挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫疑问挂件}"/>
+<DialogMacro id="8073" key_name="土山奥动漫汗滴挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫汗滴挂件}"/>
+<DialogMacro id="8074" key_name="土山奥动漫黑线挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫黑线挂件}"/>
+<DialogMacro id="8075" key_name="土山奥动漫叹气挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫叹气挂件}"/>
+<DialogMacro id="8076" key_name="土山奥动漫出窍挂件" macroContent="{表情符号,动漫_说话,tushanao,头,1;x=0.1;y=0.1;z=0.1}" macroName="{#土山奥动漫出窍挂件}"/>
+<DialogMacro id="8077" key_name="关闭土山奥动漫挂件" macroContent="{关闭符号,,tushanao}" macroName="{#关闭土山奥动漫挂件}"/>
+<DialogMacro id="8078"/>
+<DialogMacro id="8079"/>
 <DialogMacro id="9001" key_name="npc标准男01待机动作" macroContent="{角色动作,npc_biaonan001,npc标准男01_待机_动作_循环_02}" macroName="{#npc标准男01待机动作}"/>
 <DialogMacro id="9002" key_name="npc标准男01紧张动作" macroContent="{角色动作,npc_biaonan001,npc标准男01_紧张_动作_开始_01}" macroName="{#npc标准男01紧张动作}"/>
 <DialogMacro id="9003" key_name="npc标准男01愤怒动作" macroContent="{角色动作,npc_biaonan001,npc标准男01_愤怒_动作_开始_01}" macroName="{#npc标准男01愤怒动作}"/>
@@ -1045,29 +996,73 @@
 <DialogMacro id="9022" key_name="npc标准女01紧张表情" macroContent="{角色表情,npc_biaonv001,npc标准女01_紧张_上脸_循环_01;npc标准女01_紧张_下嘴_开始_01,0.25}" macroName="{#npc标准女01紧张表情}"/>
 <DialogMacro id="9023" key_name="npc标准女01愤怒表情" macroContent="{角色表情,npc_biaonv001,npc标准女01_愤怒_上脸_循环_01;npc标准女01_愤怒_下嘴_开始_01,0.25}" macroName="{#npc标准女01愤怒表情}"/>
 <DialogMacro id="9024"/>
-<DialogMacro id="9025"/>
-<DialogMacro id="9026"/>
+<DialogMacro id="9025" key_name="npc标准男01紧张动作恢复" macroContent="{角色动作,npc_biaonan001,npc标准男01_紧张_动作_结束_01}" macroName="{#npc标准男01紧张动作恢复}"/>
+<DialogMacro id="9026" key_name="npc标准男01愤怒动作恢复" macroContent="{角色动作,npc_biaonan001,npc标准男01_愤怒_动作_结束_01}" macroName="{#npc标准男01愤怒动作恢复}"/>
 <DialogMacro id="9027"/>
-<DialogMacro id="9028" key_name="npc标准男01紧张动作恢复" macroContent="{角色动作,npc_biaonan001,npc标准男01_紧张_动作_结束_01}" macroName="{#npc标准男01紧张动作恢复}"/>
-<DialogMacro id="9029" key_name="npc标准男01愤怒动作恢复" macroContent="{角色动作,npc_biaonan001,npc标准男01_愤怒_动作_结束_01}" macroName="{#npc标准男01愤怒动作恢复}"/>
+<DialogMacro id="9028" key_name="npc标准男02紧张动作恢复" macroContent="{角色动作,npc_biaonan002,npc标准男01_紧张_动作_结束_01}" macroName="{#npc标准男02紧张动作恢复}"/>
+<DialogMacro id="9029" key_name="npc标准男02愤怒动作恢复" macroContent="{角色动作,npc_biaonan002,npc标准男01_愤怒_动作_结束_01}" macroName="{#npc标准男02愤怒动作恢复}"/>
 <DialogMacro id="9030"/>
-<DialogMacro id="9031" key_name="npc标准男02紧张动作恢复" macroContent="{角色动作,npc_biaonan002,npc标准男01_紧张_动作_结束_01}" macroName="{#npc标准男02紧张动作恢复}"/>
-<DialogMacro id="9032" key_name="npc标准男02愤怒动作恢复" macroContent="{角色动作,npc_biaonan002,npc标准男01_愤怒_动作_结束_01}" macroName="{#npc标准男02愤怒动作恢复}"/>
+<DialogMacro id="9031" key_name="npc标准女01紧张动作恢复" macroContent="{角色动作,,npc标准女01_紧张_动作_结束_01}" macroName="{#npc标准女01紧张动作恢复}"/>
+<DialogMacro id="9032" key_name="npc标准女01愤怒动作恢复" macroContent="{角色动作,npc_biaonv001,npc标准女01_愤怒_动作_结束_01}" macroName="{#npc标准女01愤怒动作恢复}"/>
 <DialogMacro id="9033"/>
-<DialogMacro id="9034" key_name="npc标准女01紧张动作恢复" macroContent="{角色动作,npc_biaonv001,npc标准女01_紧张_动作_结束_01}" macroName="{#npc标准女01紧张动作恢复}"/>
-<DialogMacro id="9035" key_name="npc标准女01愤怒动作恢复" macroContent="{角色动作,npc_biaonv001,npc标准女01_愤怒_动作_结束_01}" macroName="{#npc标准女01愤怒动作恢复}"/>
-<DialogMacro id="9036"/>
-<DialogMacro id="9037"/>
-<DialogMacro id="9038"/>
-<DialogMacro id="9039"/>
+<DialogMacro id="9034" key_name="MANN待机动作" macroContent="{角色动作,,M_A_N_N_待机_动作_循环_01}" macroName="{#MANN待机动作}"/>
+<DialogMacro id="9035" key_name="MANN愤怒动作" macroContent="{角色动作,,M_A_N_N_愤怒_动作_开始_01}" macroName="{#MANN愤怒动作}"/>
+<DialogMacro id="9036" key_name="MANN紧张动作" macroContent="{角色动作,,M_A_N_N_紧张_动作_开始_01}" macroName="{#MANN紧张动作}"/>
+<DialogMacro id="9037" key_name="MANN惊讶动作" macroContent="{角色动作,,M_A_N_N_惊讶_动作_开始_01}" macroName="{#MANN惊讶动作}"/>
+<DialogMacro id="9038" key_name="MANN开心动作" macroContent="{角色动作,,M_A_N_N_开心_动作_开始_01}" macroName="{#MANN开心动作}"/>
+<DialogMacro id="9039" key_name="MANN质问动作" macroContent="{角色动作,,M_A_N_N_质问_动作_开始_01}" macroName="{#MANN质问动作}"/>
 <DialogMacro id="9040"/>
 <DialogMacro id="9041"/>
-<DialogMacro id="9042"/>
-<DialogMacro id="9043"/>
-<DialogMacro id="9044"/>
-<DialogMacro id="9045"/>
-<DialogMacro id="9046"/>
+<DialogMacro id="9042" key_name="MANN愤怒动作恢复" macroContent="{角色动作,,M_A_N_N_紧张_动作_结束_01}" macroName="{#MANN愤怒动作恢复}"/>
+<DialogMacro id="9043" key_name="MANN紧张动作恢复" macroContent="{角色动作,,M_A_N_N_紧张_动作_结束_01}" macroName="{#MANN紧张动作恢复}"/>
+<DialogMacro id="9044" key_name="MANN惊讶动作恢复" macroContent="{角色动作,,M_A_N_N_惊讶_动作_结束_01}" macroName="{#MANN惊讶动作恢复}"/>
+<DialogMacro id="9045" key_name="MANN开心动作恢复" macroContent="{角色动作,,M_A_N_N_开心_动作_结束_01}" macroName="{#MANN开心动作恢复}"/>
+<DialogMacro id="9046" key_name="MANN质问动作恢复" macroContent="{角色动作,,M_A_N_N_质问_动作_结束_01}" macroName="{#MANN质问动作恢复}"/>
 <DialogMacro id="9047"/>
+<DialogMacro id="9048"/>
+<DialogMacro id="9049" key_name="MANN待机表情" macroContent="{角色表情,,M_A_N_N_待机_上脸_循环_01;M_A_N_N_待机_下嘴_循环_01,0.25}" macroName="{#MANN待机表情}"/>
+<DialogMacro id="9050" key_name="MANN愤怒表情" macroContent="{角色表情,,M_A_N_N_愤怒_上脸_开始_01;M_A_N_N_愤怒_下嘴_开始_01,0.25}" macroName="{#MANN愤怒表情}"/>
+<DialogMacro id="9051" key_name="MANN紧张表情" macroContent="{角色表情,,M_A_N_N_紧张_上脸_开始_01;M_A_N_N_紧张_下嘴_开始_01,0.25}" macroName="{#MANN紧张表情}"/>
+<DialogMacro id="9052" key_name="MANN惊讶表情" macroContent="{角色表情,,M_A_N_N_惊讶_上脸_开始_01;M_A_N_N_惊讶_下嘴_开始_01,0.25}" macroName="{#MANN惊讶表情}"/>
+<DialogMacro id="9053" key_name="MANN开心表情" macroContent="{角色表情,,M_A_N_N_开心_上脸_开始_01;M_A_N_N_开心_下嘴_开始_01,0.25}" macroName="{#MANN开心表情}"/>
+<DialogMacro id="9054" key_name="MANN质问表情" macroContent="{角色表情,,M_A_N_N_质问_上脸_开始_01;M_A_N_N_质问_下嘴_开始_01,0.25}" macroName="{#MANN质问表情}"/>
+<DialogMacro id="9055"/>
+<DialogMacro id="9056"/>
+<DialogMacro id="9057" key_name="FANN待机动作" macroContent="{角色动作,,F_A_N_N_待机_动作_循环_03}" macroName="{#FANN待机动作}"/>
+<DialogMacro id="9058" key_name="FANN愤怒动作" macroContent="{角色动作,,F_A_N_N_愤怒_动作_开始_02}" macroName="{#FANN愤怒动作}"/>
+<DialogMacro id="9059" key_name="FANN紧张动作" macroContent="{角色动作,,F_A_N_N_紧张_动作_开始_02}" macroName="{#FANN紧张动作}"/>
+<DialogMacro id="9060" key_name="FANN惊讶动作" macroContent="{角色动作,,F_A_N_N_惊讶_动作_开始_01}" macroName="{#FANN惊讶动作}"/>
+<DialogMacro id="9061" key_name="FANN开心动作" macroContent="{角色动作,,F_A_N_N_开心_动作_开始_01}" macroName="{#FANN开心动作}"/>
+<DialogMacro id="9062" key_name="FANN质问动作" macroContent="{角色动作,,F_A_N_N_质问_动作_开始_02}" macroName="{#FANN质问动作}"/>
+<DialogMacro id="9063"/>
+<DialogMacro id="9064"/>
+<DialogMacro id="9065" key_name="FANN愤怒动作恢复" macroContent="{角色动作,,F_A_N_N_愤怒_动作_结束_02}" macroName="{#FANN愤怒动作恢复}"/>
+<DialogMacro id="9066" key_name="FANN紧张动作恢复" macroContent="{角色动作,,F_A_N_N_紧张_动作_结束_02}" macroName="{#FANN紧张动作恢复}"/>
+<DialogMacro id="9067" key_name="FANN惊讶动作恢复" macroContent="{角色动作,,F_A_N_N_惊讶_动作_结束_01}" macroName="{#FANN惊讶动作恢复}"/>
+<DialogMacro id="9068" key_name="FANN开心动作恢复" macroContent="{角色动作,,F_A_N_N_开心_动作_结束_01}" macroName="{#FANN开心动作恢复}"/>
+<DialogMacro id="9069" key_name="FANN质问动作恢复" macroContent="{角色动作,,F_A_N_N_质问_动作_结束_02}" macroName="{#FANN质问动作恢复}"/>
+<DialogMacro id="9070"/>
+<DialogMacro id="9071"/>
+<DialogMacro id="9072" key_name="FANN待机表情" macroContent="{角色表情,,F_A_N_N_待机_上脸_循环_01;F_A_N_N_待机_下嘴_循环_01,0.25}" macroName="{#FANN待机表情}"/>
+<DialogMacro id="9073" key_name="FANN愤怒表情" macroContent="{角色表情,,F_A_N_N_愤怒_上脸_开始_01;F_A_N_N_愤怒_下嘴_开始_01,0.25}" macroName="{#FANN愤怒表情}"/>
+<DialogMacro id="9074" key_name="FANN紧张表情" macroContent="{角色表情,,F_A_N_N_紧张_上脸_开始_01;F_A_N_N_紧张_下嘴_开始_01,0.25}" macroName="{#FANN紧张表情}"/>
+<DialogMacro id="9075" key_name="FANN惊讶表情" macroContent="{角色表情,,F_A_N_N_惊讶_上脸_开始_01;F_A_N_N_惊讶_下嘴_开始_01,0.25}" macroName="{#FANN惊讶表情}"/>
+<DialogMacro id="9076" key_name="FANN开心表情" macroContent="{角色表情,,F_A_N_N_开心_上脸_开始_01;F_A_N_N_开心_下嘴_开始_01,0.25}" macroName="{#FANN开心表情}"/>
+<DialogMacro id="9077" key_name="FANN质问表情" macroContent="{角色表情,,F_A_N_N_质问_上脸_开始_01;F_A_N_N_质问_下嘴_开始_01,0.25}" macroName="{#FANN质问表情}"/>
+<DialogMacro id="9078" macroName="{#}"/>
+<DialogMacro id="9079" macroName="{#}"/>
+<DialogMacro id="9080" key_name="STS科研人员半躺" macroContent="{#角色动作,,STS科研人员_半躺_动作_循环_01}" macroName="{#STS科研人员半躺}"/>
+<DialogMacro id="9081" key_name="STS科研人员待机1" macroContent="{#角色动作,,STS科研人员_半躺_动作_循环_01}" macroName="{#STS科研人员待机1}"/>
+<DialogMacro id="9082" key_name="STS科研人员待机2" macroContent="{#角色动作,,STS科研人员_半躺_动作_循环_01}" macroName="{#STS科研人员待机2}"/>
+<DialogMacro id="9083" key_name="STS科研人员前扑" macroContent="{#角色动作,,STS科研人员_向前扑_动作_开始_01}" macroName="{#STS科研人员前扑}"/>
+<DialogMacro id="9084" key_name="STS科研人员跑步" macroContent="{#角色动作,,STS科研人员_半躺_动作_循环_01}" macroName="{#STS科研人员跑步}"/>
+<DialogMacro id="9085" key_name="STS科研人员紧张" macroContent="{#角色动作,,STS科研人员_半躺_动作_循环_01}" macroName="{#STS科研人员紧张}"/>
+<DialogMacro id="9086" key_name="STS科研人员愤怒" macroContent="{#角色动作,,STS科研人员_半躺_动作_循环_01}" macroName="{#STS科研人员愤怒}"/>
+<DialogMacro id="9087" key_name="STS科研人员愤怒恢复" macroContent="{#角色动作,,STS科研人员_半躺_动作_循环_01}" macroName="{#STS科研人员愤怒恢复}"/>
+<DialogMacro id="9088" key_name="sts" macroName="{#sts}"/>
+<DialogMacro id="9089" macroName="{#}"/>
+<DialogMacro id="9090" macroName="{#}"/>
+<DialogMacro id="9091" macroName="{#}"/>
 <DialogMacro id="10001" key_name="白秀竹待机动作" macroContent="{角色动作,baixiuzhu,白秀竹_待机_动作_循环_01}" macroName="{#白秀竹待机动作}"/>
 <DialogMacro id="10002" key_name="白秀竹开心动作" macroContent="{角色动作,baixiuzhu,白秀竹_开心_动作_开始_01}" macroName="{#白秀竹开心动作}"/>
 <DialogMacro id="10003" key_name="白秀竹惊讶动作" macroContent="{角色动作,baixiuzhu,白秀竹_惊讶_动作_开始_01}" macroName="{#白秀竹惊讶动作}"/>
@@ -1109,12 +1104,12 @@
 <DialogMacro id="10039"/>
 <DialogMacro id="10040"/>
 <DialogMacro id="10041" key_name="白秀竹动漫说话挂件" macroContent="{表情符号,动漫_说话,baixiuzhu,头,1;x=-0.03;y=0.04;z=0.1}" macroName="{#白秀竹动漫说话挂件}"/>
-<DialogMacro id="10042" key_name="白秀竹动漫星星挂件" macroContent="{表情符号,动漫_说话,baixiuzhu,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#白秀竹动漫星星挂件}"/>
-<DialogMacro id="10043" key_name="白秀竹动漫疑问挂件" macroContent="{表情符号,动漫_说话,baixiuzhu,头,1;x=0.04;y=0.01;z=0.1}" macroName="{#白秀竹动漫疑问挂件}"/>
-<DialogMacro id="10044" key_name="白秀竹动漫汗滴挂件" macroContent="{表情符号,动漫_说话,baixiuzhu,头,1;x=0.05;y=0.03;z=0.1}" macroName="{#白秀竹动漫汗滴挂件}"/>
-<DialogMacro id="10045" key_name="白秀竹动漫黑线挂件" macroContent="{表情符号,动漫_说话,baixiuzhu,头,1;x=-0.07;y=0.04;z=0.1}" macroName="{#白秀竹动漫黑线挂件}"/>
-<DialogMacro id="10046" key_name="白秀竹动漫叹气挂件" macroContent="{表情符号,动漫_说话,baixiuzhu,头,1;x=0.02;y=0.01;z=0.1}" macroName="{#白秀竹动漫叹气挂件}"/>
-<DialogMacro id="10047" key_name="白秀竹动漫出窍挂件" macroContent="{表情符号,动漫_说话,baixiuzhu,头,1;x=0.1;y=0.18;z=0.1}" macroName="{#白秀竹动漫出窍挂件}"/>
+<DialogMacro id="10042" key_name="白秀竹动漫星星挂件" macroContent="{表情符号,动漫_星星,baixiuzhu,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#白秀竹动漫星星挂件}"/>
+<DialogMacro id="10043" key_name="白秀竹动漫疑问挂件" macroContent="{表情符号,动漫_疑问,baixiuzhu,头,1;x=0.04;y=0.01;z=0.1}" macroName="{#白秀竹动漫疑问挂件}"/>
+<DialogMacro id="10044" key_name="白秀竹动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,baixiuzhu,头,1;x=0.05;y=0.03;z=0.1}" macroName="{#白秀竹动漫汗滴挂件}"/>
+<DialogMacro id="10045" key_name="白秀竹动漫黑线挂件" macroContent="{表情符号,动漫_黑线,baixiuzhu,头,1;x=-0.07;y=0.04;z=0.1}" macroName="{#白秀竹动漫黑线挂件}"/>
+<DialogMacro id="10046" key_name="白秀竹动漫叹气挂件" macroContent="{表情符号,动漫_叹气,baixiuzhu,头,1;x=0.02;y=0.01;z=0.1}" macroName="{#白秀竹动漫叹气挂件}"/>
+<DialogMacro id="10047" key_name="白秀竹动漫出窍挂件" macroContent="{表情符号,动漫_出窍,baixiuzhu,头,1;x=0.1;y=0.18;z=0.1}" macroName="{#白秀竹动漫出窍挂件}"/>
 <DialogMacro id="10048" key_name="关闭白秀竹动漫挂件" macroContent="{关闭符号,,baixiuzhu}" macroName="{#关闭白秀竹动漫挂件}"/>
 <DialogMacro id="10049"/>
 <DialogMacro id="10050"/>
@@ -1160,7 +1155,7 @@
 <DialogMacro id="11040" key_name="冰酒紧张表情" macroContent="{角色表情,bingjiu,冰酒_紧张_上脸_开始_01;冰酒_紧张_下嘴_开始_01,0.25}" macroName="{#冰酒紧张表情}"/>
 <DialogMacro id="11041" key_name="冰酒愤怒表情" macroContent="{角色表情,bingjiu,冰酒_待机_上脸_开始_01;冰酒_待机_下嘴_开始_01,0.25}" macroName="{#冰酒愤怒表情}"/>
 <DialogMacro id="11042" key_name="冰酒思考表情" macroContent="{角色表情,bingjiu,冰酒_思考_上脸_开始_01;冰酒_思考_下嘴_开始_01,0.25}" macroName="{#冰酒思考表情}"/>
-<DialogMacro id="11043" key_name="冰酒严肃表情" macroContent="{角色表情,bingjiu,冰酒_严肃_上脸_开始_01;冰酒_严肃_下嘴_开始_01,0.25}" macroName="{#冰酒严肃表情}"/>
+<DialogMacro id="11043" key_name="冰酒严肃表情" macroContent="{角色表情,bingjiu,冰酒_待机_上脸_开始_01;冰酒_待机_下嘴_开始_01,0.25}" macroName="{#冰酒严肃表情}"/>
 <DialogMacro id="11044"/>
 <DialogMacro id="11045"/>
 <DialogMacro id="11046"/>
@@ -1168,6 +1163,112 @@
 <DialogMacro id="11048"/>
 <DialogMacro id="11049"/>
 <DialogMacro id="11050"/>
+<DialogMacro id="12001" key_name="杜衡待机动作" macroContent="{角色动作,duheng,杜衡_待机_动作_循环_01}" macroName="{#杜衡待机动作}"/>
+<DialogMacro id="12002" key_name="杜衡开心动作" macroContent="{角色动作,duheng,杜衡_开心_动作_开始_01}" macroName="{#杜衡开心动作}"/>
+<DialogMacro id="12003" key_name="杜衡平静动作" macroContent="{角色动作,duheng,杜衡_平静_动作_开始_01}" macroName="{#杜衡平静动作}"/>
+<DialogMacro id="12004" key_name="杜衡忧伤动作" macroContent="{角色动作,duheng,杜衡_忧伤_动作_开始_01}" macroName="{#杜衡忧伤动作}"/>
+<DialogMacro id="12005" key_name="杜衡惊讶动作" macroContent="{角色动作,duheng,杜衡_惊讶_动作_开始_01}" macroName="{#杜衡惊讶动作}"/>
+<DialogMacro id="12006" key_name="杜衡紧张动作" macroContent="{角色动作,duheng,杜衡_紧张_动作_开始_01}" macroName="{#杜衡紧张动作}"/>
+<DialogMacro id="12007" key_name="杜衡思考动作" macroContent="{角色动作,duheng,杜衡_思考_动作_开始_01}" macroName="{#杜衡思考动作}"/>
+<DialogMacro id="12008" key_name="杜衡愤怒动作" macroContent="{角色动作,duheng,杜衡_愤怒_动作_开始_01}" macroName="{#杜衡愤怒动作}"/>
+<DialogMacro id="12009" key_name="杜衡愤怒2动作" macroContent="{角色动作,duheng,杜衡_愤怒_动作_开始_02}" macroName="{#杜衡愤怒2动作}"/>
+<DialogMacro id="12010" key_name="杜衡调戏动作" macroContent="{角色动作,duheng,杜衡_调戏_动作_开始_01}" macroName="{#杜衡调戏动作}"/>
+<DialogMacro id="12011" key_name="杜衡送客动作" macroContent="{角色动作,duheng,杜衡_送客_动作_开始_01}" macroName="{#杜衡送客动作}"/>
+<DialogMacro id="12012" key_name="杜衡看文件动作" macroContent="{角色动作,duheng,杜衡_看文件_动作_开始_01}" macroName="{#杜衡看文件动作}"/>
+<DialogMacro id="12013" key_name="杜衡看文件动作恢复" macroContent="{角色动作,duheng,杜衡_看文件_动作_结束_01}" macroName="{#杜衡看文件动作恢复}"/>
+<DialogMacro id="12014" key_name="杜衡开心动作恢复" macroContent="{角色动作,duheng,杜衡_开心_动作_结束_01}" macroName="{#杜衡开心动作恢复}"/>
+<DialogMacro id="12015" key_name="杜衡平静动作恢复" macroContent="{角色动作,duheng,杜衡_平静_动作_结束_01}" macroName="{#杜衡平静动作恢复}"/>
+<DialogMacro id="12016" key_name="杜衡忧伤动作恢复" macroContent="{角色动作,duheng,杜衡_忧伤_动作_结束_01}" macroName="{#杜衡忧伤动作恢复}"/>
+<DialogMacro id="12017" key_name="杜衡惊讶动作恢复" macroContent="{角色动作,duheng,杜衡_惊讶_动作_结束_01}" macroName="{#杜衡惊讶动作恢复}"/>
+<DialogMacro id="12018" key_name="杜衡紧张动作恢复" macroContent="{角色动作,duheng,杜衡_紧张_动作_结束_01}" macroName="{#杜衡紧张动作恢复}"/>
+<DialogMacro id="12019" key_name="杜衡思考动作恢复" macroContent="{角色动作,duheng,杜衡_思考_动作_结束_01}" macroName="{#杜衡思考动作恢复}"/>
+<DialogMacro id="12020" key_name="杜衡愤怒动作恢复" macroContent="{角色动作,duheng,杜衡_愤怒_动作_结束_01}" macroName="{#杜衡愤怒动作恢复}"/>
+<DialogMacro id="12021" key_name="杜衡愤怒2动作恢复" macroContent="{角色动作,duheng,杜衡_愤怒_动作_结束_02}" macroName="{#杜衡愤怒2动作恢复}"/>
+<DialogMacro id="12022" key_name="杜衡调戏动作恢复" macroContent="{角色动作,duheng,杜衡_调戏_动作_结束_01}" macroName="{#杜衡调戏动作恢复}"/>
+<DialogMacro id="12023"/>
+<DialogMacro id="12024" key_name="杜衡待机表情" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_开始_01,0.25}" macroName="{#杜衡待机表情}"/>
+<DialogMacro id="12025" key_name="杜衡开心表情" macroContent="{角色表情,duheng,杜衡_开心_上脸_开始_01;杜衡_开心_下嘴_开始_01,0.25}" macroName="{#杜衡开心表情}"/>
+<DialogMacro id="12026" key_name="杜衡开心表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡开心表情恢复}"/>
+<DialogMacro id="12027" key_name="杜衡平静表情" macroContent="{角色表情,duheng,杜衡_平静_上脸_开始_01;杜衡_平静_下嘴_开始_01,0.3}" macroName="{#杜衡平静表情}"/>
+<DialogMacro id="12028" key_name="杜衡平静表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡平静表情恢复}"/>
+<DialogMacro id="12029" key_name="杜衡忧伤表情" macroContent="{角色表情,duheng,杜衡_忧伤_上脸_开始_01;杜衡_忧伤_下嘴_开始_01,0.25}" macroName="{#杜衡忧伤表情}"/>
+<DialogMacro id="12030" key_name="杜衡忧伤表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡忧伤表情恢复}"/>
+<DialogMacro id="12031" key_name="杜衡惊讶表情" macroContent="{角色表情,duheng,杜衡_惊讶_上脸_开始_01;杜衡_惊讶_下嘴_开始_01,0.25}" macroName="{#杜衡惊讶表情}"/>
+<DialogMacro id="12032" key_name="杜衡惊讶表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡惊讶表情恢复}"/>
+<DialogMacro id="12033" key_name="杜衡紧张表情" macroContent="{角色表情,duheng,杜衡_紧张_上脸_开始_01;杜衡_紧张_下嘴_开始_01,0.3}" macroName="{#杜衡紧张表情}"/>
+<DialogMacro id="12034" key_name="杜衡紧张表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡紧张表情恢复}"/>
+<DialogMacro id="12035" key_name="杜衡思考表情" macroContent="{角色表情,duheng,杜衡_思考_上脸_开始_01;杜衡_思考_下嘴_开始_01,0.25}" macroName="{#杜衡思考表情}"/>
+<DialogMacro id="12036" key_name="杜衡思考表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡思考表情恢复}"/>
+<DialogMacro id="12037" key_name="杜衡愤怒表情" macroContent="{角色表情,duheng,杜衡_愤怒_上脸_开始_01;杜衡_愤怒_下嘴_开始_01,0.25}" macroName="{#杜衡愤怒表情}"/>
+<DialogMacro id="12038" key_name="杜衡愤怒表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡愤怒表情恢复}"/>
+<DialogMacro id="12039" key_name="杜衡愤怒2表情" macroContent="{角色表情,duheng,杜衡_愤怒_上脸_开始_02;杜衡_愤怒_下嘴_开始_02,0.25}" macroName="{#杜衡愤怒2表情}"/>
+<DialogMacro id="12040" key_name="杜衡愤怒2表情恢复" macroContent="{角色表情,duheng,杜衡_待机_上脸_循环_01;杜衡_待机_下嘴_循环_01,0.25}" macroName="{#杜衡愤怒2表情恢复}"/>
+<DialogMacro id="12041"/>
+<DialogMacro id="12042" key_name="杜衡看文件2动作" macroContent="{角色动作,duheng,杜衡_看文件_动作_开始_02}" macroName="{#杜衡看文件2动作}"/>
+<DialogMacro id="12043" key_name="杜衡看文件2动作恢复" macroContent="{角色动作,duheng,杜衡_看文件_动作_结束_02}" macroName="{#杜衡看文件2动作恢复}"/>
+<DialogMacro id="12044"/>
+<DialogMacro id="12045" key_name="杜衡动漫说话挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=-0.02;y=0.04;z=0.1}" macroName="{#杜衡动漫说话挂件}"/>
+<DialogMacro id="12046" key_name="杜衡动漫星星挂件" macroContent="{表情符号,动漫_星星,duheng,头,1;x=-0.01;y=-0.43;z=0.1}" macroName="{#杜衡动漫星星挂件}"/>
+<DialogMacro id="12047" key_name="杜衡动漫疑问挂件" macroContent="{表情符号,动漫_疑问,duheng,头,1;x=0.07;y=0.01;z=0.1}" macroName="{#杜衡动漫疑问挂件}"/>
+<DialogMacro id="12048" key_name="杜衡动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,duheng,头,1;x=0.055;y=0.03;z=0.1}" macroName="{#杜衡动漫汗滴挂件}"/>
+<DialogMacro id="12049" key_name="杜衡动漫黑线挂件" macroContent="{表情符号,动漫_黑线,duheng,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#杜衡动漫黑线挂件}"/>
+<DialogMacro id="12050" key_name="杜衡动漫叹气挂件" macroContent="{表情符号,动漫_叹气,duheng,头,1;x=-0.03;y=0.01;z=0.1}" macroName="{#杜衡动漫叹气挂件}"/>
+<DialogMacro id="12051" key_name="杜衡动漫出窍挂件" macroContent="{表情符号,动漫_出窍,duheng,头,1;x=-0.1;y=0.15;z=0.1}" macroName="{#杜衡动漫出窍挂件}"/>
+<DialogMacro id="12052" key_name="关闭杜衡动漫挂件" macroContent="{关闭符号,,duheng}" macroName="{#关闭杜衡动漫挂件}"/>
+<DialogMacro id="12053"/>
+<DialogMacro id="13001" key_name="云倾待机动作" macroContent="{角色动作,duheng,云倾_待机_动作_循环_01}" macroName="{#云倾待机动作}"/>
+<DialogMacro id="13002" key_name="云倾开心动作" macroContent="{角色动作,duheng,云倾_开心_动作_开始_01}" macroName="{#云倾开心动作}"/>
+<DialogMacro id="13003" key_name="云倾平静动作" macroContent="{角色动作,duheng,云倾_平静_动作_开始_01}" macroName="{#云倾平静动作}"/>
+<DialogMacro id="13004" key_name="云倾忧伤动作" macroContent="{角色动作,duheng,云倾_忧伤_动作_开始_01}" macroName="{#云倾忧伤动作}"/>
+<DialogMacro id="13005" key_name="云倾惊讶动作" macroContent="{角色动作,duheng,云倾_惊讶_动作_开始_01}" macroName="{#云倾惊讶动作}"/>
+<DialogMacro id="13006" key_name="云倾紧张动作" macroContent="{角色动作,duheng,云倾_紧张_动作_开始_01}" macroName="{#云倾紧张动作}"/>
+<DialogMacro id="13007" key_name="云倾思考动作" macroContent="{角色动作,duheng,云倾_思考_动作_开始_01}" macroName="{#云倾思考动作}"/>
+<DialogMacro id="13008" key_name="云倾愤怒动作" macroContent="{角色动作,duheng,云倾_愤怒_动作_开始_01}" macroName="{#云倾愤怒动作}"/>
+<DialogMacro id="13009" key_name="云倾愤怒2动作" macroContent="{角色动作,duheng,云倾_愤怒_动作_开始_02}" macroName="{#云倾愤怒2动作}"/>
+<DialogMacro id="13010" key_name="云倾调戏动作" macroContent="{角色动作,duheng,云倾_调戏_动作_开始_01}" macroName="{#云倾调戏动作}"/>
+<DialogMacro id="13011" key_name="云倾送客动作" macroContent="{角色动作,duheng,云倾_送客_动作_开始_01}" macroName="{#云倾送客动作}"/>
+<DialogMacro id="13012" key_name="云倾看文件动作" macroContent="{角色动作,duheng,云倾_看文件_动作_开始_01}" macroName="{#云倾看文件动作}"/>
+<DialogMacro id="13013" key_name="云倾看文件动作恢复" macroContent="{角色动作,duheng,云倾_看文件_动作_结束_01}" macroName="{#云倾看文件动作恢复}"/>
+<DialogMacro id="13014" key_name="云倾开心动作恢复" macroContent="{角色动作,duheng,云倾_开心_动作_结束_01}" macroName="{#云倾开心动作恢复}"/>
+<DialogMacro id="13015" key_name="云倾平静动作恢复" macroContent="{角色动作,duheng,云倾_平静_动作_结束_01}" macroName="{#云倾平静动作恢复}"/>
+<DialogMacro id="13016" key_name="云倾忧伤动作恢复" macroContent="{角色动作,duheng,云倾_忧伤_动作_结束_01}" macroName="{#云倾忧伤动作恢复}"/>
+<DialogMacro id="13017" key_name="云倾惊讶动作恢复" macroContent="{角色动作,duheng,云倾_惊讶_动作_结束_01}" macroName="{#云倾惊讶动作恢复}"/>
+<DialogMacro id="13018" key_name="云倾紧张动作恢复" macroContent="{角色动作,duheng,云倾_紧张_动作_结束_01}" macroName="{#云倾紧张动作恢复}"/>
+<DialogMacro id="13019" key_name="云倾思考动作恢复" macroContent="{角色动作,duheng,云倾_思考_动作_结束_01}" macroName="{#云倾思考动作恢复}"/>
+<DialogMacro id="13020" key_name="云倾愤怒动作恢复" macroContent="{角色动作,duheng,云倾_愤怒_动作_结束_01}" macroName="{#云倾愤怒动作恢复}"/>
+<DialogMacro id="13021" key_name="云倾愤怒2动作恢复" macroContent="{角色动作,duheng,云倾_愤怒_动作_结束_02}" macroName="{#云倾愤怒2动作恢复}"/>
+<DialogMacro id="13022" key_name="云倾调戏动作恢复" macroContent="{角色动作,duheng,云倾_调戏_动作_结束_01}" macroName="{#云倾调戏动作恢复}"/>
+<DialogMacro id="13023"/>
+<DialogMacro id="13024" key_name="云倾待机表情" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_开始_01,0.25}" macroName="{#云倾待机表情}"/>
+<DialogMacro id="13025" key_name="云倾开心表情" macroContent="{角色表情,duheng,云倾_开心_上脸_开始_01;云倾_开心_下嘴_开始_01,0.25}" macroName="{#云倾开心表情}"/>
+<DialogMacro id="13026" key_name="云倾开心表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾开心表情恢复}"/>
+<DialogMacro id="13027" key_name="云倾平静表情" macroContent="{角色表情,duheng,云倾_平静_上脸_开始_01;云倾_平静_下嘴_开始_01,0.3}" macroName="{#云倾平静表情}"/>
+<DialogMacro id="13028" key_name="云倾平静表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾平静表情恢复}"/>
+<DialogMacro id="13029" key_name="云倾忧伤表情" macroContent="{角色表情,duheng,云倾_忧伤_上脸_开始_01;云倾_忧伤_下嘴_开始_01,0.25}" macroName="{#云倾忧伤表情}"/>
+<DialogMacro id="13030" key_name="云倾忧伤表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾忧伤表情恢复}"/>
+<DialogMacro id="13031" key_name="云倾惊讶表情" macroContent="{角色表情,duheng,云倾_惊讶_上脸_开始_01;云倾_惊讶_下嘴_开始_01,0.25}" macroName="{#云倾惊讶表情}"/>
+<DialogMacro id="13032" key_name="云倾惊讶表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾惊讶表情恢复}"/>
+<DialogMacro id="13033" key_name="云倾紧张表情" macroContent="{角色表情,duheng,云倾_紧张_上脸_开始_01;云倾_紧张_下嘴_开始_01,0.3}" macroName="{#云倾紧张表情}"/>
+<DialogMacro id="13034" key_name="云倾紧张表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾紧张表情恢复}"/>
+<DialogMacro id="13035" key_name="云倾思考表情" macroContent="{角色表情,duheng,云倾_思考_上脸_开始_01;云倾_思考_下嘴_开始_01,0.25}" macroName="{#云倾思考表情}"/>
+<DialogMacro id="13036" key_name="云倾思考表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾思考表情恢复}"/>
+<DialogMacro id="13037" key_name="云倾愤怒表情" macroContent="{角色表情,duheng,云倾_愤怒_上脸_开始_01;云倾_愤怒_下嘴_开始_01,0.25}" macroName="{#云倾愤怒表情}"/>
+<DialogMacro id="13038" key_name="云倾愤怒表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾愤怒表情恢复}"/>
+<DialogMacro id="13039" key_name="云倾愤怒2表情" macroContent="{角色表情,duheng,云倾_愤怒_上脸_开始_02;云倾_愤怒_下嘴_开始_02,0.25}" macroName="{#云倾愤怒2表情}"/>
+<DialogMacro id="13040" key_name="云倾愤怒2表情恢复" macroContent="{角色表情,duheng,云倾_待机_上脸_循环_01;云倾_待机_下嘴_循环_01,0.25}" macroName="{#云倾愤怒2表情恢复}"/>
+<DialogMacro id="13041"/>
+<DialogMacro id="13042" key_name="云倾看文件2动作" macroContent="{角色动作,duheng,云倾_看文件_动作_开始_02}" macroName="{#云倾看文件2动作}"/>
+<DialogMacro id="13043" key_name="云倾看文件2动作恢复" macroContent="{角色动作,duheng,云倾_看文件_动作_结束_02}" macroName="{#云倾看文件2动作恢复}"/>
+<DialogMacro id="13044"/>
+<DialogMacro id="13045" key_name="云倾动漫说话挂件" macroContent="{表情符号,动漫_说话,duheng,头,1;x=-0.02;y=0.04;z=0.1}" macroName="{#云倾动漫说话挂件}"/>
+<DialogMacro id="13046" key_name="云倾动漫星星挂件" macroContent="{表情符号,动漫_星星,duheng,头,1;x=-0.01;y=-0.43;z=0.1}" macroName="{#云倾动漫星星挂件}"/>
+<DialogMacro id="13047" key_name="云倾动漫疑问挂件" macroContent="{表情符号,动漫_疑问,duheng,头,1;x=0.07;y=0.01;z=0.1}" macroName="{#云倾动漫疑问挂件}"/>
+<DialogMacro id="13048" key_name="云倾动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,duheng,头,1;x=0.055;y=0.03;z=0.1}" macroName="{#云倾动漫汗滴挂件}"/>
+<DialogMacro id="13049" key_name="云倾动漫黑线挂件" macroContent="{表情符号,动漫_黑线,duheng,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#云倾动漫黑线挂件}"/>
+<DialogMacro id="13050" key_name="云倾动漫叹气挂件" macroContent="{表情符号,动漫_叹气,duheng,头,1;x=-0.03;y=0.01;z=0.1}" macroName="{#云倾动漫叹气挂件}"/>
+<DialogMacro id="13051" key_name="云倾动漫出窍挂件" macroContent="{表情符号,动漫_出窍,duheng,头,1;x=-0.1;y=0.15;z=0.1}" macroName="{#云倾动漫出窍挂件}"/>
+<DialogMacro id="13052" key_name="关闭云倾动漫挂件" macroContent="{关闭符号,,duheng}" macroName="{#关闭云倾动漫挂件}"/>
+<DialogMacro id="13053"/>
 <DialogMacro id="99001" key_name="周易指正" macroContent="\n{角色转身,zhouyi,-40,0.5}{角色动作,zhouyi,周易_胜利_动作_开始_02}{打开特效板,,,avg_effect_1v1_speedLine_hori" macroName="{#周易指正}"/>
 <DialogMacro id="99002" macroContent=""/>
 <DialogMacro id="99003"/>

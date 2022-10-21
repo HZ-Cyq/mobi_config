@@ -13,82 +13,75 @@
 <C0_solo_01 id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="ri_序章_手术室内显示的心率==0" param="未调查" param2="" param3=""/>
 <C0_solo_01 id="12" originalRow="12" groupSign="已调查" debugClose="" action="角色台词" data="wo" param="心率刚才已经知道了，接下来去组合密码吧。" param2="" param3=""/>
 <C0_solo_01 id="13" originalRow="13" groupSign="" debugClose="" action="语法-数值" data="ri_序章_密码逻辑1=1;" param="" param2="" param3=""/>
-<C0_solo_01 id="14" originalRow="14" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="15" originalRow="15" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="16" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="17" originalRow="17" groupSign="未调查" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}那个人偶就躺在旁边手术台上，接下来去调查一下吧！" param2="" param3=""/>
-<C0_solo_01 id="18" originalRow="18" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
-<C0_solo_01 id="19" originalRow="19" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
-<C0_solo_01 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="看来只要知道047的心率，就知道密码了。" param2="" param3=""/>
-<C0_solo_01 id="21" originalRow="21" groupSign="" debugClose="" action="语法-数值" data="ri_序章_密码逻辑1=1;" param="" param2="" param3=""/>
-<C0_solo_01 id="22" originalRow="22" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="23" originalRow="23" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="25" originalRow="25" groupSign="失败0-1" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1011}{角色表情,,10020;20020;}{talk,,102101}好像不对，还是再想想吧" param2="" param3=""/>
-<C0_solo_01 id="27" originalRow="27" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
-<C0_solo_01 id="28" originalRow="28" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
-<C0_solo_01 id="29" originalRow="29" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="31" originalRow="31" groupSign="开始0-2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="32" originalRow="32" groupSign="" debugClose="" action="播放音乐" data="bgm_solo" param="" param2="" param3=""/>
-<C0_solo_01 id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1009}{角色表情,,10070;20010;30004}{talk,,102105}来找找有关联的逻辑吧？" param2="" param3=""/>
-<C0_solo_01 id="34" originalRow="34" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
-<C0_solo_01 id="35" originalRow="35" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
-<C0_solo_01 id="36" originalRow="36" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="37" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="38" originalRow="38" groupSign="成功0-2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}虽然不想承认，但我好像就是那个他们准备解剖的“感染者”。" param2="" param3=""/>
-<C0_solo_01 id="40" originalRow="40" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
-<C0_solo_01 id="41" originalRow="41" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
-<C0_solo_01 id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="wo" param="我不会感染了什么奇怪的病毒吧……可为什么要解剖活人啊！！" param2="" param3=""/>
-<C0_solo_01 id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="wo" param="看来得赶紧离开这，否则等他们人回来了不知道会对我做什么……" param2="" param3=""/>
-<C0_solo_01 id="44" originalRow="44" groupSign="" debugClose="" action="语法-数值" data="ri_序章_名字推理逻辑标识=1;" param="" param2="" param3=""/>
-<C0_solo_01 id="45" originalRow="45" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="46" originalRow="46" groupSign="成功0-3" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}没错！这张入职资料就是我自己的。我的名字叫周易，今年22岁。
+<C0_solo_01 id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="16" originalRow="16" groupSign="未调查" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}那个人偶就躺在旁边手术台上，接下来去调查一下吧！" param2="" param3=""/>
+<C0_solo_01 id="17" originalRow="17" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
+<C0_solo_01 id="18" originalRow="18" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
+<C0_solo_01 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="看来只要知道047的心率，就知道密码了。" param2="" param3=""/>
+<C0_solo_01 id="20" originalRow="20" groupSign="" debugClose="" action="语法-数值" data="ri_序章_密码逻辑1=1;" param="" param2="" param3=""/>
+<C0_solo_01 id="21" originalRow="21" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="22" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="23" originalRow="23" groupSign="失败0-1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1011}{角色表情,,10020;20020;}{talk,,102101}好像不对，还是再想想吧" param2="" param3=""/>
+<C0_solo_01 id="25" originalRow="25" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
+<C0_solo_01 id="26" originalRow="26" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
+<C0_solo_01 id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="28" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="29" originalRow="29" groupSign="开始0-2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="30" originalRow="30" groupSign="" debugClose="" action="播放音乐" data="bgm_solo" param="" param2="" param3=""/>
+<C0_solo_01 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1009}{角色表情,,10070;20010;30004}{talk,,102105}来找找有关联的逻辑吧？" param2="" param3=""/>
+<C0_solo_01 id="32" originalRow="32" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
+<C0_solo_01 id="33" originalRow="33" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
+<C0_solo_01 id="34" originalRow="34" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="35" originalRow="35" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="36" originalRow="36" groupSign="成功0-2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}虽然不想承认，但我好像就是那个他们准备解剖的“感染者”。" param2="" param3=""/>
+<C0_solo_01 id="38" originalRow="38" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
+<C0_solo_01 id="39" originalRow="39" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
+<C0_solo_01 id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="wo" param="我不会感染了什么奇怪的病毒吧……可为什么要解剖活人啊！！" param2="" param3=""/>
+<C0_solo_01 id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="wo" param="看来得赶紧离开这，否则等他们人回来了不知道会对我做什么……" param2="" param3=""/>
+<C0_solo_01 id="42" originalRow="42" groupSign="" debugClose="" action="语法-数值" data="ri_序章_名字推理逻辑标识=1;" param="" param2="" param3=""/>
+<C0_solo_01 id="43" originalRow="43" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="44" originalRow="44" groupSign="成功0-3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}没错！这张入职资料就是我自己的。我的名字叫周易，今年22岁。
 
 " param2="" param3=""/>
-<C0_solo_01 id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="wo" param="周易……
+<C0_solo_01 id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="wo" param="周易……
 周易？！" param2="" param3=""/>
-<C0_solo_01 id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="" param="我想起来了──！！" param2="" param3="type=1"/>
-<C0_solo_01 id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="" param="作为应届毕业生，今天我来这家名叫“STS”的单位应聘分析员。" param2="" param3="type=1"/>
-<C0_solo_01 id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="" param="虽然是非常初级的岗位，也不知道具体是要整理什么数据，但我还是很高兴被录取了。" param2="" param3="type=1"/>
-<C0_solo_01 id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="" param="好像是在大厅里看了一会电视上的公告，然后发生了什么呢……" param2="" param3="type=1"/>
-<C0_solo_01 id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="" param="可恶，还是记不起来！
+<C0_solo_01 id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="" param="我想起来了──！！" param2="" param3="type=1"/>
+<C0_solo_01 id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="" param="作为应届毕业生，今天我来这家名叫“STS”的单位应聘分析员。" param2="" param3="type=1"/>
+<C0_solo_01 id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="" param="虽然是非常初级的岗位，也不知道具体是要整理什么数据，但我还是很高兴被录取了。" param2="" param3="type=1"/>
+<C0_solo_01 id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="" param="好像是在大厅里看了一会电视上的公告，然后发生了什么呢……" param2="" param3="type=1"/>
+<C0_solo_01 id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="" param="可恶，还是记不起来！
 总之先找到离开这里的方法吧。" param2="" param3="type=1"/>
-<C0_solo_01 id="54" originalRow="54" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="55" originalRow="55" groupSign="成功0-4" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}就是这个！异质物047今天的心率为107，那么开门密码就是──047107。" param2="" param3=""/>
-<C0_solo_01 id="57" originalRow="57" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码=1;" param="" param2="" param3=""/>
-<C0_solo_01 id="58" originalRow="58" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="59" originalRow="59" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="60" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="61" originalRow="61" groupSign="成功0-5" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}医务室大门的密码由两部分组成，人偶今天的心率为107，第二部分的密码就是107" param2="" param3=""/>
-<C0_solo_01 id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="wo" param="看来只要知道无限免疫修复人偶的编号，就知道密码了。" param2="" param3=""/>
-<C0_solo_01 id="64" originalRow="64" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码2=1;" param="" param2="" param3=""/>
-<C0_solo_01 id="65" originalRow="65" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="52" originalRow="52" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="53" originalRow="53" groupSign="成功0-4" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}就是这个！异质物047今天的心率为107，那么开门密码就是──047107。" param2="" param3=""/>
+<C0_solo_01 id="55" originalRow="55" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码=1;" param="" param2="" param3=""/>
+<C0_solo_01 id="56" originalRow="56" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="57" originalRow="57" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="58" originalRow="58" groupSign="成功0-5" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}医务室大门的密码由两部分组成，人偶今天的心率为107，第二部分的密码就是107" param2="" param3=""/>
+<C0_solo_01 id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="wo" param="看来只要知道无限免疫修复人偶的编号，就知道密码了。" param2="" param3=""/>
+<C0_solo_01 id="61" originalRow="61" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码2=1;" param="" param2="" param3=""/>
+<C0_solo_01 id="62" originalRow="62" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="63" originalRow="63" groupSign="成功0-6" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}就是这个！无限免疫修复人偶的编号是047，那么今天的开门密码就是──047107。" param2="" param3=""/>
+<C0_solo_01 id="65" originalRow="65" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码=1;" param="" param2="" param3=""/>
 <C0_solo_01 id="66" originalRow="66" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="67" originalRow="67" groupSign="成功0-6" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}就是这个！无限免疫修复人偶的编号是047，那么今天的开门密码就是──047107。" param2="" param3=""/>
-<C0_solo_01 id="69" originalRow="69" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码=1;" param="" param2="" param3=""/>
-<C0_solo_01 id="70" originalRow="70" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="71" originalRow="71" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="72" originalRow="72" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="73" originalRow="73" groupSign="成功0-7" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}就是这个！无限免疫修复人偶的编号是047，
+<C0_solo_01 id="67" originalRow="67" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="68" originalRow="68" groupSign="成功0-7" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1001}{角色表情,,10020;20020;}就是这个！无限免疫修复人偶的编号是047，
 人偶今天的心率为107。" param2="" param3=""/>
-<C0_solo_01 id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="wo" param="那么今天的开门密码就是──047107。" param2="" param3=""/>
-<C0_solo_01 id="76" originalRow="76" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码=1;" param="" param2="" param3=""/>
-<C0_solo_01 id="77" originalRow="77" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="wo" param="那么今天的开门密码就是──047107。" param2="" param3=""/>
+<C0_solo_01 id="71" originalRow="71" groupSign="" debugClose="" action="语法-数值" data="ri_序章_得出密码=1;" param="" param2="" param3=""/>
+<C0_solo_01 id="72" originalRow="72" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_solo_01 id="73" originalRow="73" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="74" originalRow="74" groupSign="失败0-2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1011}{角色表情,,10020;20020;}{talk,,102101}好像不对，还是再想想吧" param2="" param3=""/>
+<C0_solo_01 id="76" originalRow="76" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
+<C0_solo_01 id="77" originalRow="77" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
 <C0_solo_01 id="78" originalRow="78" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="79" originalRow="79" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="80" originalRow="80" groupSign="失败0-2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="wo" param="{角色动作,,1011}{角色表情,,10020;20020;}{talk,,102101}好像不对，还是再想想吧" param2="" param3=""/>
-<C0_solo_01 id="82" originalRow="82" groupSign="" debugClose="" action="角色动作" data="wo" param="1000" param2="" param3=""/>
-<C0_solo_01 id="83" originalRow="83" groupSign="" debugClose="" action="角色表情" data="wo" param="10000;20000;30000" param2="" param3=""/>
-<C0_solo_01 id="84" originalRow="84" groupSign="" debugClose="" action="存档" data="" param="" param2="" param3=""/>
-<C0_solo_01 id="85" originalRow="85" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_solo_01 id="86" originalRow="86" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_solo_01 id="79" originalRow="79" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

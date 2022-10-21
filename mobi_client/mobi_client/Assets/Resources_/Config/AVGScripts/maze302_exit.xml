@@ -6,7 +6,7 @@
 $$留在珑克酒店 ==&gt;结束"/>
 <maze302_exit id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}"/>
 <maze302_exit id="5" originalRow="5" groupSign="离开" debugClose="" action="" data="" param=""/>
-<maze302_exit id="6" originalRow="6" groupSign="" debugClose="" action="切换场景" data="apartment3" param=""/>
+<maze302_exit id="6" originalRow="6" groupSign="" debugClose="" action="切换场景" data="long_wineshop" param=""/>
 <maze302_exit id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束"/>
 <maze302_exit id="8" originalRow="8"/>
 <maze302_exit id="9" originalRow="9"/>

@@ -1,9 +1,10 @@
 <root>
 <maze302_npc71 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
 <maze302_npc71 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<maze302_npc71 id="2" originalRow="2" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<maze302_npc71 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="wo" param="你们怎么在这里？咳咳，谢谢你们帮我找到同伴。" param2="" param3="name=着急的人"/>
-<maze302_npc71 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="可惜的是……我该不该说呢，会不会又说漏嘴了？可是我们的确有一个同伴牺牲，另一个同伴失踪了啊！呜呜呜……" param2="" param3="name=着急的人"/>
-<maze302_npc71 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="帮托你们帮我找到失踪的同伴吧，这里真的好危险，我只想带他一起回家！" param2="" param3="name=着急的人"/>
-<maze302_npc71 id="6" originalRow="6" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_npc71 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="@char_1" param="pos=中" param2="" param3=""/>
+<maze302_npc71 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="@char_1" param="你们怎么在这里？咳咳，谢谢你们帮我找到同伴。" param2="" param3="name=着急的人"/>
+<maze302_npc71 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="@char_1" param="可惜的是……我该不该说呢，会不会又说漏嘴了？" param2="" param3="name=着急的人"/>
+<maze302_npc71 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="@char_1" param="可是我们的确有一个同伴牺牲，另一个同伴失踪了啊！呜呜呜……" param2="" param3="name=着急的人"/>
+<maze302_npc71 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="@char_1" param="帮托你们帮我找到失踪的同伴吧，这里真的好危险啊，我只想带他一起回家！" param2="" param3="name=着急的人"/>
+<maze302_npc71 id="7" originalRow="7" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

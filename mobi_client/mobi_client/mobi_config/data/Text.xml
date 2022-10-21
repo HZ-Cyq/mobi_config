@@ -1,5 +1,0 @@
-<root>
-<Text id="1" key_variable="KEY_GACHA_DESC" value="在所有&lt;b&gt;【探测】&lt;/b&gt;规则中，如果&lt;color=#EE9F38&gt;连续30次&lt;/color&gt;没有获得&lt;color=#EE9F38&gt;3星&lt;/color&gt;异质物，则以后每一次探测中获得的&lt;color=#EE9F38&gt;3星&lt;/color&gt;异质物概率都会比上一次提高&lt;color=#EE9F38&gt;2%&lt;/color&gt;，在&lt;color=#EE9F38&gt;连续70次&lt;/color&gt;没有获得&lt;color=#EE9F38&gt;3星&lt;/color&gt;异质物后，下一次探测中获得的&lt;color=#EE9F38&gt;3星&lt;/color&gt;异质物概率会提高至100%。
-
-&lt;color=#B63D48&gt;&lt;b&gt;【注意】&lt;/b&gt;&lt;/color&gt;任何时候玩家在任何一个&lt;b&gt;【探测】&lt;/b&gt;中获得&lt;color=#EE9F38&gt;3星&lt;/color&gt;异质物后，均会使所有&lt;b&gt;【探测】&lt;/b&gt;的&lt;color=#EE9F38&gt;3星&lt;/color&gt;异质物获得概率回到初始状态。"/>
-</root>

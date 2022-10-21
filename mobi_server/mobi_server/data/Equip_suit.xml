@@ -1,14 +1,14 @@
 <root>
-<Equip_suit id="1" suit_icon="box1_s" suit_name="安江晨间新闻" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5001" suit3_effect_desc="开场提升20%攻击力，持续2个回合"/>
-<Equip_suit id="2" suit_icon="box2_s" suit_name="顶石吸血鬼" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5002" suit3_effect_desc="对敌方释放普通攻击和特殊技时降低目标10%防御力，持续2回合（此效果最多叠加3层）"/>
-<Equip_suit id="3" suit_icon="box3_s" suit_name="0号公路" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5003" suit3_effect_desc="减免15%受到对位单位的伤害"/>
-<Equip_suit id="4" suit_icon="Mon_3105" suit_name="门后注视者" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5004" suit3_effect_desc="普通攻击、特殊技及被动触发效果，伤害提升20%"/>
-<Equip_suit id="5" suit_icon="box4_s" suit_name="赠别古人杨柳" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5005" suit3_effect_desc="每当友方单位阵亡，恢复5%生命值"/>
-<Equip_suit id="6" suit_icon="item400011" suit_name="温暖的被窝" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5006" suit3_effect_desc="开场或复活时获得自身生命最大值15%的护盾，持续2个回合"/>
-<Equip_suit id="7" suit_icon="Mon_2991" suit_name="散播焦虑之人" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5007" suit3_effect_desc="释放必杀技时伤害提升30%,最多触发2次"/>
-<Equip_suit id="8" suit_icon="Mon_3203" suit_name="福音之鸟" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5008" suit3_effect_desc="战斗中对友方单位的治疗效果提升20%"/>
-<Equip_suit id="9" suit_icon="Mon_3107" suit_name="禁止三缺一" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5009" suit3_effect_desc="若己方没有角色阵亡，为己方全体提升15%防御"/>
-<Equip_suit id="10" suit_icon="item290003" suit_name="《宫廷玉液》" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5010" suit3_effect_desc="战斗中造成的所有伤害均提升15%"/>
-<Equip_suit id="11" suit_icon="item400012" suit_name="爱心早餐" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5011" suit3_effect_desc="开场获得2格能量"/>
-<Equip_suit id="12" suit_icon="Mon_2995" suit_name="退行犬" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5012" suit3_effect_desc="提升10%免伤"/>
+<Equip_suit id="1" suit_icon="equip_suit_1" suit_name="安江晨间新闻" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5001" suit3_effect_desc="开场提升20%攻击力，持续2个回合"/>
+<Equip_suit id="2" suit_icon="equip_suit_2" suit_name="顶石吸血鬼" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5002" suit3_effect_desc="对敌方释放普通攻击和特殊技时降低目标10%防御力，持续2回合（此效果最多叠加3层）"/>
+<Equip_suit id="3" suit_icon="equip_suit_3" suit_name="0号公路" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5003" suit3_effect_desc="减免15%受到对位单位的伤害"/>
+<Equip_suit id="4" suit_icon="equip_suit_4" suit_name="门后注视者" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5004" suit3_effect_desc="普通攻击、特殊技及被动触发效果，伤害提升20%"/>
+<Equip_suit id="5" suit_icon="equip_suit_5" suit_name="赠别古人杨柳" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5005" suit3_effect_desc="每当友方单位阵亡，恢复5%生命值"/>
+<Equip_suit id="6" suit_icon="equip_suit_6" suit_name="温暖的被窝" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5006" suit3_effect_desc="开场或复活时获得自身生命最大值15%的护盾，持续2个回合"/>
+<Equip_suit id="7" suit_icon="equip_suit_7" suit_name="散播焦虑之人" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5007" suit3_effect_desc="释放必杀技时伤害提升30%,最多触发2次"/>
+<Equip_suit id="8" suit_icon="equip_suit_8" suit_name="福音之鸟" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5008" suit3_effect_desc="战斗中对友方单位的治疗效果提升20%"/>
+<Equip_suit id="9" suit_icon="equip_suit_9" suit_name="禁止三缺一" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5009" suit3_effect_desc="若己方没有角色阵亡，为己方全体提升15%防御"/>
+<Equip_suit id="10" suit_icon="equip_suit_10" suit_name="《宫廷玉液》" suit2_effect="1|53" suit2_effect_value="100" suit2_effect_desc="攻击+10%" suit3_effect="2" suit3_effect_value="5010" suit3_effect_desc="战斗中造成的所有伤害均提升15%"/>
+<Equip_suit id="11" suit_icon="equip_suit_11" suit_name="爱心早餐" suit2_effect="1|52" suit2_effect_value="100" suit2_effect_desc="生命+10%" suit3_effect="2" suit3_effect_value="5011" suit3_effect_desc="开场获得2格能量"/>
+<Equip_suit id="12" suit_icon="equip_suit_12" suit_name="退行犬" suit2_effect="1|54" suit2_effect_value="150" suit2_effect_desc="防御+15%" suit3_effect="2" suit3_effect_value="5012" suit3_effect_desc="提升10%免伤"/>
 </root>

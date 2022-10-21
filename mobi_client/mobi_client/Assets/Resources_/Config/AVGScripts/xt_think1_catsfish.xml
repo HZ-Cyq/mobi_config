@@ -4,10 +4,11 @@
 <xt_think1_catsfish id="2" originalRow="2" groupSign="发布任务" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_think1_catsfish id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_think1_catsfish id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_think1_catsfish id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="哇......周易！你终于来了，快来给我评评理！走走走，去找凯瑟琳。" param2="" param3="type=0"/>
+<xt_think1_catsfish id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心动作}{#聂飞得意表情}哇......！你终于来了，快来给我评评理！走走走，去找凯瑟琳。" param2="" param3="type=0"/>
 <xt_think1_catsfish id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="啊啊啊？什么情况？" param2="" param3="type=0"/>
-<xt_think1_catsfish id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="一会到了你就知道了。" param2="" param3="type=0"/>
-<xt_think1_catsfish id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_think1_catsfish id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_think1_catsfish id="10" originalRow="10" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think1_catsfish id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心动作恢复}{#聂飞待机表情}一会到了你就知道了。" param2="" param3="type=0"/>
+<xt_think1_catsfish id="8" originalRow="8" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_think1_catsfish id="9" originalRow="9" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_think1_catsfish id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think1_catsfish id="11" originalRow="11" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

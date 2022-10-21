@@ -3,4 +3,5 @@
     public int group_type;//类型
     public string name;//词条名称
     public string desc;//词条描述
+    public int isHide;//是否隐藏
 }

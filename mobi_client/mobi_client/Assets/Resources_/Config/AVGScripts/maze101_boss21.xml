@@ -6,7 +6,7 @@
 <maze101_boss21 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="哪三件？" param2=""/>
 <maze101_boss21 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="stranger1" param="拦路，拦路，还是拦路！" param2=""/>
 <maze101_boss21 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
-<maze101_boss21 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="异质物的敌意很强，而且这里似乎是唯一一条前进的路。想要继续走下去的话，看样子只能击败他了。" param2=""/>
+<maze101_boss21 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}异质物的敌意很强，而且这里似乎是唯一一条前进的路。想要继续走下去的话，看样子只能击败他。" param2=""/>
 <maze101_boss21 id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <maze101_boss21 id="9" originalRow="9" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
 </root>

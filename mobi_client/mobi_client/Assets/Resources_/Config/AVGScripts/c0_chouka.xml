@@ -1,129 +1,134 @@
 <root>
 <C0_chouka id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_chouka id="1" originalRow="1" groupSign="抽卡前" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<C0_chouka id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="{打开插画,blackbgimg,TRUE,}" param2="" param3=""/>
+<C0_chouka id="2" originalRow="2" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="2" param2="" param3=""/>
 <C0_chouka id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
 <C0_chouka id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
-<C0_chouka id="5" originalRow="5" groupSign="" debugClose="" action="跳转-标签" data="item_201000==1" param="重新上线" param2="" param3=""/>
-<C0_chouka id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="{#闪白震slash}{关闭插画}当我回过神，已经来到了一个陌生的地方。" param2="" param3="type=1"/>
-<C0_chouka id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="{播放音效,avg_Sclue}这里是……" param2="" param3=""/>
-<C0_chouka id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡开心表情}&lt;z=yellow&gt;0号房间&lt;/z&gt;。" param2="00_04DH0号房间." param3=""/>
+<C0_chouka id="5" originalRow="5" groupSign="" debugClose="" action="跳转-标签" data="item_201000&gt;0" param="重新上线" param2="" param3=""/>
+<C0_chouka id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="{关闭插画}当我回过神，已经来到了一个陌生的地方。" param2="" param3="type=1"/>
+<C0_chouka id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="这里是……" param2="" param3=""/>
+<C0_chouka id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡开心表情}&lt;z=highlight&gt;0号房间&lt;/z&gt;。{&amp;0号房间}" param2="00_04DH0号房间." param3=""/>
 <C0_chouka id="9" originalRow="9" groupSign="" debugClose="1" action="角色台词" data="wo" param="……{autoend}" param2="" param3=""/>
 <C0_chouka id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2得意表情}专门给作战小队提供休息和整备的场所。" param2="00_04KSL专门给作战" param3=""/>
-<C0_chouka id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡待机动作}{#杜衡待机表情}我环顾四周，发现这个“0号房间”竟然没有出入口。" param2="" param3="type=1"/>
-<C0_chouka id="12" originalRow="12" groupSign="" debugClose="" action="语法-数值" data="QUEST_序章_获得抽卡券=1" param="" param2="" param3=""/>
-<C0_chouka id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡开心表情}不用找门，{#凯瑟琳2严肃动作}{#凯瑟琳2严肃表情}唯一的入口只能用“律之钥”开启。" param2="00_04DH不用找门" param3=""/>
-<C0_chouka id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2开心表情}而且0号房间{#杜衡惊讶动作}不受物理地域限制，不管你身处何地
+<C0_chouka id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡惊讶动作恢复}{#杜衡待机表情}我环顾四周，发现这个“0号房间”竟然没有出入口。" param2="" param3="type=1"/>
+<C0_chouka id="12" originalRow="12" groupSign="" debugClose="1" action="语法-数值" data="QUEST_序章_获得抽卡券=1" param="" param2="" param3=""/>
+<C0_chouka id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡开心表情}不用找门，{#凯瑟琳2待机动作}{#凯瑟琳2待机表情}唯一的入口只能用“律之钥”开启。" param2="00_04DH不用找门" param3=""/>
+<C0_chouka id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}而且0号房间不受物理地域限制，不管你身处何地
 只要使用律之钥，就可以进到这里。" param2="00_04DH而且0号房间" param3=""/>
-<C0_chouka id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="{#杜衡紧张动作}{#杜衡思考表情}等等！有个问题！
+<C0_chouka id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="等等！有个问题！{#杜衡思考动作恢复}
 有这样的异空间！我们完全可以躲在这里啊！{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}" param2="" param3=""/>
-<C0_chouka id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡调戏动作}{#杜衡开心表情}躲到物资耗尽，在“Requiem_aeternam”的
-美妙音符中虚弱而死？
-" param2="00_04DH躲到物资耗尽" param3=""/>
-<C0_chouka id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="
-不错的美学。" param2="" param3=""/>
-<C0_chouka id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="……算我没说。{#凯瑟琳2思考动作}{#凯瑟琳2得意表情}{#杜衡待机动作}{#杜衡平静表情}" param2="" param3=""/>
-<C0_chouka id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#凯瑟琳2待机动作}{#凯瑟琳2待机表情}不努力改变的话，情况只会越来越糟糕。" param2="00_04DH不努力改变" param3=""/>
+<C0_chouka id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡开心表情}躲到物资耗尽，在“Requiem_aeternam”的
+美妙音符中虚弱而死？" param2="00_04DH躲到物资耗尽" param3=""/>
+<C0_chouka id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="不错的美学。" param2="00_04DH不错的美" param3=""/>
+<C0_chouka id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="……算我没说。{#凯瑟琳2思考动作}{#凯瑟琳2得意表情}{#杜衡平静动作恢复}{#杜衡待机表情}" param2="" param3=""/>
+<C0_chouka id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#凯瑟琳2待机动作}{#凯瑟琳2待机表情}不努力改变的话，情况只会越来越糟糕。" param2="00_04DH不努力改变" param3=""/>
 <C0_chouka id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡开心表情}还记得我说过，
-你是目前唯一{#凯瑟琳2忧伤动作}{#凯瑟琳2忧伤表情}能大幅提升作战小队上限的变量吗？" param2="00_04DH还记得我" param3=""/>
+你是目前唯一能大幅提升作战小队上限的变量吗？" param2="00_04DH还记得我" param3=""/>
 <C0_chouka id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="是……需要我{播放音效,avg_Sclue}做什么？" param2="" param3=""/>
-<C0_chouka id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="duheng" param="看到后面这个电梯了？
-{#凯瑟琳2惊讶动作}{#凯瑟琳2惊讶表情}这是0号电梯，是用来探寻异质物的实验装置。" param2="00_04DH看到后面" param3=""/>
-<C0_chouka id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2严肃表情}我懂了！杜博士你是想让他乘电梯下潜！" param2="00_04KSL我懂了！" param3=""/>
-<C0_chouka id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡开心表情}嗯，要获得更多更强的异质物，
+<C0_chouka id="22" originalRow="22" groupSign="" debugClose="" action="打开插画" data="C0_0haodianti" param="" param2="" param3=""/>
+<C0_chouka id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="duheng" param="看到后面这个电梯了？
+{#凯瑟琳2惊讶动作}{#凯瑟琳2惊讶表情}这是0号电梯{&amp;0号电梯}，是用来探寻异质物的实验装置。" param2="00_04DH看到后面" param3=""/>
+<C0_chouka id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2严肃表情}我懂了！杜博士你是想让他乘电梯下潜！" param2="00_04KSL我懂了！" param3=""/>
+<C0_chouka id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡开心表情}嗯，要获得更多更强的异质物，
 只能由具备极强超感反应的人下潜才行。" param2="00_04DH嗯，要获得" param3=""/>
-<C0_chouka id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="wo" param="………等，等下！你们要我乘着这个电梯，
-一个人{播放音效,avg_sslash}下去找异质物！？" param2="" param3=""/>
-<C0_chouka id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡开心表情}不需要紧张。电梯停下后，
-会直接在门外形成封存室，捕获异质反应。" param2="00_04DH不需要紧张" param3=""/>
-<C0_chouka id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="duheng" param="你只是需要体会一下失重的感觉，再返回地面。
-呵呵呵，很简单吧？" param2="00_04DH你只是需要" param3=""/>
-<C0_chouka id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="但是博士！你确认……{0.4}{播放音效,avg_Sclue}这安全吗？" param2="" param3=""/>
-<C0_chouka id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡平静表情}我以国家最高科学奖的荣誉保证。" param2="00_04DH我以国家" param3=""/>
-<C0_chouka id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="好、好吧！{播放音效,avg_Slightpunch}{#凯瑟琳2紧张动作}{#凯瑟琳2紧张表情}" param2="" param3=""/>
-<C0_chouka id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作}{#杜衡开心表情}来，拿着这管&lt;z=yellow&gt;『稳定剂』&lt;/z&gt;，
+<C0_chouka id="26" originalRow="26" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<C0_chouka id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="………等，等下！你们要我乘着这个电梯，
+一个人下去找异质物！？" param2="" param3=""/>
+<C0_chouka id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡开心表情}不需要紧张。电梯停下后，
+会直接在门外形成收容室{&amp;收容室}，捕获异质反应。" param2="00_04DH不需要紧" param3=""/>
+<C0_chouka id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="duheng" param="你只是需要体会一下失重的感觉，再返回地面。
+呵呵呵，很简单吧？{#杜衡平静动作恢复}" param2="00_04DH你只是需要" param3=""/>
+<C0_chouka id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="但是博士！你确认……{0.4}这安全吗？" param2="" param3=""/>
+<C0_chouka id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡平静表情}我以国家最高科学奖的荣誉保证。" param2="00_04DH我以国家" param3=""/>
+<C0_chouka id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="好、好吧！{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}" param2="" param3=""/>
+<C0_chouka id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作恢复}{#杜衡开心表情}来，拿着这管&lt;z=highlight&gt;『稳定剂』&lt;/z&gt;，
 这是每次下潜必备的稀有药物。" param2="00_04DH来，拿着" param3=""/>
-<C0_chouka id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="duheng" param="可以稳定下潜过程中伴生的精神反应。" param2="00_04DH可以稳定" param3=""/>
-<C0_chouka id="33" originalRow="33" groupSign="" debugClose="" action="子任务完成" data="序章_获得抽卡券" param="" param2="" param3=""/>
-<C0_chouka id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡送客动作}去吧，跟着指引下潜。" param2="00_04DH去吧，跟着" param3=""/>
-<C0_chouka id="35" originalRow="35" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}{#杜衡待机表情}我给了你一枚『异核』，可以当做电源驱动整部电梯。" param2="23D我给了你" param3=""/>
-<C0_chouka id="36" originalRow="36" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{#杜衡惊讶动作}选好去往的楼层就可以开始了，
+<C0_chouka id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="duheng" param="可以稳定下潜过程中伴生的精神反应。{&amp;稳定剂}" param2="00_04DH可以稳定" param3=""/>
+<C0_chouka id="35" originalRow="35" groupSign="" debugClose="" action="子任务完成" data="序章_存档点" param="" param2="" param3=""/>
+<C0_chouka id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡送客动作}去吧，跟着指引下潜。" param2="00_04DH去吧，跟着" param3=""/>
+<C0_chouka id="37" originalRow="37" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}{#杜衡待机表情}我给了你一枚『异核』，可以当做电源驱动整部电梯。" param2="23D我给了你" param3=""/>
+<C0_chouka id="38" originalRow="38" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{#杜衡惊讶动作}选好去往的楼层就可以开始了，
 得到结果后会自动返回。{0.6}{#杜衡惊讶动作恢复}一会见。" param2="24D选好" param3=""/>
-<C0_chouka id="37" originalRow="37" groupSign="" debugClose="" action="子任务完成" data="序章_存档点" param="" param2="" param3=""/>
-<C0_chouka id="38" originalRow="38" groupSign="" debugClose="" action="等待几秒" data="1.5" param="" param2="" param3=""/>
-<C0_chouka id="39" originalRow="39" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_chouka id="40" originalRow="40" groupSign="抽卡后" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_chouka id="41" originalRow="41" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<C0_chouka id="42" originalRow="42" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="杜衡_惊讶_动作_开始_01" param3=""/>
-<C0_chouka id="43" originalRow="43" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_得意_动作_开始_01" param3=""/>
-<C0_chouka id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳2得意表情}我一身冷汗地走出电梯，
+<C0_chouka id="39" originalRow="39" groupSign="" debugClose="1" action="子任务完成" data="" param="" param2="" param3=""/>
+<C0_chouka id="40" originalRow="40" groupSign="" debugClose="" action="等待几秒" data="1.5" param="" param2="" param3=""/>
+<C0_chouka id="41" originalRow="41" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_chouka id="42" originalRow="42" groupSign="抽卡后" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="43" originalRow="43" groupSign="" debugClose="" action="跳转-标签" data="rqs_序章_和杜博士对话&gt;1" param="父任务已完成" param2="" param3=""/>
+<C0_chouka id="44" originalRow="44" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C0_chouka id="45" originalRow="45" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="杜衡_惊讶_动作_开始_01" param3=""/>
+<C0_chouka id="46" originalRow="46" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_得意_动作_开始_01" param3=""/>
+<C0_chouka id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="" param="{#凯瑟琳2得意表情}我一身冷汗地走出电梯，
 杜衡似笑非笑，凯瑟琳一脸兴奋地看着我。" param2="" param3="type=1"/>
-<C0_chouka id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2惊讶动作}{#凯瑟琳2惊讶表情}Красивая，0号电梯下潜深度首次超过10层！" param2="00_04KSL0号电梯" param3=""/>
-<C0_chouka id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡惊讶表情}还一口气收获10个异质物。
+<C0_chouka id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2惊讶动作}{#凯瑟琳2惊讶表情}0号电梯下潜深度首次超过10层！" param2="00_04KSL0号电梯" param3=""/>
+<C0_chouka id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡惊讶表情}还一口气收获10个异质物。
 真是个重大突破。" param2="00_04DH还一口气" param3=""/>
-<C0_chouka id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="wo" param="........腿{shake=3}还有点软……{0.7}
+<C0_chouka id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="wo" param="{#凯瑟琳2惊讶动作恢复}{#凯瑟琳2待机表情}……腿{shake=3}还有点软……{0.7}
 就没人关心下我的健康状况吗……{#杜衡待机动作}{#杜衡待机表情}" param2="" param3=""/>
-<C0_chouka id="48" originalRow="48" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<C0_chouka id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}刚才在电梯里的测试，你的精神波动非常平稳。
+<C0_chouka id="51" originalRow="51" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<C0_chouka id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}刚才在电梯里的测试，你的精神波动非常平稳。
 腿软应该只是心理作用。" param2="00_04KSL刚才在电梯" param3=""/>
-<C0_chouka id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}从我们之前的实验数据看，
+<C0_chouka id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}从我们之前的实验数据看，
 哪怕连续服用『稳定剂』" param2="00_04KSL从我们之" param3=""/>
-<C0_chouka id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="『超感者』下潜超过10层也会直接精神崩溃。" param2="00_04KSL超感者下" param3=""/>
-<C0_chouka id="52" originalRow="52" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
-<C0_chouka id="53" originalRow="53" groupSign="" debugClose="1" action="设置角色" data="duheng" param="pos=中" param2="杜衡_思考_动作_循环_01" param3=""/>
-<C0_chouka id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}有一次我故意超过限制潜得比较深。
+<C0_chouka id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{&amp;超感者}『超感者』下潜超过10层也会直接精神崩溃。" param2="00_04KSL超感者下" param3=""/>
+<C0_chouka id="55" originalRow="55" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C0_chouka id="56" originalRow="56" groupSign="" debugClose="1" action="设置角色" data="duheng" param="pos=中" param2="杜衡_思考_动作_循环_01" param3=""/>
+<C0_chouka id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}有一次我故意超过限制潜得比较深。
 甚至出现了脑损伤产生的幻觉呢……{1.5}啊~~~~~~" param2="00_04KSL有一次我" param3=""/>
-<C0_chouka id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（精神崩溃！！{shake=3}{播放音效,avg_sslash}{1}脑损伤！！
+<C0_chouka id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（精神崩溃！！脑损伤！！{shake=3}{播放音效,avg_sslash}{1}
 之前一点都没给我透露呢！！）&lt;/z&gt;" param2="" param3=""/>
-<C0_chouka id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡开心表情}果然没看错你，在侦测未知异质物源头方面，
+<C0_chouka id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡开心表情}果然没看错你，在侦测未知异质物源头方面，
 你也有着令人惊讶的潜质。" param2="00_04DH果然没看错" param3=""/>
-<C0_chouka id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2得意表情}一次性为我们补充了这么多战斗力，
+<C0_chouka id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2得意表情}一次性为我们补充了这么多战斗力，
 接下来可要好好准备战斗了。" param2="00_04KSL一次性为" param3=""/>
-<C0_chouka id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡平静动作}{#杜衡待机表情}分析整备这些新的异质物还需要一些时间，
+<C0_chouka id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}{#杜衡待机表情}分析整备这些新的异质物还需要一些时间，
 我们先回办公室吧。" param2="00_04DH分析整备" param3=""/>
-<C0_chouka id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机动作}{#杜衡待机表情}对了，新人，正式讲一句……" param2="00_04DH对了，新人" param3=""/>
-<C0_chouka id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心表情}欢迎加入STS作战小队。" param2="00_04DH欢迎加入" param3=""/>
-<C0_chouka id="61" originalRow="61" groupSign="" debugClose="1" action="角色台词" data="duheng" param="不过目前最重要的，是你在STS的身份问题。" param2="28D不过目前" param3=""/>
-<C0_chouka id="62" originalRow="62" groupSign="" debugClose="1" action="角色台词" data="" param="{播放音效,avg_baton}{#杜衡看文件动作}{角色转眼,duheng,下中,0.4}杜衡拿起工作台上的平板，一阵敲击。" param2="" param3="type=1"/>
-<C0_chouka id="63" originalRow="63" groupSign="" debugClose="1" action="角色台词" data="wo" param="…………等一下！我这个情况！
+<C0_chouka id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="duheng" param="对了，新人，正式讲一句……" param2="00_04DH对了，新人" param3=""/>
+<C0_chouka id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡开心表情}欢迎加入&lt;z=highlight&gt;STS作战小队&lt;/z&gt;。" param2="00_04DH欢迎加入" param3=""/>
+<C0_chouka id="64" originalRow="64" groupSign="" debugClose="1" action="角色台词" data="duheng" param="不过目前最重要的，是你在STS的身份问题。" param2="28D不过目前" param3=""/>
+<C0_chouka id="65" originalRow="65" groupSign="" debugClose="1" action="角色台词" data="" param="{播放音效,avg_baton}{#杜衡看文件动作}{角色转眼,duheng,下中,0.4}杜衡拿起工作台上的平板，一阵敲击。" param2="" param3="type=1"/>
+<C0_chouka id="66" originalRow="66" groupSign="" debugClose="1" action="角色台词" data="wo" param="…………等一下！我这个情况！
 你们要拉我去做解剖研究吗！" param2="" param3=""/>
-<C0_chouka id="64" originalRow="64" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_紧张_动作_循环_01" param3=""/>
-<C0_chouka id="65" originalRow="65" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}杜博士，请务必让我主刀~" param2="47K杜博士" param3=""/>
-<C0_chouka id="66" originalRow="66" groupSign="" debugClose="1" action="角色台词" data="wo" param="喂喂喂————{移除角色,kaiselin02}" param2="" param3=""/>
-<C0_chouka id="67" originalRow="67" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转眼,duheng,正,0.4}只要你不抗拒加入作战小队，第三站点会对你的人身安全和相关信息做S级保护。" param2="30D只要你" param3=""/>
-<C0_chouka id="68" originalRow="68" groupSign="" debugClose="1" action="角色台词" data="wo" param="………{#闪白ding}听起来我依然没有拒绝的余地是吗？" param2="" param3=""/>
-<C0_chouka id="69" originalRow="69" groupSign="" debugClose="1" action="角色台词" data="duheng" param="嗯………{0.4}{角色转眼,duheng,下中,0.4}体能测试D，
+<C0_chouka id="67" originalRow="67" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_紧张_动作_循环_01" param3=""/>
+<C0_chouka id="68" originalRow="68" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}杜博士，请务必让我主刀~" param2="47K杜博士" param3=""/>
+<C0_chouka id="69" originalRow="69" groupSign="" debugClose="1" action="角色台词" data="wo" param="喂喂喂————{移除角色,kaiselin02}" param2="" param3=""/>
+<C0_chouka id="70" originalRow="70" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转眼,duheng,正,0.4}只要你不抗拒加入作战小队，第三站点会对你的人身安全和相关信息做S级保护。" param2="30D只要你" param3=""/>
+<C0_chouka id="71" originalRow="71" groupSign="" debugClose="1" action="角色台词" data="wo" param="………{#闪白ding}听起来我依然没有拒绝的余地是吗？" param2="" param3=""/>
+<C0_chouka id="72" originalRow="72" groupSign="" debugClose="1" action="角色台词" data="duheng" param="嗯………{0.4}{角色转眼,duheng,下中,0.4}体能测试D，
 {0.6}{角色转眼,duheng,正,0.4}大学期间八成一直在玩游戏吧？" param2="31D体能测试" param3=""/>
-<C0_chouka id="70" originalRow="70" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转眼,duheng,下中,0.4}社交能力C，原因估计也差不多……" param2="31D社交" param3=""/>
-<C0_chouka id="71" originalRow="71" groupSign="" debugClose="1" action="角色台词" data="wo" param="实、实在不好意思……" param2="" param3=""/>
-<C0_chouka id="72" originalRow="72" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转眼,duheng,正,0.4}不过承压能力的评分倒是很高，
+<C0_chouka id="73" originalRow="73" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转眼,duheng,下中,0.4}社交能力C，原因估计也差不多……" param2="31D社交" param3=""/>
+<C0_chouka id="74" originalRow="74" groupSign="" debugClose="1" action="角色台词" data="wo" param="实、实在不好意思……" param2="" param3=""/>
+<C0_chouka id="75" originalRow="75" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转眼,duheng,正,0.4}不过承压能力的评分倒是很高，
 逻辑推理测试成绩也不错——" param2="32D不过承压" param3=""/>
-<C0_chouka id="73" originalRow="73" groupSign="" debugClose="1" action="角色台词" data="duheng" param="需要偿还高额助学贷款，通过政府招募，
+<C0_chouka id="76" originalRow="76" groupSign="" debugClose="1" action="角色台词" data="duheng" param="需要偿还高额助学贷款，通过政府招募，
 申请异质物调查员之类的外勤工作。" param2="33D需要" param3=""/>
-<C0_chouka id="74" originalRow="74" groupSign="" debugClose="1" action="角色台词" data="duheng" param="但最终因为超感测试为0，分配到了文职岗位……" param2="33D但最终" param3=""/>
-<C0_chouka id="75" originalRow="75" groupSign="" debugClose="1" action="角色台词" data="wo" param="请不要念出来啊！！" param2="" param3=""/>
-<C0_chouka id="76" originalRow="76" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{播放音效,avg_baton}{#杜衡看文件动作恢复}以文职的薪酬，你大概还要还15年贷款。{0.6}
+<C0_chouka id="77" originalRow="77" groupSign="" debugClose="1" action="角色台词" data="duheng" param="但最终因为超感测试为0，分配到了文职岗位……" param2="33D但最终" param3=""/>
+<C0_chouka id="78" originalRow="78" groupSign="" debugClose="1" action="角色台词" data="wo" param="请不要念出来啊！！" param2="" param3=""/>
+<C0_chouka id="79" originalRow="79" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{播放音效,avg_baton}{#杜衡看文件动作恢复}以文职的薪酬，你大概还要还15年贷款。{0.6}
 加入作战部，3年足够……" param2="34D以文职" param3=""/>
-<C0_chouka id="77" originalRow="77" groupSign="" debugClose="1" action="角色台词" data="" param="{角色转身,duheng,20,0.3}{#杜衡送客动作}她一边敲击平板一边上前几步，
+<C0_chouka id="80" originalRow="80" groupSign="" debugClose="1" action="角色台词" data="" param="{角色转身,duheng,20,0.3}{#杜衡送客动作}她一边敲击平板一边上前几步，
 {播放音效,avg_screw}平板发出“哔——”的声响，然后递到我手里。" param2="" param3="type=1"/>
-<C0_chouka id="78" originalRow="78" groupSign="" debugClose="1" action="角色台词" data="" param="【账户激活，得到STS工作证】" param2="" param3=""/>
-<C0_chouka id="79" originalRow="79" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转身,duheng,正,0.3}{#杜衡待机动作}我给你重新设置了安保权限，
-现在分派你进入&lt;z=yellow&gt;『特别事态派遣科』&lt;/z&gt;的作战小队。" param2="35D我给你" param3=""/>
-<C0_chouka id="80" originalRow="80" groupSign="" debugClose="1" action="角色台词" data="wo" param="……诶？" param2="" param3=""/>
-<C0_chouka id="81" originalRow="81" groupSign="" debugClose="1" action="角色台词" data="" param="{#杜衡平静表情}{#杜衡惊讶动作}杜衡露出一个灿烂的笑容。{2}{#杜衡惊讶动作恢复}{#杜衡待机表情}" param2="" param3="type=1"/>
-<C0_chouka id="82" originalRow="82" groupSign="" debugClose="1" action="角色台词" data="duheng" param="欢迎加入&lt;z=yellow&gt;『STS』。&lt;/z&gt;" param2="36D欢迎加入" param3=""/>
-<C0_chouka id="83" originalRow="83" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C0_chouka id="84" originalRow="84" groupSign="" debugClose="1" action="语法-数值" data="rqs_序章_和杜博士对话=2" param="" param2="" param3=""/>
-<C0_chouka id="85" originalRow="85" groupSign="" debugClose="1" action="设置角色" data="duheng" param="pos=中" param2="杜衡_思考_动作_开始_01" param3=""/>
-<C0_chouka id="86" originalRow="86" groupSign="" debugClose="1" action="角色台词" data="duheng" param="走吧，先回办公室，我需要重新给你一些东西。" param2="29D走吧" param3=""/>
-<C0_chouka id="87" originalRow="87" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C0_chouka id="88" originalRow="88" groupSign="" debugClose="" action="子任务完成" data="序章_和杜博士对话" param="" param2="" param3=""/>
-<C0_chouka id="89" originalRow="89" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_chouka id="90" originalRow="90" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_chouka id="91" originalRow="91" groupSign="重新上线" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_chouka id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="duheng" param="{关闭插画}你刚刚跑哪里去了？" param2="" param3=""/>
-<C0_chouka id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我们还等你体验失重的感觉呢~" param2="" param3=""/>
-<C0_chouka id="94" originalRow="94" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C0_chouka id="95" originalRow="95" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C0_chouka id="96" originalRow="96" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="81" originalRow="81" groupSign="" debugClose="1" action="角色台词" data="" param="【账户激活，得到STS工作证】" param2="" param3=""/>
+<C0_chouka id="82" originalRow="82" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{角色转身,duheng,正,0.3}{#杜衡待机动作}我给你重新设置了安保权限，
+现在分派你进入&lt;z=highlight&gt;『特别事态派遣科』&lt;/z&gt;的作战小队。" param2="35D我给你" param3=""/>
+<C0_chouka id="83" originalRow="83" groupSign="" debugClose="1" action="角色台词" data="wo" param="……诶？" param2="" param3=""/>
+<C0_chouka id="84" originalRow="84" groupSign="" debugClose="1" action="角色台词" data="" param="{#杜衡平静表情}{#杜衡惊讶动作}杜衡露出一个灿烂的笑容。{2}{#杜衡惊讶动作恢复}{#杜衡待机表情}" param2="" param3="type=1"/>
+<C0_chouka id="85" originalRow="85" groupSign="" debugClose="1" action="角色台词" data="duheng" param="欢迎加入&lt;z=highlight&gt;『STS』。&lt;/z&gt;" param2="36D欢迎加入" param3=""/>
+<C0_chouka id="86" originalRow="86" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
+<C0_chouka id="87" originalRow="87" groupSign="" debugClose="1" action="语法-数值" data="rqs_序章_和杜博士对话=2" param="" param2="" param3=""/>
+<C0_chouka id="88" originalRow="88" groupSign="" debugClose="1" action="设置角色" data="duheng" param="pos=中" param2="杜衡_思考_动作_开始_01" param3=""/>
+<C0_chouka id="89" originalRow="89" groupSign="" debugClose="1" action="角色台词" data="duheng" param="走吧，先回办公室，我需要重新给你一些东西。" param2="29D走吧" param3=""/>
+<C0_chouka id="90" originalRow="90" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C0_chouka id="91" originalRow="91" groupSign="" debugClose="" action="子任务完成" data="序章_和杜博士对话" param="" param2="" param3=""/>
+<C0_chouka id="92" originalRow="92" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_chouka id="93" originalRow="93" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="94" originalRow="94" groupSign="重新上线" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="duheng" param="{关闭插画}你刚刚跑哪里去了？" param2="" param3=""/>
+<C0_chouka id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我们还等你体验失重的感觉呢~" param2="" param3=""/>
+<C0_chouka id="97" originalRow="97" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_chouka id="98" originalRow="98" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="99" originalRow="99" groupSign="父任务已完成" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="100" originalRow="100" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C0_chouka id="101" originalRow="101" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="102" originalRow="102" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C0_chouka id="103" originalRow="103" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

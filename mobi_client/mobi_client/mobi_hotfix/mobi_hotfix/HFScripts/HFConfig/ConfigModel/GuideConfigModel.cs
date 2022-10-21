@@ -8,6 +8,7 @@
     public float swaittime;//引导开始的等待时间
     public int attachactivation;//被激活组件属于哪里的
     public string activation;//被激活组件
+    public string rectanglesize;//方块控件区域
     public int attachactivationdragend;//被激活组件属于哪里的
     public string dragend;//拖动目标控件
     public int keypoint;//是否是关键步骤

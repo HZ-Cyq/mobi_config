@@ -24,20 +24,20 @@
 我们损失了6名1级行动人员。" param2="" param3=""/>
 <Theater02 id="17" originalRow="17" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_无语_动作_循环_01}他们都被变成了无法再拼回去的拼图。" param2="" param3=""/>
 <Theater02 id="18" originalRow="18" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_说话_动作_循环_01}你还觉得，公馆铜墙铁壁般的防御，是多余的么。" param2="" param3=""/>
-<Theater02 id="19" originalRow="19" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,cangling,鲨默_震撼_动作_循环_01}太可怕了，
+<Theater02 id="19" originalRow="19" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_震撼_动作_循环_01}太可怕了，
 不过我觉得能平静的说出这些的前辈更可怕啊。" param2="" param3=""/>
 <Theater02 id="20" originalRow="20" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_坏笑_动作_循环_01}嗯？你说了什么？" param2="" param3=""/>
-<Theater02 id="21" originalRow="21" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,cangling,鲨默_待机_动作_循环_01}不不不，什么都没有，不过既然异质物这么危险。" param2="" param3=""/>
-<Theater02 id="22" originalRow="22" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,cangling,鲨默_疑惑_动作_循环_01}那普通人遇到异质物该怎么办啊？报警吗？" param2="" param3=""/>
+<Theater02 id="21" originalRow="21" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_待机_动作_循环_01}不不不，什么都没有，不过既然异质物这么危险。" param2="" param3=""/>
+<Theater02 id="22" originalRow="22" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_疑惑_动作_循环_01}那普通人遇到异质物该怎么办啊？报警吗？" param2="" param3=""/>
 <Theater02 id="23" originalRow="23" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_说话_动作_循环_01}不用哦，现在手机上长按*#两个键，
 就能直接拨打STS的报警电话了，24小时在线。" param2="" param3=""/>
-<Theater02 id="24" originalRow="24" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,cangling,鲨默_说话_动作_循环_01}哇！那可真的是超方便！" param2="" param3=""/>
+<Theater02 id="24" originalRow="24" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_说话_动作_循环_01}哇！那可真的是超方便！" param2="" param3=""/>
 <Theater02 id="25" originalRow="25" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_得意_动作_循环_01}当然喽，
 不过总有像你这种笨蛋想着偷偷的接触异质物，" param2="" param3=""/>
 <Theater02 id="26" originalRow="26" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_无语_动作_循环_01}也不知道是谁给他们的自信觉得自己能控制它们。" param2="" param3=""/>
 <Theater02 id="27" originalRow="27" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_坏笑_动作_循环_01}话说在前面，瞒报异质物，随意接触异质物，
 可是触犯《城市异质物管理条例》的。" param2="" param3=""/>
-<Theater02 id="28" originalRow="28" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,cangling,鲨默_疑惑_动作_循环_01}还有这种条例吗？" param2="" param3=""/>
+<Theater02 id="28" originalRow="28" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_疑惑_动作_循环_01}还有这种条例吗？" param2="" param3=""/>
 <Theater02 id="29" originalRow="29" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_无语_动作_循环_01}我现在真的怀疑你当时培训都干了些啥，" param2="" param3=""/>
 <Theater02 id="30" originalRow="30" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_说话_动作_循环_01}当然有啊，因为异质物往往带来的危害性极大，
 所以违反条例的话会有很严重的处罚。" param2="" param3=""/>
@@ -45,10 +45,10 @@
 她经常会在办公室存放几个低危异质物用来研究。" param2="" param3=""/>
 <Theater02 id="32" originalRow="32" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_说话_动作_循环_01}像是能预测天气的古怪石头，
 能给饮料续杯的奇异水杯，等等。" param2="" param3=""/>
-<Theater02 id="33" originalRow="33" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,cangling,鲨默_震撼_动作_循环_01}明知故犯呀这是。" param2="" param3=""/>
+<Theater02 id="33" originalRow="33" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_震撼_动作_循环_01}明知故犯呀这是。" param2="" param3=""/>
 <Theater02 id="34" originalRow="34" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_坏笑_动作_循环_01}那你去说？
 我觉得她对能说话的鲨鱼可能也挺感兴趣的。" param2="" param3=""/>
-<Theater02 id="35" originalRow="35" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,cangling,鲨默_流泪_动作_循环_01}不不不，还是算了，
+<Theater02 id="35" originalRow="35" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_流泪_动作_循环_01}不不不，还是算了，
 我可不想成为她展示柜的藏品。" param2="" param3=""/>
 <Theater02 id="36" originalRow="36" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_说话_动作_循环_01}好了，今天的节目就到这里了，
 你这笨鲨，回去好好补补课吧，观众朋友们，拜拜~" param2="" param3=""/>

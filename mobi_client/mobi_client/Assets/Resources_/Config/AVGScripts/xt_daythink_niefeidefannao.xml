@@ -3,47 +3,54 @@
 <xt_daythink_niefeidefannao id="1" originalRow="1" groupSign="聂飞的焦虑" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="3" originalRow="3" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="怎么办呀，周易！我想参加荒野生存训练营，但我听去过的四个同事说他们连一周都坚持不下来！" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="我怀疑他们中间只有两个人说了真话！你帮我找到说真话的人吧，我好评估一下荒野生存的危险等级。" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="他们现在应该就在康鑫雅苑，我们一起去问问吧。" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张}怎么办呀，周易！我想参加荒野生存训练营，但我听去过的四个同事说他们连一周都坚持不下来！" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="我怀疑他们中间只有两个人说了真话！{#聂飞紧张恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="你帮我找到说真话的人吧，我好评估一下荒野生存的危险等级。" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="他们现在应该就在康鑫雅苑，我们一起去问问吧。" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="10" originalRow="10" groupSign="询问荒野生存" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="11" originalRow="11" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="nfc_90020" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="nfc_90020" param="你来问荒野生存的事啊，我们四个可是连一周都没坚持下来呢！" param2="" param3="name=小真"/>
-<xt_daythink_niefeidefannao id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="nfc_90021" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="nfc_90021" param="乱说！肯定有人坚持了一周啊！" param2="" param3="name=小徳"/>
-<xt_daythink_niefeidefannao id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="nfc_90022" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="nfc_90022" param="呃……我悄悄告诉你，反正小德和小星里面至少有一个人没坚持下来哦！" param2="" param3="name=小布"/>
-<xt_daythink_niefeidefannao id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="nfc_90023" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="nfc_90023" param="其他人不清楚，反正我是没坚持下来！哈哈！" param2="" param3="name=小星"/>
-<xt_daythink_niefeidefannao id="20" originalRow="20" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="niefei" param="听着怎么这么乱啊，周易，周易，快来帮我想想他们谁说的是真的。" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="23" originalRow="23" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="24" originalRow="24" groupSign="" debugClose="" action="跳转-标签" param="生存答案选择" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="25" originalRow="25" groupSign="" debugClose="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="26" originalRow="26" debugClose="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="27" originalRow="27" groupSign="生存答案选择" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="28" originalRow="28" groupSign="" debugClose="" action="可选对话框" data="" param="$$说真话的是小德和小布==&gt;正确答案
+<xt_daythink_niefeidefannao id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="11" originalRow="11" groupSign="询问荒野生存" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="12" originalRow="12" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=中" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="你来问荒野生存的事啊，我们&lt;z=highlight&gt;四个可是连一周都没坚持下来呢！&lt;/z&gt;" param2="" param3="name=小真"/>
+<xt_daythink_niefeidefannao id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=右" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="乱说！肯定&lt;z=highlight&gt;有人坚持了一周啊！&lt;/z&gt;" param2="" param3="name=小徳"/>
+<xt_daythink_niefeidefannao id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=左" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="呃……我悄悄告诉你，反正小德和小星里面&lt;z=highlight&gt;至少有一个人没坚持下来哦！&lt;/z&gt;" param2="" param3="name=小布"/>
+<xt_daythink_niefeidefannao id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=中" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="其他人不清楚，&lt;z=highlight&gt;反正我是没坚持下来！&lt;/z&gt;哈哈！" param2="" param3="name=小星"/>
+<xt_daythink_niefeidefannao id="21" originalRow="21" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}听着怎么这么乱啊，快来帮我想想他们谁说的是真的。{0.5}{#聂飞惊讶恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="24" originalRow="24" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="生存答案选择" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="28" originalRow="28" groupSign="生存答案选择" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="29" originalRow="29" groupSign="" debugClose="" action="可选对话框" data="" param="$$说真话的是小德和小布==&gt;正确答案
 $$说真话的是小真和小星==&gt;错误答案
 $$说真话的是小真和小德==&gt;错误答案
 $$说真话的是小星和小布==&gt;错误答案" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="29" originalRow="29" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="30" originalRow="30" groupSign="错误答案" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="niefei" param="是这样吗……怎么感觉怪怪的……" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="33" originalRow="33" groupSign="" debugClose="" action="跳转-标签" data="" param="生存答案选择" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="35" originalRow="35" groupSign="正确答案" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="36" originalRow="36" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="niefei" param="哈哈！不错！那看来还是有人坚持下来的嘛！那本大爷也一样可以的！" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="niefei" param="谢谢你啦，周易！" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="39" originalRow="39" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_daythink_niefeidefannao id="41" originalRow="41" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="31" originalRow="31" groupSign="错误答案" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="32" originalRow="32" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}是这样吗……怎么感觉怪怪的……" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="34" originalRow="34" groupSign="" debugClose="" action="跳转-标签" data="" param="生存答案选择" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="35" originalRow="35" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="36" originalRow="36" groupSign="正确答案" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="37" originalRow="37" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心动作}{#聂飞得意表情}哈哈！不错！那看来还是有人坚持下来的嘛！那本大爷也一样可以的！" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="niefei" param="谢谢你啦！" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="40" originalRow="40" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="42" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="43" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="44" originalRow="44" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="46" originalRow="46" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="47" originalRow="47" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="48" originalRow="48" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_daythink_niefeidefannao id="50" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

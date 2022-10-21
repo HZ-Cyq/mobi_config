@@ -1,25 +1,25 @@
 <root>
 <chat_tuling_3 id="0" originalRow="0" groupSign="顶石的安防系统" debugClose="" action="" data="" param="" param2=""/>
-<chat_tuling_3 id="1" originalRow="1" groupSign="0.1&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="╭(╯^╰)╮……" param2=""/>
+<chat_tuling_3 id="1" originalRow="1" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="╭(╯^╰)╮……" param2=""/>
 <chat_tuling_3 id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" data="" param="$$怎么了？==&gt;有事
 $$不要烦不要烦==&gt;不开心" param2=""/>
 <chat_tuling_3 id="3" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_3 id="4" originalRow="4" groupSign="有事" debugClose="" action="" data="" param2=""/>
 <chat_tuling_3 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="怎么了？" param2=""/>
-<chat_tuling_3 id="6" originalRow="6" groupSign="0.1&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="想破解那个门。" param2=""/>
+<chat_tuling_3 id="6" originalRow="6" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="想破解那个门。" param2=""/>
 <chat_tuling_3 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="顶石的安防系统很厉害吗？" param2=""/>
-<chat_tuling_3 id="8" originalRow="8" groupSign="0.1&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="必须的。" param2=""/>
+<chat_tuling_3 id="8" originalRow="8" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="必须的。" param2=""/>
 <chat_tuling_3 id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" data="" param="$$那个实验室，连你都破解不了……==&gt;破解不了" param2=""/>
 <chat_tuling_3 id="10" originalRow="10" groupSign="破解不了" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_3 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="那个实验室，连你都破解不了……" param2=""/>
 <chat_tuling_3 id="12" originalRow="12" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="可以强攻，但是……" param2=""/>
 <chat_tuling_3 id="13" originalRow="13" groupSign="1.2&gt;&gt;" action="角色台词" data="tuling" param="主要不确定防火墙后面的反扑手段。" param2=""/>
-<chat_tuling_3 id="14" originalRow="14" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="这个防御框架搭得很像政府信息部门的风格……"/>
+<chat_tuling_3 id="14" originalRow="14" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="这个防御框架搭得很像政府信息部门的风格……"/>
 <chat_tuling_3 id="15" originalRow="15" action="可选对话框" data="" param="$$所以黄权说的都是真的……==&gt;黄权说的"/>
 <chat_tuling_3 id="16" originalRow="16" groupSign="黄权说的"/>
 <chat_tuling_3 id="17" originalRow="17" action="角色台词" data="wo" param="所以黄权说的都是真的……"/>
-<chat_tuling_3 id="18" originalRow="18" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="我的强攻方案被否决了o(╥﹏╥)o"/>
-<chat_tuling_3 id="19" originalRow="19" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="杜杜说如果动静弄太太她交涉起来会很麻烦~"/>
+<chat_tuling_3 id="18" originalRow="18" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="我的强攻方案被否决了o(╥﹏╥)o"/>
+<chat_tuling_3 id="19" originalRow="19" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="杜杜说如果动静弄太太她交涉起来会很麻烦~"/>
 <chat_tuling_3 id="20" originalRow="20" action="可选对话框" data="" param="$$好吧……暂时没有办法了……==&gt;没有办法"/>
 <chat_tuling_3 id="21" originalRow="21" groupSign="没有办法"/>
 <chat_tuling_3 id="22" originalRow="22" action="角色台词" data="wo" param="好吧……暂时没有办法了……"/>
@@ -27,15 +27,15 @@ $$不要烦不要烦==&gt;不开心" param2=""/>
 <chat_tuling_3 id="24" originalRow="24"/>
 <chat_tuling_3 id="25" originalRow="25" groupSign="不开心" action="" data="" param=""/>
 <chat_tuling_3 id="26" originalRow="26" action="角色台词" data="wo" param="不要烦不要烦。"/>
-<chat_tuling_3 id="27" originalRow="27" groupSign="0.1&gt;&gt;" action="角色台词" data="wo" param="不就是那个门的事情么？"/>
+<chat_tuling_3 id="27" originalRow="27" groupSign="0.6&gt;&gt;" action="角色台词" data="wo" param="不就是那个门的事情么？"/>
 <chat_tuling_3 id="28" originalRow="28" groupSign="0.8&gt;&gt;" action="角色台词" data="tuling" param="可以强攻，但是……"/>
 <chat_tuling_3 id="29" originalRow="29" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="主要不确定防火墙后面的反扑手段。"/>
-<chat_tuling_3 id="30" originalRow="30" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="这个防御框架搭得很像政府信息部门的风格……"/>
+<chat_tuling_3 id="30" originalRow="30" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="这个防御框架搭得很像政府信息部门的风格……"/>
 <chat_tuling_3 id="31" originalRow="31" action="可选对话框" data="" param="$$所以黄权说的都是真的……==&gt;黄权说的"/>
 <chat_tuling_3 id="32" originalRow="32" groupSign="黄权说的"/>
 <chat_tuling_3 id="33" originalRow="33" action="角色台词" data="wo" param="所以黄权说的都是真的……"/>
-<chat_tuling_3 id="34" originalRow="34" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="我的强攻方案被否决了o(╥﹏╥)o"/>
-<chat_tuling_3 id="35" originalRow="35" groupSign="0.2&gt;&gt;" action="角色台词" data="tuling" param="杜杜说如果动静弄太太她交涉起来会很麻烦~"/>
+<chat_tuling_3 id="34" originalRow="34" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="我的强攻方案被否决了o(╥﹏╥)o"/>
+<chat_tuling_3 id="35" originalRow="35" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="杜杜说如果动静弄太太她交涉起来会很麻烦~"/>
 <chat_tuling_3 id="36" originalRow="36" action="可选对话框" data="" param="$$好吧……暂时没有办法了……==&gt;没有办法"/>
 <chat_tuling_3 id="37" originalRow="37" groupSign="没有办法"/>
 <chat_tuling_3 id="38" originalRow="38" action="角色台词" data="wo" param="好吧……暂时没有办法了……"/>

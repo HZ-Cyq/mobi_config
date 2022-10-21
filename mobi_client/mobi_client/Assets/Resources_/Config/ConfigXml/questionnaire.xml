@@ -1,0 +1,7 @@
+<root>
+<Questionnaire id="1" name="第一次进入主界面后" type="0" param="0" mailId="1" website="https://kingame.wjx.cn/vm/w8dzpa4.aspx" flagsId="1"/>
+<Questionnaire id="2" name="第二天登录后" type="1" param="2" mailId="2" website="https://kingame.wjx.cn/vm/mUOl2t1.aspx" flagsId="2"/>
+<Questionnaire id="3" name="完成昭离公馆找聂飞任务后" type="2" param="1203" mailId="3" website="https://kingame.wjx.cn/vm/tqTRvlf.aspx" flagsId="3"/>
+<Questionnaire id="4" name="第三天登录" type="1" param="3" mailId="4" website="https://kingame.wjx.cn/vm/rP4eSiP.aspx" flagsId="11"/>
+<Questionnaire id="5" name="第七天登录" type="1" param="7" mailId="5" website="https://kingame.wjx.cn/vm/h0jiQDx.aspx" flagsId="12"/>
+</root>

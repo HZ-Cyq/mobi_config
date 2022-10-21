@@ -1,9 +1,0 @@
-<root>
-<maze201_npc71 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
-<maze201_npc71 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
-<maze201_npc71 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="stranger1" param="什么？你们问我终点？你们迷路了？" param2=""/>
-<maze201_npc71 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="stranger1" param="怎么会有人在这里迷路呢？" param2=""/>
-<maze201_npc71 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="stranger1" param="迷宫本身就在指引你的方向，我的朋友。你需要做的只有一路向前走就可以了。" param2=""/>
-<maze201_npc71 id="5" originalRow="5" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<maze201_npc71 id="6" originalRow="6" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
-</root>

@@ -122,7 +122,7 @@ $$惊讶动作==&gt;惊讶动作2" param2="" param3=""/>
 <NewTest_ZhouYi id="97" originalRow="97" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <NewTest_ZhouYi id="98" originalRow="98" groupSign="胜利动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
 <NewTest_ZhouYi id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易胜利动作}这里是周易胜利动作。" param2="" param3=""/>
-<NewTest_ZhouYi id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易动作恢复}" param2="" param3=""/>
+<NewTest_ZhouYi id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易胜利动作恢复}" param2="" param3=""/>
 <NewTest_ZhouYi id="101" originalRow="101" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
 <NewTest_ZhouYi id="102" originalRow="102" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <NewTest_ZhouYi id="103" originalRow="103" groupSign="胜利2动作2" debugClose="" action="" data="" param="" param2="" param3=""/>
@@ -145,6 +145,7 @@ $$惊讶动作==&gt;惊讶动作2" param2="" param3=""/>
 $$平静表情==&gt;平静表情2
 $$惊讶表情==&gt;惊讶表情2
 $$思考表情==&gt;思考表情2
+$$思考表情2真==&gt;思考2真表情2
 $$下一页==&gt;表情下一页2" param2="" param3=""/>
 <NewTest_ZhouYi id="120" originalRow="120" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <NewTest_ZhouYi id="121" originalRow="121" groupSign="待机表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
@@ -162,67 +163,70 @@ $$下一页==&gt;表情下一页2" param2="" param3=""/>
 <NewTest_ZhouYi id="133" originalRow="133" groupSign="思考表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
 <NewTest_ZhouYi id="134" originalRow="134" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考表情}这里是思考表情" param2="" param3=""/>
 <NewTest_ZhouYi id="135" originalRow="135" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="136" originalRow="136" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="137" originalRow="137" groupSign="表情下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="138" originalRow="138" groupSign="" debugClose="" action="可选对话框" data="" param="$$思考2表情==&gt;思考2表情2
+<NewTest_ZhouYi id="136" originalRow="136" groupSign="思考2真表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="137" originalRow="137" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考4表情}这里是思考2套装真表情" param2="" param3=""/>
+<NewTest_ZhouYi id="138" originalRow="138" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="139" originalRow="139" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="140" originalRow="140" groupSign="表情下一页2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="141" originalRow="141" groupSign="" debugClose="" action="可选对话框" data="" param="$$思考2表情==&gt;思考2表情2
 $$怀疑表情==&gt;怀疑表情2
 $$开心表情==&gt;开心表情2
 $$忧伤表情==&gt;忧伤表情2
 $$下一页==&gt;表情下一页21" param2="" param3=""/>
-<NewTest_ZhouYi id="139" originalRow="139" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="140" originalRow="140" groupSign="思考2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考2表情}这里是思考2表情" param2="" param3=""/>
-<NewTest_ZhouYi id="142" originalRow="142" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="143" originalRow="143" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="144" originalRow="144" groupSign="怀疑表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易怀疑表情}这里是怀疑表情" param2="" param3=""/>
-<NewTest_ZhouYi id="146" originalRow="146" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="147" originalRow="147" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="148" originalRow="148" groupSign="开心表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易开心表情}这里是开心表情" param2="" param3=""/>
-<NewTest_ZhouYi id="150" originalRow="150" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="151" originalRow="151" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="152" originalRow="152" groupSign="忧伤表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易忧伤表情}这里是忧伤表情" param2="" param3=""/>
-<NewTest_ZhouYi id="154" originalRow="154" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="155" originalRow="155" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="156" originalRow="156" groupSign="表情下一页21" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="157" originalRow="157" groupSign="" debugClose="" action="可选对话框" data="" param="$$害羞表情==&gt;害羞表情2
+<NewTest_ZhouYi id="142" originalRow="142" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="143" originalRow="143" groupSign="思考2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考2表情}这里是思考2表情" param2="" param3=""/>
+<NewTest_ZhouYi id="145" originalRow="145" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="146" originalRow="146" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="147" originalRow="147" groupSign="怀疑表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="148" originalRow="148" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易怀疑表情}这里是怀疑表情" param2="" param3=""/>
+<NewTest_ZhouYi id="149" originalRow="149" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="150" originalRow="150" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="151" originalRow="151" groupSign="开心表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="152" originalRow="152" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易开心表情}这里是开心表情" param2="" param3=""/>
+<NewTest_ZhouYi id="153" originalRow="153" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="154" originalRow="154" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="155" originalRow="155" groupSign="忧伤表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易忧伤表情}这里是忧伤表情" param2="" param3=""/>
+<NewTest_ZhouYi id="157" originalRow="157" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="158" originalRow="158" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="159" originalRow="159" groupSign="表情下一页21" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="160" originalRow="160" groupSign="" debugClose="" action="可选对话框" data="" param="$$害羞表情==&gt;害羞表情2
 $$紧张表情==&gt;紧张表情2
 $$晕表情==&gt;晕表情2
 $$晕2表情==&gt;晕2表情2
 $$成功表情==&gt;成功表情2
 $$成功2表情==&gt;成功2表情2" param2="" param3=""/>
-<NewTest_ZhouYi id="158" originalRow="158" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="159" originalRow="159" groupSign="害羞表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易害羞表情}这里是害羞表情" param2="" param3=""/>
-<NewTest_ZhouYi id="161" originalRow="161" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="162" originalRow="162" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="163" originalRow="163" groupSign="紧张表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="164" originalRow="164" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易紧张表情}这里是紧张表情" param2="" param3=""/>
-<NewTest_ZhouYi id="165" originalRow="165" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="166" originalRow="166" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="167" originalRow="167" groupSign="晕表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="168" originalRow="168" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易晕表情}这里是晕表情" param2="" param3=""/>
-<NewTest_ZhouYi id="169" originalRow="169" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="170" originalRow="170" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="171" originalRow="171" groupSign="晕2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="172" originalRow="172" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易晕2表情}这里是晕2表情" param2="" param3=""/>
-<NewTest_ZhouYi id="173" originalRow="173" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="174" originalRow="174" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="175" originalRow="175" groupSign="成功表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="176" originalRow="176" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易成功表情}这里是成功表情" param2="" param3=""/>
-<NewTest_ZhouYi id="177" originalRow="177" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="178" originalRow="178" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="179" originalRow="179" groupSign="成功2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="180" originalRow="180" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易成功2表情}这里是成功2表情" param2="" param3=""/>
-<NewTest_ZhouYi id="181" originalRow="181" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
-<NewTest_ZhouYi id="182" originalRow="182" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="183" originalRow="183" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="184" originalRow="184" groupSign="返回" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="185" originalRow="185" groupSign="" debugClose="" action="跳转-标签" data="" param="Test_zhujuetuan.开始" param2="" param3=""/>
+<NewTest_ZhouYi id="161" originalRow="161" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="162" originalRow="162" groupSign="害羞表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="163" originalRow="163" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易害羞表情}这里是害羞表情" param2="" param3=""/>
+<NewTest_ZhouYi id="164" originalRow="164" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="165" originalRow="165" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="166" originalRow="166" groupSign="紧张表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="167" originalRow="167" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易紧张表情}这里是紧张表情" param2="" param3=""/>
+<NewTest_ZhouYi id="168" originalRow="168" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="169" originalRow="169" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="170" originalRow="170" groupSign="晕表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易晕表情}这里是晕表情" param2="" param3=""/>
+<NewTest_ZhouYi id="172" originalRow="172" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="173" originalRow="173" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="174" originalRow="174" groupSign="晕2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="175" originalRow="175" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易晕2表情}这里是晕2表情" param2="" param3=""/>
+<NewTest_ZhouYi id="176" originalRow="176" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="177" originalRow="177" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="178" originalRow="178" groupSign="成功表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易成功表情}这里是成功表情" param2="" param3=""/>
+<NewTest_ZhouYi id="180" originalRow="180" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="181" originalRow="181" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="182" originalRow="182" groupSign="成功2表情2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="183" originalRow="183" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易成功2表情}这里是成功2表情" param2="" param3=""/>
+<NewTest_ZhouYi id="184" originalRow="184" groupSign="" debugClose="" action="跳转-标签" data="" param="周易" param2="" param3=""/>
+<NewTest_ZhouYi id="185" originalRow="185" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <NewTest_ZhouYi id="186" originalRow="186" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="187" originalRow="187" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<NewTest_ZhouYi id="188" originalRow="188" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="187" originalRow="187" groupSign="返回" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="188" originalRow="188" groupSign="" debugClose="" action="跳转-标签" data="" param="Test_zhujuetuan.开始" param2="" param3=""/>
 <NewTest_ZhouYi id="189" originalRow="189" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="190" originalRow="190" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="191" originalRow="191" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<NewTest_ZhouYi id="192" originalRow="192" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

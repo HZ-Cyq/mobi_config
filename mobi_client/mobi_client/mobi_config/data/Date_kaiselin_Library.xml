@@ -1,7 +1,0 @@
-<root>
-<Date_kaiselin_Library id="0" originalRow="0" groupSign="开始"/>
-<Date_kaiselin_Library id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
-<Date_kaiselin_Library id="2" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
-<Date_kaiselin_Library id="3" originalRow="2" action="设置角色" data="kaiselin"/>
-<Date_kaiselin_Library id="4" originalRow="3" action="角色台词" data="kaiselin" param="图书馆要安静"/>
-</root>

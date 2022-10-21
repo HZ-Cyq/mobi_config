@@ -1,7 +1,0 @@
-<root>
-<PatrolPool id="1" key_alias="别名1" nextPoolId="2" questIds="500;1;1" level="1" preTask="" limitNum="1" dailyRefresh="0" dailyIncr="0"/>
-<PatrolPool id="2" key_alias="别名2" nextPoolId="3" questIds="520;3;1|521;2;1|522;1;1|523;3;1|524;2;1|525;1;1|526;3;1|527;2;1|528;1;1|529;3;1|530;2;1|531;1;1|521;1;1" level="1" preTask="500" limitNum="8" dailyRefresh="1000" dailyIncr="3"/>
-<PatrolPool id="3" key_alias="别名3" nextPoolId="4" questIds="512;3;1|513;2;1|514;1;1|515;3;1|516;2;1|517;1;1|518;3;1|519;2;1|501;1;1|502;3;1|503;2;1|504;1;1" level="5" preTask="" limitNum="8" dailyRefresh="3" dailyIncr="3"/>
-<PatrolPool id="4" key_alias="别名3" questIds="515;1;1|501;1;1|502;1;1|503;1;1|504;1;1|505;1;1|506;1;1|507;1;1|508;1;1|509;1;1|510;1;1|511;1;1" level="10" preTask="21" limitNum="8" dailyRefresh="3" dailyIncr="3"/>
-<LimitState id="LimitState" key_alias="" nextPoolId="ID_OR_NULL:PatrolPool" questIds="1:{ID:Quest}" level="" preTask="ID_OR_NULL:Quest" limitNum="" dailyRefresh="" dailyIncr=""/>
-</root>

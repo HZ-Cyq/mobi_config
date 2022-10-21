@@ -2,7 +2,7 @@
 <maze202_part2 id="0" originalRow="0" groupSign="开始"/>
 <maze202_part2 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze202_part2 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<maze202_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="总之，既然进来了，那就好好把这里探索一遍吧。找找看杜博士说的人工痕迹到底是什么。" param2=""/>
+<maze202_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳紧张动作}{#凯瑟琳动漫叹气挂件}{#凯瑟琳紧张表情}总之，既然进来了，那就好好把这里探索一遍吧。找找看杜博士说的人工痕迹到底是什么。" param2=""/>
 <maze202_part2 id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
 <maze202_part2 id="5" originalRow="5" groupSign="结束"/>
 <maze202_part2 id="6" originalRow="6"/>

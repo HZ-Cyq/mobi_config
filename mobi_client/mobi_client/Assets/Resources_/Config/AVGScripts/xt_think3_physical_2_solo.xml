@@ -1,13 +1,21 @@
 <root>
 <xt_think3_physical_2_solo id="0" originalRow="0" groupSign="成功1" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_think3_physical_2_solo id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="聂飞和凯瑟琳当中有一人是对的。" param2="" param3=""/>
-<xt_think3_physical_2_solo id="2" originalRow="2" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_think3_physical_2_solo id="1" originalRow="1" groupSign="" debugClose="1" action="角色台词" data="wo" param="聂飞和涂凌都比凯瑟琳先走。" param2="" param3="type=0"/>
+<xt_think3_physical_2_solo id="2" originalRow="2" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_think3_physical_2_solo id="3" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_think3_physical_2_solo id="4" originalRow="4" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_think3_physical_2_solo id="5" originalRow="5" groupSign="成功2" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_think3_physical_2_solo id="6" originalRow="6" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_think3_physical_2_solo id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="涂凌说的是错的。" param2="" param3=""/>
+<xt_think3_physical_2_solo id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="土山奥和涂凌都比凯瑟琳先走。" param2="" param3="type=0"/>
 <xt_think3_physical_2_solo id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_think3_physical_2_solo id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_think3_physical_2_solo id="10" originalRow="10" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_2_solo id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_2_solo id="11" originalRow="11" groupSign="成功3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_2_solo id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_2_solo id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="这样看凯瑟琳是最晚离开的。" param2="" param3="type=0"/>
+<xt_think3_physical_2_solo id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_think3_physical_2_solo id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_2_solo id="16" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_2_solo id="17" originalRow="17" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_think3_physical_2_solo id="18" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

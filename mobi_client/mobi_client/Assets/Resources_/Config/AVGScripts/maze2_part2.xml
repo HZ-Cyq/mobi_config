@@ -2,7 +2,7 @@
 <maze2_part2 id="0" originalRow="0" groupSign="开始"/>
 <maze2_part2 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <maze2_part2 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<maze2_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="面前就有一个敌人！干他！" param2=""/>
+<maze2_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞军体拳}面前就有一个敌人！干他！" param2=""/>
 <maze2_part2 id="4" originalRow="4" action="跳转-标签" param="结束"/>
 <maze2_part2 id="5" originalRow="5" groupSign="结束"/>
 <maze2_part2 id="6" originalRow="6"/>

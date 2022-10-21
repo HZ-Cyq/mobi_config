@@ -3,9 +3,10 @@
 <xt_dayfight_safeanjiang id="1" originalRow="1" groupSign="开始战斗" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_dayfight_safeanjiang id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_dayfight_safeanjiang id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="stranger" param="啊！救命啊！" param2="" param3="type=0"/>
-<xt_dayfight_safeanjiang id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="" param2="" param3=""/>
-<xt_dayfight_safeanjiang id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="为什么总是康鑫嘉苑？这里难道隐藏着什么不为人知的秘密吗……" param2="" param3="type=0"/>
-<xt_dayfight_safeanjiang id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_dayfight_safeanjiang id="7" originalRow="7" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_dayfight_safeanjiang id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfight_safeanjiang id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_dayfight_safeanjiang id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}为什么总是康新嘉苑？这里难道隐藏着什么不为人知的秘密吗……" param2="" param3="type=0"/>
+<xt_dayfight_safeanjiang id="6" originalRow="6" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_dayfight_safeanjiang id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_dayfight_safeanjiang id="8" originalRow="8" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_dayfight_safeanjiang id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

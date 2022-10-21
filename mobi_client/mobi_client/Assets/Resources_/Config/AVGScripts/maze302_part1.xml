@@ -12,7 +12,7 @@
 <maze302_part1 id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中"/>
 <maze302_part1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我们可以选择原路返回，但是杜博士叫我们来一定有她的理由吧，说不定里面真的有豪华晚餐呢？"/>
 <maze302_part1 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左"/>
-<maze302_part1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="niefei" param="唉，周易，你来决定吧。"/>
+<maze302_part1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="niefei" param="唉，你来决定吧。"/>
 <maze302_part1 id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data=""/>
 <maze302_part1 id="15" originalRow="15" groupSign="结束" debugClose="" action="" data="" param=""/>
 </root>

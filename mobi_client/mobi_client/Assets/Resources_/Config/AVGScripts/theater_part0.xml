@@ -1,7 +1,0 @@
-<root>
-<theater_part0 id="0" originalRow="0" groupSign="开始"/>
-<theater_part0 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
-<theater_part0 id="2" originalRow="2" action="角色台词" param="现在还不够格呢，等杜博士联系我再来吧。" param3="type=1"/>
-<theater_part0 id="3" originalRow="3" action="跳转-标签" param="结束"/>
-<theater_part0 id="4" originalRow="4" groupSign="结束"/>
-</root>

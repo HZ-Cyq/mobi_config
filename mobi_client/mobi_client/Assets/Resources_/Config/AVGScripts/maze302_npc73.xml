@@ -1,21 +1,19 @@
 <root>
 <maze302_npc73 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
 <maze302_npc73 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<maze302_npc73 id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="wo" param="是来救我的？哼，白费力气，老子已经没救了，你们就没人听得懂吗？" param2="" param3="name=受伤的人"/>
-<maze302_npc73 id="3" originalRow="3" groupSign="" debugClose=""/>
-<maze302_npc73 id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="结束" param="" param2="" param3=""/>
-<maze302_npc73 id="5" originalRow="5" debugClose="" action="" data="" param="" param2="" param3=""/>
-<maze302_npc73 id="6" originalRow="6" debugClose=""/>
-<maze302_npc73 id="7" originalRow="7" groupSign="完成任务"/>
-<maze302_npc73 id="8" originalRow="8" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
-<maze302_npc73 id="9" originalRow="9" action="角色台词" data="wo" param="来，是男人就拿着。虽然我死定了，但是只要知道这些东西被别的勇士带在身上战斗，我就感觉生命充满了活力！哈哈哈哈哈哈！呃啊。" param2="" param3="name=受伤的人"/>
-<maze302_npc73 id="10" originalRow="10" action="跳转-标签" data="结束"/>
-<maze302_npc73 id="11" originalRow="11"/>
-<maze302_npc73 id="12" originalRow="12"/>
-<maze302_npc73 id="13" originalRow="13"/>
-<maze302_npc73 id="14" originalRow="14"/>
-<maze302_npc73 id="15" originalRow="15"/>
-<maze302_npc73 id="16" originalRow="16"/>
-<maze302_npc73 id="17" originalRow="17"/>
-<maze302_npc73 id="18" originalRow="18" groupSign="结束"/>
+<maze302_npc73 id="2" originalRow="2" action="设置角色" data="@char_1" param="pos=中" param2="" param3=""/>
+<maze302_npc73 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="@char_1" param="是来救我的？哼，白费力气，老子已经没救了，你们就没人听得懂吗？" param2="" param3="name=重伤的人"/>
+<maze302_npc73 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="@char_1" param="与其来救我，不如去杀几个怪物！杀完回来，我的宝贝就全给你了！" param2="" param3="name=重伤的人"/>
+<maze302_npc73 id="5" originalRow="5" groupSign="" debugClose="" action="跳转-标签" param="结束" param2="" param3=""/>
+<maze302_npc73 id="6" originalRow="6" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_npc73 id="7" originalRow="7" debugClose=""/>
+<maze302_npc73 id="8" originalRow="8" groupSign="完成任务"/>
+<maze302_npc73 id="9" originalRow="9" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<maze302_npc73 id="10" originalRow="10" action="设置角色" data="@char_1" param="pos=中" param2="" param3=""/>
+<maze302_npc73 id="11" originalRow="11" action="角色台词" data="@char_1" param="来，是男人就拿着。虽然我死定了，但是只要知道" param2="" param3="name=重伤的人"/>
+<maze302_npc73 id="12" originalRow="12" action="角色台词" data="@char_1" param="这些东西被别的勇士带在身上战斗，我就感觉生命充满了活力！" param3="name=重伤的人"/>
+<maze302_npc73 id="13" originalRow="13" action="角色台词" data="@char_1" param="哈哈哈哈哈哈！" param3="name=重伤的人"/>
+<maze302_npc73 id="14" originalRow="14" action="角色台词" data="@char_1" param="呃啊。" param3="name=重伤的人"/>
+<maze302_npc73 id="15" originalRow="15" action="跳转-标签" param="结束"/>
+<maze302_npc73 id="16" originalRow="16" groupSign="结束"/>
 </root>

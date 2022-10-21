@@ -4,10 +4,37 @@
 <patrolfronttask404 id="2" originalRow="2" groupSign="任务完成" debugClose="" action="" data="" param="" param2="" param3=""/>
 <patrolfronttask404 id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <patrolfronttask404 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<patrolfronttask404 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="哎呀！有个事忘记了，才想起来！" param2="" param3="type=0"/>
-<patrolfronttask404 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="周易，快来昭离公馆找我，我有事情交给你。" param2="" param3="type=0"/>
+<patrolfronttask404 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="前面的怪物越来越强大了，
+我们需要更快提升异质物等级。" param2="" param3="type=0"/>
+<patrolfronttask404 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="这样吧，来昭离公馆找我，我有任务交给你。" param2="" param3="type=0"/>
 <patrolfronttask404 id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<patrolfronttask404 id="8" originalRow="8" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<patrolfronttask404 id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <patrolfronttask404 id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<patrolfronttask404 id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<patrolfronttask404 id="10" originalRow="10" groupSign="进入昭离公馆大厅" debugClose="" action="" data="" param="" param2="" param3=""/>
+<patrolfronttask404 id="11" originalRow="11" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
+<patrolfronttask404 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<patrolfronttask404 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="niefei" param="小子！维系安江市日常安全，也是我们STS重要的职责之一。" param2="" param3="type=0"/>
+<patrolfronttask404 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="niefei" param="巡逻的工作，需要矫健的身姿和敏锐的视野。
+STS虽然藏龙卧虎，也只有本大爷可以胜任。" param2="" param3="type=0"/>
+<patrolfronttask404 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="今天心情好，就免费教教你吧！" param2="" param3="type=0"/>
+<patrolfronttask404 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="那不就是让我们帮你干活。。" param2="" param3="type=0"/>
+<patrolfronttask404 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="niefei" param="你说什么，喵？" param2="" param3="type=0"/>
+<patrolfronttask404 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="没，没什么。。" param2="" param3="type=0"/>
+<patrolfronttask404 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="niefei" param="当然好处肯定少不了你的。
+这里的工作跟日常津贴直接挂钩。" param2="" param3="type=0"/>
+<patrolfronttask404 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="niefei" param="想要多赚到薪水，就多来本大爷这里接接巡逻任务。" param2="" param3="type=0"/>
+<patrolfronttask404 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="niefei" param="目前比较紧急的任务，还是跟404有关的。" param2="" param3=""/>
+<patrolfronttask404 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="niefei" param="接到群众报道，康新雅苑和槐树里小区发现了奇怪的电视机。" param2="" param3=""/>
+<patrolfronttask404 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="niefei" param="推测跟404分身有关。
+接取它，立刻开展异质物回收工作。" param2="" param3=""/>
+<patrolfronttask404 id="24" originalRow="24" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<patrolfronttask404 id="25" originalRow="25" action="系统-打开界面" data="ui_quest/ui_popup_patrol"/>
+<patrolfronttask404 id="26" originalRow="26" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<patrolfronttask404 id="27" originalRow="27" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<patrolfronttask404 id="28" originalRow="28" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<patrolfronttask404 id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<patrolfronttask404 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="niefei" param="这样就接取好了！我们走！" param2="" param3=""/>
+<patrolfronttask404 id="31" originalRow="31" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<patrolfronttask404 id="32" originalRow="32" groupSign="结束"/>
+<patrolfronttask404 id="33" originalRow="33"/>
 </root>

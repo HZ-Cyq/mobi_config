@@ -3,7 +3,7 @@
     public string skillIcon;//技能图标
     public System.Collections.Generic.List<int> TimelineGroup;//Timeline等级组
     public System.Collections.Generic.List<int> LogicTimelineGroup;//LogicTimeline等级组
-    public int skillType;//技能类型(0普攻 1小技能 2终极技 3被动战斗开场前技能 4被动战斗开场后技能 5被动可触发技能 6队长光环10没有timeline的假技能)
+    public int skillType;//技能类型(0普攻 1小技能 2终极技 3被动战斗开场前技能 4被动战斗开场后技能 5被动可触发技能 6队长光环7（装备套装技能）10没有timeline的假技能)
     public int isWave;//被动技能每波还是每场战斗触发：0每场 1:每波
     public System.Collections.Generic.List<int> subSkills;//子技能组
     public int cd;//技能cd(个人回合数)

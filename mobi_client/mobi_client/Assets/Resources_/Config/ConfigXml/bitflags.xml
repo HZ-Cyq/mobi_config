@@ -1,7 +1,7 @@
 <root>
-<BitFlags id="1" key_bit_flag_alias="问卷星答题奖励1" desc="" realId="0" mailId="1" website="https://kingame.wjx.cn/vj/mBWFVV5.aspx"/>
-<BitFlags id="2" key_bit_flag_alias="问卷星答题奖励2" desc="" realId="0" mailId="2" website="https://kingame.wjx.cn/vj/hUkqSGt.aspx"/>
-<BitFlags id="3" key_bit_flag_alias="问卷星答题奖励3" desc="" realId="0" mailId="3" website="https://kingame.wjx.cn/vj/hKS5tkq.aspx"/>
+<BitFlags id="1" key_bit_flag_alias="问卷星答题奖励1" desc="" realId="0" mailId="1" website="https://kingame.wjx.cn/vm/w8dzpa4.aspx"/>
+<BitFlags id="2" key_bit_flag_alias="问卷星答题奖励2" desc="" realId="0" mailId="2" website="https://kingame.wjx.cn/vm/mUOl2t1.aspx"/>
+<BitFlags id="3" key_bit_flag_alias="问卷星答题奖励3" desc="" realId="0" mailId="3" website="https://kingame.wjx.cn/vm/tqTRvlf.aspx"/>
 <BitFlags id="4" key_bit_flag_alias="开采异晶石首冲双倍" desc="关联id为异晶石商店中的id" realId="1"/>
 <BitFlags id="5" key_bit_flag_alias="开采一组异晶石首冲双倍" desc="关联id为异晶石商店中的id" realId="2"/>
 <BitFlags id="6" key_bit_flag_alias="开采一堆异晶石首冲双倍" desc="关联id为异晶石商店中的id" realId="3"/>
@@ -9,4 +9,6 @@
 <BitFlags id="8" key_bit_flag_alias="开采一盒异晶石首冲双倍" desc="关联id为异晶石商店中的id" realId="5"/>
 <BitFlags id="9" key_bit_flag_alias="开采一箱异晶石首冲双倍" desc="关联id为异晶石商店中的id" realId="6"/>
 <BitFlags id="10" key_bit_flag_alias="是否是新玩家" desc="已经成功初始化过资源的玩家"/>
+<BitFlags id="11" key_bit_flag_alias="问卷星答题奖励4" mailId="4" website="https://kingame.wjx.cn/vm/rP4eSiP.aspx"/>
+<BitFlags id="12" key_bit_flag_alias="问卷星答题奖励5" mailId="5" website="https://kingame.wjx.cn/vm/h0jiQDx.aspx"/>
 </root>

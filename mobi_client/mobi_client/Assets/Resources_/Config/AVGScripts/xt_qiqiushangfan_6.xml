@@ -11,8 +11,8 @@
 <xt_qiqiushangfan_6 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="比如，作为协助研究人员和封存室工作者，直接住在昭离公馆？" param2="" param3="type=0"/>
 <xt_qiqiushangfan_6 id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <xt_qiqiushangfan_6 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="！！！好家伙，那他们可捡了大便宜了。" param2="" param3="type=0"/>
-<xt_qiqiushangfan_6 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="zhouyi" param="pos=中" param2="" param3=""/>
-<xt_qiqiushangfan_6 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="博士也有这么心软的时候啊。" param2="" param3="type=0"/>
+<xt_qiqiushangfan_6 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_qiqiushangfan_6 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="博士也有这么心软的时候啊。" param2="" param3="type=0"/>
 <xt_qiqiushangfan_6 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>
 <xt_qiqiushangfan_6 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="duheng" param="呵呵呵呵，毕竟我们这些人类都被异质物骂成冷血动物了呢。" param2="" param3="type=0"/>
 <xt_qiqiushangfan_6 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="不过，它确实带来了一个好问题。" param2="" param3="type=0"/>
@@ -28,8 +28,8 @@
 <xt_qiqiushangfan_6 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="tuling" param="好耶！" param2="" param3="type=0"/>
 <xt_qiqiushangfan_6 id="27" originalRow="27" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <xt_qiqiushangfan_6 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="niefei" param="我都饿过头啦！" param2="" param3="type=0"/>
-<xt_qiqiushangfan_6 id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="zhouyi" param="pos=中" param2="" param3=""/>
-<xt_qiqiushangfan_6 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="哈哈，那我也来吃一块。" param2="" param3="type=0"/>
+<xt_qiqiushangfan_6 id="29" originalRow="29" groupSign="" debugClose="" action="设置角色" data="wo" param="pos=中" param2="" param3=""/>
+<xt_qiqiushangfan_6 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="哈哈，那我也来吃一块。" param2="" param3="type=0"/>
 <xt_qiqiushangfan_6 id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
 <xt_qiqiushangfan_6 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="哼哼……刚才这么大的运动量，我稍微吃一块好了~" param2="" param3="type=0"/>
 <xt_qiqiushangfan_6 id="33" originalRow="33" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>

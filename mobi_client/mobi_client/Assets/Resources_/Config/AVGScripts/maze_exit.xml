@@ -1,7 +1,7 @@
 <root>
 <maze_exit id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
 <maze_exit id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
-<maze_exit id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="是否离开泉舜公寓？" param2=""/>
+<maze_exit id="2" originalRow="2" groupSign="" debugClose="" action="角色台词" data="" param="是否离开泉舜公寓？" param2="" param3="type=1"/>
 <maze_exit id="3" originalRow="3" groupSign="" debugClose="" action="可选对话框" data="" param="$$离开 ==&gt;离开
 $$留在泉舜公寓 ==&gt;结束" param2=""/>
 <maze_exit id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2=""/>

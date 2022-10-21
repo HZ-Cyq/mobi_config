@@ -1,22 +1,22 @@
 <root>
 <maze102_part1 id="0" originalRow="0" groupSign="开始"/>
 <maze102_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<maze102_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="涂凌_严肃_动作_循环_01" param3=""/>
-<maze102_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="终于进来了，真不容易啊。" param2=""/>
+<maze102_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<maze102_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}终于进来了，真不容易啊。" param2=""/>
 <maze102_part1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
-<maze102_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="这里的异质波动果然更强了，要小心为上。" param2=""/>
-<maze102_part1 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="涂凌_严肃_动作_循环_01" param3=""/>
-<maze102_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这里的入口和之前一样，没有被封上，还是可以出去的。" param2=""/>
-<maze102_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="再说一次我可没打算出去！走，周易！前进！" param2=""/>
-<maze102_part1 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
-<maze102_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="聂飞，别冲那么快！" param2=""/>
-<maze102_part1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="tuling" param="探测器的度数异常了，说明……这附近有很强的敌人！" param2=""/>
+<maze102_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}这里的异质波动果然更强了，要小心为上。" param2=""/>
+<maze102_part1 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<maze102_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}这里的入口和之前一样，没有被封上，还是可以出去的。" param2=""/>
+<maze102_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞军体拳}再说一次我可没打算出去！走，前进！" param2=""/>
+<maze102_part1 id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<maze102_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#凯瑟琳2思考动作恢复}聂飞，别冲那么快！" param2=""/>
+<maze102_part1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}探测器的度数异常了，说明…… 这附近有很强的敌人！" param2=""/>
 <maze102_part1 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="这么快吗！那是不是说明打败它我们就可以去下一层了啊。" param2="" param3=""/>
-<maze102_part1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="没有那么简单，远处依然危险的异质波动，那里应该才是我们在这一层的目标。" param2=""/>
-<maze102_part1 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="涂凌_严肃_动作_循环_01" param3=""/>
-<maze102_part1 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="也就是说，我们可以绕开附近的这个，对吧？" param2="" param3=""/>
+<maze102_part1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作恢复}没有那么简单，远处依然危险的异质波动，那里应该才是我们在这一层的目标。" param2=""/>
+<maze102_part1 id="14" originalRow="14" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<maze102_part1 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}也就是说，我们可以绕开附近的这个，对吧？" param2="" param3=""/>
 <maze102_part1 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="原则上来说，没错。" param2="" param3=""/>
-<maze102_part1 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="那先去看看再决定吧。" param2="" param3=""/>
+<maze102_part1 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2待机表情}那先去看看再决定吧。" param2="" param3=""/>
 <maze102_part1 id="18" originalRow="18" action="跳转-标签" param="结束"/>
 <maze102_part1 id="19" originalRow="19" groupSign="结束"/>
 <maze102_part1 id="20" originalRow="20"/>

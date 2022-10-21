@@ -6,14 +6,14 @@
 <maze301_part2 id="4" originalRow="4" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <maze301_part2 id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="duheng_video" param="pos=中" param2="" param3=""/>
 <maze301_part2 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="duheng" param="我亲爱的得力员工们，假期体验怎么样呢？" param2="" param3="type=4"/>
-<maze301_part2 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="杜博士，你为什么要欺骗本大爷的感情啊！" param2="" param3="type=4"/>
+<maze301_part2 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#杜衡紧张动作}杜博士，你为什么要欺骗本大爷的感情啊！" param2="" param3="type=0"/>
 <maze301_part2 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="不管我用哪种理由让你们来到这里，最后你们都会来这，不是吗？" param2="" param3="type=4"/>
-<maze301_part2 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="就像是这里的迷宫一样，不管选哪条路走，最后你们都会到达终点。" param2="" param3="type=4"/>
-<maze301_part2 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="好了不开玩笑了。这次的目的依然是清理巢主。自从在上一个巢里" param2="" param3="type=4"/>
-<maze301_part2 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="发现人为痕迹后，我们不得不怀疑这些新的巢是不是和人为组织有关。" param2="" param3="type=4"/>
-<maze301_part2 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="duheng" param="希望在这次的调查中可以有新的进展。" param2="" param3="type=4"/>
+<maze301_part2 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作恢复}就像是这里的迷宫一样，不管选哪条路走，最后你们都会到达终点。" param2="" param3="type=4"/>
+<maze301_part2 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}好了不开玩笑了。这次的目的依然是清理巢主。自从在上一个巢里" param2="" param3="type=4"/>
+<maze301_part2 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="发现人为痕迹后，我们不得不怀疑这些新的巢是不是有人故意为之。{#杜衡惊讶动作恢复}" param2="" param3="type=4"/>
+<maze301_part2 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作}希望在这次的调查中可以有新的进展。" param2="" param3="type=4"/>
 <maze301_part2 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="duheng" param="这次给你们指明方向吧~巢的出口就在&lt;z=yellow&gt;正东&lt;/z&gt;方向，" param2="" param3="type=4"/>
-<maze301_part2 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="duheng" param="赶快解决掉就可以快点享受假期哦。" param2="" param3=""/>
+<maze301_part2 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作恢复}赶快解决掉就可以快点享受假期哦。" param2="" param3=""/>
 <maze301_part2 id="15" originalRow="15" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <maze301_part2 id="16" originalRow="16" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

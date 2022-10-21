@@ -1,7 +1,0 @@
-<root>
-<DateM_kaiselin_Pselect_JoyCity id="0" originalRow="0" groupSign="开始"/>
-<DateM_kaiselin_Pselect_JoyCity id="1" originalRow="1" groupSign="" action="角色台词" data="wo" param="咱去商场吧"/>
-<DateM_kaiselin_Pselect_JoyCity id="2" originalRow="2" groupSign="1.5&gt;&gt;" action="角色台词" data="kaiselin" param="好呀~"/>
-<DateM_kaiselin_Pselect_JoyCity id="3" originalRow="3" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="在商场等你哟~"/>
-<DateM_kaiselin_Pselect_JoyCity id="4" originalRow="4" groupSign="" debugClose="" action="" data=""/>
-</root>

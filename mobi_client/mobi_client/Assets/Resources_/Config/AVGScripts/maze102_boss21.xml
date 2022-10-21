@@ -2,18 +2,19 @@
 <maze102_boss21 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2=""/>
 <maze102_boss21 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze102_boss21 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<maze102_boss21 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="之前探测到的异质波动的位置，就是这里了。" param2=""/>
+<maze102_boss21 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}之前探测到的异质波动的位置，就是这里了。" param2=""/>
 <maze102_boss21 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<maze102_boss21 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="击败他就可以去三号楼了，对吧。" param2=""/>
-<maze102_boss21 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="stranger1" param="尊敬的各位来宾，我是巢主大人最忠诚的奴仆。巢主正在恭候各位的光临。" param2=""/>
-<maze102_boss21 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="真的吗！那就简单了！快把你的心智导体交给我们吧。" param2=""/>
-<maze102_boss21 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="stranger1" param="诸位似乎误解了什么，容愚臣想想，你们确实被欢迎，只不过，巢主大人只欢迎你们的一部分，你们拥有的心智导体。" param2=""/>
-<maze102_boss21 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="stranger1" param="而我，将带着你们的心智导体，去下一层迎见巢主。在你们死之后。" param2=""/>
-<maze102_boss21 id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<maze102_boss21 id="11" originalRow="11" groupSign="胜利" debugClose="" action="" data="" param="" param2=""/>
-<maze102_boss21 id="12" originalRow="12" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
-<maze102_boss21 id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<maze102_boss21 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="下一层，就是巢主所在的地方了，做好准备吧。" param2=""/>
-<maze102_boss21 id="15" originalRow="15" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<maze102_boss21 id="16" originalRow="16" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze102_boss21 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}击败他就可以去三号楼了，对吧。" param2=""/>
+<maze102_boss21 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="stranger1" param="{#涂凌思考动作恢复}尊敬的各位来宾，我是巢主大人最忠诚的奴仆。巢主正在恭候各位的光临。" param2=""/>
+<maze102_boss21 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心动作}真的吗！那就简单了！快把你的心智导体 交给我们吧。" param2=""/>
+<maze102_boss21 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="stranger1" param="{#聂飞开心动作恢复}诸位似乎误解了什么，容愚臣想想，你们确实被欢迎，只不过，巢主大人只欢迎你们的一部分，" param2=""/>
+<maze102_boss21 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="stranger1" param="{#涂凌待机2动作}你们拥有的心智导体。" param2=""/>
+<maze102_boss21 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="stranger1" param="而我，将带着你们的心智导体，去下一层迎见巢主。在你们死之后。" param2=""/>
+<maze102_boss21 id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze102_boss21 id="12" originalRow="12" groupSign="胜利" debugClose="" action="" data="" param="" param2=""/>
+<maze102_boss21 id="13" originalRow="13" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
+<maze102_boss21 id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
+<maze102_boss21 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="下一层，就是巢主所在的地方了，做好准备吧。" param2=""/>
+<maze102_boss21 id="16" originalRow="16" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze102_boss21 id="17" originalRow="17" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
 </root>

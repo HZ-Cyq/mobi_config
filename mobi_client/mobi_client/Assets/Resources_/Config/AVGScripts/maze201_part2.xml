@@ -2,9 +2,9 @@
 <maze201_part2 id="0" originalRow="0" groupSign="开始"/>
 <maze201_part2 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze201_part2 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<maze201_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="进来之后度数清晰了些，虽然还是迷雾重重……这个巢很奇怪，似乎没有终点。" param2=""/>
+<maze201_part2 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}进来之后读数清晰了些，虽然还是迷雾重重……这个巢很奇怪，似乎没有终点。" param2=""/>
 <maze201_part2 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<maze201_part2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="怎么可能有这种事情？本大爷全都跑一遍，肯定能找到终点的！" param2=""/>
+<maze201_part2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒动作}怎么可能有这种事情？本大爷全都跑一遍，肯定能找到终点的！" param2=""/>
 <maze201_part2 id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
 <maze201_part2 id="7" originalRow="7" groupSign="结束"/>
 <maze201_part2 id="8" originalRow="8"/>

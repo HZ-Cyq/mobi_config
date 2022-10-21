@@ -23,8 +23,8 @@
 <Attr id="22" attribute_ID_b="parry" attribute_name_b="格挡率" isPermillage="1" min_num="0" noInherit="0"/>
 <Attr id="23" attribute_ID_b="through" attribute_name_b="穿透率" isPermillage="1" min_num="-1000" describe="该异质物无视格挡的概率" noInherit="0"/>
 <Attr id="24" attribute_ID_b="parryDamage" attribute_name_b="格挡效果" isPermillage="1" max_num="800" min_num="0" noInherit="0"/>
-<Attr id="25" attribute_ID_b="hit" attribute_name_b="命中" isPermillage="1" min_num="-1000" noInherit="0"/>
-<Attr id="26" attribute_ID_b="dodge" attribute_name_b="闪避" isPermillage="1" max_num="1000" min_num="0" noInherit="0"/>
+<Attr id="25" attribute_ID_b="hit" attribute_name_b="命中" isPermillage="1" min_num="-1000" type="2" noInherit="0"/>
+<Attr id="26" attribute_ID_b="dodge" attribute_name_b="闪避" isPermillage="1" max_num="1000" min_num="0" type="2" noInherit="0"/>
 <Attr id="27" attribute_ID_b="skillHeal" attribute_name_b="治疗效果固定值" isPermillage="0" min_num="0" noInherit="0"/>
 <Attr id="28" attribute_ID_b="skillHealRate" attribute_name_b="治疗效果" isPermillage="1" min_num="-1000" type="2" describe="该异质物造成治疗时的生命恢复倍率" noInherit="0"/>
 <Attr id="29" attribute_ID_b="heal" attribute_name_b="恢复效果固定值" isPermillage="0" min_num="0" noInherit="0"/>

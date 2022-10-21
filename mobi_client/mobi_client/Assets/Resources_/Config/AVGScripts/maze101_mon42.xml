@@ -2,7 +2,7 @@
 <maze101_mon42 id="0" originalRow="0" groupSign="开始"/>
 <maze101_mon42 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2=""/>
 <maze101_mon42 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<maze101_mon42 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="小心！这里也有异质物！" param2=""/>
+<maze101_mon42 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="小心！这里也有异质物！{#凯瑟琳2惊讶动作}" param2=""/>
 <maze101_mon42 id="4" originalRow="4" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
 <maze101_mon42 id="5" originalRow="5" groupSign="结束"/>
 <maze101_mon42 id="6" originalRow="6"/>

@@ -116,4 +116,6 @@
 <PromptInformation id="115" key_variable="MazeEventHasBeenComplete" value="迷宫事件已经完成过了"/>
 <PromptInformation id="116" key_variable="ShopCoinNotEnough" value="货币不足"/>
 <PromptInformation id="116" key_variable="ServerSeriousError" value="服务器严重错误"/>
+<PromptInformation id="117" key_variable="PatrolHasSelectedQuest" value="巡逻任务同时只能接取1个"/>
+<PromptInformation id="118" key_variable="CommonConfigError" value="通用配置错误"/>
 </root>

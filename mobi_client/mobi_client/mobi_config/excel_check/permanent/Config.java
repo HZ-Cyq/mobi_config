@@ -59,8 +59,14 @@ public class Config<T extends ConfigModel> {
         try {
             String[] split = configModelClazz.getName().split("\\.");
             String excelNameWithConfigModel = split[split.length - 1];
-            // 这里的11是ConfigModel这个字符串的长度
-            GameLog.LogInfo("检查 {} 表格的配置", excelNameWithConfigModel.substring(0, excelNameWithConfigModel.length() - 11));
+            if(excelNameWithConfigModel.endsWith("Ex")) {
+                // 这里的13是ConfigModelEx这个字符串的长度
+                GameLog.LogInfo("检查 {} 表格的配置", excelNameWithConfigModel.substring(0, excelNameWithConfigModel.length() - 13));
+
+            } else {
+                // 这里的11是ConfigModelEx这个字符串的长度
+                GameLog.LogInfo("检查 {} 表格的配置", excelNameWithConfigModel.substring(0, excelNameWithConfigModel.length() - 11));
+            }
             // limitStateMap:{"id":"LimitState","character_type":"IN:[1;2]","skills":"","hero_icon":"null"}
             for (Map.Entry<String, String> entry : limitStateMap.entrySet()) {
                 if ("id".equals(entry.getKey()) || "null".equals(entry.getValue())) {
@@ -70,7 +76,7 @@ public class Config<T extends ConfigModel> {
                 List<Object> values = dict.values().stream().map(ele -> {
                     Field declaredField;
                     try {
-                        declaredField = configModelClazz.getDeclaredField(entry.getKey());
+                        declaredField = configModelClazz.getField(entry.getKey());
                         return declaredField.get(ele);
                     } catch (NoSuchFieldException | IllegalAccessException e) {
                         GameLog.LogError(e.getMessage(), e);

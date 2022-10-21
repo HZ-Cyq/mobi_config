@@ -2,29 +2,29 @@
 <maze101_npc71 id="0" originalRow="0" groupSign="开始"/>
 <maze101_npc71 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <maze101_npc71 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="@char_1" param="pos=中" param2="" param3=""/>
-<maze101_npc71 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="@char_1" param="呜啊……我的肚子在唱歌！难听！肚子唱歌，真难听！" param2=""/>
+<maze101_npc71 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="@char_1" param="呜啊……我的肚子在唱歌！难听！ 肚子唱歌，真难听！" param2=""/>
 <maze101_npc71 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<maze101_npc71 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="这是什么咒语？还是暗号？大家不要轻举妄动，看本大爷怎么收拾他！" param2=""/>
-<maze101_npc71 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<maze101_npc71 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="咒语吗……我倒是觉得他可能只是……" param2=""/>
-<maze101_npc71 id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<maze101_npc71 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="肚子饿了。" param2=""/>
+<maze101_npc71 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞严肃表情}这是什么咒语？还是暗号？大家不要轻举妄动，看本大爷怎么收拾他！" param2=""/>
+<maze101_npc71 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<maze101_npc71 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}咒语吗……我倒是觉得他可能只是……" param2=""/>
+<maze101_npc71 id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
+<maze101_npc71 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}肚子饿了。" param2=""/>
 <maze101_npc71 id="10" originalRow="10" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <maze101_npc71 id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="char_maze101_1" param="pos=中" param2="" param3=""/>
 <maze101_npc71 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="char_maze101_1" param="（咕……）" param2=""/>
-<maze101_npc71 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="" param="面前的异质物的肚子发出了咕噜咕噜的声音。" param2=""/>
+<maze101_npc71 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="" param="面前的异质物的肚子发出了咕噜咕噜的声音。" param2="" param3="type=1"/>
 <maze101_npc71 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="char_maze101_1" param="啊！烦死了！都说了让你不要再唱歌了！" param2=""/>
-<maze101_npc71 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="" param="异质物开始不断用力捶打自己的肚子。" param2=""/>
+<maze101_npc71 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="" param="异质物开始不断用力捶打自己的肚子。" param2="" param3="type=1"/>
 <maze101_npc71 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="char_maze101_1" param="那边的！你们知道能让它闭嘴的方法吗？" param2=""/>
-<maze101_npc71 id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<maze101_npc71 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="niefei" param="让肚子停止唱歌……我想想，难不成要把嘴缝上？" param2=""/>
-<maze101_npc71 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<maze101_npc71 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="笨猫！只要喂饱他就好了吧，食物！" param2=""/>
-<maze101_npc71 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="char_maze101_1" param="pos=中" param2="" param3=""/>
-<maze101_npc71 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="char_maze101_1" param="食物！我的食物，就在这里面，我爱吃的……嗯，跟我长得差不多，但是头发是紫色的！你们能帮我找到它吗？" param2=""/>
-<maze101_npc71 id="23" originalRow="23" action="跳转-标签" param="结束"/>
-<maze101_npc71 id="24" originalRow="24" groupSign="结束"/>
-<maze101_npc71 id="25" originalRow="25"/>
+<maze101_npc71 id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
+<maze101_npc71 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}让肚子停止唱歌……我想想，难不成要把嘴缝上？" param2=""/>
+<maze101_npc71 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<maze101_npc71 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2严肃表情}笨猫！只要喂饱他就好了吧，食物！" param2=""/>
+<maze101_npc71 id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="char_maze101_1" param="pos=右" param2="" param3=""/>
+<maze101_npc71 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="char_maze101_1" param="食物！我的食物，就在这里面，我爱吃的……嗯，跟我长得差不多，" param2=""/>
+<maze101_npc71 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="char_maze101_1" param="但是眼睛是蓝色的！你们能帮我找到它吗？" param2=""/>
+<maze101_npc71 id="24" originalRow="24" action="跳转-标签" param="结束"/>
+<maze101_npc71 id="25" originalRow="25" groupSign="结束"/>
 <maze101_npc71 id="26" originalRow="26"/>
 <maze101_npc71 id="27" originalRow="27"/>
 <maze101_npc71 id="28" originalRow="28"/>
@@ -35,7 +35,8 @@
 <maze101_npc71 id="33" originalRow="33"/>
 <maze101_npc71 id="34" originalRow="34"/>
 <maze101_npc71 id="35" originalRow="35"/>
-<maze101_npc71 id="36" originalRow="36" data=""/>
-<maze101_npc71 id="37" originalRow="37"/>
-<maze101_npc71 id="38" originalRow="38" groupSign=""/>
+<maze101_npc71 id="36" originalRow="36"/>
+<maze101_npc71 id="37" originalRow="37" data=""/>
+<maze101_npc71 id="38" originalRow="38"/>
+<maze101_npc71 id="39" originalRow="39" groupSign=""/>
 </root>

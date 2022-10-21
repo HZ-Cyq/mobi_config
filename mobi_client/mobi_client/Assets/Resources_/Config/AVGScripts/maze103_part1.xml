@@ -2,12 +2,12 @@
 <maze103_part1 id="0" originalRow="0" groupSign="开始"/>
 <maze103_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <maze103_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<maze103_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="巢主，就在这一楼，对吧。" param2=""/>
+<maze103_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}巢主，就在这一楼，对吧。" param2=""/>
 <maze103_part1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
-<maze103_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="这里的复杂程度和前两楼不是一个量级的，空间的压缩变得更严重了。" param2=""/>
-<maze103_part1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="多个地点都出现了强烈的异质波动，巢主身边的异质物，同样危险！" param2=""/>
+<maze103_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}这里的复杂程度和前两楼不是一个量级的，空间的压缩变得更严重了。" param2=""/>
+<maze103_part1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}多个地点都出现了强烈的异质波动，巢主身边的异质物，同样危险！" param2=""/>
 <maze103_part1 id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<maze103_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="那么紧张干嘛~打不过的话，绕开就好啦~" param2=""/>
+<maze103_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2得意表情}那么紧张干嘛~打不过的话，绕开就好啦~" param2=""/>
 <maze103_part1 id="9" originalRow="9" action="跳转-标签" param="结束"/>
 <maze103_part1 id="10" originalRow="10" groupSign="结束"/>
 <maze103_part1 id="11" originalRow="11"/>

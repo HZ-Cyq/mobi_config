@@ -4,11 +4,12 @@
 <xt_fight_DJlingyu id="2" originalRow="2" groupSign="战斗前" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_fight_DJlingyu id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_fight_DJlingyu id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_fight_DJlingyu id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="爆热音符怎么会出现在那里？她可是DJ啊，金融中心的那些家伙，蹦得起来吗……" param2="" param3="type=0"/>
-<xt_fight_DJlingyu id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_fight_DJlingyu id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_DJlingyu id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶动作}{#聂飞惊讶表情}爆热音符怎么会出现在那里？她可是DJ啊，金融中心的那些家伙，蹦得起来吗……" param2="" param3="type=0"/>
+<xt_fight_DJlingyu id="6" originalRow="6" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_fight_DJlingyu id="7" originalRow="7" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_fight_DJlingyu id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_fight_DJlingyu id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_fight_DJlingyu id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_fight_DJlingyu id="11" originalRow="11" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_DJlingyu id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_fight_DJlingyu id="12" originalRow="12" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

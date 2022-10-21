@@ -2,10 +2,11 @@
 <maze301_part20 id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param=""/>
 <maze301_part20 id="1" originalRow="1" groupSign="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
 <maze301_part20 id="2" originalRow="2" groupSign="" action="设置角色" data="niefei" param="pos=中"/>
-<maze301_part20 id="3" originalRow="3" groupSign="" action="角色台词" data="niefei" param="这样我们就能去下一层了吧。可恶，我的休假什么时候才会来啊。"/>
-<maze301_part20 id="4" originalRow="4" groupSign="" action="设置角色" data="kaiselin02" param="pos=左"/>
-<maze301_part20 id="5" originalRow="5" groupSign="" action="角色台词" data="kaiselin02" param="换种方式思考，能去下一层说明我们离休假更近了呢。"/>
-<maze301_part20 id="6" originalRow="6" groupSign="" action="移除角色" data="" param=""/>
-<maze301_part20 id="7" originalRow="7" groupSign="" debugClose="" action="" data="" param=""/>
-<maze301_part20 id="8" originalRow="8" groupSign="结束" debugClose="" action="" data="" param=""/>
+<maze301_part20 id="3" originalRow="3" groupSign="" action="角色台词" data="niefei" param="{#聂飞军体拳动作}这样我们就能去下一层了吧。可恶，我的休假什么时候才会来啊。"/>
+<maze301_part20 id="4" originalRow="4" groupSign="" action="移除角色" data="" param=""/>
+<maze301_part20 id="5" originalRow="5" groupSign="" action="设置角色" data="kaiselin02" param="pos=左"/>
+<maze301_part20 id="6" originalRow="6" groupSign="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}换种方式思考，能去下一层是不是说明我们离休假更近了呢。"/>
+<maze301_part20 id="7" originalRow="7" groupSign="" action="移除角色" data="" param=""/>
+<maze301_part20 id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param=""/>
+<maze301_part20 id="9" originalRow="9" groupSign="结束" debugClose="" action="" data="" param=""/>
 </root>

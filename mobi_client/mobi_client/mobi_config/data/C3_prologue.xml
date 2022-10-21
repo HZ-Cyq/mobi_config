@@ -1,5 +1,0 @@
-<root>
-<C3_prologue id="0" originalRow="0" groupSign="" debugClose="1" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
-<C3_prologue id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
-<C3_prologue id="2" originalRow="2" groupSign="" debugClose="" action="切换场景" data="C3_du_office" param="" param2="" param3=""/>
-</root>

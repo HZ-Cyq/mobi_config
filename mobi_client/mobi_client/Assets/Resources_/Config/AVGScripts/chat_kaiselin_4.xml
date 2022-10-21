@@ -23,7 +23,7 @@ $$事情总算圆满解决了~==&gt;解决"/>
 <chat_kaiselin_4 id="20" originalRow="20" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="不过医疗记录描述，那种过敏反应就好像全身每个细胞都要燃烧起来一样……"/>
 <chat_kaiselin_4 id="21" originalRow="21" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="被异质物放大了心灵恐惧导致的过敏还真是少见呢。"/>
 <chat_kaiselin_4 id="22" originalRow="22" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="下次我一定要复现一下。"/>
-<chat_kaiselin_4 id="23" originalRow="23" groupSign="0.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="真是……"/>
+<chat_kaiselin_4 id="23" originalRow="23" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="真是……"/>
 <chat_kaiselin_4 id="24" originalRow="24" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="好奇那种滋味啊……"/>
 <chat_kaiselin_4 id="25" originalRow="25" groupSign="" debugClose="" action="可选对话框" param="$$你真是够了……==&gt;够了"/>
 <chat_kaiselin_4 id="26" originalRow="26" groupSign="够了" debugClose="" param=""/>
@@ -31,7 +31,7 @@ $$事情总算圆满解决了~==&gt;解决"/>
 <chat_kaiselin_4 id="28" originalRow="28" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="我不用脑补都知道你现在什么样……"/>
 <chat_kaiselin_4 id="29" originalRow="29" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="求求你正常一点。"/>
 <chat_kaiselin_4 id="30" originalRow="30" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我最正常的时候就是做药物试验的时候。"/>
-<chat_kaiselin_4 id="31" originalRow="31" groupSign="0.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="你这么喜欢的话，那不如……"/>
+<chat_kaiselin_4 id="31" originalRow="31" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="你这么喜欢的话，那不如……"/>
 <chat_kaiselin_4 id="32" originalRow="32" groupSign="" debugClose="" action="可选对话框" param="$$怎么又来了！停！……==&gt;停！"/>
 <chat_kaiselin_4 id="33" originalRow="33" groupSign="够了" debugClose="" param=""/>
 <chat_kaiselin_4 id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="wo" param="怎么又来了！停！"/>

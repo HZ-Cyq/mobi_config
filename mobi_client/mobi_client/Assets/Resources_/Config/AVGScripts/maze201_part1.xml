@@ -2,16 +2,16 @@
 <maze201_part1 id="0" originalRow="0" groupSign="开始"/>
 <maze201_part1 id="1" originalRow="1" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <maze201_part1 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<maze201_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="这里果然不一样，有两个入口同时开着。" param2=""/>
+<maze201_part1 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}这里果然不一样，有两个入口同时开着。" param2=""/>
 <maze201_part1 id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<maze201_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="涂凌，能检测出什么吗？" param2=""/>
+<maze201_part1 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}涂凌，能检测出什么吗？" param2=""/>
 <maze201_part1 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<maze201_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="没办法，信号被干扰了，只知道被锁住的入口应该就是巢主的所在。" param2=""/>
-<maze201_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="这种事不用检测我也知道的呀！那我们现在怎么办？看心情？" param2=""/>
-<maze201_part1 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="周易来决定吧。" param2=""/>
-<maze201_part1 id="10" originalRow="10" action="跳转-标签" param="结束"/>
-<maze201_part1 id="11" originalRow="11" groupSign="结束"/>
-<maze201_part1 id="12" originalRow="12"/>
+<maze201_part1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#聂飞思考动作恢复}{#涂凌思考动作}没办法，信号被干扰了，只知道被锁住的入口应该就是巢主的所在。" param2=""/>
+<maze201_part1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#涂凌思考动作恢复}这种事不用检测我也知道的呀！那我们现在怎么办呢？看心情？" param2=""/>
+<maze201_part1 id="9" originalRow="9" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<maze201_part1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="由你来决定吧。{#涂凌点赞动作}" param2=""/>
+<maze201_part1 id="11" originalRow="11" action="跳转-标签" param="结束"/>
+<maze201_part1 id="12" originalRow="12" groupSign="结束"/>
 <maze201_part1 id="13" originalRow="13"/>
 <maze201_part1 id="14" originalRow="14"/>
 <maze201_part1 id="15" originalRow="15"/>
@@ -22,7 +22,8 @@
 <maze201_part1 id="20" originalRow="20"/>
 <maze201_part1 id="21" originalRow="21"/>
 <maze201_part1 id="22" originalRow="22"/>
-<maze201_part1 id="23" originalRow="23" data=""/>
-<maze201_part1 id="24" originalRow="24"/>
-<maze201_part1 id="25" originalRow="25" groupSign=""/>
+<maze201_part1 id="23" originalRow="23"/>
+<maze201_part1 id="24" originalRow="24" data=""/>
+<maze201_part1 id="25" originalRow="25"/>
+<maze201_part1 id="26" originalRow="26" groupSign=""/>
 </root>

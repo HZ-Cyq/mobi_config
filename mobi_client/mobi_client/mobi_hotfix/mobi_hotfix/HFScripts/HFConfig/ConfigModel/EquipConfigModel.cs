@@ -14,4 +14,5 @@
     public System.Collections.Generic.List<int> random_attribute_num;//随机属性数值（当前版本固定）
     public System.Collections.Generic.List<int> random_attribute_weight;//随机属性获得权重(属性顺序；千分之几）
     public int provide_exp;//升级消耗提供经验值
+    public string icon;//装备图标
 }
