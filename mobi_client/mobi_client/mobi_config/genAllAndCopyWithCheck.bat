@@ -22,15 +22,18 @@ if not exist java mkdir java
 if not exist xml mkdir xml
 if not exist xml\AVGScripts mkdir xml\AVGScripts
 if not exist excel\AVGScripts mkdir excel\AVGScripts
+if not exist data mkdir data
 
 if exist xml\AVGScripts\*.xml del /q xml\AVGScripts\*.xml
 set Path=%JAVA_HOME%\bin
-java -jar parserconfig.jar strPackageName=%server_package_name% check=true
+java -jar parserconfig.jar check=true
 
 rd /s /Q .\excel_check\class
 md .\excel_check\class
 rd /s /Q .\excel_check\temporary
 md .\excel_check\temporary
+rd /s /Q .\data
+md .\data
 
 if exist %clientXmlPath%*.xml del /q %clientXmlPath%*.xml
 if exist %clientXmlPathAVG%*.xml del /q %clientXmlPathAVG%*.xml
@@ -84,9 +87,5 @@ for /f "delims=" %%i in ('dir /b/s/a-d %clientXmlPathAVG%\%suf%') do (
   ren "%%i" "!h!"%suf%
 )
 endlocal
-
-  cfgCheck:
-    isCheck: true
-    continueIfCheckFail: false
 
 pause
