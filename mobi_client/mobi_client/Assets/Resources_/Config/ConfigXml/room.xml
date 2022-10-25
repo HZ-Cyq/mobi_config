@@ -57,7 +57,7 @@
 <Room id="2003002" key_alias="装备-克雷研究中心内部" group_areaId="2003" openLv="1" name="内部" scene_name="maze_3" scene_bgm="" bgm_volumeLevel="" back_room="0" back_name=""/>
 <Room id="5001001" key_alias="箱庭-槐树里小区-门口" group_areaId="5001" openLv="1" name="" scene_name="XT_Huaishuli_menkou"/>
 <Room id="5001002" key_alias="箱庭-槐树里小区-走廊" group_areaId="5001" openLv="1" name="走廊" scene_name="XT_Huaishuli_zoulang" back_room="5001001"/>
-<Room id="5001003" key_alias="箱庭-槐树里小区-房间1（谷月家）" group_areaId="5001" openLv="99" name="谷月家" scene_name="XT_Huaishuli_fangjian1" back_room="5001002"/>
+<Room id="5001003" key_alias="箱庭-槐树里小区-房间-谷月家" group_areaId="5001" openLv="99" name="谷月家" scene_name="XT_Huaishuli_fangjian1" back_room="5001002"/>
 <Room id="5002001" key_alias="箱庭-康新嘉苑-门口" group_areaId="5002" openLv="1" name="" scene_name="XT_HuaishuliB_menkou"/>
 <Room id="5002002" key_alias="箱庭-康新嘉苑-走廊" group_areaId="5002" openLv="1" name="走廊" scene_name="XT_HuaishuliB_zoulang" back_room="5002001"/>
 <Room id="5002003" key_alias="箱庭-康新嘉苑-实验室" group_areaId="5002" openLv="99" name="隐秘的实验室" scene_name="XT_HuaishuliB_institute" back_room="5002002"/>

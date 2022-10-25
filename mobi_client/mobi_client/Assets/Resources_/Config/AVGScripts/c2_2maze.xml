@@ -111,7 +111,7 @@ $$先留下来==&gt;结束" param2="" param3=""/>
 <C2_2maze id="108" originalRow="108" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
 <C2_2maze id="109" originalRow="109" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C2_2maze id="110" originalRow="110" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<C2_2maze id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌惊讶表情}看！尽头有个小房间！{播放音效,avg_sding}" param2="" param3="type=0"/>
+<C2_2maze id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌惊讶表情}看！尽头有个小房间！{播放音效,avg_Sding}" param2="" param3="type=0"/>
 <C2_2maze id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="" param="走廊的尽头是一扇积满灰尘的木门。似乎轻轻一碰它便会腐朽碎裂。" param2="" param3="type=1"/>
 <C2_2maze id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="wo" param="那些异质物想要阻止我们来这里……" param2="" param3="type=0"/>
 <C2_2maze id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="tuling" param="看来这里就是『巢』反应的核心了？" param2="" param3="type=0"/>

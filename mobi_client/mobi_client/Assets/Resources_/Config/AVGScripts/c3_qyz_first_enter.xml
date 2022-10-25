@@ -26,7 +26,7 @@
 <C3_QYZ_first_enter id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="wo" param="不过我们首先要处理的是异质物吧，{0.5}我记得杜博士说这次有个黑科技，快展示一下吧。" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="23" originalRow="23" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_QYZ_first_enter id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3="TRUE;TRUE;FALSE"/>
-<C3_QYZ_first_enter id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="tuling" param="没错，{0.5}让我先使用&lt;color=#FFD306&gt;“相位侦测仪”&lt;/color&gt;吧。" param2="" param3="type=0"/>
+<C3_QYZ_first_enter id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="tuling" param="没错，{0.5}让我先使用&lt;z=highlight&gt;“相位侦测仪”&lt;/z&gt;吧。" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="wo" param="呃，“相位什么”?
 好像在哪里听说过……" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="27" originalRow="27" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>

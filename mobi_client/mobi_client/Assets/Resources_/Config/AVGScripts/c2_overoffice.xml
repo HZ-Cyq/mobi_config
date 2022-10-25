@@ -163,7 +163,7 @@
 <C2_overoffice id="161" originalRow="161" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_overoffice id="162" originalRow="162" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_overoffice id="163" originalRow="163" groupSign="土山入队" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_overoffice id="164" originalRow="164" groupSign="" debugClose="" action="特殊-转场效果" data="2" param="1" param2="" param3=""/>
+<C2_overoffice id="164" originalRow="164" groupSign="" debugClose="1" action="特殊-转场效果" data="2" param="1" param2="" param3=""/>
 <C2_overoffice id="165" originalRow="165" groupSign="" debugClose="" action="RPGActor" data="土山奥" param="3" param2="" param3=""/>
 <C2_overoffice id="166" originalRow="166" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C2_overoffice id="167" originalRow="167" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
@@ -173,10 +173,22 @@
 <C2_overoffice id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="" param="{#土山奥开心表情}她露出一个如释重负的微笑，将胸针丢进了旁边的垃圾桶。" param2="" param3="type=1"/>
 <C2_overoffice id="172" originalRow="172" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
 <C2_overoffice id="173" originalRow="173" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
-<C2_overoffice id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="tushanao" param="嗯，我愿意。{画面特效效果,Dark}" param2="" param3="type=0"/>
-<C2_overoffice id="175" originalRow="175" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C2_overoffice id="176" originalRow="176" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
-<C2_overoffice id="177" originalRow="177" groupSign="" debugClose="" action="跳转-标签" data="" param="C2_overdarkroom.开始" param2="" param3=""/>
-<C2_overoffice id="178" originalRow="178" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C2_overoffice id="179" originalRow="179" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_overoffice id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="tushanao" param="嗯，我愿意。" param2="" param3="type=0"/>
+<C2_overoffice id="175" originalRow="175" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<C2_overoffice id="176" originalRow="176" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<C2_overoffice id="177" originalRow="177" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<C2_overoffice id="178" originalRow="178" groupSign="" debugClose="" action="打开特效板" data="" param="role_background" param2="" param3=""/>
+<C2_overoffice id="179" originalRow="179" groupSign="0.3" debugClose="" action="角色移动" data="tushanao" param="7" param2="0.3" param3=""/>
+<C2_overoffice id="180" originalRow="180" groupSign="" debugClose="" action="系统-打开界面" data="ui_roleinfo/ui_role_add" param="15" param2="" param3=""/>
+<C2_overoffice id="181" originalRow="181" groupSign="0.3" debugClose="" action="角色移动" data="tushanao" param="0" param2="0.3" param3=""/>
+<C2_overoffice id="182" originalRow="182" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2="" param3=""/>
+<C2_overoffice id="183" originalRow="183" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<C2_overoffice id="184" originalRow="184" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<C2_overoffice id="185" originalRow="185" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<C2_overoffice id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;土山奥加入队伍！&lt;/z&gt;{画面特效效果,Dark}" param2="" param3="type=1"/>
+<C2_overoffice id="187" originalRow="187" groupSign="1" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<C2_overoffice id="188" originalRow="188" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
+<C2_overoffice id="189" originalRow="189" groupSign="" debugClose="" action="跳转-标签" data="" param="C2_overdarkroom.开始" param2="" param3=""/>
+<C2_overoffice id="190" originalRow="190" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_overoffice id="191" originalRow="191" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

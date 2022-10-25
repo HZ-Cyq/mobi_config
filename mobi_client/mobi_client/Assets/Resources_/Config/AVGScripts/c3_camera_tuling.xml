@@ -15,7 +15,7 @@ $$没有什么想问的了==&gt;没有什么想问的了" param2="" param3="type
 <C3_camera_tuling id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_camera_tuling id="11" originalRow="11" groupSign="关于照片的细节信息" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_camera_tuling id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
-<C3_camera_tuling id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="仔细看这张合影照片，这个背景似乎是&lt;z=yellow&gt;镜潮湖公园&lt;/z&gt;……{&amp;镜潮湖公园}" param2="" param3="type=0"/>
+<C3_camera_tuling id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="仔细看这张合影照片，这个背景似乎是&lt;z=highlight&gt;镜潮湖公园&lt;/z&gt;……{&amp;镜潮湖公园}" param2="" param3="type=0"/>
 <C3_camera_tuling id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="就是昨晚烟花大会的那个公园吗？" param2="" param3="type=0"/>
 <C3_camera_tuling id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="对，而且……{#涂凌惊讶表情}从这个办公室，果然能看到海边的镜潮湖公园！" param2="" param3="type=0"/>
 <C3_camera_tuling id="16" originalRow="16" groupSign="0.5" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
@@ -48,7 +48,7 @@ $$没有什么想问的了==&gt;没有什么想问的了" param2="" param3="type
 <C3_camera_tuling id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="tuling" param="尸体上没有挣扎、抓挠或打斗的痕迹，推测是心肺骤停导致死亡。" param2="" param3="type=0"/>
 <C3_camera_tuling id="44" originalRow="44" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_死者漆异之的报告=1" param="" param2="" param3=""/>
 <C3_camera_tuling id="45" originalRow="45" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="聂总_思考_动作_开始_01" param3=""/>
-<C3_camera_tuling id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,niefei,聂总_思考_动作_开始_01}{角色表情,niefei,聂总_紧张_上脸_开始_01;聂总_紧张_下嘴_开始_01;}看来&lt;color=#FFD306&gt;『过劳死』&lt;/color&gt;可以实锤了呀！" param2="" param3="type=0"/>
+<C3_camera_tuling id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,niefei,聂总_思考_动作_开始_01}{角色表情,niefei,聂总_紧张_上脸_开始_01;聂总_紧张_下嘴_开始_01;}看来&lt;z=highlight&gt;『过劳死』&lt;/z&gt;可以实锤了呀！" param2="" param3="type=0"/>
 <C3_camera_tuling id="47" originalRow="47" groupSign="" debugClose="" action="角色动作" data="niefei" param="聂总_严肃_动作_开始_01" param2="" param3=""/>
 <C3_camera_tuling id="48" originalRow="48" groupSign="2.4" debugClose="" action="角色表情" data="niefei" param="聂总_忧伤_上脸_开始_01;聂总_忧伤_下嘴_开始_01;" param2="" param3=""/>
 <C3_camera_tuling id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色表情,niefei,聂总_紧张_上脸_开始_01;聂总_待机_下嘴_开始_01;聂总_左看_眼睛_开始_01}不管了……{0.5}这次完事了一定要找杜衡批！假！期！" param2="" param3=""/>
@@ -86,7 +86,7 @@ $$没有什么想问的了==&gt;没有什么想问的了" param2="" param3="type
 <C3_camera_tuling id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="wo" param="直觉感觉这些事有着千丝万缕的联系……" param2="" param3="type=0"/>
 <C3_camera_tuling id="78" originalRow="78" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_camera_tuling id="79" originalRow="79" groupSign="" debugClose="" action="跳转-标签" data="" param="C3_jititaolun01.开始" param2="" param3=""/>
-<C3_camera_tuling id="80" originalRow="80" groupSign="" debugClose="1" action="角色台词" data="" param="&lt;color=#FFD306&gt;第一次集体讨论还在施工中。&lt;/color&gt;" param2="" param3="type=1"/>
+<C3_camera_tuling id="80" originalRow="80" groupSign="" debugClose="1" action="角色台词" data="" param="&lt;z=highlight&gt;第一次集体讨论还在施工中。&lt;/z&gt;" param2="" param3="type=1"/>
 <C3_camera_tuling id="81" originalRow="81" groupSign="" debugClose="1" action="跳转-标签" data="" param="C3_QYZ_camera.第一次集体讨论结束" param2="" param3=""/>
 <C3_camera_tuling id="82" originalRow="82" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_camera_tuling id="83" originalRow="83" groupSign="没有什么想问的了" debugClose="" action="" data="" param="" param2="" param3=""/>

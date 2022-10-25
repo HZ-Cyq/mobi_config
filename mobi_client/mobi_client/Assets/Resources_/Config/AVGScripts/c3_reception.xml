@@ -5,7 +5,7 @@
 <C3_reception id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;{s=0.09}2037年5月6日 23：39{0.5}\n顶石大厦前台&lt;/z&gt;" param2="" param3="type=1"/>
 <C3_reception id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_trapped}{播放音效,amb_dingshi}我、聂飞、凯瑟琳和涂凌到达了顶石大厦楼下。" param2="" param3="type=1"/>
 <C3_reception id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="" param="杜衡需要在站点处理工作，表示会跟土山奥远程参与行动。" param2="" param3="type=1"/>
-<C3_reception id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}&lt;color=#FFD306&gt;顶石科技&lt;/color&gt;……" param2="" param3=""/>
+<C3_reception id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}&lt;z=highlight&gt;顶石科技&lt;/z&gt;……" param2="" param3=""/>
 <C3_reception id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="我看着墙上激光雕刻的公司LOGO：{0.7}精致、{0.4}低调、{0.4}科技感满满，{0.6}与这家公司平日里给人的印象很像。" param2="" param3="type=1"/>
 <C3_reception id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
 <C3_reception id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}顶石20年前做工业软件起家，{0.5}赶上了国家新基建的浪潮，{0.8}战争期间迅速做大成为科技巨头。" param2="" param3=""/>

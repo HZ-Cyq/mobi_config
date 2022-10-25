@@ -1,44 +1,44 @@
 <root>
 <chat_kaiselin_0 id="0" originalRow="0" groupSign="稳定剂"/>
-<chat_kaiselin_0 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="一直想问，稳定剂是什么呢？"/>
-<chat_kaiselin_0 id="2" originalRow="2" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="你知道我们超感者是通过意识来控制异质物的吧？"/>
-<chat_kaiselin_0 id="3" originalRow="3" groupSign="" debugClose="" action="可选对话框" param="$$杜博士有讲过。==&gt;有说过"/>
+<chat_kaiselin_0 id="1" originalRow="1" debugClose="" action="角色台词" data="wo" param="一直想问，稳定剂是什么呢？"/>
+<chat_kaiselin_0 id="2" originalRow="2" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="你知道我们超感者是通过意识来控制异质物的吧？"/>
+<chat_kaiselin_0 id="3" originalRow="3" debugClose="" action="可选对话框" param="$$杜博士有讲过。==&gt;有说过"/>
 <chat_kaiselin_0 id="4" originalRow="4" groupSign="有说过" debugClose="" param=""/>
-<chat_kaiselin_0 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="杜博士有讲过。"/>
-<chat_kaiselin_0 id="6" originalRow="6" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="人类的精神力强度不够，所以需要特殊手段提高阈值。"/>
-<chat_kaiselin_0 id="7" originalRow="7" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="但即使是这样，也会在控制过程中牺牲一部分理性。"/>
-<chat_kaiselin_0 id="8" originalRow="8" groupSign="" debugClose="" action="可选对话框" param="$$原来如此==&gt;原来如此"/>
+<chat_kaiselin_0 id="5" originalRow="5" debugClose="" action="角色台词" data="wo" param="杜博士有讲过。"/>
+<chat_kaiselin_0 id="6" originalRow="6" groupSign="2.6&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="人类的精神力强度不够，所以需要特殊手段提高阈值。"/>
+<chat_kaiselin_0 id="7" originalRow="7" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="但即使是这样，也会在控制过程中牺牲一部分理性。"/>
+<chat_kaiselin_0 id="8" originalRow="8" debugClose="" action="可选对话框" param="$$原来如此==&gt;原来如此"/>
 <chat_kaiselin_0 id="9" originalRow="9" groupSign="原来如此" debugClose="" param=""/>
-<chat_kaiselin_0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="原来如此，所以每次战斗前都需要使用……"/>
-<chat_kaiselin_0 id="11" originalRow="11" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嗯，会大量消耗，而且副作用不少。"/>
-<chat_kaiselin_0 id="12" originalRow="12" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="之前我们一直在为产能头疼呢~"/>
-<chat_kaiselin_0 id="13" originalRow="13" groupSign="" debugClose="" action="可选对话框" param="$$现在问题解决了？==&gt;现在问题
+<chat_kaiselin_0 id="10" originalRow="10" debugClose="" action="角色台词" data="wo" param="原来如此，所以每次战斗前都需要使用……"/>
+<chat_kaiselin_0 id="11" originalRow="11" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嗯，会大量消耗，而且副作用不少。"/>
+<chat_kaiselin_0 id="12" originalRow="12" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="之前我们一直在为产能头疼呢~"/>
+<chat_kaiselin_0 id="13" originalRow="13" debugClose="" action="可选对话框" param="$$现在问题解决了？==&gt;现在问题
 $$好像还有别的作用？==&gt;好像还有"/>
 <chat_kaiselin_0 id="14" originalRow="14" groupSign="现在问题" debugClose="" param=""/>
-<chat_kaiselin_0 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="现在问题解决了？"/>
-<chat_kaiselin_0 id="16" originalRow="16" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我们现在只需要听从你的指令就好，当然不用依赖稳定剂了。"/>
-<chat_kaiselin_0 id="17" originalRow="17" groupSign="" debugClose="" action="可选对话框" param="$$啊哈哈，很高兴能帮到大家==&gt;高兴"/>
+<chat_kaiselin_0 id="15" originalRow="15" debugClose="" action="角色台词" data="wo" param="现在问题解决了？"/>
+<chat_kaiselin_0 id="16" originalRow="16" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我们现在只需要听从你的指令就好，当然不用依赖稳定剂了。"/>
+<chat_kaiselin_0 id="17" originalRow="17" debugClose="" action="可选对话框" param="$$啊哈哈，很高兴能帮到大家==&gt;高兴"/>
 <chat_kaiselin_0 id="18" originalRow="18" groupSign="高兴" debugClose="" param=""/>
-<chat_kaiselin_0 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="啊哈哈，很高兴能帮到大家。"/>
-<chat_kaiselin_0 id="20" originalRow="20" groupSign="" debugClose="" action="跳转-标签" param="分支结束"/>
-<chat_kaiselin_0 id="21" originalRow="21" groupSign="" debugClose="" param=""/>
+<chat_kaiselin_0 id="19" originalRow="19" debugClose="" action="角色台词" data="wo" param="啊哈哈，很高兴能帮到大家。"/>
+<chat_kaiselin_0 id="20" originalRow="20" debugClose="" action="跳转-标签" param="分支结束"/>
+<chat_kaiselin_0 id="21" originalRow="21" debugClose="" param=""/>
 <chat_kaiselin_0 id="22" originalRow="22" groupSign="好像还有" debugClose="" param=""/>
 <chat_kaiselin_0 id="23" originalRow="23" action="角色台词" data="wo" param="好像还有别的作用？"/>
-<chat_kaiselin_0 id="24" originalRow="24" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="你用探索装置一样也需要啊。"/>
+<chat_kaiselin_0 id="24" originalRow="24" groupSign="2&gt;&gt;" action="角色台词" data="kaiselin" param="你用探测装置一样也需要啊。"/>
 <chat_kaiselin_0 id="25" originalRow="25" groupSign="" debugClose="" action="可选对话框" data="" param="$$对哦==&gt;对"/>
 <chat_kaiselin_0 id="26" originalRow="26" groupSign="对"/>
 <chat_kaiselin_0 id="27" originalRow="27" action="角色台词" data="wo" param="对哦。"/>
-<chat_kaiselin_0 id="28" originalRow="28" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="你对这类药剂的耐受还真好呢。"/>
+<chat_kaiselin_0 id="28" originalRow="28" groupSign="2&gt;&gt;" action="角色台词" data="kaiselin" param="你对这类药剂的耐受还真好呢。"/>
 <chat_kaiselin_0 id="29" originalRow="29" action="跳转-标签" data="" param="分支结束"/>
 <chat_kaiselin_0 id="30" originalRow="30" action="" data=""/>
 <chat_kaiselin_0 id="31" originalRow="31" groupSign="分支结束" action="" data=""/>
-<chat_kaiselin_0 id="32" originalRow="32" groupSign="1.5&gt;&gt;" action="角色台词" data="kaiselin" param="所以，要不要……再顺便帮帮别的忙？"/>
-<chat_kaiselin_0 id="33" originalRow="33" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="比如……"/>
-<chat_kaiselin_0 id="34" originalRow="34" groupSign="" debugClose="" action="可选对话框" data="" param="$$算了！==&gt;算了"/>
+<chat_kaiselin_0 id="32" originalRow="32" groupSign="2.5&gt;&gt;" action="角色台词" data="kaiselin" param="所以，要不要……再顺便帮帮别的忙？"/>
+<chat_kaiselin_0 id="33" originalRow="33" groupSign="1.6&gt;&gt;" action="角色台词" data="kaiselin" param="比如……"/>
+<chat_kaiselin_0 id="34" originalRow="34" groupSign="" debugClose="" action="可选对话框" data="" param="$$啊我手机要没电了！==&gt;算了"/>
 <chat_kaiselin_0 id="35" originalRow="35" groupSign="算了"/>
 <chat_kaiselin_0 id="36" originalRow="36" action="角色台词" data="wo" param="啊我手机要没电了！"/>
-<chat_kaiselin_0 id="37" originalRow="37" action="角色台词" data="wo" param="我们下次再聊吧！"/>
-<chat_kaiselin_0 id="38" originalRow="38" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="哼~"/>
+<chat_kaiselin_0 id="37" originalRow="37" groupSign="1.6&gt;&gt;" action="角色台词" data="wo" param="我们下次再聊吧！"/>
+<chat_kaiselin_0 id="38" originalRow="38" groupSign="1.6&gt;&gt;" action="角色台词" data="kaiselin" param="哼~"/>
 <chat_kaiselin_0 id="39" originalRow="39"/>
 <chat_kaiselin_0 id="40" originalRow="40" groupSign="结束"/>
 </root>

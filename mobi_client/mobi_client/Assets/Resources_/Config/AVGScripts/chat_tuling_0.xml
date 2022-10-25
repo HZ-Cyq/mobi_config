@@ -1,11 +1,11 @@
 <root>
 <chat_tuling_0 id="0" originalRow="0" groupSign="询问工作" param=""/>
-<chat_tuling_0 id="1" originalRow="1" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="╭(╯^╰)╮……"/>
+<chat_tuling_0 id="1" originalRow="1" groupSign="1.6&gt;&gt;" action="角色台词" data="tuling" param="╭(╯^╰)╮……"/>
 <chat_tuling_0 id="2" originalRow="2" action="可选对话框" param="$$有事吗？==&gt;有事
 $$不开心吗？==&gt;不开心"/>
 <chat_tuling_0 id="3" originalRow="3" groupSign="有事" action="" data="" param=""/>
 <chat_tuling_0 id="4" originalRow="4" action="角色台词" data="wo" param="有事吗？"/>
-<chat_tuling_0 id="5" originalRow="5" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="你的资料我已经帮你录入完成了。"/>
+<chat_tuling_0 id="5" originalRow="5" groupSign="1.6&gt;&gt;" action="角色台词" data="tuling" param="你的资料我已经帮你录入完成了。"/>
 <chat_tuling_0 id="6" originalRow="6" action="" data="" param="专用笔记本信息部的同事会送到你宿舍。"/>
 <chat_tuling_0 id="7" originalRow="7" action="可选对话框" param="$$好，谢谢啊。==&gt;蟹蟹1"/>
 <chat_tuling_0 id="8" originalRow="8" groupSign="蟹蟹1" action="" data="" param=""/>
@@ -14,14 +14,14 @@ $$不开心吗？==&gt;不开心"/>
 <chat_tuling_0 id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_0 id="12" originalRow="12" groupSign="不开心" action="" data="" param=""/>
 <chat_tuling_0 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="不开心吗？" param2=""/>
-<chat_tuling_0 id="14" originalRow="14" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="很多活儿，很麻烦。" param2=""/>
+<chat_tuling_0 id="14" originalRow="14" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="很多活儿，很麻烦。" param2=""/>
 <chat_tuling_0 id="15" originalRow="15" groupSign="" debugClose="" action="可选对话框" data="" param="$$这样。==&gt;这样" param2=""/>
 <chat_tuling_0 id="16" originalRow="16" groupSign="这样" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_0 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="这样。" param2=""/>
-<chat_tuling_0 id="18" originalRow="18" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="都是关于你的！" param2=""/>
+<chat_tuling_0 id="18" originalRow="18" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="都是关于你的！" param2=""/>
 <chat_tuling_0 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="......" param2=""/>
-<chat_tuling_0 id="20" originalRow="20" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="你的资料我已经帮你录入完成了。" param2=""/>
-<chat_tuling_0 id="21" originalRow="21" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="专用笔记本信息部的同事会送到你宿舍。" param2=""/>
+<chat_tuling_0 id="20" originalRow="20" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="你的资料我已经帮你录入完成了。" param2=""/>
+<chat_tuling_0 id="21" originalRow="21" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="专用笔记本信息部的同事会送到你宿舍。" param2=""/>
 <chat_tuling_0 id="22" originalRow="22" action="可选对话框" param="$$好，谢谢啊。==&gt;蟹蟹2"/>
 <chat_tuling_0 id="23" originalRow="23" groupSign="蟹蟹2" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_0 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="好，谢谢啊。" param2=""/>
@@ -30,12 +30,12 @@ $$不开心吗？==&gt;不开心"/>
 <chat_tuling_0 id="27" originalRow="27" groupSign="" debugClose="" action="可选对话框" data="" param="$$你现在不怕我了吧。==&gt;不怕" param2=""/>
 <chat_tuling_0 id="28" originalRow="28" groupSign="不怕" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_0 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="wo" param="你现在不怕我了吧。" param2=""/>
-<chat_tuling_0 id="30" originalRow="30" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="凯瑟琳说，当你是一节人肉电池？" param2=""/>
-<chat_tuling_0 id="31" originalRow="31" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="这么看你，就不怕了。" param2=""/>
+<chat_tuling_0 id="30" originalRow="30" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="凯瑟琳说，当你是一节人肉电池？" param2=""/>
+<chat_tuling_0 id="31" originalRow="31" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="这么看你，就不怕了。" param2=""/>
 <chat_tuling_0 id="32" originalRow="32" groupSign="" debugClose="" action="可选对话框" data="" param="$$……她在跟你灌输什么鬼东西。==&gt;鬼" param2=""/>
 <chat_tuling_0 id="33" originalRow="33" groupSign="鬼" debugClose="" action="" data="" param="" param2=""/>
 <chat_tuling_0 id="34" originalRow="34" action="角色台词" data="wo" param="……她在跟你灌输什么鬼东西。"/>
-<chat_tuling_0 id="35" originalRow="35" groupSign="0.6&gt;&gt;" action="角色台词" data="tuling" param="(。-ω-)zzz记得充电，加油！"/>
+<chat_tuling_0 id="35" originalRow="35" groupSign="1.6&gt;&gt;" action="角色台词" data="tuling" param="(。-ω-)zzz记得充电，加油！"/>
 <chat_tuling_0 id="36" originalRow="36" debugClose="" action="" data=""/>
 <chat_tuling_0 id="37" originalRow="37" groupSign="结束" action="" data=""/>
 </root>

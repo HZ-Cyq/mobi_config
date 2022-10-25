@@ -5,24 +5,30 @@
 <Intro_C0_battle01 id="3" originalRow="3" debugClose="1" action="角色台词" data="" param="{music=low}" param2="" param3=""/>
 <Intro_C0_battle01 id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
 <Intro_C0_battle01 id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3="涂凌_紧张_动作_循环_01"/>
-<Intro_C0_battle01 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="确定为二级危险系数!" param2="" param3="type=0"/>
-<Intro_C0_battle01 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="调取&lt;z=yellow&gt;『1-198电桩少女』&lt;/z&gt;!" param2="" param3="type=0"/>
+<Intro_C0_battle01 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="确定为二级危险系数!" param2="" param3="name=鲨鱼服少女"/>
+<Intro_C0_battle01 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="调取&lt;z=yellow&gt;『1-198电桩少女』&lt;/z&gt;!" param2="" param3="name=鲨鱼服少女"/>
 <Intro_C0_battle01 id="8" originalRow="8" groupSign="" debugClose="" action="播放视频" data="c0_corridor_tulinggacha" param="FALSE" param2="" param3=""/>
 <Intro_C0_battle01 id="9" originalRow="9" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <Intro_C0_battle01 id="10" originalRow="10" groupSign="召唤电桩少女" debugClose="" param2="" param3=""/>
-<Intro_C0_battle01 id="11" originalRow="11" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
-<Intro_C0_battle01 id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3="涂凌_紧张_动作_循环_01"/>
-<Intro_C0_battle01 id="13" originalRow="13" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_待机_上脸_开始_01;涂凌_待机_下嘴_开始_01" param2="" param3="name=鲨鱼服少女"/>
-<Intro_C0_battle01 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="这个全身长满电源插头的女孩子……
+<Intro_C0_battle01 id="11" originalRow="11" groupSign="开始" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<Intro_C0_battle01 id="12" originalRow="12" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
+<Intro_C0_battle01 id="13" originalRow="13" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<Intro_C0_battle01 id="14" originalRow="14" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
+<Intro_C0_battle01 id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3="涂凌_紧张_动作_循环_01"/>
+<Intro_C0_battle01 id="16" originalRow="16" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_待机_上脸_开始_01;涂凌_待机_下嘴_开始_01" param2="" param3="name=鲨鱼服少女"/>
+<Intro_C0_battle01 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="这个全身长满电源插头的女孩子……
 也是异质物？？{#涂凌待机动作}
 " param2="" param3=""/>
-<Intro_C0_battle01 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="长得这么可爱，真的是对面那个电视机头的对手吗？？" param2="" param3=""/>
-<Intro_C0_battle01 id="16" originalRow="16" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_紧张_上脸_开始_01;涂凌_紧张_下嘴_开始_01" param2=""/>
-<Intro_C0_battle01 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="连接（滋滋——）……{0.2}{#涂凌惊讶动作}需要（滋—）……身体的连接（滋滋—）……需要身体的能量（滋）……" param2="" param3="name=电桩少女"/>
-<Intro_C0_battle01 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="糟糕!
+<Intro_C0_battle01 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="长得这么可爱，真的是对面那个电视机头的对手吗？？" param2="" param3=""/>
+<Intro_C0_battle01 id="19" originalRow="19" groupSign="" debugClose="" action="角色表情" data="tuling" param="涂凌_紧张_上脸_开始_01;涂凌_紧张_下嘴_开始_01" param2=""/>
+<Intro_C0_battle01 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="tuling" param="连接（滋滋——）……{0.2}{#涂凌惊讶动作}需要（滋—）……身体的连接（滋滋—）……需要身体的能量（滋）……" param2="" param3="name=电桩少女"/>
+<Intro_C0_battle01 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="tuling" param="糟糕!
 刚才弄丢了『稳定剂』……" param2="" param3="name=鲨鱼服少女"/>
-<Intro_C0_battle01 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="得尽快结束战斗!" param2="" param3="name=鲨鱼服少女"/>
-<Intro_C0_battle01 id="20" originalRow="20" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
-<Intro_C0_battle01 id="21" originalRow="21" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<Intro_C0_battle01 id="22" originalRow="22" groupSign="结束" debugClose="" action="" data="" param=""/>
+<Intro_C0_battle01 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="tuling" param="得尽快结束战斗!" param2="" param3="name=鲨鱼服少女"/>
+<Intro_C0_battle01 id="23" originalRow="23" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<Intro_C0_battle01 id="24" originalRow="24" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_C0_battle01 id="25" originalRow="25" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_C0_battle01 id="26" originalRow="26" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_C0_battle01 id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<Intro_C0_battle01 id="28" originalRow="28" groupSign="结束" debugClose="" action="" data="" param=""/>
 </root>

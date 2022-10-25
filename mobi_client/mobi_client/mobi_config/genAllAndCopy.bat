@@ -24,6 +24,10 @@ if not exist xml\AVGScripts mkdir xml\AVGScripts
 if not exist excel\AVGScripts mkdir excel\AVGScripts
 
 if exist xml\AVGScripts\*.xml del /q xml\AVGScripts\*.xml
+
+if exist xml\clientXml rd /s /Q xml\clientXml
+md xml\clientXml
+
 java -jar parserconfig.jar %server_package_name%
 
 if exist %clientXmlPath%*.xml del /q %clientXmlPath%*.xml
@@ -41,7 +45,7 @@ if exist %serverConfigManagerPath% copy ConfigManager.java %serverConfigManagerP
 if exist %serverXmlPath% copy xml\*.xml %serverXmlPath% >nul
 if exist xml\cdkeytemp.xml del xml\cdkeytemp.xml
 rem if exist %clientCSPath% copy csharp\*.* %clientCSPath% >nul
-if exist %clientXmlPath% copy xml\*.* %clientXmlPath% >nul
+if exist %clientXmlPath% copy xml\clientXml\*.* %clientXmlPath% >nul
 if exist %clientXmlPathAVG% copy xml\AVGScripts\*.* %clientXmlPathAVG% >nul
 
 java -jar configtools\ConfigToolsJava.jar
@@ -57,6 +61,7 @@ del /q java\*.java
 del /q csharp\*.cs
 del /q xml\*.xml
 del /q xml\AVGScripts\*.xml
+if exist xml\clientXml\*.xml del /q xml\clientXml\*.xml
 del /q ConfigManager.java
 del /q csharp\MainCSharp\*.cs
 del /q csharp\HFCSharp\*.cs

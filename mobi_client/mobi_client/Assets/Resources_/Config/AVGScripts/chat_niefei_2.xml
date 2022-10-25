@@ -1,25 +1,25 @@
 <root>
 <chat_niefei_2 id="0" originalRow="0" groupSign="顶石事件的看法" debugClose="" action="" data="" param="" param2=""/>
 <chat_niefei_2 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="顶石的事情，聂总有什么想法吗？" param2=""/>
-<chat_niefei_2 id="2" originalRow="2" groupSign="0.6&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="哼哼，我马上就要发现真相了！" param2=""/>
+<chat_niefei_2 id="2" originalRow="2" groupSign="2.6&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="哼哼，我马上就要发现真相了！" param2=""/>
 <chat_niefei_2 id="3" originalRow="3" groupSign="" debugClose="" action="可选对话框" data="" param="$$那个异质物你怎么看？==&gt;异质物
 $$我们接下来该做什么？？==&gt;做什么" param2=""/>
 <chat_niefei_2 id="4" originalRow="4" groupSign="异质物" debugClose="" param="" param2=""/>
 <chat_niefei_2 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="那个异质物你怎么看？" param2=""/>
-<chat_niefei_2 id="6" originalRow="6" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="异质物肯定是头号嫌疑犯！" param2=""/>
+<chat_niefei_2 id="6" originalRow="6" groupSign="2.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="异质物肯定是头号嫌疑犯！" param2=""/>
 <chat_niefei_2 id="7" originalRow="7" action="跳转-标签" param="分支结束"/>
 <chat_niefei_2 id="8" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <chat_niefei_2 id="9" originalRow="9" groupSign="做什么" debugClose="" action="" data="" param="" param2=""/>
 <chat_niefei_2 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="我们接下来该做什么？" param2=""/>
-<chat_niefei_2 id="11" originalRow="11" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="我已经让外联部发通缉了。" param2=""/>
-<chat_niefei_2 id="12" originalRow="12" groupSign="1&gt;&gt;" action="角色台词" data="niefei" param="只要它再出现，我们就会接到举报。" param2=""/>
+<chat_niefei_2 id="11" originalRow="11" groupSign="2.5&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="我已经让外联部发通缉了。" param2=""/>
+<chat_niefei_2 id="12" originalRow="12" groupSign="3&gt;&gt;" action="角色台词" data="niefei" param="只要它再出现，我们就会接到举报。" param2=""/>
 <chat_niefei_2 id="13" originalRow="13" action="可选对话框" param="$$聂总行动力好强！==&gt;行动力好强"/>
 <chat_niefei_2 id="14" originalRow="14" groupSign="行动力好强"/>
 <chat_niefei_2 id="15" originalRow="15" action="角色台词" data="wo" param="聂总行动力好强！"/>
 <chat_niefei_2 id="16" originalRow="16"/>
 <chat_niefei_2 id="17" originalRow="17" groupSign="分支结束"/>
-<chat_niefei_2 id="18" originalRow="18" groupSign="1.5&gt;&gt;" action="角色台词" data="niefei" param="等我整理好思路。"/>
-<chat_niefei_2 id="19" originalRow="19" groupSign="1&gt;&gt;" action="角色台词" data="niefei" param="真相马上揭晓！"/>
+<chat_niefei_2 id="18" originalRow="18" groupSign="2.5&gt;&gt;" action="角色台词" data="niefei" param="等我整理好思路。"/>
+<chat_niefei_2 id="19" originalRow="19" groupSign="2.2&gt;&gt;" action="角色台词" data="niefei" param="真相马上揭晓！"/>
 <chat_niefei_2 id="20" originalRow="20" action="可选对话框" param="$$啊哈哈哈太期待了！==&gt;期待"/>
 <chat_niefei_2 id="21" originalRow="21" groupSign="期待"/>
 <chat_niefei_2 id="22" originalRow="22" action="角色台词" data="wo" param="啊哈哈哈太期待了！"/>

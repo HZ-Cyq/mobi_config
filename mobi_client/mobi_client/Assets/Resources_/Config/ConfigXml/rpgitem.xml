@@ -84,7 +84,7 @@
 STS特遣队在调查后，锁定了404所在的位置，将其控制，收容。
 目前已知，404拥有可以影响他人心智的能力。
 并且会在固定时间段播放一段古怪的舞蹈视频，播放时，404会形成一个特殊的电场。
-在一定范围内，可以影响附近任何生物的脑电波，使其做出和视频内人物相同的动作。" clueType="4"/>
+在一定范围内，可以影响附近任何生物的脑电波，使其做出和视频内人物相同的动作。" hide="1" clueType="4"/>
 <RPGItem id="1102" key_alias="序章_凯瑟琳日记本" name="凯瑟琳日记本" group_quest="1" desc="日记本上记录了今天发生的事情，提到了医务室的密码。" icon="ui_rpgcluepackage/prologue/C0_101002" thumb="avg/avgImages/C0_KaiselinNote" type="0" clues="X月X日 天气：阴
 医务室的六位密码每天都要重置一次，
 安保条例真是没事找事……
@@ -102,7 +102,7 @@ PS:今天有新的“实验体”加入了，好期待解剖他的感觉。" clu
 AB两名死者肉体发生半金属化，头部转化为类电视的电器模样，而死者C虽然也有相同变化，但是正在发生逆向转换。
 死因：因为缺氧导致呼吸中枢急速衰竭，多见于空气急速失压。
 建议：将死者C移动到医疗室进行进一步观察。" clueType="4"/>
-<RPGItem id="1107" key_alias="序章_诡异的影像" name="诡异的影像" group_quest="1" desc="脑中残留的一段歌舞影像，诡异的电视头舞者和不明所以的歌词，中间闪现了飞机机舱内的画面，夹杂着剧烈的晃动和尖叫声。" icon="ui_rpgcluepackage/prologue/C0_101007" thumb="avg/avgImages/C0_dance_01" type="0" clues="" clueType="0"/>
+<RPGItem id="1107" key_alias="序章_诡异的影像" name="诡异的影像" group_quest="1" desc="脑中残留的一段歌舞影像，诡异的电视头舞者和不明所以的歌词，中间闪现了飞机机舱内的画面，夹杂着剧烈的晃动和尖叫声。" icon="ui_rpgcluepackage/prologue/C0_101007" thumb="avg/avgImages/C0_dance_01" type="0" clues="" hide="1" clueType="0"/>
 <RPGItem id="1108" key_alias="序章_身份卡片" name="某个人的身份卡片" group_quest="1" desc="卡片上带有某人的照片和姓名。" icon="ui_rpgcluepackage/invalid" thumb="avg/avgImages/default" type="0" clues="卡片上带有某人的照片和姓名。"/>
 <RPGItem id="1109" key_alias="序章_三瓶药剂" name="三瓶药剂" group_quest="1" desc="三瓶药剂，里面药剂的颜色分别是红，黄，蓝，红色的是吗啡，黄色的是肾上腺素，蓝色的是胺碘酮。" icon="ui_rpgcluepackage/prologue/C0_101009" thumb="avg/avgImages/C0_sanzhiyaoji" type="0" clues="" hide="0" hideTips="0" Updataid="0" isUpdata="0" clueType="0" texture="" evidence=""/>
 <RPGItem id="1110" key_alias="序章_尸检报告" name="刚才砸到我的文件夹" group_quest="1" desc="一份尸检报告，记载了一些奇怪的现象，描述了某人的死亡过程。" icon="ui_rpgcluepackage/prologue/C0_101010" thumb="avg/avgImages/C0_MedicalRecord" type="0" clues="尸检报告：三名死者均为男性，死者A与死者B已经完全丧失生命体征，唯有死者C保持肉体活性，并且可观察到肉体发生明显变化。
@@ -154,7 +154,7 @@ AB两名死者肉体发生半金属化，头部转化为类电视的电器模样
 【收容过程】19:20到达公寓楼，通过仪器确认异质物出现的房间404。房间中有一位老年女性倒在椅子上无意识，已送医院救治。按程序于21:25收容异质物，传送至异界回廊，期间没有遭遇明显抵抗。
 【照片】异质物蹲坐在电视柜上，对面椅子躺着老人（可放大查看）
 " clueType="1" texture="avg/avgImages/C1_404HomeSnap"/>
-<RPGItem id="11103" key_alias="第一章_老人孙女合影" name="老人和孙女的合影" group_quest="11" desc="老人和少女的合影，看起来是在庆祝老人70岁的生日。黑发黑瞳的少女穿着白色衬衫，衬衫上面有一个很熟悉的标志。" icon="ui_rpgcluepackage/prologue/C1_1101003" thumb="avg/avgImages/C1_GrandmaPhoto" type="0" clueType="1" texture="avg/avgImages/C1_GrandmaPhoto"/>
+<RPGItem id="11103" key_alias="第一章_老人孙女合影" name="老人和孙女的合影" group_quest="11" desc="老人和少女的合影，看起来是在庆祝老人70岁的生日。黑发黑瞳的少女穿着白色衬衫，照片中有个熟悉的标志。" icon="ui_rpgcluepackage/prologue/C1_1101003" thumb="avg/avgImages/C1_GrandmaPhoto" type="0" clueType="1" texture="avg/avgImages/C1_GrandmaPhoto"/>
 <RPGItem id="11105" key_alias="第一章_空难的剪报" name="空难的剪报" group_quest="11" desc="有关流星航空990号空难的剪报。" icon="ui_rpgcluepackage/prologue/C1_1101005" thumb="avg/avgImages/C1_Report" type="0" clues="2018年9月29日，流星航空990号航班起飞一小时后于南海坠毁沉没，推测机上84人无一生还……
 那是一架宽体客机，但由于是凌晨航班，当时机上乘客并不多。
 搜救队忙活了几个月，只带回一些飞机解体后飘在海上的残片 ，连黑匣子都没找到……" clueType="4" texture="" getType="11106"/>
@@ -185,7 +185,7 @@ AB两名死者肉体发生半金属化，头部转化为类电视的电器模样
 欢迎来到游乐园，坐稳系好安全带~♪
 关掉暧昧信号源，别的美女都走开~♪
 脸红心跳又缺氧，我在这里等你来~♪
-接着闪现了飞机机舱内的画面，夹杂着剧烈的晃动和尖叫声。" Updataid="11121" isUpdata="1" clueType="4"/>
+接着闪现了飞机机舱内的画面，夹杂着剧烈的晃动和尖叫声。" clueType="4"/>
 <RPGItem id="11117" key_alias="第一章_诡异的影像2" name="诡异的影像" group_quest="11" desc="原来这是异质物3-404散播的MV影像。那三段歌词，还有飞机失事画面到底有什么含义呢？" icon="ui_rpgcluepackage/prologue/C0_101007" thumb="avg/avgImages/C0_dance_01" type="0" clues="异质物3-404散播的MV影像，电视头舞者就是3-404，歌词只看到三段：
 欢迎来到游乐园，坐稳系好安全带~♪
 关掉暧昧信号源，别的美女都走开~♪
@@ -260,7 +260,7 @@ AB两名死者肉体发生半金属化，头部转化为类电视的电器模样
 <RPGItem id="21108" key_alias="第二章_空气探测器线索" name="房顶的空气探测器" group_quest="21" desc="在财前房间顶部，平常很难注意到的镶金空气探测器，是近几周最新出厂的最高级型号。" icon="ui_rpgcluepackage/C2/C2_21108" thumb="ui_rpgcluepackage/C2/C2_21108" type="0" clues="在财前房间顶部的空气探测器，是近三个月出厂的最新型号。" clueType="0"/>
 <RPGItem id="21109" key_alias="第二章_心灵遮断合金" name="心灵遮断合金" group_quest="21" desc="散发着淡蓝色光芒的神秘合金，可以屏蔽异质物的影响。" icon="ui_rpgcluepackage/C2/C2_21109" thumb="avg/avgImages/C2_HertMetal" type="0" clues="散发着淡蓝色光芒的神秘合金，可以屏蔽异质物的影响。" clueType="0"/>
 <RPGItem id="21110" key_alias="第二章_番伞堂纪念照" name="番伞堂十周年合影" group_quest="21" desc="番伞堂十周年的纪念照片，上面是8个孩子和财前的合照。其中三个孩子戴着奇特的胸针。" icon="ui_rpgcluepackage/C2/C2_21110" thumb="avg/avgImages/C2_caiqianpohto" type="0" clues="番伞堂十周年的纪念照片，上面是8个孩子和财前的合照。" clueType="1" texture="avg/avgImages/C2_caiqianpohto"/>
-<RPGItem id="21111" key_alias="第二章_阿斯塔特晶体" name="阿斯塔特晶体" group_quest="21" desc="未定级异质物，两周前从联合议会的收容点遗失，调查署怀疑是内部人员所为。目标在沉默状态下为一主一从两块等大的晶体，在不同人手中能瞬间变为不同的材质和形态。" icon="ui_rpgcluepackage/C2/C2_21111" thumb="avg/avgImages/C2_crystal" type="0" clues="『阿斯塔特晶体』，未定级异质物，两周前从联合议会的收容点遗失，调查署怀疑是内部人员所为。
+<RPGItem id="21111" key_alias="第二章_阿斯塔特晶体" name="阿斯塔特晶体" group_quest="21" desc="未定级异质物，两周前从联合议会遗失。目标在沉默状态下为一主一从两块等大的晶体，在不同人手中能瞬间变为不同的材质和形态。" icon="ui_rpgcluepackage/C2/C2_21111" thumb="avg/avgImages/C2_crystal" type="0" clues="『阿斯塔特晶体』，未定级异质物，两周前从联合议会的收容点遗失，调查署怀疑是内部人员所为。
 
 目标在沉默状态下为一主一从两块等大的晶体，在不同人手中能瞬间变为不同的材质和形态。
 

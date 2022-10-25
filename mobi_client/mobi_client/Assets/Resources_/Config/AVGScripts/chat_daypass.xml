@@ -5,22 +5,22 @@
 <chat_daypass id="3" originalRow="3" groupSign="忙" debugClose="" param=""/>
 <chat_daypass id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="呃，忙了点别的事。"/>
 <chat_daypass id="5" originalRow="5" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="考勤有问题？我用了调休的……"/>
-<chat_daypass id="6" originalRow="6" groupSign="1.8&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="你是队长，不用算考勤好吧！"/>
-<chat_daypass id="7" originalRow="7" groupSign="" debugClose="" action="可选对话框" data="" param="$$原来是这样。==&gt;原来"/>
-<chat_daypass id="8" originalRow="8" groupSign="原来" debugClose="" action="" param=""/>
+<chat_daypass id="6" originalRow="6" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="你是队长，不用算考勤好吧！"/>
+<chat_daypass id="7" originalRow="7" groupSign="" debugClose="" action="可选对话框" param="$$原来是这样。==&gt;原来"/>
+<chat_daypass id="8" originalRow="8" groupSign="原来" debugClose="" param=""/>
 <chat_daypass id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="原来是这样。"/>
-<chat_daypass id="10" originalRow="10" groupSign="1.8&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="不工作也不来找我们么！"/>
+<chat_daypass id="10" originalRow="10" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="不工作也不来找我们么！"/>
 <chat_daypass id="11" originalRow="11" groupSign="" debugClose="" action="可选对话框" param="$$原来是聂总想我了啊==&gt;原来是"/>
 <chat_daypass id="12" originalRow="12" groupSign="原来是" debugClose="" param=""/>
 <chat_daypass id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="wo" param="哈哈哈，原来是聂总想我了啊。"/>
 <chat_daypass id="14" originalRow="14" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="直说嘛，回头给你买猫条。"/>
-<chat_daypass id="15" originalRow="15" groupSign="1.8&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="咳咳咳！肉麻死了！什么想不想的！"/>
-<chat_daypass id="16" originalRow="16" groupSign="1.8&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="本大爷只是想督促你的训练进度！"/>
-<chat_daypass id="17" originalRow="17" groupSign="1.8&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="就算没有工作也不能犯懒！知道吗？"/>
+<chat_daypass id="15" originalRow="15" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="咳咳咳！肉麻死了！什么想不想的！"/>
+<chat_daypass id="16" originalRow="16" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="本大爷只是想督促你的训练进度！"/>
+<chat_daypass id="17" originalRow="17" groupSign="3&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="就算没有工作也不能犯懒！知道吗？"/>
 <chat_daypass id="18" originalRow="18" groupSign="" debugClose="" action="可选对话框" param="$$好好好，我记得呢==&gt;好好好"/>
 <chat_daypass id="19" originalRow="19" groupSign="好好好" debugClose="" param=""/>
 <chat_daypass id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="好好好，我记着呢。"/>
-<chat_daypass id="21" originalRow="21" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="我去忙了！"/>
+<chat_daypass id="21" originalRow="21" groupSign="2.6&gt;&gt;" debugClose="" action="角色台词" data="niefei" param="我去忙了！"/>
 <chat_daypass id="22" originalRow="22" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="wo" param="聂总拜拜。"/>
 <chat_daypass id="23" originalRow="23" groupSign="结束" debugClose="" param=""/>
 </root>

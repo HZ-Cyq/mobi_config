@@ -729,15 +729,6 @@
 <SkillTimeline id="1180202" group_skill="11802" stage="1" start="36" type="hit" param1="0" param2="True"/>
 <SkillTimeline id="1180205" group_skill="11802" stage="1" start="36" type="hitFx" param1="shiyou/Char_118/Char_118_Skill02_Hit_01" param2="Root" param3="True" param4="-1" param5="False" param6="False"/>
 <SkillTimeline id="1180209" group_skill="11802" stage="1" start="37" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
-<SkillTimeline id="1040301" group_skill="10403" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.333333" param10="0" param11="0" param12="0" param13="0"/>
-<SkillTimeline id="1040305" group_skill="10403" stage="1" start="0" type="ultraSkillEffect" param1="5" param2="shiyou/Char_skill03/Char_104_Skill3_Cam" param3="5" param4="0"/>
-<SkillTimeline id="1040307" group_skill="10403" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1040309" group_skill="10403" stage="1" start="0" type="audio" param1="" param2="Char_104_skill03_start" param3="1"/>
-<SkillTimeline id="1040306" group_skill="10403" stage="1" start="1" type="specialSkillEffect" param1="3.033333" param2="0.1" param3="0.3"/>
-<SkillTimeline id="1040302" group_skill="10403" stage="1" start="1" type="audio" param1="" param2="char_104_skill03" param3="0"/>
-<SkillTimeline id="1040303" group_skill="10403" stage="1" start="1" type="fx" param1="H_ShiMBD/H_ShiMBD_Skill3_QY_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="3" param7="False" param8="False"/>
-<SkillTimeline id="1040304" group_skill="10403" stage="1" start="1" type="fx" param1="H_ShiMBD/H_ShiMBD_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="3" param7="False" param8="False"/>
-<SkillTimeline id="1040308" group_skill="10403" stage="1" start="90" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
 <SkillTimeline id="1180301" group_skill="11803" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="1" param8="0" param9="5.133334" param10="0.16" param11="0" param12="7" param13="8"/>
 <SkillTimeline id="1180312" group_skill="11803" stage="1" start="0" type="cameraShake" param1="96" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
 <SkillTimeline id="1180309" group_skill="11803" stage="0" start="0" type="audio" param1="" param2="char_118_skill03" param3="0"/>
@@ -868,16 +859,6 @@
 <SkillTimeline id="1091311" group_skill="10913" stage="1" start="105" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="1091314" group_skill="10913" stage="1" start="105" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
 <SkillTimeline id="1091316" group_skill="10913" stage="1" start="135" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1050301" group_skill="10503" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.73333" param10="0" param11="0" param12="0" param13="0"/>
-<SkillTimeline id="1050310" group_skill="10503" stage="1" start="0" type="specialSkillEffect" param1="2.366667" param2="0.1" param3="0.3"/>
-<SkillTimeline id="1050302" group_skill="10503" stage="1" start="1" type="ultraSkillEffect" param1="4.333333" param2="shiyou/Char_skill03/Char_105_Skill3_Cam" param3="4.333333" param4="0"/>
-<SkillTimeline id="1050303" group_skill="10503" stage="1" start="1" type="audio" param1="" param2="char_105_skill03_start" param3="1"/>
-<SkillTimeline id="1050308" group_skill="10503" stage="1" start="1" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1050304" group_skill="10503" stage="1" start="4" type="audio" param1="" param2="char_105_skill03" param3="0"/>
-<SkillTimeline id="1050305" group_skill="10503" stage="1" start="10" type="fx" param1="shiyou/Char_105/Char_105_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1050307" group_skill="10503" stage="1" start="10" type="fx" param1="shiyou/Char_105/Char_105_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1050309" group_skill="10503" stage="1" start="60" type="cameraMove" param1="None" param2="WorldCenter" param3="0.4" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1050306" group_skill="10503" stage="1" start="68" type="fx" param1="shiyou/Char_105/Char_105_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="12070101" group_skill="120701" stage="1" start="0" type="base" param1="200" param2="0.367" param3="ChaseMoveTarget" param4="0.2" param5="0" param6="Jump" param7="0.367" param8="0.75" param9="0.467" param10="0.1" param11="0" param12="1" param13="3"/>
 <SkillTimeline id="12070104" group_skill="120701" stage="1" start="0" type="hitFx" param1="M_STSABRY/M_STSABRY_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
 <SkillTimeline id="12070106" group_skill="120701" stage="1" start="0" type="fx" param1="M_STSABRY/M_STSABRY_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
@@ -893,14 +874,6 @@
 <SkillTimeline id="12060305" group_skill="120603" stage="1" start="50" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="12060306" group_skill="120603" stage="1" start="60" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="12060307" group_skill="120603" stage="1" start="70" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="12060201" group_skill="120602" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.4" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="12060203" group_skill="120602" stage="1" start="10" type="audio" param1="Audio_STS_skill02" param2="" param3="0"/>
-<SkillTimeline id="12060202" group_skill="120602" stage="1" start="34" type="fx" param1="M_STSKYRY/M_STSKYRY_Skill2_SF_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="12060101" group_skill="120601" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.733333" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="12060105" group_skill="120601" stage="1" start="0" type="audio" param1="Audio_STS_skill01" param2="" param3="0"/>
-<SkillTimeline id="12060104" group_skill="120601" stage="1" start="20" type="bullet" param1="M_STSKYRY/M_STSKYRY_Skill1_Fly_01" param2="Straight" param3="0.4" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="M_STSKYRY/M_STSKYRY_Skill1_Hit_01" param8="0|0|0"/>
-<SkillTimeline id="12060106" group_skill="120601" stage="1" start="20" type="fx" param1="M_STSKYRY/M_STSKYRY_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="12060102" group_skill="120601" stage="1" start="35" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="1210101" group_skill="12101" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.333333" param10="0" param11="0" param12="1" param13="0"/>
 <SkillTimeline id="1210107" group_skill="12101" stage="1" start="25" type="audio" param1="" param2="char_121_skill01" param3="0"/>
 <SkillTimeline id="1210103" group_skill="12101" stage="1" start="25" type="fx" param1="shiyou/Char_121/Char_121_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
@@ -950,17 +923,6 @@
 <SkillTimeline id="1020310" group_skill="10203" stage="1" start="52" type="fx" param1="shiyou/Char_102/Char_102_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="1020311" group_skill="10203" stage="1" start="80" type="fx" param1="shiyou/Char_102/Char_102_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="1020313" group_skill="10203" stage="1" start="81" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1080301" group_skill="10803" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0.25" param6="Jump" param7="0.583" param8="1.5" param9="3.666667" param10="0.3" param11="0" param12="7" param13="8"/>
-<SkillTimeline id="1080310" group_skill="10803" stage="1" start="0" type="audio" param1="" param2="char_108_skill03_01" param3="0"/>
-<SkillTimeline id="1080308" group_skill="10803" stage="1" start="10" type="sprint" param1="26" param2="Enemy"/>
-<SkillTimeline id="1080303" group_skill="10803" stage="1" start="25" type="fx" param1="shiyou/Char_108/Char_108_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1080311" group_skill="10803" stage="1" start="26" type="audio" param1="" param2="Char_108_skill03_start" param3="1"/>
-<SkillTimeline id="1080307" group_skill="10803" stage="1" start="26" type="ultraSkillEffect" param1="5.016667" param2="shiyou/Char_skill03/Char_108_Skill3_Cam" param3="5.016667" param4="0"/>
-<SkillTimeline id="1080312" group_skill="10803" stage="1" start="27" type="audio" param1="" param2="char_108_skill03_02" param3="0"/>
-<SkillTimeline id="1080305" group_skill="10803" stage="1" start="55" type="fx" param1="shiyou/Char_108/Char_108_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1080302" group_skill="10803" stage="1" start="60" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1080304" group_skill="10803" stage="1" start="60" type="hitFx" param1="shiyou/Char_108/Char_108_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1080309" group_skill="10803" stage="1" start="61" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
 <SkillTimeline id="1090301" group_skill="10903" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="4.9" param10="0" param11="0" param12="1" param13="0"/>
 <SkillTimeline id="1090310" group_skill="10903" stage="1" start="0" type="fx" param1="shiyou/Char_109/Char_109_Skill3_SF_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="1090315" group_skill="10903" stage="1" start="0" type="specialSkillEffect" param1="4.6" param2="0.1" param3="0.3"/>
@@ -995,18 +957,6 @@
 <SkillTimeline id="1160309" group_skill="11603" stage="1" start="51" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
 <SkillTimeline id="1160302" group_skill="11603" stage="1" start="74" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="1160307" group_skill="11603" stage="1" start="75" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
-<SkillTimeline id="1210301" group_skill="12103" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.666667" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1210302" group_skill="12103" stage="1" start="0" type="fx" param1="shiyou/Char_121/Char_121_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1210307" group_skill="12103" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1210305" group_skill="12103" stage="1" start="0" type="audio" param1="" param2="char_121_skill03_01" param3="0"/>
-<SkillTimeline id="1210310" group_skill="12103" stage="1" start="1" type="specialSkillEffect" param1="2.366667" param2="0.1" param3="0.3"/>
-<SkillTimeline id="1210306" group_skill="12103" stage="1" start="15" type="ultraSkillEffect" param1="5" param2="shiyou/Char_skill03/Char_121_Skill3_Cam" param3="5" param4="0"/>
-<SkillTimeline id="1210311" group_skill="12103" stage="1" start="15" type="audio" param1="" param2="Char_121_skill03_start" param3="1"/>
-<SkillTimeline id="1210312" group_skill="12103" stage="1" start="16" type="audio" param1="" param2="char_121_skill03_02" param3="0"/>
-<SkillTimeline id="1210308" group_skill="12103" stage="1" start="22" type="cameraMove" param1="Close" param2="AlliesCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1210303" group_skill="12103" stage="1" start="52" type="hitFx" param1="shiyou/Char_121/Char_121_Skill3_SF_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1210304" group_skill="12103" stage="1" start="52" type="hit" param1="0" param2="False"/>
-<SkillTimeline id="1210309" group_skill="12103" stage="1" start="65" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
 <SkillTimeline id="1110301" group_skill="11103" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.333333" param10="0" param11="0" param12="0" param13="0"/>
 <SkillTimeline id="1110305" group_skill="11103" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
 <SkillTimeline id="1110307" group_skill="11103" stage="1" start="0" type="specialSkillEffect" param1="3.033333" param2="0.1" param3="0.3"/>
@@ -1034,26 +984,6 @@
 <SkillTimeline id="31030203" group_skill="310302" stage="1" start="16" type="fx" param1="shiyou/Mon_3103/Mon_3103_Skill2_SF" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="31030202" group_skill="310302" stage="1" start="21" type="hit" param1="442" param2="True"/>
 <SkillTimeline id="31030204" group_skill="310302" stage="1" start="21" type="hitFx" param1="shiyou/Mon_3103/Mon_3103_Skill2_Hit" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1060301" group_skill="10603" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0.1" param6="Jump" param7="0.767" param8="0" param9="1.966667" param10="0.3" param11="0" param12="7" param13="8"/>
-<SkillTimeline id="1060312" group_skill="10603" stage="1" start="0" type="fx" param1="shiyou/Char_106/Char_106_Skill3" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1060316" group_skill="10603" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1060319" group_skill="10603" stage="1" start="0" type="specialSkillEffect" param1="1.93" param2="0.1" param3="0.3"/>
-<SkillTimeline id="1060311" group_skill="10603" stage="1" start="0" type="audio" param1="" param2="char_106_skill03_01" param3="0"/>
-<SkillTimeline id="1060304" group_skill="10603" stage="1" start="5" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1060305" group_skill="10603" stage="1" start="8" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1060314" group_skill="10603" stage="1" start="23" type="ultraSkillEffect" param1="5" param2="shiyou/Char_skill03/Char_106_Skill3_Cam" param3="5" param4="0"/>
-<SkillTimeline id="1060320" group_skill="10603" stage="1" start="23" type="audio" param1="" param2="Char_106_skill03_start" param3="1"/>
-<SkillTimeline id="1060309" group_skill="10603" stage="1" start="22" type="hideCharacter" param1="0.08" param2="False"/>
-<SkillTimeline id="1060310" group_skill="10603" stage="1" start="22" type="sprint" param1="25" param2="WorldCenter"/>
-<SkillTimeline id="1060317" group_skill="10603" stage="1" start="25" type="cameraMove" param1="Close" param2="AttackCenter2" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1060306" group_skill="10603" stage="1" start="24" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1060307" group_skill="10603" stage="1" start="26" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_04" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1060321" group_skill="10603" stage="1" start="26" type="audio" param1="" param2="char_106_skill03_02" param3="0"/>
-<SkillTimeline id="1060313" group_skill="10603" stage="1" start="40" type="hitFx" param1="shiyou/Char_106/Char_106_Skill3_Hit" param2="EnemyCenter" param3="False" param4="1" param5="False" param6="False"/>
-<SkillTimeline id="1060302" group_skill="10603" stage="1" start="50" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1060308" group_skill="10603" stage="1" start="50" type="hitFx" param1="shiyou/Char_106/Char_106_Skill3_Hit_01" param2="EnemyCenter" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1060315" group_skill="10603" stage="1" start="54" type="cameraShake" param1="2" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
-<SkillTimeline id="1060318" group_skill="10603" stage="1" start="56" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
 <SkillTimeline id="1010101" group_skill="10101" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.5" param10="0" param11="0" param12="0" param13="0"/>
 <SkillTimeline id="1010106" group_skill="10101" stage="1" start="0" type="fx" param1="shiyou/Char_101/Char_101_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
 <SkillTimeline id="1010107" group_skill="10101" stage="1" start="0" type="audio" param1="" param2="char_101_skill01" param3="0"/>
@@ -1117,30 +1047,6 @@
 <SkillTimeline id="1011311" group_skill="10113" stage="1" start="55" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="1011312" group_skill="10113" stage="1" start="60" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="1011318" group_skill="10113" stage="1" start="113" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1030301" group_skill="10303" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.45" param8="0" param9="2" param10="0.3" param11="0" param12="1" param13="3"/>
-<SkillTimeline id="1030311" group_skill="10303" stage="1" start="0" type="ultraSkillEffect" param1="5.033333" param2="shiyou/Char_skill03/Char_103_Skill3_Cam" param3="5.033333" param4="0"/>
-<SkillTimeline id="1030325" group_skill="10303" stage="1" start="0" type="audio" param1="" param2="Char_103_skill03_start" param3="1"/>
-<SkillTimeline id="1030312" group_skill="10303" stage="1" start="0" type="sprint" param1="0" param2="WorldCenter"/>
-<SkillTimeline id="1030324" group_skill="10303" stage="1" start="0" type="specialSkillEffect" param1="2.55" param2="0.1" param3="0.3"/>
-<SkillTimeline id="1030302" group_skill="10303" stage="1" start="1" type="fx" param1="shiyou/Char_103/Char_103_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1030303" group_skill="10303" stage="1" start="1" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1030304" group_skill="10303" stage="1" start="1" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1030317" group_skill="10303" stage="1" start="1" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
-<SkillTimeline id="1030322" group_skill="10303" stage="1" start="1" type="cameraMove" param1="Close" param2="Caster" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1030326" group_skill="10303" stage="1" start="4" type="audio" param1="" param2="char_103_skill03" param3="0"/>
-<SkillTimeline id="1030318" group_skill="10303" stage="1" start="10" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
-<SkillTimeline id="1030305" group_skill="10303" stage="1" start="10" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1030313" group_skill="10303" stage="1" start="10" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1030314" group_skill="10303" stage="1" start="20" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1030319" group_skill="10303" stage="1" start="20" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
-<SkillTimeline id="1030306" group_skill="10303" stage="1" start="20" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1030307" group_skill="10303" stage="1" start="30" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1030320" group_skill="10303" stage="1" start="30" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
-<SkillTimeline id="1030315" group_skill="10303" stage="1" start="30" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1030316" group_skill="10303" stage="1" start="40" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1030321" group_skill="10303" stage="1" start="40" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
-<SkillTimeline id="1030308" group_skill="10303" stage="1" start="40" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1030323" group_skill="10303" stage="1" start="57" type="cameraMove" param1="None" param2="WorldCenter" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
 <SkillTimeline id="1031301" group_skill="10313" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.45" param8="0" param9="2" param10="0.3" param11="0" param12="1" param13="3"/>
 <SkillTimeline id="1031324" group_skill="10313" stage="1" start="0" type="specialSkillEffect" param1="1.9" param2="0" param3="0.3"/>
 <SkillTimeline id="1031312" group_skill="10313" stage="1" start="0" type="sprint" param1="0" param2="WorldCenter"/>
@@ -1188,150 +1094,26 @@
 <SkillTimeline id="1100302" group_skill="11003" stage="1" start="75" type="hit" param1="442" param2="True"/>
 <SkillTimeline id="1100313" group_skill="11003" stage="1" start="76" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
 <SkillTimeline id="1100309" group_skill="11003" stage="1" start="107" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1070101" group_skill="10701" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.933333" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1070103" group_skill="10701" stage="1" start="27" type="fx" param1="shiyou/Char_107/Char_107_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1070104" group_skill="10701" stage="1" start="33" type="hitFx" param1="shiyou/Char_107/Char_107_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1070102" group_skill="10701" stage="1" start="38" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="1070201" group_skill="10702" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2" param10="0" param11="0" param12="1" param13="0"/>
 <SkillTimeline id="1070203" group_skill="10702" stage="1" start="0" type="fx" param1="shiyou/Char_107/Char_107_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="1070204" group_skill="10702" stage="1" start="30" type="bullet" param1="shiyou/Char_107/Char_107_Skill2_Fly_01" param2="Straight" param3="0.5" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
 <SkillTimeline id="1070202" group_skill="10702" stage="1" start="30" type="hit" param1="0" param2="True"/>
 <SkillTimeline id="1070205" group_skill="10702" stage="1" start="45" type="hitFx" param1="shiyou/Char_107/Char_107_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1240101" group_skill="12401" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.966667" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1240103" group_skill="12401" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240105" group_skill="12401" stage="1" start="22" type="bullet" param1="shiyou/Char_124/Char_124_Skill1_Fly_01" param2="Straight" param3="0.5" param4="LH" param5="Body" param6="0;0;1;1;0;0|0.6128039;0.3476391;1;1;0.3333333;0.3333333|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
-<SkillTimeline id="1240102" group_skill="12401" stage="1" start="34" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1240104" group_skill="12401" stage="1" start="37" type="hitFx" param1="shiyou/Char_124/Char_124_Skill1_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1240201" group_skill="12402" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.1" param8="0.75" param9="1.8" param10="0.3" param11="0" param12="1" param13="3"/>
-<SkillTimeline id="1240202" group_skill="12402" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240206" group_skill="12402" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_03" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240205" group_skill="12402" stage="1" start="3" type="hideCharacter" param1="0.2" param2="False"/>
-<SkillTimeline id="1240204" group_skill="12402" stage="1" start="7" type="sprint" param1="7" param2="Enemy"/>
-<SkillTimeline id="1240212" group_skill="12402" stage="2" start="7" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_02" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240203" group_skill="12402" stage="1" start="10" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_02" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240207" group_skill="12402" stage="1" start="37" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1240208" group_skill="12402" stage="1" start="37" type="hitFx" param1="shiyou/Char_124/Char_124_Skill2_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1240209" group_skill="12402" stage="1" start="54" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240211" group_skill="12402" stage="1" start="54" type="hideCharacter" param1="0.2" param2="False"/>
-<SkillTimeline id="1250101" group_skill="12501" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2" param10="0" param11="0" param12="0" param13="0"/>
-<SkillTimeline id="1250107" group_skill="12501" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1250103" group_skill="12501" stage="1" start="15" type="weaponMove" param1="Bone_Weapon_L" param2="21" param3="35" param4="52" param5="Root" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1250104" group_skill="12501" stage="1" start="15" type="weaponMove" param1="Bone_Weapon_R" param2="21" param3="35" param4="52" param5="Root" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="0;0;1;1;0;0|1;1;1;1;0;0"/>
-<SkillTimeline id="1250102" group_skill="12501" stage="1" start="25" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1250105" group_skill="12501" stage="1" start="25" type="hitFx" param1="shiyou/Char_125/Char_125_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
 <SkillTimeline id="29920101" group_skill="299201" stage="1" start="0" type="base" param1="200" param2="0.2" param3="ChaseMoveTarget" param4="0.4" param5="0.1" param6="Jump" param7="0.5" param8="0.75" param9="0.933" param10="0.3" param11="0" param12="1" param13="3"/>
 <SkillTimeline id="29920105" group_skill="299201" stage="0" start="0" type="fx" param1="shiyou/Mon_2992/Mon_2992_Skill1_SF_01" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="True" param8="False"/>
 <SkillTimeline id="29920106" group_skill="299201" stage="0" start="0" type="fx" param1="shiyou/Mon_2992/Mon_2992_Skill1_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="29920107" group_skill="299201" stage="1" start="18" type="hitFx" param1="shiyou/Mon_2992/Mon_2992_Skill1_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
 <SkillTimeline id="29920102" group_skill="299201" stage="1" start="18" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1250301" group_skill="12503" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="4.666667" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1250304" group_skill="12503" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1250305" group_skill="12503" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill3_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1250309" group_skill="12503" stage="1" start="16" type="ultraSkillEffect" param1="5" param2="shiyou/Char_skill03/Char_125_Skill3_Cam" param3="5" param4="0"/>
-<SkillTimeline id="1250306" group_skill="12503" stage="1" start="30" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1250307" group_skill="12503" stage="1" start="40" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_02" param2="Root" param3="False" param4="2.5" param5="False" param6="False"/>
-<SkillTimeline id="1250302" group_skill="12503" stage="1" start="70" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1250308" group_skill="12503" stage="1" start="100" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_03" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1250201" group_skill="12502" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.166667" param10="0" param11="0" param12="0" param13="0"/>
-<SkillTimeline id="1250210" group_skill="12502" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1250211" group_skill="12502" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill2_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1250212" group_skill="12502" stage="1" start="29" type="hitFx" param1="shiyou/Char_125/Char_125_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1250209" group_skill="12502" stage="1" start="29" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1230101" group_skill="12301" stage="1" start="0" type="base" param1="200" param2="0.2" param3="ChaseMoveTarget" param4="0.367" param5="0" param6="Jump" param7="0.367" param8="0.5" param9="0.5" param10="0.5" param11="0" param12="1" param13="3"/>
-<SkillTimeline id="1230102" group_skill="12301" stage="1" start="5" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1230201" group_skill="12302" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1230202" group_skill="12302" stage="1" start="40" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1230301" group_skill="12303" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="4.4" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1230302" group_skill="12303" stage="1" start="90" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1280201" group_skill="12802" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.166667" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1280203" group_skill="12802" stage="1" start="0" type="fx" param1="shiyou/Char_128/Char_128_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1280205" group_skill="12802" stage="1" start="60" type="hitFx" param1="shiyou/Char_128/Char_128_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1280202" group_skill="12802" stage="1" start="70" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1280204" group_skill="12802" stage="1" start="70" type="hitFx" param1="shiyou/Char_128/Char_128_Skill2_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="150101" group_skill="1501" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1140101" group_skill="11401" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1140105" group_skill="11401" stage="1" start="0" type="audio" param1="" param2="char_113_skill01" param3="0"/>
-<SkillTimeline id="1140103" group_skill="11401" stage="1" start="10" type="fx" param1="shiyou/Char_27/Char_27_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1140104" group_skill="11401" stage="1" start="10" type="hitFx" param1="shiyou/Char_27/Char_27_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1140102" group_skill="11401" stage="1" start="17" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="1140201" group_skill="11402" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.5" param10="0" param11="0" param12="1" param13="0"/>
 <SkillTimeline id="1140202" group_skill="11402" stage="1" start="0" type="fx" param1="shiyou/Char_27/Char_27_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="1140206" group_skill="11402" stage="1" start="0" type="audio" param1="" param2="" param3="0"/>
 <SkillTimeline id="1140203" group_skill="11402" stage="1" start="39" type="fx" param1="shiyou/Char_27/Char_27_Skill2_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="1140204" group_skill="11402" stage="1" start="40" type="hitFx" param1="shiyou/Char_27/Char_27_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
 <SkillTimeline id="1140205" group_skill="11402" stage="1" start="40" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1200101" group_skill="12001" stage="1" start="0" type="base" param1="200" param2="0.2" param3="ChaseMoveTarget" param4="0.867" param5="0" param6="Jump" param7="0.767" param8="0.75" param9="1.1" param10="0.3" param11="0" param12="1" param13="3"/>
-<SkillTimeline id="1200104" group_skill="12001" stage="0" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1200105" group_skill="12001" stage="0" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill1_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1200103" group_skill="12001" stage="1" start="15" type="hitFx" param1="shiyou/Char_120/Char_120_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1200102" group_skill="12001" stage="1" start="15" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1200201" group_skill="12002" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.433333" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1200203" group_skill="12002" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1200202" group_skill="12002" stage="1" start="37" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1200204" group_skill="12002" stage="1" start="37" type="hitFx" param1="shiyou/Char_120/Char_120_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1200301" group_skill="12003" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.833333" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1200303" group_skill="12003" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1200305" group_skill="12003" stage="1" start="0" type="ultraSkillEffect" param1="4.483333" param2="shiyou/Char_skill03/Char_120_Skill3_Cam" param3="4.483333" param4="0"/>
-<SkillTimeline id="1200306" group_skill="12003" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill3_SF_Bone_arm05" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1200302" group_skill="12003" stage="1" start="59" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1200304" group_skill="12003" stage="1" start="59" type="hitFx" param1="shiyou/Char_120/Char_120_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1130301" group_skill="11303" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="1" param8="0" param9="2" param10="1" param11="0" param12="1" param13="6"/>
-<SkillTimeline id="1130302" group_skill="11303" stage="1" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1130310" group_skill="11303" stage="2" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_Fly_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
-<SkillTimeline id="1130311" group_skill="11303" stage="2" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
-<SkillTimeline id="1130305" group_skill="11303" stage="1" start="17" type="ultraSkillEffect" param1="3.466667" param2="shiyou/Char_skill03/Char_113_Skill3_Cam" param3="3.466667" param4="0"/>
-<SkillTimeline id="1130303" group_skill="11303" stage="1" start="30" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
-<SkillTimeline id="1130308" group_skill="11303" stage="1" start="30" type="fx" param1="shiyou/Char_113/Char_113_Skill3_Fly_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
-<SkillTimeline id="1130309" group_skill="11303" stage="1" start="30" type="sprint" param1="60" param2="Enemy"/>
-<SkillTimeline id="1130306" group_skill="11303" stage="1" start="60" type="hitFx" param1="shiyou/Char_113/Char_113_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1130307" group_skill="11303" stage="1" start="60" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1130101" group_skill="11301" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.5" param8="1" param9="1.466667" param10="0.5" param11="0" param12="1" param13="3"/>
-<SkillTimeline id="1130103" group_skill="11301" stage="1" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1130106" group_skill="11301" stage="1" start="1" type="audio" param1="" param2="char_113_skill01" param3="0"/>
-<SkillTimeline id="1130102" group_skill="11301" stage="1" start="17" type="sprint" param1="25" param2="Enemy"/>
-<SkillTimeline id="1130104" group_skill="11301" stage="1" start="25" type="hitFx" param1="shiyou/Char_113/Char_113_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1130105" group_skill="11301" stage="1" start="25" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1170101" group_skill="11701" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.666667" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1170103" group_skill="11701" stage="1" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1170106" group_skill="11701" stage="1" start="1" type="audio" param1="" param2="char_117_skill01" param3="0"/>
-<SkillTimeline id="1170105" group_skill="11701" stage="1" start="29" type="bullet" param1="shiyou/Char_117/Char_117_Skill1_Fly_01" param2="Straight" param3="0.3" param4="Root" param5="Root" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
-<SkillTimeline id="1170102" group_skill="11701" stage="1" start="37" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1170104" group_skill="11701" stage="1" start="37" type="hitFx" param1="shiyou/Char_117/Char_117_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1170201" group_skill="11702" stage="1" start="0" type="base" param1="201" param2="0.2" param3="ChaseMoveTarget" param4="0.7333" param5="0" param6="Jump" param7="0.6" param8="1" param9="0.8000001" param10="0.3" param11="0" param12="5" param13="6"/>
-<SkillTimeline id="1170203" group_skill="11702" stage="0" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill2_SF_01" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1170205" group_skill="11702" stage="0" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill2_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1170209" group_skill="11702" stage="1" start="2" type="audio" param1="" param2="char_117_skill02" param3="0"/>
-<SkillTimeline id="1170202" group_skill="11702" stage="1" start="10" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1170206" group_skill="11702" stage="1" start="10" type="hitFx" param1="shiyou/Char_117/Char_117_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1170207" group_skill="11702" stage="2" start="15" type="fx" param1="shiyou/Char_117/Char_117_Skill2_SF_02" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="1270201" group_skill="12702" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.6" param10="0" param11="0" param12="1" param13="0"/>
 <SkillTimeline id="1270202" group_skill="12702" stage="1" start="30" type="hit" param1="0" param2="True"/>
 <SkillTimeline id="1270301" group_skill="12703" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="5.366667" param10="0" param11="0" param12="1" param13="0"/>
 <SkillTimeline id="1270302" group_skill="12703" stage="1" start="76" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1280301" group_skill="12803" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.833333" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1280303" group_skill="12803" stage="1" start="0" type="fx" param1="shiyou/Char_128/Char_128_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1280306" group_skill="12803" stage="1" start="0" type="ultraSkillEffect" param1="4.183333" param2="shiyou/Char_skill03/Char_128_Skill3_Cam" param3="4.183333" param4="0"/>
-<SkillTimeline id="1280305" group_skill="12803" stage="1" start="32" type="bullet" param1="shiyou/Char_128/Char_128_Skill3_Fly_01" param2="Straight" param3="1" param4="Root" param5="Body" param6="0;0;0;0;0;0|1;1;2;2;0;0" param7="" param8="0|0|0" param9="0"/>
-<SkillTimeline id="1280302" group_skill="12803" stage="1" start="64" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1280304" group_skill="12803" stage="1" start="65" type="hitFx" param1="shiyou/Char_128/Char_128_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1260101" group_skill="12601" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.5" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1260106" group_skill="12601" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill01_Sf_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260107" group_skill="12601" stage="1" start="14" type="bullet" param1="shiyou/Char_126/Char_126_Skill01_Fly_01" param2="Straight" param3="0.3" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
-<SkillTimeline id="1260105" group_skill="12601" stage="1" start="14" type="fx" param1="shiyou/Char_126/Char_126_Skill01_Sf_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260102" group_skill="12601" stage="1" start="21" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1260104" group_skill="12601" stage="1" start="21" type="hitFx" param1="shiyou/Char_126/Char_126_Skill01_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1260201" group_skill="12602" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.167" param8="0" param9="2.5" param10="0" param11="0" param12="1" param13="3"/>
-<SkillTimeline id="1260203" group_skill="12602" stage="2" start="0" type="hideCharacter" param1="0.16" param2="False"/>
-<SkillTimeline id="1260209" group_skill="12602" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260206" group_skill="12602" stage="1" start="27" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260202" group_skill="12602" stage="1" start="36" type="sprint" param1="37" param2="Enemy"/>
-<SkillTimeline id="1260210" group_skill="12602" stage="1" start="40" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260207" group_skill="12602" stage="1" start="44" type="hitFx" param1="shiyou/Char_126/Char_126_Skill02_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1260204" group_skill="12602" stage="1" start="44" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1260211" group_skill="12602" stage="1" start="59" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_04" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260208" group_skill="12602" stage="1" start="65" type="hitFx" param1="shiyou/Char_126/Char_126_Skill02_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1260205" group_skill="12602" stage="1" start="65" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1260212" group_skill="12602" stage="1" start="65" type="fx" param1="" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
 <SkillTimeline id="29820101" group_skill="298201" stage="1" start="0" type="base" param1="200" param2="0.2" param3="ChaseMoveTarget" param4="0.767" param5="0.2" param6="Jump" param7="0.533" param8="0.75" param9="0.337" param10="0.2" param11="0" param12="1" param13="3"/>
 <SkillTimeline id="29820103" group_skill="298201" stage="0" start="0" type="fx" param1="shiyou/Mon_2982/Mon_2982_Skill01_SF_01" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="1.2" param7="False" param8="False"/>
 <SkillTimeline id="29820104" group_skill="298201" stage="0" start="0" type="fx" param1="shiyou/Mon_2982/Mon_2982_Skill2_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
@@ -1349,52 +1131,6 @@
 <SkillTimeline id="29820202" group_skill="298202" stage="1" start="18" type="sprint" param1="30" param2="Enemy"/>
 <SkillTimeline id="29820207" group_skill="298202" stage="1" start="41" type="hitFx" param1="shiyou/Mon_2982/Mon_2982_Skill2_Hit01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
 <SkillTimeline id="29820208" group_skill="298202" stage="1" start="41" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1240301" group_skill="12403" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="1.5" param9="4.6" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1240304" group_skill="12403" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240305" group_skill="12403" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill3_SF_02" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1240310" group_skill="12403" stage="1" start="0" type="bullet" param1="" param2="Straight" param3="1" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
-<SkillTimeline id="1240307" group_skill="12403" stage="1" start="15" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1240308" group_skill="12403" stage="1" start="15" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1240309" group_skill="12403" stage="1" start="15" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_03" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1240311" group_skill="12403" stage="1" start="15" type="ultraSkillEffect" param1="4.083333" param2="shiyou/Char_skill03/Char_124_Skill3_Cam" param3="4.083333" param4="0"/>
-<SkillTimeline id="1240302" group_skill="12403" stage="1" start="36" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1130201" group_skill="11302" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.066667" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1130202" group_skill="11302" stage="1" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1130210" group_skill="11302" stage="1" start="5" type="audio" param1="" param2="char_113_skill02" param3="0"/>
-<SkillTimeline id="1130203" group_skill="11302" stage="1" start="35" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1130205" group_skill="11302" stage="1" start="35" type="hitFx" param1="shiyou/Char_113/Char_113_Skill2_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1130204" group_skill="11302" stage="1" start="38" type="hitFx" param1="shiyou/Char_113/Char_113_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1130206" group_skill="11302" stage="1" start="40" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1130207" group_skill="11302" stage="1" start="45" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1130208" group_skill="11302" stage="1" start="50" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1130209" group_skill="11302" stage="1" start="55" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1070301" group_skill="10703" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.5" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1070303" group_skill="10703" stage="1" start="0" type="fx" param1="shiyou/Char_107/Char_107_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1070304" group_skill="10703" stage="1" start="0" type="fx" param1="shiyou/Char_107/Char_107_Skill3_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1070306" group_skill="10703" stage="1" start="33" type="ultraSkillEffect" param1="4.433333" param2="shiyou/Char_skill03/Char_107_Skill3_Cam" param3="4.433333" param4="0"/>
-<SkillTimeline id="1070302" group_skill="10703" stage="1" start="70" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1070305" group_skill="10703" stage="1" start="70" type="hitFx" param1="shiyou/Char_107/Char_107_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1140301" group_skill="11403" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.833333" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1140302" group_skill="11403" stage="1" start="0" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1140307" group_skill="11403" stage="1" start="0" type="ultraSkillEffect" param1="4.333333" param2="shiyou/Char_skill03/Char_127_Skill3_Cam" param3="4.333333" param4="0"/>
-<SkillTimeline id="1140303" group_skill="11403" stage="1" start="34" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_point_rh_02" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1140304" group_skill="11403" stage="1" start="62" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1140305" group_skill="11403" stage="1" start="64" type="hitFx" param1="shiyou/Char_27/Char_27_Skill3_Buff_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1140306" group_skill="11403" stage="1" start="64" type="hit" param1="0" param2="True"/>
-<SkillTimeline id="1170301" group_skill="11703" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.567" param8="0" param9="2.2" param10="1.1" param11="0" param12="7" param13="8"/>
-<SkillTimeline id="1170304" group_skill="11703" stage="1" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1170305" group_skill="11703" stage="1" start="0" type="ultraSkillEffect" param1="6.2" param2="shiyou/Char_skill03/Char_117_Skill3_Cam" param3="6.5" param4="0"/>
-<SkillTimeline id="1170309" group_skill="11703" stage="1" start="0" type="sprint" param1="21" param2="WorldCenter"/>
-<SkillTimeline id="1170307" group_skill="11703" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_03" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1170308" group_skill="11703" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_04" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1170306" group_skill="11703" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1170302" group_skill="11703" stage="1" start="30" type="hit" param1="44" param2="True"/>
-<SkillTimeline id="1170303" group_skill="11703" stage="1" start="30" type="hitFx" param1="shiyou/Char_117/Char_117_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1260301" group_skill="12603" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.166667" param10="0" param11="0" param12="1" param13="0"/>
-<SkillTimeline id="1260302" group_skill="12603" stage="1" start="0" type="hitFx" param1="shiyou/Char_126/Char_126_Skill03_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
-<SkillTimeline id="1260303" group_skill="12603" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill03_Sf_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260304" group_skill="12603" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill03_Sf_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
-<SkillTimeline id="1260305" group_skill="12603" stage="1" start="0" type="ultraSkillEffect" param1="3.1" param2="shiyou/Char_skill03/Char_126_Skill03_Cam" param3="5.833333" param4="0"/>
 <SkillTimeline id="29920201" group_skill="299202" stage="1" start="0" type="base" param1="201" param2="0.1" param3="ChaseMoveTarget" param4="0.733" param5="0" param6="Jump" param7="0.433" param8="0.75" param9="2.7" param10="0.3" param11="0" param12="5" param13="6"/>
 <SkillTimeline id="29920202" group_skill="299202" stage="0" start="0" type="fx" param1="shiyou/Mon_2992/Mon_2992_Skill2_SF_01" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="True" param8="False"/>
 <SkillTimeline id="29920203" group_skill="299202" stage="0" start="0" type="fx" param1="shiyou/Mon_2992/Mon_2992_Skill2_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
@@ -1412,4 +1148,491 @@
 <SkillTimeline id="29810102" group_skill="298101" stage="1" start="28" type="hit" param1="44" param2="True"/>
 <SkillTimeline id="29810201" group_skill="298102" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.133333" param10="0" param11="0" param12="1" param13="0"/>
 <SkillTimeline id="29810202" group_skill="298102" stage="1" start="70" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="150101" group_skill="1501" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="150102" group_skill="1501" stage="1" start="0" type="specialSkillEffect" param1="1" param2="0.1" param3="0.1"/>
+<SkillTimeline id="150103" group_skill="1501" stage="1" start="4" type="ultraSkillEffect" param1="1" param2="Ultra_char_15" param3="1" param4="0"/>
+<SkillTimeline id="12060101" group_skill="120601" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.733333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="12060105" group_skill="120601" stage="1" start="1" type="audio" param1="Audio_STS_skill01" param2="mon_1206_skill01" param3="0"/>
+<SkillTimeline id="12060104" group_skill="120601" stage="1" start="20" type="bullet" param1="M_STSKYRY/M_STSKYRY_Skill1_Fly_01" param2="Straight" param3="0.4" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="M_STSKYRY/M_STSKYRY_Skill1_Hit_01" param8="0|0|0" param9="0"/>
+<SkillTimeline id="12060106" group_skill="120601" stage="1" start="20" type="fx" param1="M_STSKYRY/M_STSKYRY_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="12060102" group_skill="120601" stage="1" start="35" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="12060201" group_skill="120602" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.4" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="12060203" group_skill="120602" stage="1" start="20" type="audio" param1="Audio_STS_skill02" param2="mon_1206_skill02" param3="0"/>
+<SkillTimeline id="12060202" group_skill="120602" stage="1" start="34" type="fx" param1="M_STSKYRY/M_STSKYRY_Skill2_SF_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1060301" group_skill="10603" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0.1" param6="Jump" param7="0.767" param8="0" param9="1.966667" param10="0.3" param11="0" param12="7" param13="8"/>
+<SkillTimeline id="1060312" group_skill="10603" stage="1" start="0" type="fx" param1="shiyou/Char_106/Char_106_Skill3" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1060316" group_skill="10603" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1060319" group_skill="10603" stage="1" start="0" type="specialSkillEffect" param1="1.93" param2="0.1" param3="0.3"/>
+<SkillTimeline id="1060311" group_skill="10603" stage="1" start="0" type="audio" param1="" param2="char_106_skill03_01" param3="0"/>
+<SkillTimeline id="1060304" group_skill="10603" stage="1" start="5" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1060305" group_skill="10603" stage="1" start="8" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1060310" group_skill="10603" stage="1" start="22" type="sprint" param1="25" param2="WorldCenter"/>
+<SkillTimeline id="1060309" group_skill="10603" stage="1" start="22" type="hideCharacter" param1="0.08" param2="False"/>
+<SkillTimeline id="1060314" group_skill="10603" stage="1" start="23" type="ultraSkillEffect" param1="4.633333" param2="shiyou/Char_skill03/Char_106_Skill3_Cam" param3="4.633333" param4="0"/>
+<SkillTimeline id="1060320" group_skill="10603" stage="1" start="23" type="audio" param1="" param2="Char_106_skill03_start" param3="1"/>
+<SkillTimeline id="1060317" group_skill="10603" stage="1" start="25" type="cameraMove" param1="Close" param2="AttackCenter2" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1060306" group_skill="10603" stage="1" start="24" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1060307" group_skill="10603" stage="1" start="26" type="fx" param1="shiyou/Char_106/Char_106_Skill3_SF_04" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1060321" group_skill="10603" stage="1" start="26" type="audio" param1="" param2="char_106_skill03_02" param3="0"/>
+<SkillTimeline id="1060313" group_skill="10603" stage="1" start="40" type="hitFx" param1="shiyou/Char_106/Char_106_Skill3_Hit" param2="EnemyCenter" param3="False" param4="1" param5="False" param6="False"/>
+<SkillTimeline id="1060302" group_skill="10603" stage="1" start="50" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1060308" group_skill="10603" stage="1" start="50" type="hitFx" param1="shiyou/Char_106/Char_106_Skill3_Hit_01" param2="EnemyCenter" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1060315" group_skill="10603" stage="1" start="54" type="cameraShake" param1="2" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
+<SkillTimeline id="1060318" group_skill="10603" stage="1" start="56" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1040301" group_skill="10403" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.333333" param10="0" param11="0" param12="0" param13="0"/>
+<SkillTimeline id="1040305" group_skill="10403" stage="1" start="0" type="ultraSkillEffect" param1="4.3" param2="shiyou/Char_skill03/Char_104_Skill3_Cam" param3="4.3" param4="0"/>
+<SkillTimeline id="1040307" group_skill="10403" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1040309" group_skill="10403" stage="1" start="0" type="audio" param1="" param2="Char_104_skill03_start" param3="1"/>
+<SkillTimeline id="1040306" group_skill="10403" stage="1" start="1" type="specialSkillEffect" param1="3.033333" param2="0.1" param3="0.3"/>
+<SkillTimeline id="1040302" group_skill="10403" stage="1" start="1" type="audio" param1="" param2="char_104_skill03" param3="0"/>
+<SkillTimeline id="1040303" group_skill="10403" stage="1" start="1" type="fx" param1="H_ShiMBD/H_ShiMBD_Skill3_QY_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="3" param7="False" param8="False"/>
+<SkillTimeline id="1040304" group_skill="10403" stage="1" start="1" type="fx" param1="H_ShiMBD/H_ShiMBD_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="3" param7="False" param8="False"/>
+<SkillTimeline id="1040308" group_skill="10403" stage="1" start="90" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1080301" group_skill="10803" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0.25" param6="Jump" param7="0.583" param8="1.5" param9="3.666667" param10="0.3" param11="0" param12="7" param13="8"/>
+<SkillTimeline id="1080310" group_skill="10803" stage="1" start="0" type="audio" param1="" param2="char_108_skill03_01" param3="0"/>
+<SkillTimeline id="1080308" group_skill="10803" stage="1" start="10" type="sprint" param1="26" param2="Enemy"/>
+<SkillTimeline id="1080303" group_skill="10803" stage="1" start="25" type="fx" param1="shiyou/Char_108/Char_108_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1080311" group_skill="10803" stage="1" start="26" type="audio" param1="" param2="Char_108_skill03_start" param3="1"/>
+<SkillTimeline id="1080307" group_skill="10803" stage="1" start="26" type="ultraSkillEffect" param1="4.6" param2="shiyou/Char_skill03/Char_108_Skill3_Cam" param3="4.6" param4="0"/>
+<SkillTimeline id="1080312" group_skill="10803" stage="1" start="27" type="audio" param1="" param2="char_108_skill03_02" param3="0"/>
+<SkillTimeline id="1080305" group_skill="10803" stage="1" start="55" type="fx" param1="shiyou/Char_108/Char_108_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1080302" group_skill="10803" stage="1" start="60" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1080304" group_skill="10803" stage="1" start="60" type="hitFx" param1="shiyou/Char_108/Char_108_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1080309" group_skill="10803" stage="1" start="61" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.3" param5="0.3" param6="1" param7="0.25" param8="30" param9="0.5"/>
+<SkillTimeline id="1030301" group_skill="10303" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.45" param8="0" param9="2" param10="0.3" param11="0" param12="1" param13="3"/>
+<SkillTimeline id="1030311" group_skill="10303" stage="1" start="0" type="ultraSkillEffect" param1="4.5" param2="shiyou/Char_skill03/Char_103_Skill3_Cam" param3="4.5" param4="0"/>
+<SkillTimeline id="1030325" group_skill="10303" stage="1" start="0" type="audio" param1="" param2="Char_103_skill03_start" param3="1"/>
+<SkillTimeline id="1030312" group_skill="10303" stage="1" start="0" type="sprint" param1="0" param2="WorldCenter"/>
+<SkillTimeline id="1030324" group_skill="10303" stage="1" start="0" type="specialSkillEffect" param1="2.55" param2="0.1" param3="0.3"/>
+<SkillTimeline id="1030302" group_skill="10303" stage="1" start="1" type="fx" param1="shiyou/Char_103/Char_103_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1030303" group_skill="10303" stage="1" start="1" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1030304" group_skill="10303" stage="1" start="1" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1030317" group_skill="10303" stage="1" start="1" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
+<SkillTimeline id="1030322" group_skill="10303" stage="1" start="1" type="cameraMove" param1="Close" param2="Caster" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1030326" group_skill="10303" stage="1" start="4" type="audio" param1="" param2="char_103_skill03" param3="0"/>
+<SkillTimeline id="1030313" group_skill="10303" stage="1" start="10" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1030318" group_skill="10303" stage="1" start="10" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
+<SkillTimeline id="1030305" group_skill="10303" stage="1" start="10" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1030314" group_skill="10303" stage="1" start="20" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1030319" group_skill="10303" stage="1" start="20" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
+<SkillTimeline id="1030306" group_skill="10303" stage="1" start="20" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1030307" group_skill="10303" stage="1" start="30" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1030320" group_skill="10303" stage="1" start="30" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
+<SkillTimeline id="1030315" group_skill="10303" stage="1" start="30" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1030308" group_skill="10303" stage="1" start="40" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1030316" group_skill="10303" stage="1" start="40" type="hitFx" param1="shiyou/Char_103/Char_103_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1030321" group_skill="10303" stage="1" start="40" type="cameraShake" param1="1" param2="Custom" param3="False" param4="0.2" param5="0.2" param6="0.7" param7="0.2" param8="100" param9="2"/>
+<SkillTimeline id="1030323" group_skill="10303" stage="1" start="57" type="cameraMove" param1="None" param2="WorldCenter" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1210301" group_skill="12103" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.666667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1210302" group_skill="12103" stage="1" start="0" type="fx" param1="shiyou/Char_121/Char_121_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1210307" group_skill="12103" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1210305" group_skill="12103" stage="1" start="0" type="audio" param1="" param2="char_121_skill03_01" param3="0"/>
+<SkillTimeline id="1210310" group_skill="12103" stage="1" start="1" type="specialSkillEffect" param1="2.366667" param2="0.1" param3="0.3"/>
+<SkillTimeline id="1210306" group_skill="12103" stage="1" start="15" type="ultraSkillEffect" param1="4.833333" param2="shiyou/Char_skill03/Char_121_Skill3_Cam" param3="4.833333" param4="0"/>
+<SkillTimeline id="1210311" group_skill="12103" stage="1" start="15" type="audio" param1="" param2="Char_121_skill03_start" param3="1"/>
+<SkillTimeline id="1210312" group_skill="12103" stage="1" start="16" type="audio" param1="" param2="char_121_skill03_02" param3="0"/>
+<SkillTimeline id="1210308" group_skill="12103" stage="1" start="22" type="cameraMove" param1="Close" param2="AlliesCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1210303" group_skill="12103" stage="1" start="52" type="hitFx" param1="shiyou/Char_121/Char_121_Skill3_SF_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1210304" group_skill="12103" stage="1" start="52" type="hit" param1="0" param2="False"/>
+<SkillTimeline id="1210309" group_skill="12103" stage="1" start="65" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1070101" group_skill="10701" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.933333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1070103" group_skill="10701" stage="1" start="27" type="fx" param1="shiyou/Char_107/Char_107_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1070104" group_skill="10701" stage="1" start="33" type="hitFx" param1="shiyou/Char_107/Char_107_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1070102" group_skill="10701" stage="1" start="37" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1070105" group_skill="10701" stage="1" start="37" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1070301" group_skill="10703" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.5" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1070303" group_skill="10703" stage="1" start="0" type="fx" param1="shiyou/Char_107/Char_107_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1070304" group_skill="10703" stage="1" start="0" type="fx" param1="shiyou/Char_107/Char_107_Skill3_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1070309" group_skill="10703" stage="1" start="0" type="specialSkillEffect" param1="3.5" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1070307" group_skill="10703" stage="1" start="3" type="cameraMove" param1="Close" param2="Caster" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1070306" group_skill="10703" stage="1" start="18" type="ultraSkillEffect" param1="4.433333" param2="shiyou/Char_skill03/Char_107_Skill3_Cam" param3="4.433333" param4="0"/>
+<SkillTimeline id="1070308" group_skill="10703" stage="1" start="50" type="cameraMove" param1="Close" param2="AlliesCenter" param3="1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1070302" group_skill="10703" stage="1" start="70" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1070305" group_skill="10703" stage="1" start="70" type="hitFx" param1="shiyou/Char_107/Char_107_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1070310" group_skill="10703" stage="1" start="100" type="cameraMove" param1="None" param2="WorldCenter" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1130201" group_skill="11302" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.066667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1130202" group_skill="11302" stage="1" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1130210" group_skill="11302" stage="1" start="5" type="audio" param1="" param2="char_113_skill02" param3="0"/>
+<SkillTimeline id="1130203" group_skill="11302" stage="1" start="35" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1130205" group_skill="11302" stage="1" start="35" type="hitFx" param1="shiyou/Char_113/Char_113_Skill2_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1130211" group_skill="11302" stage="1" start="35" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1130204" group_skill="11302" stage="1" start="38" type="hitFx" param1="shiyou/Char_113/Char_113_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1130206" group_skill="11302" stage="1" start="40" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1130212" group_skill="11302" stage="1" start="40" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1130207" group_skill="11302" stage="1" start="45" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1130213" group_skill="11302" stage="1" start="45" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1130208" group_skill="11302" stage="1" start="50" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1130214" group_skill="11302" stage="1" start="50" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1130209" group_skill="11302" stage="1" start="55" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1130215" group_skill="11302" stage="1" start="55" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1130101" group_skill="11301" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.5" param8="1" param9="1.466667" param10="0.5" param11="0" param12="1" param13="3"/>
+<SkillTimeline id="1130103" group_skill="11301" stage="1" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1130106" group_skill="11301" stage="1" start="1" type="audio" param1="" param2="char_113_skill01" param3="0"/>
+<SkillTimeline id="1130102" group_skill="11301" stage="1" start="17" type="sprint" param1="25" param2="Enemy"/>
+<SkillTimeline id="1130104" group_skill="11301" stage="1" start="25" type="hitFx" param1="shiyou/Char_113/Char_113_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1130105" group_skill="11301" stage="1" start="25" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1130107" group_skill="11301" stage="1" start="25" type="cameraShake" param1="1" param2="Medium" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1140101" group_skill="11401" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1140105" group_skill="11401" stage="1" start="0" type="audio" param1="" param2="char_113_skill01" param3="0"/>
+<SkillTimeline id="1140103" group_skill="11401" stage="1" start="10" type="fx" param1="shiyou/Char_27/Char_27_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1140104" group_skill="11401" stage="1" start="10" type="hitFx" param1="shiyou/Char_27/Char_27_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1140102" group_skill="11401" stage="1" start="15" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1140106" group_skill="11401" stage="1" start="15" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1140301" group_skill="11403" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.833333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1140302" group_skill="11403" stage="1" start="0" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1140308" group_skill="11403" stage="1" start="0" type="specialSkillEffect" param1="2.833333" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1140309" group_skill="11403" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1140307" group_skill="11403" stage="1" start="18" type="ultraSkillEffect" param1="4.333333" param2="shiyou/Char_skill03/Char_127_Skill3_Cam" param3="4.333333" param4="0"/>
+<SkillTimeline id="1140303" group_skill="11403" stage="1" start="34" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_point_rh_02" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1140304" group_skill="11403" stage="1" start="62" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1140305" group_skill="11403" stage="1" start="64" type="hitFx" param1="shiyou/Char_27/Char_27_Skill3_Buff_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1140306" group_skill="11403" stage="1" start="64" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1140310" group_skill="11403" stage="1" start="69" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1141301" group_skill="11413" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.833333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1141302" group_skill="11413" stage="1" start="0" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1141309" group_skill="11413" stage="1" start="0" type="specialSkillEffect" param1="2.833333" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1141307" group_skill="11413" stage="1" start="3" type="cameraMove" param1="Close" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1141303" group_skill="11413" stage="1" start="34" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_point_rh_02" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1141304" group_skill="11413" stage="1" start="62" type="fx" param1="shiyou/Char_27/Char_27_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1141305" group_skill="11413" stage="1" start="64" type="hitFx" param1="shiyou/Char_27/Char_27_Skill3_Buff_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1141306" group_skill="11413" stage="1" start="64" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1141308" group_skill="11413" stage="1" start="69" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1071301" group_skill="10713" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.5" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1071303" group_skill="10713" stage="1" start="0" type="fx" param1="shiyou/Char_107/Char_107_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1071304" group_skill="10713" stage="1" start="0" type="fx" param1="shiyou/Char_107/Char_107_Skill3_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1071309" group_skill="10713" stage="1" start="0" type="specialSkillEffect" param1="3.5" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1071306" group_skill="10713" stage="1" start="3" type="cameraMove" param1="Close" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1071307" group_skill="10713" stage="1" start="50" type="cameraMove" param1="Close" param2="AlliesCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1071302" group_skill="10713" stage="1" start="70" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1071305" group_skill="10713" stage="1" start="70" type="hitFx" param1="shiyou/Char_107/Char_107_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1071308" group_skill="10713" stage="1" start="100" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1131301" group_skill="11313" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="1" param8="0" param9="2" param10="1" param11="0" param12="1" param13="6"/>
+<SkillTimeline id="1131302" group_skill="11313" stage="1" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1131310" group_skill="11313" stage="2" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_Fly_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1131311" group_skill="11313" stage="2" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1131316" group_skill="11313" stage="1" start="0" type="specialSkillEffect" param1="4" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1131312" group_skill="11313" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1131303" group_skill="11313" stage="1" start="30" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1131308" group_skill="11313" stage="1" start="30" type="fx" param1="shiyou/Char_113/Char_113_Skill3_Fly_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1131309" group_skill="11313" stage="1" start="30" type="sprint" param1="60" param2="Enemy"/>
+<SkillTimeline id="1131313" group_skill="11313" stage="1" start="40" type="cameraMove" param1="VeryClose" param2="EnemyCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1131306" group_skill="11313" stage="1" start="60" type="hitFx" param1="shiyou/Char_113/Char_113_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1131307" group_skill="11313" stage="1" start="60" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1131314" group_skill="11313" stage="1" start="60" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1131315" group_skill="11313" stage="1" start="60" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1170101" group_skill="11701" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.666667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1170103" group_skill="11701" stage="1" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170106" group_skill="11701" stage="1" start="1" type="audio" param1="" param2="char_117_skill01" param3="0"/>
+<SkillTimeline id="1170105" group_skill="11701" stage="1" start="29" type="bullet" param1="shiyou/Char_117/Char_117_Skill1_Fly_01" param2="Straight" param3="0.3" param4="Root" param5="Root" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
+<SkillTimeline id="1170102" group_skill="11701" stage="1" start="37" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1170104" group_skill="11701" stage="1" start="37" type="hitFx" param1="shiyou/Char_117/Char_117_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1170107" group_skill="11701" stage="1" start="37" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1171301" group_skill="11713" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.6" param8="0" param9="2.2" param10="1.1" param11="0" param12="7" param13="8"/>
+<SkillTimeline id="1171304" group_skill="11713" stage="1" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1171309" group_skill="11713" stage="1" start="0" type="sprint" param1="21" param2="WorldCenter"/>
+<SkillTimeline id="1171314" group_skill="11713" stage="1" start="0" type="specialSkillEffect" param1="3.9" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1171315" group_skill="11713" stage="1" start="3" type="cameraMove" param1="Close" param2="AttackCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1171307" group_skill="11713" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_03" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1171308" group_skill="11713" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_04" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1171306" group_skill="11713" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1171303" group_skill="11713" stage="1" start="30" type="hitFx" param1="shiyou/Char_117/Char_117_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1171310" group_skill="11713" stage="1" start="40" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1171311" group_skill="11713" stage="1" start="45" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1171302" group_skill="11713" stage="1" start="50" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1171312" group_skill="11713" stage="1" start="55" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1171313" group_skill="11713" stage="1" start="55" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1171317" group_skill="11713" stage="1" start="63" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1201301" group_skill="12013" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.833333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1201303" group_skill="12013" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1201306" group_skill="12013" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill3_SF_Bone_arm05" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1201309" group_skill="12013" stage="1" start="0" type="specialSkillEffect" param1="2.833333" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1201307" group_skill="12013" stage="1" start="3" type="cameraMove" param1="Close" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1201308" group_skill="12013" stage="1" start="58" type="cameraMove" param1="None" param2="WorldCenter" param3="0.8" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1201302" group_skill="12013" stage="1" start="59" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1201304" group_skill="12013" stage="1" start="59" type="hitFx" param1="shiyou/Char_120/Char_120_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1230101" group_skill="12301" stage="1" start="0" type="base" param1="200" param2="0.2" param3="ChaseMoveTarget" param4="0.367" param5="0" param6="Jump" param7="0.367" param8="0.5" param9="0.5" param10="0.5" param11="0" param12="1" param13="3"/>
+<SkillTimeline id="1230104" group_skill="12301" stage="0" start="0" type="fx" param1="shiyou/Char_123/Char_123_Skill01_Sf_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1230102" group_skill="12301" stage="1" start="3" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1230106" group_skill="12301" stage="1" start="3" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1230103" group_skill="12301" stage="1" start="5" type="hitFx" param1="shiyou/Char_123/Char_123_Skill01_Hit" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1230105" group_skill="12301" stage="0" start="15" type="fx" param1="shiyou/Char_123/Char_123_Skill01_Sf_02" param2="Body" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="True" param8="False"/>
+<SkillTimeline id="1230201" group_skill="12302" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1230203" group_skill="12302" stage="1" start="20" type="hitFx" param1="shiyou/Char_123/Char_123_Skill02_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1230205" group_skill="12302" stage="1" start="33" type="fx" param1="shiyou/Char_123/Char_123_Skill02_Sf" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1230202" group_skill="12302" stage="1" start="46" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1230206" group_skill="12302" stage="1" start="46" type="cameraShake" param1="0" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1230204" group_skill="12302" stage="1" start="50" type="hitFx" param1="shiyou/Char_123/Char_123_Skill02_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1230301" group_skill="12303" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="4.4" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1230303" group_skill="12303" stage="1" start="0" type="fx" param1="shiyou/Char_123/Char_123_Skill03_Sf" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1230320" group_skill="12303" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1230314" group_skill="12303" stage="1" start="0" type="specialSkillEffect" param1="4.4" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1230309" group_skill="12303" stage="1" start="18" type="ultraSkillEffect" param1="5.133333" param2="shiyou/Char_skill03/Char_123_Skill03_Cam" param3="5.133333" param4="0"/>
+<SkillTimeline id="1230306" group_skill="12303" stage="1" start="40" type="sprint" param1="40" param2="Enemy"/>
+<SkillTimeline id="1230321" group_skill="12303" stage="1" start="40" type="cameraMove" param1="Close" param2="AttackCenter" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1230304" group_skill="12303" stage="1" start="50" type="hitFx" param1="shiyou/Char_123/Char_123_Skill03_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1230310" group_skill="12303" stage="1" start="50" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1230315" group_skill="12303" stage="1" start="50" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1230311" group_skill="12303" stage="1" start="55" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1230316" group_skill="12303" stage="1" start="55" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1230312" group_skill="12303" stage="1" start="60" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1230317" group_skill="12303" stage="1" start="60" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1230313" group_skill="12303" stage="1" start="65" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1230318" group_skill="12303" stage="1" start="65" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1230307" group_skill="12303" stage="1" start="80" type="fx" param1="shiyou/Char_123/Char_123_Skill03_ShanXian_01" param2="Body" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1230319" group_skill="12303" stage="1" start="90" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1230302" group_skill="12303" stage="1" start="90" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1230305" group_skill="12303" stage="1" start="90" type="hitFx" param1="shiyou/Char_123/Char_123_Skill03_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1230308" group_skill="12303" stage="1" start="115" type="fx" param1="shiyou/Char_123/Char_123_Skill03_ShanXian_02" param2="Body" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1230322" group_skill="12303" stage="1" start="120" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1231301" group_skill="12313" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="4.4" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1231303" group_skill="12313" stage="1" start="0" type="fx" param1="shiyou/Char_123/Char_123_Skill03_Sf" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1231319" group_skill="12313" stage="1" start="0" type="specialSkillEffect" param1="4.4" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1231320" group_skill="12313" stage="1" start="0" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1231306" group_skill="12313" stage="1" start="40" type="sprint" param1="40" param2="Enemy"/>
+<SkillTimeline id="1231321" group_skill="12313" stage="1" start="40" type="cameraMove" param1="Close" param2="AttackCenter" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1231304" group_skill="12313" stage="1" start="50" type="hitFx" param1="shiyou/Char_123/Char_123_Skill03_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1231310" group_skill="12313" stage="1" start="50" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1231314" group_skill="12313" stage="1" start="50" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1231315" group_skill="12313" stage="1" start="55" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1231311" group_skill="12313" stage="1" start="55" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1231316" group_skill="12313" stage="1" start="60" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1231312" group_skill="12313" stage="1" start="60" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1231317" group_skill="12313" stage="1" start="65" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1231313" group_skill="12313" stage="1" start="65" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1231307" group_skill="12313" stage="1" start="80" type="fx" param1="shiyou/Char_123/Char_123_Skill03_ShanXian_01" param2="Body" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1231305" group_skill="12313" stage="1" start="90" type="hitFx" param1="shiyou/Char_123/Char_123_Skill03_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1231302" group_skill="12313" stage="1" start="90" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1231318" group_skill="12313" stage="1" start="90" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1231308" group_skill="12313" stage="1" start="115" type="fx" param1="shiyou/Char_123/Char_123_Skill03_ShanXian_02" param2="Body" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1231322" group_skill="12313" stage="1" start="120" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1241301" group_skill="12413" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="1.5" param9="4.6" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1241304" group_skill="12413" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1241305" group_skill="12413" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill3_SF_02" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1241310" group_skill="12413" stage="1" start="0" type="bullet" param1="" param2="Straight" param3="1" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
+<SkillTimeline id="1241314" group_skill="12413" stage="1" start="0" type="specialSkillEffect" param1="4.6" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1241312" group_skill="12413" stage="1" start="3" type="cameraMove" param1="Close" param2="AttackCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1241307" group_skill="12413" stage="1" start="15" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1241308" group_skill="12413" stage="1" start="15" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1241309" group_skill="12413" stage="1" start="15" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_03" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1241302" group_skill="12413" stage="1" start="93" type="hit" param1="442" param2="True"/>
+<SkillTimeline id="1241313" group_skill="12413" stage="1" start="93" type="cameraMove" param1="None" param2="WorldCenter" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1241315" group_skill="12413" stage="1" start="93" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1251301" group_skill="12513" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="4.666667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1251304" group_skill="12513" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1251305" group_skill="12513" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill3_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1251312" group_skill="12513" stage="1" start="0" type="specialSkillEffect" param1="4.666667" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1251309" group_skill="12513" stage="1" start="3" type="cameraMove" param1="Close" param2="AlliesCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1251306" group_skill="12513" stage="1" start="30" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1251307" group_skill="12513" stage="1" start="40" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_02" param2="Root" param3="False" param4="2.5" param5="False" param6="False"/>
+<SkillTimeline id="1251302" group_skill="12513" stage="1" start="70" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1251308" group_skill="12513" stage="1" start="100" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_03" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1251311" group_skill="12513" stage="1" start="123" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1260101" group_skill="12601" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.5" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1260106" group_skill="12601" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill01_Sf_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260107" group_skill="12601" stage="1" start="14" type="bullet" param1="shiyou/Char_126/Char_126_Skill01_Fly_01" param2="Straight" param3="0.3" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
+<SkillTimeline id="1260105" group_skill="12601" stage="1" start="14" type="fx" param1="shiyou/Char_126/Char_126_Skill01_Sf_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260102" group_skill="12601" stage="1" start="21" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1260104" group_skill="12601" stage="1" start="21" type="hitFx" param1="shiyou/Char_126/Char_126_Skill01_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1260108" group_skill="12601" stage="1" start="21" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1260201" group_skill="12602" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.167" param8="0" param9="2.5" param10="0" param11="0" param12="1" param13="3"/>
+<SkillTimeline id="1260203" group_skill="12602" stage="2" start="0" type="hideCharacter" param1="0.16" param2="False"/>
+<SkillTimeline id="1260209" group_skill="12602" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260206" group_skill="12602" stage="1" start="27" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260202" group_skill="12602" stage="1" start="36" type="sprint" param1="37" param2="Enemy"/>
+<SkillTimeline id="1260210" group_skill="12602" stage="1" start="40" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260207" group_skill="12602" stage="1" start="44" type="hitFx" param1="shiyou/Char_126/Char_126_Skill02_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1260204" group_skill="12602" stage="1" start="44" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1260213" group_skill="12602" stage="1" start="44" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1260211" group_skill="12602" stage="1" start="59" type="fx" param1="shiyou/Char_126/Char_126_Skill02_Sf_04" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260208" group_skill="12602" stage="1" start="65" type="hitFx" param1="shiyou/Char_126/Char_126_Skill02_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1260205" group_skill="12602" stage="1" start="65" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1260212" group_skill="12602" stage="1" start="65" type="fx" param1="" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260214" group_skill="12602" stage="1" start="65" type="cameraShake" param1="1" param2="Medium" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1260301" group_skill="12603" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.166667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1260302" group_skill="12603" stage="1" start="0" type="hitFx" param1="shiyou/Char_126/Char_126_Skill03_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1260303" group_skill="12603" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill03_Sf_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260304" group_skill="12603" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill03_Sf_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1260306" group_skill="12603" stage="1" start="0" type="specialSkillEffect" param1="3.166667" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1260307" group_skill="12603" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1260305" group_skill="12603" stage="1" start="18" type="ultraSkillEffect" param1="3.1" param2="shiyou/Char_skill03/Char_126_Skill03_Cam" param3="5.833333" param4="0"/>
+<SkillTimeline id="1260308" group_skill="12603" stage="1" start="70" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1261301" group_skill="12613" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.166667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1261302" group_skill="12613" stage="1" start="0" type="hitFx" param1="shiyou/Char_126/Char_126_Skill03_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1261303" group_skill="12613" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill03_Sf_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1261304" group_skill="12613" stage="1" start="0" type="fx" param1="shiyou/Char_126/Char_126_Skill03_Sf_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1261307" group_skill="12613" stage="1" start="0" type="specialSkillEffect" param1="3.166667" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1261305" group_skill="12613" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1261306" group_skill="12613" stage="1" start="70" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1280201" group_skill="12802" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.166667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1280203" group_skill="12802" stage="1" start="0" type="fx" param1="shiyou/Char_128/Char_128_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1280205" group_skill="12802" stage="1" start="60" type="hitFx" param1="shiyou/Char_128/Char_128_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1280202" group_skill="12802" stage="1" start="70" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1280204" group_skill="12802" stage="1" start="70" type="hitFx" param1="shiyou/Char_128/Char_128_Skill2_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1280206" group_skill="12802" stage="1" start="70" type="cameraShake" param1="1" param2="Medium" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1281301" group_skill="12813" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.833333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1281303" group_skill="12813" stage="1" start="0" type="fx" param1="shiyou/Char_128/Char_128_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1281308" group_skill="12813" stage="1" start="0" type="specialSkillEffect" param1="3.833333" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1281306" group_skill="12813" stage="1" start="3" type="cameraMove" param1="Close" param2="AttackCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1281305" group_skill="12813" stage="1" start="32" type="bullet" param1="shiyou/Char_128/Char_128_Skill3_Fly_01" param2="Straight" param3="1" param4="Root" param5="Body" param6="0;0;0;0;0;0|1;1;2;2;0;0" param7="" param8="0|0|0" param9="0"/>
+<SkillTimeline id="1281302" group_skill="12813" stage="1" start="64" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1281304" group_skill="12813" stage="1" start="65" type="hitFx" param1="shiyou/Char_128/Char_128_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1281309" group_skill="12813" stage="1" start="66" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1281307" group_skill="12813" stage="1" start="68" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1280301" group_skill="12803" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="3.833333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1280303" group_skill="12803" stage="1" start="0" type="fx" param1="shiyou/Char_128/Char_128_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1280308" group_skill="12803" stage="1" start="0" type="specialSkillEffect" param1="3.833333" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1280309" group_skill="12803" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1280306" group_skill="12803" stage="1" start="15" type="ultraSkillEffect" param1="3.8" param2="shiyou/Char_skill03/Char_128_Skill3_Cam" param3="3.8" param4="0"/>
+<SkillTimeline id="1280311" group_skill="12803" stage="1" start="23" type="cameraMove" param1="Close" param2="AttackCenter2" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1280305" group_skill="12803" stage="1" start="32" type="bullet" param1="shiyou/Char_128/Char_128_Skill3_Fly_01" param2="Straight" param3="1" param4="Root" param5="Body" param6="0;0;0;0;0;0|1;1;2;2;0;0" param7="" param8="0|0|0" param9="0"/>
+<SkillTimeline id="1280302" group_skill="12803" stage="1" start="64" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1280304" group_skill="12803" stage="1" start="65" type="hitFx" param1="shiyou/Char_128/Char_128_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1280307" group_skill="12803" stage="1" start="66" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1280310" group_skill="12803" stage="1" start="66" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1050301" group_skill="10503" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.73333" param10="0" param11="0" param12="0" param13="0"/>
+<SkillTimeline id="1050310" group_skill="10503" stage="1" start="0" type="specialSkillEffect" param1="2.366667" param2="0.1" param3="0.3"/>
+<SkillTimeline id="1050302" group_skill="10503" stage="1" start="1" type="ultraSkillEffect" param1="4.333333" param2="shiyou/Char_skill03/Char_105_Skill3_Cam" param3="4.333333" param4="0"/>
+<SkillTimeline id="1050303" group_skill="10503" stage="1" start="1" type="audio" param1="" param2="char_105_skill03_start" param3="1"/>
+<SkillTimeline id="1050308" group_skill="10503" stage="1" start="1" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1050304" group_skill="10503" stage="1" start="4" type="audio" param1="" param2="char_105_skill03" param3="0"/>
+<SkillTimeline id="1050305" group_skill="10503" stage="1" start="10" type="fx" param1="shiyou/Char_105/Char_105_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1050307" group_skill="10503" stage="1" start="10" type="fx" param1="shiyou/Char_105/Char_105_Skill3_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1050311" group_skill="10503" stage="1" start="50" type="hit" param1="0" param2="False"/>
+<SkillTimeline id="1050309" group_skill="10503" stage="1" start="60" type="cameraMove" param1="None" param2="WorldCenter" param3="0.4" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1050306" group_skill="10503" stage="1" start="68" type="fx" param1="shiyou/Char_105/Char_105_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170301" group_skill="11703" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.6" param8="0" param9="2.2" param10="1.1" param11="0" param12="7" param13="8"/>
+<SkillTimeline id="1170309" group_skill="11703" stage="1" start="0" type="sprint" param1="21" param2="WorldCenter"/>
+<SkillTimeline id="1170304" group_skill="11703" stage="1" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170316" group_skill="11703" stage="1" start="0" type="specialSkillEffect" param1="3.9" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1170317" group_skill="11703" stage="1" start="0" type="audio" param1="" param2="char_117_skill03_01" param3="0"/>
+<SkillTimeline id="1170314" group_skill="11703" stage="1" start="3" type="cameraMove" param1="Close" param2="AttackCenter" param3="0.1" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1170305" group_skill="11703" stage="1" start="22" type="ultraSkillEffect" param1="5.533333" param2="shiyou/Char_skill03/Char_117_Skill3_Cam" param3="5.533333" param4="0"/>
+<SkillTimeline id="1170318" group_skill="11703" stage="1" start="23" type="audio" param1="" param2="char_117_skill03_02" param3="0"/>
+<SkillTimeline id="1170308" group_skill="11703" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_04" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170307" group_skill="11703" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_03" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170306" group_skill="11703" stage="1" start="28" type="fx" param1="shiyou/Char_117/Char_117_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170303" group_skill="11703" stage="1" start="30" type="hitFx" param1="shiyou/Char_117/Char_117_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1170310" group_skill="11703" stage="1" start="40" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1170311" group_skill="11703" stage="1" start="45" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1170302" group_skill="11703" stage="1" start="50" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1170312" group_skill="11703" stage="1" start="50" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1170313" group_skill="11703" stage="1" start="55" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1170315" group_skill="11703" stage="1" start="63" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1200101" group_skill="12001" stage="1" start="0" type="base" param1="200" param2="0.2" param3="ChaseMoveTarget" param4="0.867" param5="0" param6="Jump" param7="0.767" param8="0.75" param9="1.1" param10="0.3" param11="0" param12="1" param13="3"/>
+<SkillTimeline id="1200104" group_skill="12001" stage="0" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1200105" group_skill="12001" stage="0" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill1_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1200107" group_skill="12001" stage="0" start="1" type="audio" param1="" param2="char_120_skill01" param3="0"/>
+<SkillTimeline id="1200103" group_skill="12001" stage="1" start="15" type="hitFx" param1="shiyou/Char_120/Char_120_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1200102" group_skill="12001" stage="1" start="15" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1200106" group_skill="12001" stage="1" start="15" type="cameraShake" param1="1" param2="Medium" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1200201" group_skill="12002" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.433333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1200203" group_skill="12002" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1200205" group_skill="12002" stage="1" start="1" type="audio" param1="" param2="char_120_skill02" param3="0"/>
+<SkillTimeline id="1200202" group_skill="12002" stage="1" start="37" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1200204" group_skill="12002" stage="1" start="37" type="hitFx" param1="shiyou/Char_120/Char_120_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1240101" group_skill="12401" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="1.966667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1240103" group_skill="12401" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240107" group_skill="12401" stage="1" start="1" type="audio" param1="" param2="char_124_skill01" param3="0"/>
+<SkillTimeline id="1240105" group_skill="12401" stage="1" start="22" type="bullet" param1="shiyou/Char_124/Char_124_Skill1_Fly_01" param2="Straight" param3="0.5" param4="LH" param5="Body" param6="0;0;1;1;0;0|0.6128039;0.3476391;1;1;0.3333333;0.3333333|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
+<SkillTimeline id="1240102" group_skill="12401" stage="1" start="36" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1240106" group_skill="12401" stage="1" start="36" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1240104" group_skill="12401" stage="1" start="37" type="hitFx" param1="shiyou/Char_124/Char_124_Skill1_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1240201" group_skill="12402" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.1" param8="0.75" param9="1.8" param10="0.3" param11="0" param12="1" param13="3"/>
+<SkillTimeline id="1240202" group_skill="12402" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_01" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240206" group_skill="12402" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_03" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240214" group_skill="12402" stage="1" start="1" type="audio" param1="" param2="char_124_skill02" param3="0"/>
+<SkillTimeline id="1240205" group_skill="12402" stage="1" start="3" type="hideCharacter" param1="0.2" param2="False"/>
+<SkillTimeline id="1240204" group_skill="12402" stage="1" start="7" type="sprint" param1="7" param2="Enemy"/>
+<SkillTimeline id="1240212" group_skill="12402" stage="2" start="7" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_02" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240203" group_skill="12402" stage="1" start="10" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_02" param2="Root" param3="False" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240207" group_skill="12402" stage="1" start="37" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1240208" group_skill="12402" stage="1" start="37" type="hitFx" param1="shiyou/Char_124/Char_124_Skill2_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1240213" group_skill="12402" stage="1" start="37" type="cameraShake" param1="0" param2="Medium" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1240209" group_skill="12402" stage="1" start="53" type="fx" param1="shiyou/Char_124/Char_124_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240211" group_skill="12402" stage="1" start="54" type="hideCharacter" param1="0.2" param2="False"/>
+<SkillTimeline id="1200301" group_skill="12003" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.833333" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1200303" group_skill="12003" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1200306" group_skill="12003" stage="1" start="0" type="fx" param1="shiyou/Char_120/Char_120_Skill3_SF_Bone_arm05" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1200307" group_skill="12003" stage="1" start="0" type="specialSkillEffect" param1="2.833333" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1200310" group_skill="12003" stage="1" start="0" type="audio" param1="" param2="char_120_skill03_01" param3="0"/>
+<SkillTimeline id="1200308" group_skill="12003" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1200305" group_skill="12003" stage="1" start="18" type="ultraSkillEffect" param1="4.483333" param2="shiyou/Char_skill03/Char_120_Skill3_Cam" param3="4.483333" param4="0"/>
+<SkillTimeline id="1200312" group_skill="12003" stage="1" start="18" type="audio" param1="" param2="char_120_skill03_start" param3="1"/>
+<SkillTimeline id="1200311" group_skill="12003" stage="1" start="50" type="audio" param1="" param2="char_120_skill03_02" param3="0"/>
+<SkillTimeline id="1200309" group_skill="12003" stage="1" start="58" type="cameraMove" param1="None" param2="WorldCenter" param3="0.8" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1200302" group_skill="12003" stage="1" start="59" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1200304" group_skill="12003" stage="1" start="59" type="hitFx" param1="shiyou/Char_120/Char_120_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1250101" group_skill="12501" stage="1" start="0" type="base" param1="200" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2" param10="0" param11="0" param12="0" param13="0"/>
+<SkillTimeline id="1250107" group_skill="12501" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill1_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1250109" group_skill="12501" stage="1" start="0" type="audio" param1="" param2="char_125_skill01" param3="0"/>
+<SkillTimeline id="1250103" group_skill="12501" stage="1" start="15" type="weaponMove" param1="Bone_Weapon_L" param2="21" param3="35" param4="52" param5="Root" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1250104" group_skill="12501" stage="1" start="15" type="weaponMove" param1="Bone_Weapon_R" param2="21" param3="35" param4="52" param5="Root" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1250102" group_skill="12501" stage="1" start="25" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1250105" group_skill="12501" stage="1" start="25" type="hitFx" param1="shiyou/Char_125/Char_125_Skill1_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1250108" group_skill="12501" stage="1" start="25" type="cameraShake" param1="1" param2="Slight" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1250201" group_skill="12502" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="2.166667" param10="0" param11="0" param12="0" param13="0"/>
+<SkillTimeline id="1250210" group_skill="12502" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill2_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1250211" group_skill="12502" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill2_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1250213" group_skill="12502" stage="1" start="1" type="audio" param1="" param2="char_125_skill02" param3="0"/>
+<SkillTimeline id="1250212" group_skill="12502" stage="1" start="29" type="hitFx" param1="shiyou/Char_125/Char_125_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1250209" group_skill="12502" stage="1" start="29" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1250301" group_skill="12503" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="0" param9="4.666667" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1250304" group_skill="12503" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1250305" group_skill="12503" stage="1" start="0" type="fx" param1="shiyou/Char_125/Char_125_Skill3_SF_02" param2="Weapon" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1250310" group_skill="12503" stage="1" start="0" type="specialSkillEffect" param1="4.666667" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1250314" group_skill="12503" stage="1" start="0" type="audio" param1="" param2="char_125_skill03_01" param3="0"/>
+<SkillTimeline id="1250311" group_skill="12503" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1250309" group_skill="12503" stage="1" start="16" type="ultraSkillEffect" param1="4.333333" param2="shiyou/Char_skill03/Char_125_Skill3_Cam" param3="4.333333" param4="0"/>
+<SkillTimeline id="1250315" group_skill="12503" stage="1" start="17" type="audio" param1="" param2="char_125_skill03_02" param3="0"/>
+<SkillTimeline id="1250316" group_skill="12503" stage="1" start="16" type="audio" param1="" param2="char_125_skill03_start" param3="1"/>
+<SkillTimeline id="1250306" group_skill="12503" stage="1" start="30" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1250312" group_skill="12503" stage="1" start="30" type="cameraMove" param1="Close" param2="AlliesCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1250307" group_skill="12503" stage="1" start="40" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_02" param2="Root" param3="False" param4="2.5" param5="False" param6="False"/>
+<SkillTimeline id="1250302" group_skill="12503" stage="1" start="70" type="hit" param1="0" param2="True"/>
+<SkillTimeline id="1250308" group_skill="12503" stage="1" start="100" type="hitFx" param1="shiyou/Char_125/Char_125_Skill3_Hit_03" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1250313" group_skill="12503" stage="1" start="123" type="cameraMove" param1="None" param2="WorldCenter" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1170201" group_skill="11702" stage="1" start="0" type="base" param1="201" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="0.6" param8="-0.5" param9="1.733333" param10="0.3" param11="0" param12="5" param13="6"/>
+<SkillTimeline id="1170211" group_skill="11702" stage="1" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill2_SF_01" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170212" group_skill="11702" stage="1" start="0" type="fx" param1="shiyou/Char_117/Char_117_Skill2_SF_03" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170214" group_skill="11702" stage="0" start="0" type="audio" param1="" param2="char_117_skill02" param3="0"/>
+<SkillTimeline id="1170215" group_skill="11702" stage="1" start="1" type="audio" param1="" param2="char_117_skill02" param3="0"/>
+<SkillTimeline id="1170210" group_skill="11702" stage="1" start="6" type="sprint" param1="28" param2="WorldCenter"/>
+<SkillTimeline id="1170207" group_skill="11702" stage="2" start="15" type="fx" param1="shiyou/Char_117/Char_117_Skill2_SF_02" param2="RH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1170206" group_skill="11702" stage="1" start="40" type="hitFx" param1="shiyou/Char_117/Char_117_Skill2_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1170202" group_skill="11702" stage="1" start="40" type="hit" param1="44" param2="True"/>
+<SkillTimeline id="1170213" group_skill="11702" stage="1" start="40" type="cameraShake" param1="1" param2="Medium" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1240301" group_skill="12403" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="None" param7="0" param8="1.5" param9="4.6" param10="0" param11="0" param12="1" param13="0"/>
+<SkillTimeline id="1240304" group_skill="12403" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240305" group_skill="12403" stage="1" start="0" type="fx" param1="shiyou/Char_124/Char_124_Skill3_SF_02" param2="LH" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1240310" group_skill="12403" stage="1" start="0" type="bullet" param1="" param2="Straight" param3="1" param4="RH" param5="Body" param6="0;0;1;1;0;0|1;1;1;1;0;0" param7="" param8="0|0|0" param9="0"/>
+<SkillTimeline id="1240312" group_skill="12403" stage="1" start="0" type="specialSkillEffect" param1="4.6" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1240317" group_skill="12403" stage="1" start="0" type="audio" param1="" param2="char_124_skill03_01" param3="0"/>
+<SkillTimeline id="1240314" group_skill="12403" stage="1" start="3" type="cameraMove" param1="Close" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1240311" group_skill="12403" stage="1" start="15" type="ultraSkillEffect" param1="4.083333" param2="shiyou/Char_skill03/Char_124_Skill3_Cam" param3="4.083333" param4="0"/>
+<SkillTimeline id="1240319" group_skill="12403" stage="1" start="15" type="audio" param1="" param2="char_124_skill03_start" param3="1"/>
+<SkillTimeline id="1240318" group_skill="12403" stage="1" start="16" type="audio" param1="" param2="char_124_skill03_02" param3="0"/>
+<SkillTimeline id="1240315" group_skill="12403" stage="1" start="17" type="cameraMove" param1="Close" param2="AttackCenter2" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1240309" group_skill="12403" stage="1" start="16" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_03" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1240308" group_skill="12403" stage="1" start="16" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_02" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1240307" group_skill="12403" stage="1" start="16" type="hitFx" param1="shiyou/Char_124/Char_124_Skill3_Hit_01" param2="Root" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1240313" group_skill="12403" stage="1" start="93" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1240302" group_skill="12403" stage="1" start="93" type="hit" param1="442" param2="True"/>
+<SkillTimeline id="1240316" group_skill="12403" stage="1" start="93" type="cameraMove" param1="None" param2="WorldCenter" param3="0.2" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1130301" group_skill="11303" stage="1" start="0" type="base" param1="202" param2="0" param3="SelfPosCasting" param4="0" param5="0" param6="Jump" param7="1" param8="0" param9="2" param10="1" param11="0" param12="1" param13="6"/>
+<SkillTimeline id="1130302" group_skill="11303" stage="1" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="-1" param7="False" param8="False"/>
+<SkillTimeline id="1130310" group_skill="11303" stage="2" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_Fly_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1130311" group_skill="11303" stage="2" start="0" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1130313" group_skill="11303" stage="1" start="0" type="specialSkillEffect" param1="3.5" param2="0.1" param3="0.1"/>
+<SkillTimeline id="1130317" group_skill="11303" stage="1" start="0" type="audio" param1="" param2="char_113_skill03_01" param3="0"/>
+<SkillTimeline id="1130314" group_skill="11303" stage="1" start="3" type="cameraMove" param1="VeryClose" param2="Caster" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1130305" group_skill="11303" stage="1" start="17" type="ultraSkillEffect" param1="4.533333" param2="shiyou/Char_skill03/Char_113_Skill3_Cam" param3="4.533333" param4="0"/>
+<SkillTimeline id="1130318" group_skill="11303" stage="1" start="18" type="audio" param1="" param2="char_113_skill03_02" param3="0"/>
+<SkillTimeline id="1130309" group_skill="11303" stage="1" start="30" type="sprint" param1="60" param2="Enemy"/>
+<SkillTimeline id="1130303" group_skill="11303" stage="1" start="30" type="fx" param1="shiyou/Char_113/Char_113_Skill3_SF_02" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1130308" group_skill="11303" stage="1" start="30" type="fx" param1="shiyou/Char_113/Char_113_Skill3_Fly_01" param2="Root" param3="True" param4="0|0|0" param5="0|0|0" param6="1" param7="False" param8="False"/>
+<SkillTimeline id="1130315" group_skill="11303" stage="1" start="40" type="cameraMove" param1="VeryClose" param2="Enemy" param3="0.5" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
+<SkillTimeline id="1130306" group_skill="11303" stage="1" start="60" type="hitFx" param1="shiyou/Char_113/Char_113_Skill3_Hit_01" param2="Body" param3="False" param4="-1" param5="False" param6="False"/>
+<SkillTimeline id="1130307" group_skill="11303" stage="1" start="60" type="hit" param1="442" param2="True"/>
+<SkillTimeline id="1130312" group_skill="11303" stage="1" start="60" type="cameraShake" param1="1" param2="Strong" param3="False" param4="" param5="" param6="" param7="" param8="" param9=""/>
+<SkillTimeline id="1130316" group_skill="11303" stage="1" start="60" type="cameraMove" param1="None" param2="WorldCenter" param3="0.3" param4="0;0;1;1;0;0|1;1;1;1;0;0"/>
 </root>

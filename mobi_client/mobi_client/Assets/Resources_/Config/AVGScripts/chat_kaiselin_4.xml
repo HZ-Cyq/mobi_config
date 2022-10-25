@@ -1,40 +1,42 @@
 <root>
 <chat_kaiselin_4 id="0" originalRow="0" groupSign="关于过敏孩子的后续"/>
 <chat_kaiselin_4 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="那个小女孩后来没事吗？"/>
-<chat_kaiselin_4 id="2" originalRow="2" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嗯？我跟土山去医院看过她了，给她带了很多新玩具和零食~"/>
-<chat_kaiselin_4 id="3" originalRow="3" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="明天她就该出院了。我们也警告过那对父母。"/>
-<chat_kaiselin_4 id="4" originalRow="4" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="不过能起多少作用就难说了。"/>
+<chat_kaiselin_4 id="2" originalRow="2" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嗯？我跟土山去医院看过她了，给她带了很多新玩具和零食~"/>
+<chat_kaiselin_4 id="3" originalRow="3" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="明天她就该出院了。我们也警告过那对父母。"/>
+<chat_kaiselin_4 id="4" originalRow="4" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="不过能起多少作用就难说了。"/>
 <chat_kaiselin_4 id="5" originalRow="5" groupSign="" debugClose="" action="可选对话框" param="$$你们也不叫我！==&gt;叫
 $$事情总算圆满解决了~==&gt;解决"/>
-<chat_kaiselin_4 id="6" originalRow="6" groupSign="好的" debugClose="" param=""/>
+<chat_kaiselin_4 id="6" originalRow="6" groupSign="叫" debugClose="" param=""/>
 <chat_kaiselin_4 id="7" originalRow="7" action="角色台词" data="wo" param="你们也不叫我！"/>
-<chat_kaiselin_4 id="8" originalRow="8" groupSign="1&gt;&gt;" action="角色台词" data="kaiselin" param="你不是忙着整备新异质物么~队长大人~"/>
-<chat_kaiselin_4 id="9" originalRow="9" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="去去去，我可不受用这套。"/>
-<chat_kaiselin_4 id="10" originalRow="10" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嘁~"/>
-<chat_kaiselin_4 id="11" originalRow="11" debugClose="" action="可选对话框" param="$$不聊了再见==&gt;再见"/>
-<chat_kaiselin_4 id="12" originalRow="12" groupSign="再见" debugClose="" param=""/>
-<chat_kaiselin_4 id="13" originalRow="13" debugClose="" action="角色台词" data="wo" param="我还得帮杜博士录入土山的入职材料，回聊。"/>
-<chat_kaiselin_4 id="14" originalRow="14" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="哼哼。"/>
-<chat_kaiselin_4 id="15" originalRow="15" debugClose="" action="跳转-标签" param="结束"/>
-<chat_kaiselin_4 id="16" originalRow="16" debugClose="" param=""/>
-<chat_kaiselin_4 id="17" originalRow="17" groupSign="解决" debugClose="" param=""/>
-<chat_kaiselin_4 id="18" originalRow="18" debugClose="" action="角色台词" data="wo" param="事情总算圆满解决了~"/>
-<chat_kaiselin_4 id="19" originalRow="19" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嗯哼~"/>
-<chat_kaiselin_4 id="20" originalRow="20" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="不过医疗记录描述，那种过敏反应就好像全身每个细胞都要燃烧起来一样……"/>
-<chat_kaiselin_4 id="21" originalRow="21" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="被异质物放大了心灵恐惧导致的过敏还真是少见呢。"/>
-<chat_kaiselin_4 id="22" originalRow="22" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="下次我一定要复现一下。"/>
-<chat_kaiselin_4 id="23" originalRow="23" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="真是……"/>
-<chat_kaiselin_4 id="24" originalRow="24" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="好奇那种滋味啊……"/>
-<chat_kaiselin_4 id="25" originalRow="25" groupSign="" debugClose="" action="可选对话框" param="$$你真是够了……==&gt;够了"/>
-<chat_kaiselin_4 id="26" originalRow="26" groupSign="够了" debugClose="" param=""/>
-<chat_kaiselin_4 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="你真是够了……"/>
-<chat_kaiselin_4 id="28" originalRow="28" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="我不用脑补都知道你现在什么样……"/>
-<chat_kaiselin_4 id="29" originalRow="29" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="求求你正常一点。"/>
-<chat_kaiselin_4 id="30" originalRow="30" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我最正常的时候就是做药物试验的时候。"/>
-<chat_kaiselin_4 id="31" originalRow="31" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="你这么喜欢的话，那不如……"/>
-<chat_kaiselin_4 id="32" originalRow="32" groupSign="" debugClose="" action="可选对话框" param="$$怎么又来了！停！……==&gt;停！"/>
-<chat_kaiselin_4 id="33" originalRow="33" groupSign="够了" debugClose="" param=""/>
-<chat_kaiselin_4 id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="wo" param="怎么又来了！停！"/>
-<chat_kaiselin_4 id="35" originalRow="35" groupSign="" debugClose="" action="跳转-标签" param="再见"/>
-<chat_kaiselin_4 id="36" originalRow="36" groupSign="结束" action="" data="" param=""/>
+<chat_kaiselin_4 id="8" originalRow="8" groupSign="2&gt;&gt;" action="角色台词" data="kaiselin" param="你不是忙着整备新异质物么~队长大人~"/>
+<chat_kaiselin_4 id="9" originalRow="9" debugClose="" action="可选对话框" data="" param="$$去去去，我可不受用这套。==&gt;去去去"/>
+<chat_kaiselin_4 id="10" originalRow="10" groupSign="去去去" debugClose="" action="" data="" param=""/>
+<chat_kaiselin_4 id="11" originalRow="11" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="去去去，我可不受用这套。"/>
+<chat_kaiselin_4 id="12" originalRow="12" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嘁~"/>
+<chat_kaiselin_4 id="13" originalRow="13" debugClose="" action="可选对话框" param="$$不聊了再见==&gt;再见"/>
+<chat_kaiselin_4 id="14" originalRow="14" groupSign="再见" debugClose="" param=""/>
+<chat_kaiselin_4 id="15" originalRow="15" debugClose="" action="角色台词" data="wo" param="我还得帮杜博士录入土山的入职材料，回聊。"/>
+<chat_kaiselin_4 id="16" originalRow="16" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="哼哼。"/>
+<chat_kaiselin_4 id="17" originalRow="17" debugClose="" action="跳转-标签" param="结束"/>
+<chat_kaiselin_4 id="18" originalRow="18" debugClose="" param=""/>
+<chat_kaiselin_4 id="19" originalRow="19" groupSign="解决" debugClose="" param=""/>
+<chat_kaiselin_4 id="20" originalRow="20" debugClose="" action="角色台词" data="wo" param="事情总算圆满解决了~"/>
+<chat_kaiselin_4 id="21" originalRow="21" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嗯哼~"/>
+<chat_kaiselin_4 id="22" originalRow="22" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="不过医疗记录描述，那种过敏反应就好像全身每个细胞都要燃烧起来一样……"/>
+<chat_kaiselin_4 id="23" originalRow="23" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="被异质物放大了心灵恐惧导致的过敏还真是少见呢。"/>
+<chat_kaiselin_4 id="24" originalRow="24" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="下次我一定要复现一下。"/>
+<chat_kaiselin_4 id="25" originalRow="25" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="真是……"/>
+<chat_kaiselin_4 id="26" originalRow="26" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="好奇那种滋味啊……"/>
+<chat_kaiselin_4 id="27" originalRow="27" groupSign="" debugClose="" action="可选对话框" param="$$你真是够了……==&gt;够了"/>
+<chat_kaiselin_4 id="28" originalRow="28" groupSign="够了" debugClose="" param=""/>
+<chat_kaiselin_4 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="wo" param="你真是够了……"/>
+<chat_kaiselin_4 id="30" originalRow="30" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="我不用脑补都知道你现在什么样……"/>
+<chat_kaiselin_4 id="31" originalRow="31" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="求求你正常一点。"/>
+<chat_kaiselin_4 id="32" originalRow="32" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我最正常的时候就是做药物试验的时候。"/>
+<chat_kaiselin_4 id="33" originalRow="33" groupSign="1.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="你这么喜欢的话，那不如……"/>
+<chat_kaiselin_4 id="34" originalRow="34" groupSign="" debugClose="" action="可选对话框" param="$$怎么又来了！停！……==&gt;停"/>
+<chat_kaiselin_4 id="35" originalRow="35" groupSign="停" debugClose="" param=""/>
+<chat_kaiselin_4 id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="wo" param="怎么又来了！停！"/>
+<chat_kaiselin_4 id="37" originalRow="37" groupSign="" debugClose="" action="跳转-标签" param="再见"/>
+<chat_kaiselin_4 id="38" originalRow="38" groupSign="结束" action="" data="" param=""/>
 </root>

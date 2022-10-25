@@ -5,7 +5,7 @@
 <xt_find3_lostgoods id="3" originalRow="3" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
 <xt_find3_lostgoods id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <xt_find3_lostgoods id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<xt_find3_lostgoods id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}紧急事件！紧急事件！关于织线偶童的资料，我突然搞忘掉了……" param2="" param3="type=0"/>
+<xt_find3_lostgoods id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}事情是这样子，关于织线偶童的资料，我突然搞忘掉了……" param2="" param3="type=0"/>
 <xt_find3_lostgoods id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="你的超级电脑里难道没有备份吗？" param2="" param3="type=0"/>
 <xt_find3_lostgoods id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作恢复}我也不知道啊！{#涂凌开心动作}拜托你去&lt;z=highlight&gt;康新雅苑&lt;/z&gt;找一件和织线偶童有关的物件吧！" param2="" param3="type=0"/>
 <xt_find3_lostgoods id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="有了它我就能搜索到以前的资料了！" param2="" param3="type=0"/>

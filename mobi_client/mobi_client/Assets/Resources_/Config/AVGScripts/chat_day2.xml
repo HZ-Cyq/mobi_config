@@ -1,23 +1,22 @@
 <root>
 <chat_day2 id="0" originalRow="0" groupSign="第二天收到"/>
-<chat_day2 id="1" originalRow="1" groupSign="0.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="╰(*°▽°*)╯早安。"/>
+<chat_day2 id="1" originalRow="1" groupSign="1.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="╰(*°▽°*)╯早安。"/>
 <chat_day2 id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" param="$$这么热情。==&gt;热情"/>
 <chat_day2 id="3" originalRow="3" groupSign="热情" debugClose="" param=""/>
 <chat_day2 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="这么热情。"/>
-<chat_day2 id="5" originalRow="5" groupSign="0.9&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="▄︻┻┳═一…… ☆（&gt;○&lt;）看你第二天也准时报到了，问候一下。"/>
-<chat_day2 id="6" originalRow="6" groupSign="0.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="你不喜欢别人对你太好？"/>
-<chat_day2 id="7" originalRow="7" groupSign="0.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="你是M吗？"/>
-<chat_day2 id="8" originalRow="8" groupSign="0.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="果然是变态。"/>
+<chat_day2 id="5" originalRow="5" groupSign="1.9&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="▄︻┻┳═一…… ☆（&gt;○&lt;）看你第二天也准时报到了，问候一下。"/>
+<chat_day2 id="6" originalRow="6" groupSign="1.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="你不喜欢别人对你太好？"/>
+<chat_day2 id="7" originalRow="7" groupSign="1.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="你是M吗？"/>
+<chat_day2 id="8" originalRow="8" groupSign="1.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="果然是变态。"/>
 <chat_day2 id="9" originalRow="9" groupSign="" debugClose="" action="可选对话框" param="$$我不是！==&gt;不是"/>
 <chat_day2 id="10" originalRow="10" groupSign="不是" debugClose="" param=""/>
 <chat_day2 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="我不是M！"/>
 <chat_day2 id="12" originalRow="12" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="也不是变态！"/>
 <chat_day2 id="13" originalRow="13" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="不要随意得出奇怪的结论！"/>
-<chat_day2 id="14" originalRow="14" groupSign="" debugClose="" action="可选对话框" param="$$收到==&gt;收到"/>
-<chat_day2 id="15" originalRow="15" groupSign="0.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="╮(╯▽╰)╭我去忙啦，有事叫我。"/>
-<chat_day2 id="16" originalRow="16" groupSign="" debugClose="" action="可选对话框" param="$$好的..==&gt;好的"/>
-<chat_day2 id="17" originalRow="17" groupSign="好的" debugClose="" param=""/>
-<chat_day2 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="好的……"/>
-<chat_day2 id="19" originalRow="19" groupSign="" debugClose="" param=""/>
-<chat_day2 id="20" originalRow="20" groupSign="结束" debugClose="" param=""/>
+<chat_day2 id="14" originalRow="14" groupSign="1.7&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="╮(╯▽╰)╭我去忙啦，有事叫我。"/>
+<chat_day2 id="15" originalRow="15" groupSign="" debugClose="" action="可选对话框" param="$$好的..==&gt;好的"/>
+<chat_day2 id="16" originalRow="16" groupSign="好的" debugClose="" param=""/>
+<chat_day2 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="好的……"/>
+<chat_day2 id="18" originalRow="18" groupSign="" debugClose="" param=""/>
+<chat_day2 id="19" originalRow="19" groupSign="结束" debugClose="" param=""/>
 </root>

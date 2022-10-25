@@ -3,73 +3,75 @@
 <test_3Dmap id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2=""/>
 <test_3Dmap id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
 <test_3Dmap id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}{#涂凌开心动作}这里就是咱们的安江市啦。" param2=""/>
-<test_3Dmap id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作恢复}{#涂凌待机表情}STS的职责，就是保护这座城市，不受异质物侵害。" param2=""/>
-<test_3Dmap id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌忧伤表情}目前最危险的异质物事件，就是我们昨天见到的『巢』！" param2=""/>
-<test_3Dmap id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="因为每个『巢』的特点和危险程度都不一样。" param2=""/>
-<test_3Dmap id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="调查可以根据当前的势力逐步推进。{#涂凌待机动作}" param2=""/>
-<test_3Dmap id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}总之，只要能够找到巢主，击败它，『巢』化的区域就会恢复原状啦！" param2=""/>
-<test_3Dmap id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}本次监测到『巢化反应』的区域是【泉舜公寓】，赶紧出发吧。" param2=""/>
-<test_3Dmap id="10" originalRow="10" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
-<test_3Dmap id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
-<test_3Dmap id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<test_3Dmap id="13" originalRow="13" groupSign="泉舜公寓1" debugClose="" action="" data="" param="" param2=""/>
-<test_3Dmap id="14" originalRow="14" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2=""/>
-<test_3Dmap id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
-<test_3Dmap id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="这就是收容404的那栋公寓--泉舜公寓。" param2=""/>
-<test_3Dmap id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="啊！？但是404不是……" param2=""/>
-<test_3Dmap id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌平静表情}出现过异质物的地方可能会残留感染物……
+<test_3Dmap id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作恢复}{#涂凌待机表情}咱们STS的核心职责，
+就是保护这座城市，不受异质物侵害。" param2=""/>
+<test_3Dmap id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌忧伤表情}其中最危险的异质物事件，
+就是我们昨天见到的&lt;z=highlight&gt;『巢』&lt;/z&gt;！" param2=""/>
+<test_3Dmap id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="每个&lt;z=highlight&gt;『巢』&lt;/z&gt;的特点和危险程度都不一样,
+调查可以根据当前的实力逐步推进。{#涂凌待机动作}" param2=""/>
+<test_3Dmap id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}总之，只要能够找到巢主并击败它，&lt;z=highlight&gt;『巢化』&lt;/z&gt;的区域就会恢复原状啦！" param2=""/>
+<test_3Dmap id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}本次监测到&lt;z=highlight&gt;『巢化』&lt;/z&gt;的区域是&lt;z=highlight&gt;『泉舜公寓』&lt;/z&gt;，赶紧出发吧。" param2=""/>
+<test_3Dmap id="9" originalRow="9" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<test_3Dmap id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<test_3Dmap id="11" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<test_3Dmap id="12" originalRow="12" groupSign="泉舜公寓1" debugClose="" action="" data="" param="" param2=""/>
+<test_3Dmap id="13" originalRow="13" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2=""/>
+<test_3Dmap id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2=""/>
+<test_3Dmap id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="这就是收容404的那栋公寓--泉舜公寓。" param2=""/>
+<test_3Dmap id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="wo" param="啊！？但是404不是……" param2=""/>
+<test_3Dmap id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}{#涂凌平静表情}出现过异质物的地方可能会残留感染物……
 催生更多异质物和感染现象。" param2=""/>
-<test_3Dmap id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="类似这样的区域，我们会列为『异变区』。" param2=""/>
-<test_3Dmap id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}今天的工作就是先确认新的『异变区』状况！
+<test_3Dmap id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="类似这样的区域，我们会列为『异变区』。" param2=""/>
+<test_3Dmap id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}今天的工作就是先确认新的『异变区』状况！
 凯瑟琳到你了。{#涂凌头中}" param2=""/>
-<test_3Dmap id="21" originalRow="21" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
-<test_3Dmap id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2=""/>
-<test_3Dmap id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}我今天的话……要带大家去一趟天目剧院。{1.5}{#凯瑟琳2待机表情}" param2=""/>
-<test_3Dmap id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2=""/>
-<test_3Dmap id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞忧伤表情}哈？那里不是废弃很久了吗？" param2=""/>
-<test_3Dmap id="26" originalRow="26" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
-<test_3Dmap id="27" originalRow="27" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
-<test_3Dmap id="28" originalRow="28"/>
-<test_3Dmap id="29" originalRow="29" groupSign="天目剧院1" debugClose="" action="" data="" param="" param2=""/>
-<test_3Dmap id="30" originalRow="30" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2=""/>
-<test_3Dmap id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2=""/>
-<test_3Dmap id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2平静表情}没错，杜博士早上的时候已经将天目剧院列为『警戒区』。" param2=""/>
-<test_3Dmap id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="wo" param="『警戒区』跟『异变区』有什么差别吗……" param2=""/>
-<test_3Dmap id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}『警戒区』深度未知，已经生成了特殊的异质物环境……" param2=""/>
-<test_3Dmap id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2待机表情}不像『异变区』，只要清理完异质物就可以。" param2=""/>
-<test_3Dmap id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2平静表情}『警戒区』的异质物有可能会是我们从未见过的类型。" param2=""/>
-<test_3Dmap id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}换句话说，要彻底解决需要很长的时间。" param2=""/>
-<test_3Dmap id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2待机表情}不过『警戒区』不出现在人类聚集地的话，不需要加急处理。" param2=""/>
-<test_3Dmap id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="多多提升实力后，稳步推进就行。" param2=""/>
-<test_3Dmap id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}{#凯瑟琳2得意表情}『警戒区』负责人是我，有疑问问我就可以~" param2=""/>
-<test_3Dmap id="41" originalRow="41" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
-<test_3Dmap id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞得意表情}到我了，本大爷负责所有【居民区】的巡逻。
+<test_3Dmap id="20" originalRow="20" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2=""/>
+<test_3Dmap id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2=""/>
+<test_3Dmap id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}我今天的话……要带大家去一趟天目剧院。{1.5}{#凯瑟琳2待机表情}" param2=""/>
+<test_3Dmap id="23" originalRow="23" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2=""/>
+<test_3Dmap id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞忧伤表情}哈？那里不是废弃很久了吗？" param2=""/>
+<test_3Dmap id="25" originalRow="25" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<test_3Dmap id="26" originalRow="26" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<test_3Dmap id="27" originalRow="27"/>
+<test_3Dmap id="28" originalRow="28" groupSign="天目剧院1" debugClose="" action="" data="" param="" param2=""/>
+<test_3Dmap id="29" originalRow="29" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2=""/>
+<test_3Dmap id="30" originalRow="30" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2=""/>
+<test_3Dmap id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2平静表情}没错，杜博士早上的时候已经将天目剧院列为『警戒区』。" param2=""/>
+<test_3Dmap id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="wo" param="『警戒区』跟『异变区』有什么差别吗……" param2=""/>
+<test_3Dmap id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}『警戒区』深度未知，已经生成了特殊的异质物环境……" param2=""/>
+<test_3Dmap id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2待机表情}不像『异变区』，只要清理完异质物就可以。" param2=""/>
+<test_3Dmap id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2平静表情}『警戒区』的异质物有可能会是我们从未见过的类型。" param2=""/>
+<test_3Dmap id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃表情}换句话说，要彻底解决需要很长的时间。" param2=""/>
+<test_3Dmap id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2待机表情}不过『警戒区』不出现在人类聚集地的话，不需要加急处理。" param2=""/>
+<test_3Dmap id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="多多提升实力后，稳步推进就行。" param2=""/>
+<test_3Dmap id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作恢复}{#凯瑟琳2得意表情}『警戒区』负责人是我，有疑问问我就可以~" param2=""/>
+<test_3Dmap id="40" originalRow="40" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<test_3Dmap id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞得意表情}到我了，本大爷负责所有【居民区】的巡逻。
 就是安江市民们日常生活的地方。" param2=""/>
-<test_3Dmap id="43" originalRow="43" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
-<test_3Dmap id="44" originalRow="44" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
-<test_3Dmap id="45" originalRow="45" groupSign="整个地图1" debugClose="" action="" data="" param="" param2=""/>
-<test_3Dmap id="46" originalRow="46" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2=""/>
-<test_3Dmap id="47" originalRow="47" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
-<test_3Dmap id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}{#聂飞思考动作}一旦出现异质物，我们要迅速集合，搞定！
+<test_3Dmap id="42" originalRow="42" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2=""/>
+<test_3Dmap id="43" originalRow="43" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<test_3Dmap id="44" originalRow="44" groupSign="整个地图1" debugClose="" action="" data="" param="" param2=""/>
+<test_3Dmap id="45" originalRow="45" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2=""/>
+<test_3Dmap id="46" originalRow="46" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2=""/>
+<test_3Dmap id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}{#聂飞思考动作}一旦出现异质物，我们要迅速集合，搞定！
 杜绝一切扩散感染或者危险升级事件！" param2=""/>
-<test_3Dmap id="49" originalRow="49" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2=""/>
-<test_3Dmap id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌抬头}{#涂凌平静表情}感觉小飞飞的工作最闲~" param2=""/>
-<test_3Dmap id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}我的事一般都当天解决！哪里闲！？" param2=""/>
-<test_3Dmap id="52" originalRow="52" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2=""/>
-<test_3Dmap id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2得意表情}这些事看起来不少，但许多并不需要当天解决。
+<test_3Dmap id="48" originalRow="48" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2=""/>
+<test_3Dmap id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌抬头}{#涂凌平静表情}感觉小飞飞的工作最闲~" param2=""/>
+<test_3Dmap id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}我的事一般都当天解决！哪里闲！？" param2=""/>
+<test_3Dmap id="51" originalRow="51" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2=""/>
+<test_3Dmap id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2得意表情}这些事看起来不少，但许多并不需要当天解决。
 随着实力的增长，可以负责更多区域的事件。" param2=""/>
-<test_3Dmap id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}什么郊区恐怖别墅啦……突然发生惨案的博物馆啦……" param2=""/>
-<test_3Dmap id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}安江市这么大，谁知道明天又有什么奇怪的事发生呢？" param2=""/>
-<test_3Dmap id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（不用这么一脸兴奋吧……）&lt;/z&gt;" param2=""/>
-<test_3Dmap id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="tuling" param="呵呵呵，好啦。总之先跟我去『异变区』吧。
+<test_3Dmap id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}什么郊区恐怖别墅啦……突然发生惨案的博物馆啦……" param2=""/>
+<test_3Dmap id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}安江市这么大，谁知道明天又有什么奇怪的事发生呢？" param2=""/>
+<test_3Dmap id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（不用这么一脸兴奋吧……）&lt;/z&gt;" param2=""/>
+<test_3Dmap id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="tuling" param="呵呵呵，好啦。总之先跟我去『异变区』吧。
 有感染扩散风险的居民区必须优先处理~" param2=""/>
-<test_3Dmap id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#凯瑟琳2紧张动作恢复}出发！" param2=""/>
-<test_3Dmap id="59" originalRow="59" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
-<test_3Dmap id="60" originalRow="60" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
-<test_3Dmap id="61" originalRow="61" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<test_3Dmap id="62" originalRow="62" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<test_3Dmap id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#凯瑟琳2紧张动作恢复}出发！" param2=""/>
+<test_3Dmap id="58" originalRow="58" groupSign="" debugClose="" action="移除角色" data="" param="" param2=""/>
+<test_3Dmap id="59" originalRow="59" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<test_3Dmap id="60" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<test_3Dmap id="61" originalRow="61" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<test_3Dmap id="62" originalRow="62" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <test_3Dmap id="63" originalRow="63" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <test_3Dmap id="64" originalRow="64" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <test_3Dmap id="65" originalRow="65" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<test_3Dmap id="66" originalRow="66" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 </root>

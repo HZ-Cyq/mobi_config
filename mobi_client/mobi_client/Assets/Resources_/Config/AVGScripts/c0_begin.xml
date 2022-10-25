@@ -226,7 +226,7 @@
 <C0_begin id="208" originalRow="208" groupSign="" debugClose="" action="RPGActor" data="床下异变研究人员" param="1" param2="" param3=""/>
 <C0_begin id="209" originalRow="209" groupSign="2" debugClose="" action="角色动作" data="stskeyanrenyuan" param="STS科研人员_起身_动作_开始_01" param2="" param3=""/>
 <C0_begin id="210" originalRow="210" groupSign="" debugClose="" action="角色动作" data="stskeyanrenyuan" param="STS科研人员_待机_动作_循环_01" param2="" param3=""/>
-<C0_begin id="211" originalRow="211" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="{播放音效,avg_creak}{播放音效,voice_lightpunch}&lt;size=50&gt;呃……嗨，嗨！你好啊！&lt;/size&gt;" param2="" param3="type=0"/>
+<C0_begin id="211" originalRow="211" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="{播放音效,avg_creak}{播放音效,avg_Slightpunch}&lt;size=50&gt;呃……嗨，嗨！你好啊！&lt;/size&gt;" param2="" param3="type=0"/>
 <C0_begin id="212" originalRow="212" groupSign="" debugClose="" action="RPGActor" data="CM24" param="1" param2="" param3=""/>
 <C0_begin id="213" originalRow="213" groupSign="" debugClose="" action="RPGActor" data="CM16" param="2" param2="" param3=""/>
 <C0_begin id="214" originalRow="214" groupSign="0.1&gt;&gt;" debugClose="" action="镜头震动" data="1;2;1;0.5" param="" param2="" param3=""/>

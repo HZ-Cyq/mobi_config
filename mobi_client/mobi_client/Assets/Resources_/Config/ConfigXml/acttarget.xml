@@ -12,7 +12,7 @@
 <ActTarget id="1021" desc="第三天签到" group_actId="10002" name="Day3" dayNum="3" giftIdAndCount="100106;1" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1022" desc="第四天签到" group_actId="10002" name="Day4" dayNum="4" giftIdAndCount="290002;5" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1023" desc="第五天签到" group_actId="10002" name="Day5" dayNum="5" giftIdAndCount="3;1000" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
-<ActTarget id="1024" desc="第六天签到" group_actId="10002" name="Day6" dayNum="6" giftIdAndCount="500000;20" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
+<ActTarget id="1024" desc="第六天签到" group_actId="10002" name="Day6" dayNum="6" giftIdAndCount="500000;100" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1025" desc="第七天签到" group_actId="10002" name="Day7" dayNum="7" giftIdAndCount="3;2000" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 <ActTarget id="1026" desc="第八天签到" group_actId="10002" name="Day8" dayNum="8" giftIdAndCount="201000;30" conditionTimes="1" taskId="70201" conditionType="0" conditionArgs="1"/>
 </root>

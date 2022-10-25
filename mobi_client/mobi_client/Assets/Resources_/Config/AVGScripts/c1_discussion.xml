@@ -33,39 +33,38 @@
 她不能是从外面闯进来的吗？{0.5}{#聂飞思考恢复}" param2="55诞生地" param3=""/>
 <C1_Discussion id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="有一个线索可以应证这种推测。" param2="" param3=""/>
 <C1_Discussion id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="刚才房间里调查过的一个物件，
-和收容现场是有&lt;z=highlight&gt;变化&lt;/z&gt;的。{#周易无奈2动作恢复}" param2="" param3=""/>
+和收容现场是有&lt;z=yellow&gt;变化&lt;/z&gt;的。{#周易无奈2动作恢复}" param2="" param3=""/>
 <C1_Discussion id="30" originalRow="30" groupSign="问题一" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_Discussion id="31" originalRow="31" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
 <C1_Discussion id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="niefei" param="有变化吗？{#聂飞思考}
 我怎么没看出来？{1.2}{#聂飞思考恢复}" param2="56有变化" param3=""/>
 <C1_Discussion id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="" param="{#聂飞严肃}{#聂飞严肃表情}&lt;z=green&gt;聂飞接下来会发表自己的观点。&lt;/z&gt;" param2="" param3="type=1"/>
-<C1_Discussion id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;但他的&lt;/z&gt;&lt;z=highlight&gt;某句发言&lt;/z&gt;&lt;z=green&gt;里，
-会存在和&lt;/z&gt;&lt;z=highlight&gt;某个线索&lt;/z&gt;&lt;z=green&gt;的&lt;/z&gt;&lt;z=highlight&gt;“矛盾”。&lt;/z&gt;" param2="" param3="type=1"/>
-<C1_Discussion id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;当聂飞说到&lt;/z&gt;&lt;z=highlight&gt;那句有矛盾的话&lt;/z&gt;&lt;z=green&gt;时，选择正确的&lt;/z&gt;&lt;z=highlight&gt;线索&lt;/z&gt;&lt;z=green&gt;进行反驳。&lt;/z&gt;" param2="" param3="type=1"/>
+<C1_Discussion id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;但他的&lt;/z&gt;&lt;z=yellow&gt;某句发言&lt;/z&gt;&lt;z=green&gt;里，
+会存在和&lt;/z&gt;&lt;z=yellow&gt;某个线索&lt;/z&gt;&lt;z=green&gt;的&lt;/z&gt;&lt;z=yellow&gt;“矛盾”。&lt;/z&gt;" param2="" param3="type=1"/>
+<C1_Discussion id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;当聂飞说到&lt;/z&gt;&lt;z=yellow&gt;那句有矛盾的话&lt;/z&gt;&lt;z=green&gt;时，选择正确的&lt;/z&gt;&lt;z=yellow&gt;线索&lt;/z&gt;&lt;z=green&gt;进行反驳。&lt;/z&gt;" param2="" param3="type=1"/>
 <C1_Discussion id="36" originalRow="36" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="37" originalRow="37" groupSign="问题一0" debugClose="" action="可选对话框" data="" param="$$第一章_3-404收容档案==&gt;问题一0错误
-$$第一章_老人孙女合影==&gt;问题一0错误
+<C1_Discussion id="37" originalRow="37" groupSign="问题一0" debugClose="" action="可选对话框" data="" param="$$第一章_老人孙女合影==&gt;问题一0错误
+$$第一章_3-404收容档案==&gt;问题一0错误
 $$第一章_老旧的飞机模型==&gt;问题一0错误" param2="" param3="type=1"/>
 <C1_Discussion id="38" originalRow="38" groupSign="" debugClose="" action="引导" data="集中讨论引导1" param="" param2="" param3=""/>
 <C1_Discussion id="39" originalRow="39" groupSign="" debugClose="R1_1" action="角色台词" data="niefei" param="404房间完美再现了屋里的原貌。" param2="57房间完美" param3="type=3,offx=0.2,offy=-0.2"/>
-<C1_Discussion id="40" originalRow="40" groupSign="问题一1" debugClose="" action="可选对话框" data="" param="$$第一章_3-404收容档案==&gt;问题一正确
-$$第一章_老人孙女合影==&gt;问题一1错误
+<C1_Discussion id="40" originalRow="40" groupSign="问题一1" debugClose="" action="可选对话框" data="" param="$$第一章_老人孙女合影==&gt;问题一1错误
+$$第一章_3-404收容档案==&gt;问题一正确
 $$第一章_老旧的飞机模型==&gt;问题一1错误" param2="" param3="type=1"/>
 <C1_Discussion id="41" originalRow="41" groupSign="" debugClose="R1_2" action="角色台词" data="niefei" param="这屋子里的摆设，
-&lt;z=highlight&gt;跟收容现场不是一模一样吗？&lt;/z&gt;" param2="59这屋子" param3="type=3,offx=0.2,offy=-0.2"/>
+&lt;z=yellow&gt;跟收容现场不是一模一样吗？&lt;/z&gt;" param2="59这屋子" param3="type=3,offx=0.2,offy=-0.2"/>
 <C1_Discussion id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;其中一句话是有问题的。&lt;/z&gt;" param2="" param3="type=1"/>
-<C1_Discussion id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;注意看&lt;/z&gt;&lt;z=highlight&gt;高亮显示&lt;/z&gt;&lt;z=green&gt;的部分，和某个线索有矛盾。&lt;/z&gt;" param2="" param3="type=1"/>
+<C1_Discussion id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;注意看&lt;/z&gt;&lt;z=yellow&gt;高亮显示&lt;/z&gt;&lt;z=green&gt;的部分，和某个线索有矛盾。&lt;/z&gt;" param2="" param3="type=1"/>
 <C1_Discussion id="44" originalRow="44" groupSign="" debugClose="" action="跳转-标签" data="" param="问题一0" param2="" param3=""/>
 <C1_Discussion id="45" originalRow="45" groupSign="问题一0错误" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
 <C1_Discussion id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="niefei" param="你没必要现在打断我的话……" param2="58你没必要" param3=""/>
-<C1_Discussion id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;没有&lt;/z&gt;&lt;z=highlight&gt;高亮提示&lt;/z&gt;&lt;z=green&gt;的话，就不用出示线索，继续往下听听吧。&lt;/z&gt;" param2="" param3="type=1"/>
-<C1_Discussion id="48" originalRow="48" groupSign="" debugClose="" action="可选对话框" data="" param="$$继续==&gt;问题一0" param2="" param3=""/>
+<C1_Discussion id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;没有&lt;/z&gt;&lt;z=yellow&gt;高亮提示&lt;/z&gt;&lt;z=green&gt;的话，就不用出示线索，继续往下听听吧。&lt;/z&gt;" param2="" param3="type=1"/>
+<C1_Discussion id="48" originalRow="48" groupSign="" debugClose="" action="跳转-标签" data="" param="问题一0" param2="" param3=""/>
 <C1_Discussion id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_Discussion id="50" originalRow="50" groupSign="问题一1错误" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="niefei" param="怎么？我说一模一样有什么问题吗" param2="60你拿出" param3=""/>
+<C1_Discussion id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="niefei" param="你拿出这个能证明什么？" param2="60你拿出" param3=""/>
 <C1_Discussion id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;好像出示了错误的线索……&lt;/z&gt;" param2="" param3="type=1"/>
-<C1_Discussion id="53" originalRow="53" groupSign="" debugClose="" action="可选对话框" data="" param="$$重听==&gt;问题一0
-$$继续==&gt;问题一1" param2="" param3=""/>
+<C1_Discussion id="53" originalRow="53" groupSign="" debugClose="" action="跳转-标签" data="" param="问题一1" param2="" param3=""/>
 <C1_Discussion id="54" originalRow="54" groupSign="问题一正确" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_Discussion id="55" originalRow="55" groupSign="" debugClose="" action="播放timeline" data="通用_指正" param="TRUE" param2="" param3=""/>
 <C1_Discussion id="56" originalRow="56" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.8" param2="" param3=""/>
@@ -77,7 +76,7 @@ $$继续==&gt;问题一1" param2="" param3=""/>
 <C1_Discussion id="60" originalRow="60" groupSign="3" debugClose="" action="新角色镜头" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
 <C1_Discussion id="61" originalRow="61" groupSign="" debugClose="" action="角色镜头关闭" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
 <C1_Discussion id="62" originalRow="62" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.6" param2="" param3=""/>
-<C1_Discussion id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,niefei,-30,0.1}{0.3}{角色转身,tuling,-30,0.5}{0.4}3-404{角色转身,zhouyi,10,0.3}{角色转头,zhouyi,右中下小,0.3}头上的电视机，
+<C1_Discussion id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,niefei,-30,0.1}{0.3}{角色转身,tuling,-30,0.5}{0.4}头上的电视机，{角色转身,zhouyi,10,0.3}{角色转头,zhouyi,右中下小,0.3}
 和屋里那台倒是一模一样。" param2="93T头上的" param3=""/>
 <C1_Discussion id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="niefei" param="好家伙！{#聂飞惊讶动作恢复}{#聂飞得意表情}
 难道说……" param2="61好家伙" param3=""/>
@@ -96,7 +95,7 @@ $$继续==&gt;问题一1" param2="" param3=""/>
 <C1_Discussion id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="tuling" param="因为不止有这一点！{角色转身,zhouyi,50,0.3}{角色表情,zhouyi,;;周易_待机_眼睛_开始_01,0.5}" param2="95T因为不止" param3=""/>
 <C1_Discussion id="76" originalRow="76" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.4" param2="" param3=""/>
 <C1_Discussion id="77" originalRow="77" groupSign="" debugClose="" action="角色转身" data="zhouyi" param="-30" param2="0.3" param3=""/>
-<C1_Discussion id="78" originalRow="78" groupSign="问题二继续" debugClose="" action="角色台词" data="zhouyi" param="是的，3-404身上还有另一特点，{0.1}{角色表情,zhouyi,;;周易_下看_眼睛_开始_01,0.5}和电视机一起，共同指向她和屋主有着强关联——" param2="" param3=""/>
+<C1_Discussion id="78" originalRow="78" groupSign="问题二继续" debugClose="" action="角色台词" data="zhouyi" param="是的，3-404身上还有另一特点，{0.1}{#周易思考表情}{角色表情,zhouyi,;;周易_下看_眼睛_开始_01,0.5}和电视机一起，共同指向她和屋主有着强关联——" param2="" param3=""/>
 <C1_Discussion id="79" originalRow="79" groupSign="" debugClose="" action="可选对话框" data="3-404和老人的另一个强关联点是？" param="$$第一章_老旧的飞机模型==&gt;问题二错误1
 $$第一章_空难的剪报==&gt;问题二错误1
 $$第一章_拍立得照片==&gt;问题二正确
@@ -142,7 +141,7 @@ $$第一章_老式电视机==&gt;问题二错误2" param2="" param3="type=3"/>
 <C1_Discussion id="110" originalRow="110" groupSign="" debugClose="" action="跳转-标签" data="" param="第二阶段" param2="" param3=""/>
 <C1_Discussion id="111" originalRow="111" groupSign="问题二错误1" debugClose="" action="角色台词" data="zhouyi" param="这个东西只是在老人房间里发现的，看不出来和404有什么关系。" param2="" param3=""/>
 <C1_Discussion id="112" originalRow="112" groupSign="" debugClose="" action="跳转-标签" data="" param="问题二继续" param2="" param3=""/>
-<C1_Discussion id="113" originalRow="113" groupSign="问题二错误2" debugClose="" action="角色台词" data="zhouyi" param="这个只是404的观测报告啊，和老人有什么关系呢？" param2="" param3=""/>
+<C1_Discussion id="113" originalRow="113" groupSign="问题二错误2" debugClose="" action="角色台词" data="zhouyi" param="这个电视机只是和3-404的头部非常相似，和老人有什么关系呢？" param2="" param3=""/>
 <C1_Discussion id="114" originalRow="114" groupSign="" debugClose="" action="跳转-标签" data="" param="问题二继续" param2="" param3=""/>
 <C1_Discussion id="115" originalRow="115" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_Discussion id="116" originalRow="116" groupSign="第二阶段" debugClose="" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
@@ -161,11 +160,11 @@ $$第一章_老式电视机==&gt;问题二错误2" param2="" param3="type=3"/>
 分析姑娘是我聂总的强项~喵{0.8}{聂飞思考}{#周易待机动作}" param2="68我来我来" param3=""/>
 <C1_Discussion id="127" originalRow="127" groupSign="问题三" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_Discussion id="128" originalRow="128" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="129" originalRow="129" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_老式电视机==&gt;shake
-$$第一章_发黄的明信片==&gt;shake
-$$第一章_拍立得照片==&gt;shake
-$$第一章_空难的剪报==&gt;shake
-$$第一章_老旧的飞机模型==&gt;shake" param2="" param3="type=1"/>
+<C1_Discussion id="129" originalRow="129" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_老式电视机==&gt;问题三错误0
+$$第一章_发黄的明信片==&gt;问题三错误0
+$$第一章_拍立得照片==&gt;问题三错误0
+$$第一章_空难的剪报==&gt;问题三错误0
+$$第一章_老旧的飞机模型==&gt;问题三错误0" param2="" param3="type=1"/>
 <C1_Discussion id="130" originalRow="130" groupSign="" debugClose="R2_1" action="角色台词" data="niefei" param="哼哼！
 情况不是很清楚吗~" param2="69哼哼" param3="type=3,offx=0.2,offy=-0.2"/>
 <C1_Discussion id="131" originalRow="131" groupSign="问题三继续1" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
@@ -175,7 +174,7 @@ $$第一章_拍立得照片==&gt;问题三错误1
 $$第一章_空难的剪报==&gt;问题三错误1
 $$第一章_老旧的飞机模型==&gt;问题三错误1" param2="" param3="type=1"/>
 <C1_Discussion id="133" originalRow="133" groupSign="" debugClose="R2_2" action="角色台词" data="niefei" param="老人的孙女叫钱越，从小喜欢唱歌，
-&lt;z=highlight&gt;想当偶像艺人&lt;/z&gt;。" param2="70老人" param3="type=3,offx=0.2,offy=-0.2"/>
+&lt;z=yellow&gt;想当偶像艺人&lt;/z&gt;。" param2="70老人" param3="type=3,offx=0.2,offy=-0.2"/>
 <C1_Discussion id="134" originalRow="134" groupSign="问题三继续2" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
 <C1_Discussion id="135" originalRow="135" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_老式电视机==&gt;问题三错误2
 $$第一章_发黄的明信片==&gt;问题三正确
@@ -183,14 +182,14 @@ $$第一章_拍立得照片==&gt;问题三错误2
 $$第一章_空难的剪报==&gt;问题三错误2
 $$第一章_老旧的飞机模型==&gt;问题三错误2" param2="" param3="type=1"/>
 <C1_Discussion id="136" originalRow="136" groupSign="" debugClose="R2_3" action="角色台词" data="niefei" param="虽然很努力，但混得很惨，
-&lt;z=highlight&gt;完全接不到工作&lt;/z&gt;，也没法出道。" param2="72虽然很" param3="type=3,offx=0.2,offy=-0.2"/>
+&lt;z=yellow&gt;完全接不到工作&lt;/z&gt;，也没法出道。" param2="72虽然很" param3="type=3,offx=0.2,offy=-0.2"/>
 <C1_Discussion id="137" originalRow="137" groupSign="问题三继续3" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
 <C1_Discussion id="138" originalRow="138" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_老式电视机==&gt;问题三错误3
 $$第一章_发黄的明信片==&gt;问题三错误3
 $$第一章_拍立得照片==&gt;问题三错误3
 $$第一章_空难的剪报==&gt;问题三错误3
 $$第一章_老旧的飞机模型==&gt;问题三错误3" param2="" param3="type=1"/>
-<C1_Discussion id="139" originalRow="139" groupSign="" debugClose="R2_4" action="角色台词" data="niefei" param="终于熬到拍了第一只MV，却上了倒霉的航班，所以那只&lt;z=highlight&gt;MV都没有发表&lt;/z&gt;就被雪藏了。" param2="74终于熬到" param3="type=3,offx=0.2,offy=-0.2"/>
+<C1_Discussion id="139" originalRow="139" groupSign="" debugClose="R2_4" action="角色台词" data="niefei" param="终于熬到拍了第一只MV，却上了倒霉的航班，所以那只&lt;z=yellow&gt;MV都没有发表&lt;/z&gt;就被雪藏了。" param2="74终于熬到" param3="type=3,offx=0.2,offy=-0.2"/>
 <C1_Discussion id="140" originalRow="140" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
 <C1_Discussion id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="tuling" param="总觉得有哪里不对呢……" param2="98T总觉得" param3=""/>
 <C1_Discussion id="142" originalRow="142" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
@@ -198,363 +197,376 @@ $$第一章_老旧的飞机模型==&gt;问题三错误3" param2="" param3="type=
 难道还有什么可以反驳的吗？" param2="76这么明白" param3=""/>
 <C1_Discussion id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="niefei" param="一个有着明星梦想的姑娘，
 却落魄到没有工作可接。" param2="77一个" param3=""/>
-<C1_Discussion id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;这次有三句&lt;/z&gt;&lt;z=highlight&gt;高亮显示&lt;/z&gt;&lt;z=green&gt;的可疑对话，但只有一句和某个线索矛盾。&lt;/z&gt;" param2="" param3="type=1"/>
+<C1_Discussion id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;这次有三句&lt;/z&gt;&lt;z=yellow&gt;高亮显示&lt;/z&gt;&lt;z=green&gt;的可疑对话，但只有一句和某个线索矛盾。&lt;/z&gt;" param2="" param3="type=1"/>
 <C1_Discussion id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;也就是说其他两句都是干扰项。&lt;/z&gt;" param2="" param3="type=1"/>
 <C1_Discussion id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;钱越的个人处境真如聂飞所说吗？仔细看看线索信息吧。&lt;/z&gt;{角色转身,zhouyi,30,0.5}" param2="" param3="type=1"/>
 <C1_Discussion id="148" originalRow="148" groupSign="" debugClose="" action="跳转-标签" data="" param="问题三" param2="" param3=""/>
 <C1_Discussion id="149" originalRow="149" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="150" originalRow="150" groupSign="问题三错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="151" originalRow="151" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="152" originalRow="152" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}这里有什么问题？
+<C1_Discussion id="150" originalRow="150" groupSign="问题三错误0" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="151" originalRow="151" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="152" originalRow="152" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="niefei" param="你没必要现在打断我的话……" param2="58你没必要" param3=""/>
+<C1_Discussion id="154" originalRow="154" groupSign="" debugClose="" action="跳转-标签" data="" param="问题三" param2="" param3=""/>
+<C1_Discussion id="155" originalRow="155" groupSign="问题三错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="156" originalRow="156" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="157" originalRow="157" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}这里有什么问题？
 钱越想当偶像艺人很明显嘛，还想着出道呢。{1.8}{#聂飞思考恢复}" param2="71这里" param3=""/>
-<C1_Discussion id="153" originalRow="153" groupSign="" debugClose="" action="可选对话框" data="" param="$$重听==&gt;问题三
-$$继续==&gt;问题三继续1" param2="" param3=""/>
-<C1_Discussion id="154" originalRow="154" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="155" originalRow="155" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="156" originalRow="156" groupSign="问题三错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="157" originalRow="157" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}你说的这个，
-能证明她有工作有工资吗?{1.8}{#聂飞思考恢复}" param2="73你说" param3=""/>
-<C1_Discussion id="159" originalRow="159" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
-<C1_Discussion id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="tuling" param="嗯，钱越真的接不到工作吗？" param2="97T钱越真的" param3=""/>
-<C1_Discussion id="161" originalRow="161" groupSign="" debugClose="" action="可选对话框" data="" param="$$重听==&gt;问题三
-$$继续==&gt;问题三继续2" param2="" param3=""/>
-<C1_Discussion id="162" originalRow="162" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="163" originalRow="163" groupSign="问题三错误3" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="164" originalRow="164" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}怎么了？
-虽然看到了母带，但不就是没有发表吗？{1.8}{#聂飞严肃恢复}" param2="75怎么了" param3=""/>
-<C1_Discussion id="166" originalRow="166" groupSign="" debugClose="" action="可选对话框" data="" param="$$重听==&gt;问题三
-$$继续==&gt;问题三继续3" param2="" param3=""/>
-<C1_Discussion id="167" originalRow="167" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="168" originalRow="168" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="169" originalRow="169" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="158" originalRow="158" groupSign="" debugClose="" action="跳转-标签" data="" param="问题三继续1" param2="" param3=""/>
+<C1_Discussion id="159" originalRow="159" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="160" originalRow="160" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="161" originalRow="161" groupSign="问题三错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="162" originalRow="162" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="163" originalRow="163" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}你说的这个，
+和她完全接不到工作无关吧?{1.8}{#聂飞思考恢复}" param2="73你说" param3=""/>
+<C1_Discussion id="164" originalRow="164" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
+<C1_Discussion id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="tuling" param="嗯，钱越真的接不到工作吗？" param2="97T钱越真的" param3=""/>
+<C1_Discussion id="166" originalRow="166" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
+<C1_Discussion id="167" originalRow="167" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易思考表情}连收入都没有吗……那要怎么生活呢？" param2="97T钱越真的" param3=""/>
+<C1_Discussion id="168" originalRow="168" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{#周易无奈2动作恢复}{#周易思考表情恢复}" param2="" param3=""/>
+<C1_Discussion id="169" originalRow="169" groupSign="" debugClose="" action="跳转-标签" data="" param="问题三继续2" param2="" param3=""/>
 <C1_Discussion id="170" originalRow="170" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="171" originalRow="171" groupSign="问题三正确" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="172" originalRow="172" groupSign="" debugClose="" action="播放timeline" data="通用_指正" param="TRUE" param2="" param3=""/>
-<C1_Discussion id="173" originalRow="173" groupSign="3" debugClose="" action="新角色镜头" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
-<C1_Discussion id="174" originalRow="174" groupSign="" debugClose="" action="角色镜头关闭" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
-<C1_Discussion id="175" originalRow="175" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
-<C1_Discussion id="176" originalRow="176" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.3" param2="" param3=""/>
-<C1_Discussion id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,niefei,-40,0.01}不对！{角色转身,zhouyi,-10,0.5}{角色转头,zhouyi,左中,0.5}{角色表情,zhouyi,;;周易_左看_眼睛_开始_01,0.5}{0.5}{#周易思考3动作}有一张旅行明信片上写得清清楚楚。{#聂飞忧伤表情}{#聂飞惊讶动作恢复}" param2="" param3=""/>
-<C1_Discussion id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越用第一份工资给奶奶买了生日礼物和蛋糕。{#聂飞忧伤动作}" param2="" param3=""/>
-<C1_Discussion id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="有工作才有工资吧！" param2="" param3=""/>
-<C1_Discussion id="180" originalRow="180" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="0.5" param3=""/>
-<C1_Discussion id="181" originalRow="181" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.5" param2="" param3=""/>
-<C1_Discussion id="182" originalRow="182" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}{shake=1}{特殊-闪白效果,1}喵呜──！！可、可可可是……{#周易待机表情}" param2="78喵呜" param3=""/>
-<C1_Discussion id="183" originalRow="183" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpointSP1" param2="" param3=""/>
-<C1_Discussion id="184" originalRow="184" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
-<C1_Discussion id="185" originalRow="185" groupSign="" debugClose="" action="镜头移动" data="vcamSP2341end" param="0.9" param2="" param3=""/>
-<C1_Discussion id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{0.8}{#周易思考3动作恢复}{#凯瑟琳2严肃动作}{#凯瑟琳2得意表情}{角色转身,kaiselin02,30,0.5}对工作的分析完全错误，{角色转身,zhouyi,40,0.5}{角色转头,zhouyi,无,0.5}
+<C1_Discussion id="171" originalRow="171" groupSign="问题三错误3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="172" originalRow="172" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="173" originalRow="173" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}怎么了？
+有什么MV已经发表的证据吗？{#聂飞严肃恢复}" param2="75怎么了" param3=""/>
+<C1_Discussion id="174" originalRow="174" groupSign="" debugClose="" action="跳转-标签" data="" param="问题三继续3" param2="" param3=""/>
+<C1_Discussion id="175" originalRow="175" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="176" originalRow="176" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="177" originalRow="177" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="178" originalRow="178" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="179" originalRow="179" groupSign="问题三正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="180" originalRow="180" groupSign="" debugClose="" action="播放timeline" data="通用_指正" param="TRUE" param2="" param3=""/>
+<C1_Discussion id="181" originalRow="181" groupSign="3" debugClose="" action="新角色镜头" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
+<C1_Discussion id="182" originalRow="182" groupSign="" debugClose="" action="角色镜头关闭" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
+<C1_Discussion id="183" originalRow="183" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
+<C1_Discussion id="184" originalRow="184" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.3" param2="" param3=""/>
+<C1_Discussion id="185" originalRow="185" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,niefei,-40,0.01}不对！{角色转身,zhouyi,-10,0.5}{角色转头,zhouyi,左中,0.5}{角色表情,zhouyi,;;周易_左看_眼睛_开始_01,0.5}{0.5}{#周易思考3动作}有一张旅行明信片上写得清清楚楚。{#聂飞忧伤表情}{#聂飞惊讶动作恢复}" param2="" param3=""/>
+<C1_Discussion id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越用第一份工资给奶奶买了生日礼物和蛋糕。{#聂飞忧伤动作}" param2="" param3=""/>
+<C1_Discussion id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="有工作才有工资吧！" param2="" param3=""/>
+<C1_Discussion id="188" originalRow="188" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="0.5" param3=""/>
+<C1_Discussion id="189" originalRow="189" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.5" param2="" param3=""/>
+<C1_Discussion id="190" originalRow="190" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}{shake=1}{特殊-闪白效果,1}喵呜──！！可、可可可是……{#周易待机表情}" param2="78喵呜" param3=""/>
+<C1_Discussion id="191" originalRow="191" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpointSP1" param2="" param3=""/>
+<C1_Discussion id="192" originalRow="192" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
+<C1_Discussion id="193" originalRow="193" groupSign="" debugClose="" action="镜头移动" data="vcamSP2341end" param="0.9" param2="" param3=""/>
+<C1_Discussion id="194" originalRow="194" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{0.8}{#周易思考3动作恢复}{#凯瑟琳2严肃动作}{#凯瑟琳2得意表情}{角色转身,kaiselin02,30,0.5}对工作的分析完全错误，{角色转身,zhouyi,40,0.5}{角色转头,zhouyi,无,0.5}
 下个月的工资评定堪忧……{1.6}{#周易无奈3动作}{#聂飞惊讶}{1.5}{#周易无奈3动作恢复}" param2="129K对工作" param3=""/>
-<C1_Discussion id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞馋}大意了，大意了……{#凯瑟琳2严肃动作恢复}{#凯瑟琳2待机表情}
+<C1_Discussion id="195" originalRow="195" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞馋}大意了，大意了……{#凯瑟琳2严肃动作恢复}{#凯瑟琳2待机表情}
 让我稍加修改~喵。" param2="79大意了" param3=""/>
-<C1_Discussion id="188" originalRow="188" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四" param2="" param3=""/>
-<C1_Discussion id="189" originalRow="189" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="190" originalRow="190" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="191" originalRow="191" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="192" originalRow="192" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="193" originalRow="193" groupSign="问题四" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="194" originalRow="194" groupSign="" debugClose="" action="角色动作" data="niefei" param="聂总_思考_动作_开始_01" param2="" param3=""/>
-<C1_Discussion id="195" originalRow="195" groupSign="" debugClose="" action="角色表情" data="niefei" param="聂总_紧张_上脸_开始_01;聂总_待机_下嘴_开始_01" param2="" param3=""/>
-<C1_Discussion id="196" originalRow="196" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="0" param3=""/>
-<C1_Discussion id="197" originalRow="197" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="198" originalRow="198" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;shake
-$$第一章_百万支票==&gt;shake
-$$第一章_拍立得照片==&gt;shake
-$$第一章_遇难乘客名单==&gt;shake
-$$第一章_老人孙女合影==&gt;shake" param2="" param3="type=1"/>
-<C1_Discussion id="199" originalRow="199" groupSign="" debugClose="R3_1" action="角色台词" data="niefei" param="好吧，有些经纪公司，
+<C1_Discussion id="196" originalRow="196" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四" param2="" param3=""/>
+<C1_Discussion id="197" originalRow="197" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="198" originalRow="198" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="199" originalRow="199" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="200" originalRow="200" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="201" originalRow="201" groupSign="问题四" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="202" originalRow="202" groupSign="" debugClose="" action="角色动作" data="niefei" param="聂总_思考_动作_开始_01" param2="" param3=""/>
+<C1_Discussion id="203" originalRow="203" groupSign="" debugClose="" action="角色表情" data="niefei" param="聂总_紧张_上脸_开始_01;聂总_待机_下嘴_开始_01" param2="" param3=""/>
+<C1_Discussion id="204" originalRow="204" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="0" param3=""/>
+<C1_Discussion id="205" originalRow="205" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="206" originalRow="206" groupSign="问题四继续0" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="207" originalRow="207" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;问题四错误0
+$$第一章_百万支票==&gt;问题四错误0
+$$第一章_拍立得照片==&gt;问题四错误0
+$$第一章_遇难乘客名单==&gt;问题四错误0
+$$第一章_老人孙女合影==&gt;问题四错误0" param2="" param3="type=1"/>
+<C1_Discussion id="208" originalRow="208" groupSign="" debugClose="R3_1" action="角色台词" data="niefei" param="好吧，有些经纪公司，
 也会给培养的艺人很微薄的工资。" param2="80好吧" param3="type=3,offx=0.2,offy=-0.2"/>
-<C1_Discussion id="200" originalRow="200" groupSign="问题四继续1" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="201" originalRow="201" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;问题四错误1
+<C1_Discussion id="209" originalRow="209" groupSign="问题四继续1" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="210" originalRow="210" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;问题四错误1
 $$第一章_百万支票==&gt;问题四错误1
 $$第一章_拍立得照片==&gt;问题四错误1
 $$第一章_遇难乘客名单==&gt;问题四错误1
 $$第一章_老人孙女合影==&gt;问题四错误1" param2="" param3="type=1"/>
-<C1_Discussion id="202" originalRow="202" groupSign="" debugClose="R3_2" action="角色台词" data="niefei" param="终于熬到拍了第一只MV，&lt;z=highlight&gt;却因为空难意外离世&lt;/z&gt;，所以那只MV还没有发表就被雪藏了。" param2="81终于熬到" param3="type=3,offx=0.2,offy=-0.2"/>
-<C1_Discussion id="203" originalRow="203" groupSign="问题四继续2" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="204" originalRow="204" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;问题四错误2
+<C1_Discussion id="211" originalRow="211" groupSign="" debugClose="R3_2" action="角色台词" data="niefei" param="终于熬到拍了第一只MV，&lt;z=yellow&gt;却因为空难意外离世&lt;/z&gt;，所以那只MV还没有发表就被雪藏了。" param2="81终于熬到" param3="type=3,offx=0.2,offy=-0.2"/>
+<C1_Discussion id="212" originalRow="212" groupSign="问题四继续2" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="213" originalRow="213" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;问题四错误2
 $$第一章_百万支票==&gt;问题四二错误1
 $$第一章_拍立得照片==&gt;问题四错误2
 $$第一章_遇难乘客名单==&gt;问题四正确
 $$第一章_老人孙女合影==&gt;问题四错误2" param2="" param3="type=1"/>
-<C1_Discussion id="205" originalRow="205" groupSign="" debugClose="R3_3" action="角色台词" data="niefei" param="真是倒了血霉，买哪天的机票不好，
-单单就&lt;z=highlight&gt;买了空难航班的机票&lt;/z&gt;。" param2="84真是" param3="type=3,offx=0.2,offy=-0.2"/>
-<C1_Discussion id="206" originalRow="206" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;shake
-$$第一章_百万支票==&gt;shake
-$$第一章_拍立得照片==&gt;shake
-$$第一章_遇难乘客名单==&gt;shake
-$$第一章_老人孙女合影==&gt;shake" param2="" param3="type=1"/>
-<C1_Discussion id="207" originalRow="207" groupSign="" debugClose="R3_4" action="角色台词" data="niefei" param="哼哼哼哼！没错！
+<C1_Discussion id="214" originalRow="214" groupSign="" debugClose="R3_3" action="角色台词" data="niefei" param="真是倒了血霉，买哪天的机票不好，
+单单就&lt;z=yellow&gt;买了空难航班的机票&lt;/z&gt;。" param2="84真是" param3="type=3,offx=0.2,offy=-0.2"/>
+<C1_Discussion id="215" originalRow="215" groupSign="问题四继续3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="216" originalRow="216" groupSign="" debugClose="" action="可选对话框" data="" param="$$第一章_空难的剪报==&gt;问题四错误3
+$$第一章_百万支票==&gt;问题四错误3
+$$第一章_拍立得照片==&gt;问题四错误3
+$$第一章_遇难乘客名单==&gt;问题四错误3
+$$第一章_老人孙女合影==&gt;问题四错误3" param2="" param3="type=1"/>
+<C1_Discussion id="217" originalRow="217" groupSign="" debugClose="R3_4" action="角色台词" data="niefei" param="哼哼哼哼！没错！
 只要稍加修改，重新总结一下就完美了。" param2="87哼哼哼哼" param3="type=3,offx=0.2,offy=-0.2"/>
-<C1_Discussion id="208" originalRow="208" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
-<C1_Discussion id="209" originalRow="209" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpointSP1" param2="" param3=""/>
-<C1_Discussion id="210" originalRow="210" groupSign="" debugClose="" action="镜头移动" data="vcamSP2341" param="0.3" param2="" param3=""/>
-<C1_Discussion id="211" originalRow="211" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意}哈哈哈，
+<C1_Discussion id="218" originalRow="218" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
+<C1_Discussion id="219" originalRow="219" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpointSP1" param2="" param3=""/>
+<C1_Discussion id="220" originalRow="220" groupSign="" debugClose="" action="镜头移动" data="vcamSP2341" param="0.3" param2="" param3=""/>
+<C1_Discussion id="221" originalRow="221" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意}哈哈哈，
 这回无懈可击了吧！{1.1}{#聂飞得意恢复}" param2="88哈哈哈" param3=""/>
-<C1_Discussion id="212" originalRow="212" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpoint1" param2="" param3=""/>
-<C1_Discussion id="213" originalRow="213" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="0.3" param2="" param3=""/>
-<C1_Discussion id="214" originalRow="214" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}{#凯瑟琳2思考动作}听起来好像逻辑没什么问题……" param2="130K听起来" param3=""/>
-<C1_Discussion id="215" originalRow="215" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;不对，先不要关注聂总的话
+<C1_Discussion id="222" originalRow="222" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpoint1" param2="" param3=""/>
+<C1_Discussion id="223" originalRow="223" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="0.3" param2="" param3=""/>
+<C1_Discussion id="224" originalRow="224" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考表情}{#凯瑟琳2思考动作}听起来好像逻辑没什么问题……" param2="130K听起来" param3=""/>
+<C1_Discussion id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;不对，先不要关注聂总的话
 到底有没有逻辑。&lt;/z&gt;" param2="" param3="type=1"/>
-<C1_Discussion id="216" originalRow="216" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;还是要仔细看看，他的话到底
+<C1_Discussion id="226" originalRow="226" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;还是要仔细看看，他的话到底
 和哪条线索有明显的矛盾。&lt;/z&gt;{#凯瑟琳2思考动作恢复}{#凯瑟琳2待机表情}" param2="" param3="type=1"/>
-<C1_Discussion id="217" originalRow="217" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四" param2="" param3=""/>
-<C1_Discussion id="218" originalRow="218" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="219" originalRow="219" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="220" originalRow="220" groupSign="问题四错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="221" originalRow="221" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="222" originalRow="222" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="223" originalRow="223" groupSign="" debugClose="" action="角色台词" data="niefei" param="意外离世有什么问题吗？" param2="82意外离世" param3=""/>
-<C1_Discussion id="224" originalRow="224" groupSign="" debugClose="" action="角色台词" data="niefei" param="赔偿的支票都在这里了！" param2="83我看你" param3=""/>
-<C1_Discussion id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="嗯，我再试试。" param2="" param3=""/>
-<C1_Discussion id="226" originalRow="226" groupSign="" debugClose="" action="可选对话框" data="" param="$$重听==&gt;问题四
-$$继续==&gt;问题四继续1" param2="" param3=""/>
-<C1_Discussion id="227" originalRow="227" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="228" originalRow="228" groupSign="问题四错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="229" originalRow="229" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="230" originalRow="230" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}这跟机票有什么关系？" param2="85这跟" param3=""/>
-<C1_Discussion id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="niefei" param="她难道不是遇难乘客吗？{#聂飞严肃恢复}" param2="86难道你" param3=""/>
-<C1_Discussion id="232" originalRow="232" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
-<C1_Discussion id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,zhouyi,-30,0.1}{#周易无奈动作}{#周易无奈表情}对不起，我好像搞错了。" param2="" param3=""/>
-<C1_Discussion id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{1.1}{#周易无奈动作恢复}{#周易无奈表情恢复}{0.5}{角色转身,zhouyi,30,0.1}" param2="" param3=""/>
-<C1_Discussion id="235" originalRow="235" groupSign="" debugClose="" action="可选对话框" data="" param="$$重听==&gt;问题四
-$$继续==&gt;问题四继续2" param2="" param3=""/>
+<C1_Discussion id="227" originalRow="227" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四" param2="" param3=""/>
+<C1_Discussion id="228" originalRow="228" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="229" originalRow="229" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="230" originalRow="230" groupSign="问题四错误0" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="231" originalRow="231" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="232" originalRow="232" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="niefei" param="你没必要现在打断我的话……" param2="58你没必要" param3=""/>
+<C1_Discussion id="234" originalRow="234" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四继续0" param2="" param3=""/>
+<C1_Discussion id="235" originalRow="235" groupSign="问题四错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_Discussion id="236" originalRow="236" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="237" originalRow="237" groupSign="问题四二错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="238" originalRow="238" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="239" originalRow="239" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}这张支票？" param2="" param3=""/>
-<C1_Discussion id="240" originalRow="240" groupSign="" debugClose="" action="角色台词" data="niefei" param="这不恰恰证明了她是遇难乘客吗？{#聂飞严肃恢复}" param2="" param3=""/>
-<C1_Discussion id="241" originalRow="241" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
-<C1_Discussion id="242" originalRow="242" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,zhouyi,-30,0.1}{#周易无奈动作}{#周易无奈表情}对不起，我好像搞错了。" param2="" param3=""/>
-<C1_Discussion id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{1.1}{#周易无奈动作恢复}{#周易无奈表情恢复}{0.5}{角色转身,zhouyi,30,0.1}" param2="" param3=""/>
-<C1_Discussion id="244" originalRow="244" groupSign="" debugClose="" action="可选对话框" data="" param="$$重听==&gt;问题四
-$$继续==&gt;问题四继续2" param2="" param3=""/>
-<C1_Discussion id="245" originalRow="245" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="246" originalRow="246" groupSign="问题四正确" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="247" originalRow="247" groupSign="" debugClose="" action="播放timeline" data="通用_指正" param="TRUE" param2="" param3=""/>
-<C1_Discussion id="248" originalRow="248" groupSign="3" debugClose="" action="新角色镜头" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
-<C1_Discussion id="249" originalRow="249" groupSign="" debugClose="" action="角色镜头关闭" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
-<C1_Discussion id="250" originalRow="250" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
-<C1_Discussion id="251" originalRow="251" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.3" param2="" param3=""/>
-<C1_Discussion id="252" originalRow="252" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,niefei,-40,0.1}{0.2}{角色转身,zhouyi,-30,0.5}{角色转头,zhouyi,左极下小,0.5}{#周易无奈2动作}{#周易成功表情}对不起，聂总，你错了！{#聂飞惊讶}
+<C1_Discussion id="237" originalRow="237" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="238" originalRow="238" groupSign="" debugClose="" action="角色台词" data="niefei" param="意外离世有什么不正常吗？" param2="82意外离世" param3=""/>
+<C1_Discussion id="239" originalRow="239" groupSign="" debugClose="1" action="角色台词" data="niefei" param="赔偿的支票都在这里了！" param2="83我看你" param3=""/>
+<C1_Discussion id="240" originalRow="240" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
+<C1_Discussion id="241" originalRow="241" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易思考表情}的确，赔偿的支票可以证明钱越确实在飞机上遭遇意外了。" param2="" param3=""/>
+<C1_Discussion id="242" originalRow="242" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{#周易无奈2动作恢复}{#周易思考表情恢复}" param2="" param3=""/>
+<C1_Discussion id="243" originalRow="243" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四继续1" param2="" param3=""/>
+<C1_Discussion id="244" originalRow="244" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="245" originalRow="245" groupSign="问题四错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="246" originalRow="246" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="247" originalRow="247" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}这跟机票有什么关系？" param2="85这跟" param3=""/>
+<C1_Discussion id="248" originalRow="248" groupSign="" debugClose="" action="角色台词" data="niefei" param="难道你有什么新的发现？{#聂飞严肃恢复}" param2="86难道你" param3=""/>
+<C1_Discussion id="249" originalRow="249" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
+<C1_Discussion id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易思考表情}的确，这个东西无法证明机票的问题。" param2="" param3=""/>
+<C1_Discussion id="251" originalRow="251" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{#周易无奈2动作恢复}{#周易思考表情恢复" param2="" param3=""/>
+<C1_Discussion id="252" originalRow="252" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四继续2" param2="" param3=""/>
+<C1_Discussion id="253" originalRow="253" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="254" originalRow="254" groupSign="问题四错误3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="255" originalRow="255" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="256" originalRow="256" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="257" originalRow="257" groupSign="" debugClose="" action="角色台词" data="niefei" param="你拿出这个能证明什么？" param2="60你拿出" param3=""/>
+<C1_Discussion id="258" originalRow="258" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四继续3" param2="" param3=""/>
+<C1_Discussion id="259" originalRow="259" groupSign="问题四二错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="260" originalRow="260" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
+<C1_Discussion id="261" originalRow="261" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易思考表情}不对，支票不是证明了钱越就在飞机上吗？" param2="" param3=""/>
+<C1_Discussion id="262" originalRow="262" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{#周易无奈2动作恢复}{#周易思考表情恢复}" param2="" param3=""/>
+<C1_Discussion id="263" originalRow="263" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四继续2" param2="" param3=""/>
+<C1_Discussion id="264" originalRow="264" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="265" originalRow="265" groupSign="问题四正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="266" originalRow="266" groupSign="" debugClose="" action="播放timeline" data="通用_指正" param="TRUE" param2="" param3=""/>
+<C1_Discussion id="267" originalRow="267" groupSign="3" debugClose="" action="新角色镜头" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
+<C1_Discussion id="268" originalRow="268" groupSign="" debugClose="" action="角色镜头关闭" data="niefei" param="个人镜头_聂总_被指正" param2="" param3=""/>
+<C1_Discussion id="269" originalRow="269" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
+<C1_Discussion id="270" originalRow="270" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.3" param2="" param3=""/>
+<C1_Discussion id="271" originalRow="271" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,niefei,-40,0.1}{0.2}{角色转身,zhouyi,-30,0.5}{角色转头,zhouyi,左极下小,0.5}{#周易无奈2动作}{#周易成功表情}对不起，聂总，你错了！{#聂飞惊讶}
 钱越并没有买那次空难航班的机票！" param2="" param3=""/>
-<C1_Discussion id="253" originalRow="253" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}喵呜——！！{0.3}
+<C1_Discussion id="272" originalRow="272" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}喵呜——！！{0.3}
 又是哪里不对了？？{#周易无奈2动作恢复}{#周易待机表情}" param2="89又是哪里" param3=""/>
-<C1_Discussion id="254" originalRow="254" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
-<C1_Discussion id="255" originalRow="255" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#聂飞愤怒恢复}证据就是：{0.2}{#周易成功动作}{#周易成功2表情}{角色转身,zhouyi,20,0.5}{0.5}{角色转头,zhouyi,左极,0.5}{0.5}流星航空990次航班空难乘客名单里，并没有钱越的名字！{#聂飞惊讶}" param2="" param3=""/>
-<C1_Discussion id="256" originalRow="256" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="257" originalRow="257" groupSign="问题五" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="258" originalRow="258" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张}可恶……{#周易成功动作恢复}" param2="90可恶" param3=""/>
-<C1_Discussion id="259" originalRow="259" groupSign="" debugClose="" action="角色台词" data="niefei" param="一定是涂凌搜集名单的时候漏掉了！{#聂飞紧张恢复}{角色转身,zhouyi,-10,0.3}{#周易待机表情}" param2="91一定是涂凌" param3=""/>
-<C1_Discussion id="260" originalRow="260" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpoint1" param2="" param3=""/>
-<C1_Discussion id="261" originalRow="261" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.8" param2="" param3=""/>
-<C1_Discussion id="262" originalRow="262" groupSign="" debugClose="" action="角色台词" data="tuling" param="{0.5}{#涂凌鄙视动作}不可能不可能！{角色转头,zhouyi,右大,0.2}{单次眨眼}{角色表情,zhouyi,;;周易_右看_眼睛_开始_01,0.2}
+<C1_Discussion id="273" originalRow="273" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
+<C1_Discussion id="274" originalRow="274" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#聂飞愤怒恢复}证据就是：{0.2}{#周易成功动作}{#周易成功2表情}{角色转身,zhouyi,20,0.5}{0.5}{角色转头,zhouyi,左极,0.5}{0.5}流星航空990次航班空难乘客名单里，并没有钱越的名字！{#聂飞惊讶}" param2="" param3=""/>
+<C1_Discussion id="275" originalRow="275" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="276" originalRow="276" groupSign="问题五" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="277" originalRow="277" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张}可恶……{#周易成功动作恢复}" param2="90可恶" param3=""/>
+<C1_Discussion id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="niefei" param="一定是涂凌搜集名单的时候漏掉了！{#聂飞紧张恢复}{角色转身,zhouyi,-10,0.3}{#周易待机表情}" param2="91一定是涂凌" param3=""/>
+<C1_Discussion id="279" originalRow="279" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpoint1" param2="" param3=""/>
+<C1_Discussion id="280" originalRow="280" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.8" param2="" param3=""/>
+<C1_Discussion id="281" originalRow="281" groupSign="" debugClose="" action="角色台词" data="tuling" param="{0.5}{#涂凌鄙视动作}不可能不可能！{角色转头,zhouyi,右大,0.2}{单次眨眼}{角色表情,zhouyi,;;周易_右看_眼睛_开始_01,0.2}
 由我追踪的名单绝对不可能遗漏！{1.1}{#涂凌鄙视动作恢复}{#涂凌打字表情}" param2="99T不可能" param3=""/>
-<C1_Discussion id="263" originalRow="263" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="0" param2="" param3=""/>
-<C1_Discussion id="264" originalRow="264" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}那你是说……{0.5}
+<C1_Discussion id="282" originalRow="282" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="0" param2="" param3=""/>
+<C1_Discussion id="283" originalRow="283" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}那你是说……{0.5}
 钱越没在那班空难的飞机上？{角色转头,zhouyi,无,0.1}" param2="131K那你是说" param3=""/>
-<C1_Discussion id="265" originalRow="265" groupSign="" debugClose="" action="可选对话框" data="" param="$$是的，她没上飞机==&gt;问题五错误
+<C1_Discussion id="284" originalRow="284" groupSign="" debugClose="" action="可选对话框" data="" param="$$是的，她没上飞机==&gt;问题五错误
 $$不，她就在飞机上==&gt;问题六" param2="" param3=""/>
-<C1_Discussion id="266" originalRow="266" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="267" originalRow="267" groupSign="问题五错误" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="268" originalRow="268" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
-<C1_Discussion id="269" originalRow="269" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考动作}不在乘客名单里，自然就没上飞机吧。" param2="" param3=""/>
-<C1_Discussion id="270" originalRow="270" groupSign="" debugClose="" action="角色台词" data="niefei" param="不对哦，我们可是看到了赔付的支票啊——
+<C1_Discussion id="285" originalRow="285" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="286" originalRow="286" groupSign="问题五错误" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="287" originalRow="287" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
+<C1_Discussion id="288" originalRow="288" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考动作}不在乘客名单里，自然就没上飞机吧。" param2="" param3=""/>
+<C1_Discussion id="289" originalRow="289" groupSign="" debugClose="" action="角色台词" data="niefei" param="不对哦，我们可是看到了赔付的支票啊——
 这怎么解释呢？{#周易思考动作恢复}" param2="92不对哦" param3=""/>
-<C1_Discussion id="271" originalRow="271" groupSign="" debugClose="" action="跳转-标签" data="" param="问题五" param2="" param3=""/>
-<C1_Discussion id="272" originalRow="272" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="273" originalRow="273" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="274" originalRow="274" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="275" originalRow="275" groupSign="问题六" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="276" originalRow="276" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.8" param2="" param3=""/>
-<C1_Discussion id="277" originalRow="277" groupSign="" debugClose="" action="角色台词" data="niefei" param="{0.5}这下彻底把我搞糊涂了。" param2="93这下" param3=""/>
-<C1_Discussion id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="niefei" param="钱越在、或不在飞机，简直都是量子叠加态了！" param2="93钱越在" param3=""/>
-<C1_Discussion id="279" originalRow="279" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.8" param2="" param3=""/>
-<C1_Discussion id="280" originalRow="280" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,niefei,-15,0.1}{0.3}{#涂凌点赞动作}{#周易平静表情}{角色转身,zhouyi,10,0.5}{角色转头,zhouyi,无,0.5}薛定谔的小飞飞嘛(●'◡'●){1.6}{#涂凌点赞动作恢复}{涂凌打字表情}{#周易待机表情}" param2="100T薛定谔" param3=""/>
-<C1_Discussion id="281" originalRow="281" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
-<C1_Discussion id="282" originalRow="282" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{0.5}{角色转身,zhouyi,-20,0.3}{角色转头,zhouyi,无,0.3}{#周易思考动作}{#周易成功2表情}{角色表情,zhouyi,;;周易_左看_眼睛_开始_01,0.5}钱越一定就在那架空难飞机上，证据就是——" param2="" param3=""/>
-<C1_Discussion id="283" originalRow="283" groupSign="问题六重复" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
-<C1_Discussion id="284" originalRow="284" groupSign="" debugClose="" action="可选对话框" data="能证明钱越在那架飞机上的证据是？" param="$$第一章_老式电视机==&gt;问题六错误
+<C1_Discussion id="290" originalRow="290" groupSign="" debugClose="" action="跳转-标签" data="" param="问题五" param2="" param3=""/>
+<C1_Discussion id="291" originalRow="291" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="292" originalRow="292" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="293" originalRow="293" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="294" originalRow="294" groupSign="问题六" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="295" originalRow="295" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.8" param2="" param3=""/>
+<C1_Discussion id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="niefei" param="{0.5}这下彻底把我搞糊涂了。" param2="93这下" param3=""/>
+<C1_Discussion id="297" originalRow="297" groupSign="" debugClose="" action="角色台词" data="niefei" param="钱越在、或不在飞机，简直都是量子叠加态了！" param2="93钱越在" param3=""/>
+<C1_Discussion id="298" originalRow="298" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.8" param2="" param3=""/>
+<C1_Discussion id="299" originalRow="299" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,niefei,-15,0.1}{0.3}{#涂凌点赞动作}{#周易平静表情}{角色转身,zhouyi,10,0.5}{角色转头,zhouyi,无,0.5}薛定谔的小飞飞嘛(●'◡'●){1.6}{#涂凌点赞动作恢复}{涂凌打字表情}{#周易待机表情}" param2="100T薛定谔" param3=""/>
+<C1_Discussion id="300" originalRow="300" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
+<C1_Discussion id="301" originalRow="301" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{0.5}{角色转身,zhouyi,-20,0.3}{角色转头,zhouyi,无,0.3}{#周易思考动作}{#周易成功2表情}{角色表情,zhouyi,;;周易_左看_眼睛_开始_01,0.5}钱越一定就在那架空难飞机上，证据就是——" param2="" param3=""/>
+<C1_Discussion id="302" originalRow="302" groupSign="问题六重复" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
+<C1_Discussion id="303" originalRow="303" groupSign="" debugClose="" action="可选对话框" data="能证明钱越在那架飞机上的证据是？" param="$$第一章_老式电视机==&gt;问题六错误
 $$第一章_空难的剪报==&gt;问题六错误2
 $$第一章_老人孙女合影==&gt;问题六错误
 $$第一章_百万支票==&gt;问题六正确
 $$第一章_心脏病药物==&gt;问题六错误" param2="" param3="type=3"/>
-<C1_Discussion id="285" originalRow="285" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="286" originalRow="286" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="287" originalRow="287" groupSign="问题六错误" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="288" originalRow="288" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
-<C1_Discussion id="289" originalRow="289" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么？这个和罹难乘客有什么关系吗？" param2="94什么" param3=""/>
-<C1_Discussion id="290" originalRow="290" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="这……我再想想。" param2="" param3=""/>
-<C1_Discussion id="291" originalRow="291" groupSign="" debugClose="" action="跳转-标签" data="" param="问题六重复" param2="" param3=""/>
-<C1_Discussion id="292" originalRow="292" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="293" originalRow="293" groupSign="问题六错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="294" originalRow="294" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
-<C1_Discussion id="295" originalRow="295" groupSign="" debugClose="" action="角色台词" data="niefei" param="这只能说明有空难，没法证明钱越在这架飞机上啊。" param2="" param3=""/>
-<C1_Discussion id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="这……我再想想。" param2="" param3=""/>
-<C1_Discussion id="297" originalRow="297" groupSign="" debugClose="" action="跳转-标签" data="" param="问题六重复" param2="" param3=""/>
-<C1_Discussion id="298" originalRow="298" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="299" originalRow="299" groupSign="问题六正确" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="300" originalRow="300" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.5" param2="" param3=""/>
-<C1_Discussion id="301" originalRow="301" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2待机表情}{#涂凌思考动作}这张大额赔偿支票，证明钱越也是遇难者之一。{1.5}{#涂凌思考动作恢复}{#周易思考动作恢复}" param2="101T这张大额" param3=""/>
-<C1_Discussion id="302" originalRow="302" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.6" param2="" param3=""/>
-<C1_Discussion id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}可我又确认了一遍遇难乘客的名单，
+<C1_Discussion id="304" originalRow="304" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="305" originalRow="305" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="306" originalRow="306" groupSign="问题六错误" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="307" originalRow="307" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
+<C1_Discussion id="308" originalRow="308" groupSign="" debugClose="" action="角色台词" data="niefei" param="什么？这个和罹难乘客有什么关系吗？" param2="94什么" param3=""/>
+<C1_Discussion id="309" originalRow="309" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="这……我再想想。" param2="" param3=""/>
+<C1_Discussion id="310" originalRow="310" groupSign="" debugClose="" action="跳转-标签" data="" param="问题六重复" param2="" param3=""/>
+<C1_Discussion id="311" originalRow="311" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="312" originalRow="312" groupSign="问题六错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="313" originalRow="313" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.3" param2="" param3=""/>
+<C1_Discussion id="314" originalRow="314" groupSign="" debugClose="" action="角色台词" data="niefei" param="这只能说明有空难，没法证明钱越在这架飞机上啊。" param2="" param3=""/>
+<C1_Discussion id="315" originalRow="315" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="这……我再想想。" param2="" param3=""/>
+<C1_Discussion id="316" originalRow="316" groupSign="" debugClose="" action="跳转-标签" data="" param="问题六重复" param2="" param3=""/>
+<C1_Discussion id="317" originalRow="317" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="318" originalRow="318" groupSign="问题六正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="319" originalRow="319" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.5" param2="" param3=""/>
+<C1_Discussion id="320" originalRow="320" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2待机表情}{#涂凌思考动作}这张大额赔偿支票，证明钱越也是遇难者之一。{1.5}{#涂凌思考动作恢复}{#周易思考动作恢复}" param2="101T这张大额" param3=""/>
+<C1_Discussion id="321" originalRow="321" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.6" param2="" param3=""/>
+<C1_Discussion id="322" originalRow="322" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考}可我又确认了一遍遇难乘客的名单，
 并没有钱越的名字啊？" param2="95可我又" param3=""/>
-<C1_Discussion id="304" originalRow="304" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="0" param2="" param3=""/>
-<C1_Discussion id="305" originalRow="305" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2得意表情}其实一点都不矛盾。
+<C1_Discussion id="323" originalRow="323" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="0" param2="" param3=""/>
+<C1_Discussion id="324" originalRow="324" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2得意表情}其实一点都不矛盾。
 回头我帮你大脑扩扩容。{1.5}" param2="132K其实" param3=""/>
-<C1_Discussion id="306" originalRow="306" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.8" param2="" param3=""/>
-<C1_Discussion id="307" originalRow="307" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{0.5}{#凯瑟琳2待机表情}{#凯瑟琳2得意动作}{角色转身,zhouyi,-40,0.5}{角色转头,zhouyi,左下小,0.5}{#周易无奈2动作}{角色表情,zhouyi,;;周易_待机_眼睛_开始_01,0.5}你还没明白？登上飞机必须要买票吗？" param2="" param3=""/>
-<C1_Discussion id="308" originalRow="308" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越是以“那个”身份登上飞机的──" param2="" param3=""/>
-<C1_Discussion id="309" originalRow="309" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
-<C1_Discussion id="310" originalRow="310" groupSign="问题七" debugClose="" action="镜头移动" data="vcamSP34" param="0.3" param2="" param3=""/>
-<C1_Discussion id="311" originalRow="311" groupSign="" debugClose="" action="可选对话框" data="钱越的登机身份？" param="$$空乘人员==&gt;问题七正确
+<C1_Discussion id="325" originalRow="325" groupSign="" debugClose="" action="镜头移动" data="vcam34" param="0.8" param2="" param3=""/>
+<C1_Discussion id="326" originalRow="326" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{0.5}{#凯瑟琳2待机表情}{#凯瑟琳2得意动作}{角色转身,zhouyi,-40,0.5}{角色转头,zhouyi,左下小,0.5}{#周易无奈2动作}{角色表情,zhouyi,;;周易_待机_眼睛_开始_01,0.5}你还没明白？登上飞机必须要买票吗？" param2="" param3=""/>
+<C1_Discussion id="327" originalRow="327" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越是以“那个”身份登上飞机的──" param2="" param3=""/>
+<C1_Discussion id="328" originalRow="328" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
+<C1_Discussion id="329" originalRow="329" groupSign="问题七" debugClose="" action="镜头移动" data="vcamSP34" param="0.3" param2="" param3=""/>
+<C1_Discussion id="330" originalRow="330" groupSign="" debugClose="" action="可选对话框" data="钱越的登机身份？" param="$$空乘人员==&gt;问题七正确
 $$机长==&gt;问题七错误2
 $$薇尔提斯==&gt;问题七错误1
 $$劫机犯==&gt;问题七错误2" param2="" param3=""/>
-<C1_Discussion id="312" originalRow="312" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="313" originalRow="313" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="314" originalRow="314" groupSign="问题七错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="315" originalRow="315" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
-<C1_Discussion id="316" originalRow="316" groupSign="" debugClose="" action="角色台词" data="tuling" param="薇尔提斯，确实是钱越的艺名，
+<C1_Discussion id="331" originalRow="331" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="332" originalRow="332" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="333" originalRow="333" groupSign="问题七错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="334" originalRow="334" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
+<C1_Discussion id="335" originalRow="335" groupSign="" debugClose="" action="角色台词" data="tuling" param="薇尔提斯，确实是钱越的艺名，
 不过艺名不会上名单的吧？" param2="102T薇尔提斯" param3=""/>
-<C1_Discussion id="317" originalRow="317" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈动作}确实，好像不是这样。{1.1}{#周易无奈动作恢复}" param2="" param3=""/>
-<C1_Discussion id="318" originalRow="318" groupSign="" debugClose="" action="跳转-标签" data="" param="问题七" param2="" param3=""/>
-<C1_Discussion id="319" originalRow="319" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="320" originalRow="320" groupSign="问题七错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="321" originalRow="321" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="322" originalRow="322" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="323" originalRow="323" groupSign="" debugClose="" action="角色台词" data="niefei" param="这——你是在搞笑么？" param2="96你是在搞笑" param3=""/>
-<C1_Discussion id="324" originalRow="324" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈动作}{#周易无奈表情}抱歉，我想让大家放松一下——{1.1}{#周易无奈动作恢复}{#周易待机表情}" param2="" param3=""/>
-<C1_Discussion id="325" originalRow="325" groupSign="" debugClose="" action="跳转-标签" data="" param="问题七" param2="" param3=""/>
-<C1_Discussion id="326" originalRow="326" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="327" originalRow="327" groupSign="问题七正确" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="328" originalRow="328" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="329" originalRow="329" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="330" originalRow="330" groupSign="" debugClose="" action="角色台词" data="niefei" param="{shake=1}{特殊-闪白效果,1}空乘人员……{0.8}{#聂飞惊讶}
+<C1_Discussion id="336" originalRow="336" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈动作}确实，好像不是这样。{1.1}{#周易无奈动作恢复}" param2="" param3=""/>
+<C1_Discussion id="337" originalRow="337" groupSign="" debugClose="" action="跳转-标签" data="" param="问题七" param2="" param3=""/>
+<C1_Discussion id="338" originalRow="338" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="339" originalRow="339" groupSign="问题七错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="340" originalRow="340" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="341" originalRow="341" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="342" originalRow="342" groupSign="" debugClose="" action="角色台词" data="niefei" param="这——你是在搞笑么？" param2="96你是在搞笑" param3=""/>
+<C1_Discussion id="343" originalRow="343" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈动作}{#周易无奈表情}抱歉，我想让大家放松一下——{1.1}{#周易无奈动作恢复}{#周易待机表情}" param2="" param3=""/>
+<C1_Discussion id="344" originalRow="344" groupSign="" debugClose="" action="跳转-标签" data="" param="问题七" param2="" param3=""/>
+<C1_Discussion id="345" originalRow="345" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="346" originalRow="346" groupSign="问题七正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="347" originalRow="347" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="348" originalRow="348" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="349" originalRow="349" groupSign="" debugClose="" action="角色台词" data="niefei" param="{shake=1}{特殊-闪白效果,1}空乘人员……{0.8}{#聂飞惊讶}
 难道钱越是流星航空的空姐吗？" param2="97空乘人员" param3=""/>
-<C1_Discussion id="331" originalRow="331" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.8" param2="" param3=""/>
-<C1_Discussion id="332" originalRow="332" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,niefei,-25,0.6}{#周易无奈2动作恢复}{角色转身,zhouyi,30,0.3}{角色转头,zhouyi,右极,0.5}{角色表情,zhouyi,;;周易_右看_眼睛_开始_01,0.5}机组人员的保险项目与航班乘客不同，
+<C1_Discussion id="350" originalRow="350" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.8" param2="" param3=""/>
+<C1_Discussion id="351" originalRow="351" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,niefei,-25,0.6}{#周易无奈2动作恢复}{角色转身,zhouyi,30,0.3}{角色转头,zhouyi,右极,0.5}{角色表情,zhouyi,;;周易_右看_眼睛_开始_01,0.5}机组人员的保险项目与航班乘客不同，
 所以并没有在罹难乘客名单上列出。{#聂飞惊讶恢复}{#聂飞待机表情}" param2="103T机组人员" param3=""/>
-<C1_Discussion id="333" originalRow="333" groupSign="" debugClose="" action="镜头移动" data="vcam6" param="0.8" param2="" param3=""/>
-<C1_Discussion id="334" originalRow="334" groupSign="" debugClose="" action="角色台词" data="tuling" param="而且仔细想想，{0.2}{#涂凌思考动作}
+<C1_Discussion id="352" originalRow="352" groupSign="" debugClose="" action="镜头移动" data="vcam6" param="0.8" param2="" param3=""/>
+<C1_Discussion id="353" originalRow="353" groupSign="" debugClose="" action="角色台词" data="tuling" param="而且仔细想想，{0.2}{#涂凌思考动作}
 有很多证据都暗示了钱越是空乘人员……" param2="104T而且仔细" param3=""/>
-<C1_Discussion id="335" originalRow="335" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
-<C1_Discussion id="336" originalRow="336" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.8" param2="" param3=""/>
-<C1_Discussion id="337" originalRow="337" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,niefei,-30,0.1}{角色转身,zhouyi,-10,0.3}{角色表情,zhouyi,;;周易_闭眼_上脸_循环_01,0.5}比如各个城市限定的旅行明信片，{#周易思考3动作}
+<C1_Discussion id="354" originalRow="354" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
+<C1_Discussion id="355" originalRow="355" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.8" param2="" param3=""/>
+<C1_Discussion id="356" originalRow="356" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,niefei,-30,0.1}{角色转身,zhouyi,-10,0.3}{角色表情,zhouyi,;;周易_闭眼_上脸_循环_01,0.5}比如各个城市限定的旅行明信片，{#周易思考3动作}
 还有她提到的“形体训练”。" param2="" param3=""/>
-<C1_Discussion id="338" originalRow="338" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色表情,zhouyi,;;周易_待机_眼睛_开始_01,0.5}那是空乘人员必须接受的培训项目。{#周易思考3动作恢复}" param2="" param3=""/>
-<C1_Discussion id="339" originalRow="339" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色表情,zhouyi,;;周易_左看_眼睛_开始_01,0.5}而且，有一个决定性的证据可以指明钱越是空乘人员。就在这个线索中──{#周易思考动作}" param2="" param3=""/>
-<C1_Discussion id="340" originalRow="340" groupSign="问题八" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="341" originalRow="341" groupSign="" debugClose="" action="可选对话框" data="出示能证明钱越是空乘人员的证据" param="$$第一章_发黄的明信片==&gt;问题八错误1
+<C1_Discussion id="357" originalRow="357" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色表情,zhouyi,;;周易_待机_眼睛_开始_01,0.5}那是空乘人员必须接受的培训项目。{#周易思考3动作恢复}" param2="" param3=""/>
+<C1_Discussion id="358" originalRow="358" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色表情,zhouyi,;;周易_左看_眼睛_开始_01,0.5}而且，有一个决定性的证据可以指明钱越是空乘人员。就在这个线索中──{#周易思考动作}" param2="" param3=""/>
+<C1_Discussion id="359" originalRow="359" groupSign="问题八" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="360" originalRow="360" groupSign="" debugClose="" action="可选对话框" data="出示能证明钱越是空乘人员的证据" param="$$第一章_发黄的明信片==&gt;问题八错误1
 $$第一章_老人孙女合影==&gt;问题八正确
 $$第一章_拍立得照片==&gt;问题八错误2
 $$第一章_老旧的飞机模型==&gt;问题八错误3
 $$第一章_百万支票==&gt;问题八错误4" param2="" param3="type=3"/>
-<C1_Discussion id="342" originalRow="342" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="343" originalRow="343" groupSign="问题八错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="344" originalRow="344" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="345" originalRow="345" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="346" originalRow="346" groupSign="" debugClose="" action="角色台词" data="niefei" param="明信片只能说明她去过很多地方，说不定是旅游带回来的呢？" param2="" param3=""/>
-<C1_Discussion id="347" originalRow="347" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
-<C1_Discussion id="348" originalRow="348" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
-<C1_Discussion id="349" originalRow="349" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="350" originalRow="350" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="351" originalRow="351" groupSign="问题八错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="352" originalRow="352" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="353" originalRow="353" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="354" originalRow="354" groupSign="" debugClose="" action="角色台词" data="niefei" param="这——好像并不能进行关联吧？" param2="98好像并不能" param3=""/>
-<C1_Discussion id="355" originalRow="355" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
-<C1_Discussion id="356" originalRow="356" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
-<C1_Discussion id="357" originalRow="357" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="358" originalRow="358" groupSign="问题八错误3" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="359" originalRow="359" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="360" originalRow="360" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="361" originalRow="361" groupSign="" debugClose="" action="角色台词" data="niefei" param="飞机模型随便都可以买到的。" param2="" param3=""/>
-<C1_Discussion id="362" originalRow="362" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
-<C1_Discussion id="363" originalRow="363" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
-<C1_Discussion id="364" originalRow="364" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="365" originalRow="365" groupSign="问题八错误4" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="366" originalRow="366" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="367" originalRow="367" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="368" originalRow="368" groupSign="" debugClose="" action="角色台词" data="niefei" param="支票只能说明她是遇难人员啊。" param2="" param3=""/>
-<C1_Discussion id="369" originalRow="369" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
-<C1_Discussion id="370" originalRow="370" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
-<C1_Discussion id="371" originalRow="371" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="372" originalRow="372" groupSign="问题八正确" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="373" originalRow="373" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
-<C1_Discussion id="374" originalRow="374" groupSign="" debugClose="" action="角色台词" data="tuling" param="这张照片哪里有和流星航空有关联的地方呢？" param2="106T这张照片哪里" param3=""/>
-<C1_Discussion id="375" originalRow="375" groupSign="" debugClose="" action="RPGActor" data="UI_PartyPhoto" param="1" param2="" param3=""/>
-<C1_Discussion id="376" originalRow="376" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
-<C1_Discussion id="377" originalRow="377" groupSign="" debugClose="" action="角色台词" data="" param="在这里找出在意的点吧？" param2="" param3="type=1"/>
-<C1_Discussion id="378" originalRow="378" groupSign="2.5" debugClose="" action="打开插画" data="UI_zhizheng" param="" param2="" param3=""/>
-<C1_Discussion id="379" originalRow="379" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
-<C1_Discussion id="380" originalRow="380" groupSign="" debugClose="" action="跳转-标签" data="" param="" param2="" param3=""/>
-<C1_Discussion id="381" originalRow="381" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="382" originalRow="382" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="383" originalRow="383" groupSign="照片错误" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="384" originalRow="384" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="385" originalRow="385" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="386" originalRow="386" groupSign="" debugClose="" action="角色台词" data="niefei" param="这——好像说明不了什么问题吧？" param2="99好像说明" param3=""/>
-<C1_Discussion id="387" originalRow="387" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
-<C1_Discussion id="388" originalRow="388" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
-<C1_Discussion id="389" originalRow="389" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="390" originalRow="390" groupSign="照片错误发型" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="391" originalRow="391" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="392" originalRow="392" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="393" originalRow="393" groupSign="" debugClose="" action="角色台词" data="niefei" param="你是说发型么？好像说明不了什么问题吧？" param2="100你是说" param3=""/>
-<C1_Discussion id="394" originalRow="394" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
-<C1_Discussion id="395" originalRow="395" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
-<C1_Discussion id="396" originalRow="396" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="397" originalRow="397" groupSign="照片错误奶奶" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="398" originalRow="398" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="399" originalRow="399" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="400" originalRow="400" groupSign="" debugClose="" action="角色台词" data="niefei" param="老奶奶？好像说明不了什么问题吧？" param2="101老奶奶" param3=""/>
-<C1_Discussion id="401" originalRow="401" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
-<C1_Discussion id="402" originalRow="402" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
-<C1_Discussion id="403" originalRow="403" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="404" originalRow="404" groupSign="照片错误蛋糕" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="405" originalRow="405" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
-<C1_Discussion id="406" originalRow="406" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
-<C1_Discussion id="407" originalRow="407" groupSign="" debugClose="" action="角色台词" data="niefei" param="蛋糕？你是要说奶奶的年龄？
+<C1_Discussion id="361" originalRow="361" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="362" originalRow="362" groupSign="问题八错误1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="363" originalRow="363" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="364" originalRow="364" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="365" originalRow="365" groupSign="" debugClose="" action="角色台词" data="niefei" param="明信片只能说明她去过很多地方，说不定是旅游带回来的呢？" param2="" param3=""/>
+<C1_Discussion id="366" originalRow="366" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
+<C1_Discussion id="367" originalRow="367" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
+<C1_Discussion id="368" originalRow="368" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="369" originalRow="369" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="370" originalRow="370" groupSign="问题八错误2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="371" originalRow="371" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="372" originalRow="372" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="373" originalRow="373" groupSign="" debugClose="" action="角色台词" data="niefei" param="这——好像并不能进行关联吧？" param2="98好像并不能" param3=""/>
+<C1_Discussion id="374" originalRow="374" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
+<C1_Discussion id="375" originalRow="375" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
+<C1_Discussion id="376" originalRow="376" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="377" originalRow="377" groupSign="问题八错误3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="378" originalRow="378" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="379" originalRow="379" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="380" originalRow="380" groupSign="" debugClose="" action="角色台词" data="niefei" param="飞机模型随便都可以买到的。" param2="" param3=""/>
+<C1_Discussion id="381" originalRow="381" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
+<C1_Discussion id="382" originalRow="382" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
+<C1_Discussion id="383" originalRow="383" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="384" originalRow="384" groupSign="问题八错误4" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="385" originalRow="385" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="386" originalRow="386" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="387" originalRow="387" groupSign="" debugClose="" action="角色台词" data="niefei" param="支票只能说明她是遇难人员啊。" param2="" param3=""/>
+<C1_Discussion id="388" originalRow="388" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="不是这个哦，再想想。" param2="" param3=""/>
+<C1_Discussion id="389" originalRow="389" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八" param2="" param3=""/>
+<C1_Discussion id="390" originalRow="390" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="391" originalRow="391" groupSign="问题八正确" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="392" originalRow="392" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
+<C1_Discussion id="393" originalRow="393" groupSign="" debugClose="" action="角色台词" data="tuling" param="这张照片哪里有和流星航空有关联的地方呢？" param2="106T这张照片哪里" param3=""/>
+<C1_Discussion id="394" originalRow="394" groupSign="" debugClose="" action="RPGActor" data="UI_PartyPhoto" param="1" param2="" param3=""/>
+<C1_Discussion id="395" originalRow="395" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
+<C1_Discussion id="396" originalRow="396" groupSign="" debugClose="" action="角色台词" data="" param="在这里找出在意的点吧？" param2="" param3="type=1"/>
+<C1_Discussion id="397" originalRow="397" groupSign="2.5" debugClose="" action="打开插画" data="UI_zhizheng" param="" param2="" param3=""/>
+<C1_Discussion id="398" originalRow="398" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<C1_Discussion id="399" originalRow="399" groupSign="" debugClose="" action="跳转-标签" data="" param="" param2="" param3=""/>
+<C1_Discussion id="400" originalRow="400" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="401" originalRow="401" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="402" originalRow="402" groupSign="照片错误" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="403" originalRow="403" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="404" originalRow="404" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="405" originalRow="405" groupSign="" debugClose="" action="角色台词" data="niefei" param="这——好像说明不了什么问题吧？" param2="99好像说明" param3=""/>
+<C1_Discussion id="406" originalRow="406" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
+<C1_Discussion id="407" originalRow="407" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
+<C1_Discussion id="408" originalRow="408" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="409" originalRow="409" groupSign="照片错误发型" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="410" originalRow="410" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="411" originalRow="411" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="412" originalRow="412" groupSign="" debugClose="" action="角色台词" data="niefei" param="你是说发型么？好像说明不了什么问题吧？" param2="100你是说" param3=""/>
+<C1_Discussion id="413" originalRow="413" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
+<C1_Discussion id="414" originalRow="414" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
+<C1_Discussion id="415" originalRow="415" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="416" originalRow="416" groupSign="照片错误奶奶" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="417" originalRow="417" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="418" originalRow="418" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="419" originalRow="419" groupSign="" debugClose="" action="角色台词" data="niefei" param="老奶奶？好像说明不了什么问题吧？" param2="101老奶奶" param3=""/>
+<C1_Discussion id="420" originalRow="420" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
+<C1_Discussion id="421" originalRow="421" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
+<C1_Discussion id="422" originalRow="422" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="423" originalRow="423" groupSign="照片错误蛋糕" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="424" originalRow="424" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpoint4" param2="" param3=""/>
+<C1_Discussion id="425" originalRow="425" groupSign="" debugClose="" action="镜头移动" data="vcam4" param="0.3" param2="" param3=""/>
+<C1_Discussion id="426" originalRow="426" groupSign="" debugClose="" action="角色台词" data="niefei" param="蛋糕？你是要说奶奶的年龄？
 好像说明不了什么问题吧？" param2="102蛋糕" param3=""/>
-<C1_Discussion id="408" originalRow="408" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
-<C1_Discussion id="409" originalRow="409" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
-<C1_Discussion id="410" originalRow="410" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="411" originalRow="411" groupSign="照片正确选择" debugClose="" action="镜头移动" data="vcam23" param="0.7" param2="" param3=""/>
-<C1_Discussion id="412" originalRow="412" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越写给奶奶的明信片留言上有说，
+<C1_Discussion id="427" originalRow="427" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="确实，我得再找找。" param2="" param3=""/>
+<C1_Discussion id="428" originalRow="428" groupSign="" debugClose="" action="跳转-标签" data="" param="问题八正确" param2="" param3=""/>
+<C1_Discussion id="429" originalRow="429" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="430" originalRow="430" groupSign="照片正确选择" debugClose="" action="镜头移动" data="vcam23" param="0.7" param2="" param3=""/>
+<C1_Discussion id="431" originalRow="431" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越写给奶奶的明信片留言上有说，
 她一下飞机就回家给奶奶祝生。" param2="" param3=""/>
-<C1_Discussion id="413" originalRow="413" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="所以可能没有完全换掉工作衬衫。
+<C1_Discussion id="432" originalRow="432" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="所以可能没有完全换掉工作衬衫。
 而这个衬衫上的标志正是流星航空LOGO。" param2="" param3=""/>
-<C1_Discussion id="414" originalRow="414" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpoint1" param2="" param3=""/>
-<C1_Discussion id="415" originalRow="415" groupSign="" debugClose="" action="镜头移动" data="vcam321" param="0.7" param2="" param3=""/>
-<C1_Discussion id="416" originalRow="416" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="原来如此……" param2="133K原来如此" param3=""/>
-<C1_Discussion id="417" originalRow="417" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#聂飞惊讶}啊，所以她说用第一份工资给奶奶买的蛋糕，
+<C1_Discussion id="433" originalRow="433" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpoint1" param2="" param3=""/>
+<C1_Discussion id="434" originalRow="434" groupSign="" debugClose="" action="镜头移动" data="vcam321" param="0.7" param2="" param3=""/>
+<C1_Discussion id="435" originalRow="435" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="原来如此……" param2="133K原来如此" param3=""/>
+<C1_Discussion id="436" originalRow="436" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#聂飞惊讶}啊，所以她说用第一份工资给奶奶买的蛋糕，
 其实是作为空乘人员的工资吗？{0.8}{#聂飞惊讶恢复}" param2="107T所以她说" param3=""/>
-<C1_Discussion id="418" originalRow="418" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="0.7" param2="" param3=""/>
-<C1_Discussion id="419" originalRow="419" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="很有可能，艺人并不是一份能糊口的职业，
+<C1_Discussion id="437" originalRow="437" groupSign="" debugClose="" action="镜头移动" data="vcam23" param="0.7" param2="" param3=""/>
+<C1_Discussion id="438" originalRow="438" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="很有可能，艺人并不是一份能糊口的职业，
 很多大明星出道前也只能用业余时间进行演出……" param2="" param3=""/>
-<C1_Discussion id="420" originalRow="420" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="爱唱歌、想出道可能只是钱越的业务爱好和梦想。" param2="" param3=""/>
-<C1_Discussion id="421" originalRow="421" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
-<C1_Discussion id="422" originalRow="422" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.7" param2="" param3=""/>
-<C1_Discussion id="423" originalRow="423" groupSign="" debugClose="" action="角色台词" data="niefei" param="{shake=1}{特殊-闪白效果,1}好家伙！咱们之前的方向完全被误导了……
+<C1_Discussion id="439" originalRow="439" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="爱唱歌、想出道可能只是钱越的业务爱好和梦想。" param2="" param3=""/>
+<C1_Discussion id="440" originalRow="440" groupSign="" debugClose="" action="角色移动" data="niefei" param="charpointSP4" param2="" param3=""/>
+<C1_Discussion id="441" originalRow="441" groupSign="" debugClose="" action="镜头移动" data="vcamSP34" param="0.7" param2="" param3=""/>
+<C1_Discussion id="442" originalRow="442" groupSign="" debugClose="" action="角色台词" data="niefei" param="{shake=1}{特殊-闪白效果,1}好家伙！咱们之前的方向完全被误导了……
 阅人无数的我也有吃败仗的时候。" param2="103好家伙" param3=""/>
-<C1_Discussion id="424" originalRow="424" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpointSP1" param2="" param3=""/>
-<C1_Discussion id="425" originalRow="425" groupSign="" debugClose="" action="镜头移动" data="vcamSP2431end" param="0.7" param2="" param3=""/>
-<C1_Discussion id="426" originalRow="426" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越原来是失事航班上的空乘，
+<C1_Discussion id="443" originalRow="443" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpointSP1" param2="" param3=""/>
+<C1_Discussion id="444" originalRow="444" groupSign="" debugClose="" action="镜头移动" data="vcamSP2431end" param="0.7" param2="" param3=""/>
+<C1_Discussion id="445" originalRow="445" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="钱越原来是失事航班上的空乘，
 那MV里闪现的机舱内画面……" param2="" param3=""/>
-<C1_Discussion id="427" originalRow="427" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="很可能就是钱越离世前
+<C1_Discussion id="446" originalRow="446" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="很可能就是钱越离世前
 最后的记忆了。" param2="" param3=""/>
-<C1_Discussion id="428" originalRow="428" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤表情}真是让人惋惜……" param2="134K真是" param3=""/>
-<C1_Discussion id="429" originalRow="429" groupSign="" debugClose="" action="语法-数值" data="ri_第一章_钱越的身份=1" param="" param2="" param3=""/>
-<C1_Discussion id="430" originalRow="430" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="431" originalRow="431" groupSign="" debugClose="" action="RPGActor" data="UI_PartyPhoto" param="2" param2="" param3=""/>
-<C1_Discussion id="432" originalRow="432" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="" param2="" param3=""/>
-<C1_Discussion id="433" originalRow="433" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
-<C1_Discussion id="434" originalRow="434" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<C1_Discussion id="435" originalRow="435" groupSign="" debugClose="" action="跳转-标签" data="" param="C1_404home.最终谜题" param2="" param3=""/>
-<C1_Discussion id="436" originalRow="436" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="437" originalRow="437" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_Discussion id="438" originalRow="438" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="447" originalRow="447" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤表情}真是让人惋惜……" param2="134K真是" param3=""/>
+<C1_Discussion id="448" originalRow="448" groupSign="" debugClose="" action="语法-数值" data="ri_第一章_钱越的身份=1" param="" param2="" param3=""/>
+<C1_Discussion id="449" originalRow="449" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="450" originalRow="450" groupSign="" debugClose="" action="RPGActor" data="UI_PartyPhoto" param="2" param2="" param3=""/>
+<C1_Discussion id="451" originalRow="451" groupSign="" debugClose="" action="特殊-转场效果" data="1" param="" param2="" param3=""/>
+<C1_Discussion id="452" originalRow="452" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
+<C1_Discussion id="453" originalRow="453" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_Discussion id="454" originalRow="454" groupSign="" debugClose="" action="跳转-标签" data="" param="C1_404home.最终谜题" param2="" param3=""/>
+<C1_Discussion id="455" originalRow="455" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="456" originalRow="456" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_Discussion id="457" originalRow="457" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

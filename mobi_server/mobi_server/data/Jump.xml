@@ -66,14 +66,15 @@
 <Jump id="30292" type="3" param="302042" describe="珑克酒店B区守卫房间（东）掉落"/>
 <Jump id="999001" type="0" param="" describe="暂无获得来源，敬请期待"/>
 <Jump id="999002" type="0" param="" describe="当前版本未放出，敬请期待"/>
-<Jump id="999003" describe="当前版本暂未开放充值功能~"/>
-<Jump id="999004" describe="通过探索安江市完成支线获得~"/>
-<Jump id="999005" describe="通过完成杜衡发放的任务获得~"/>
+<Jump id="999003" describe="当前版本暂未开放充值功能"/>
+<Jump id="999004" describe="通过探索安江市完成支线获得"/>
+<Jump id="999005" type="0" describe="通过完成杜衡发放的任务获得"/>
 <Jump id="999011" type="0" param="" describe="获得同名异质物时自动分解获得"/>
 <Jump id="999012" type="2" param="14" describe="在异质探测中获得"/>
 <Jump id="999013" type="2" param="13" describe="可在补给中购买"/>
 <Jump id="999014" describe="随时间自然恢复，每5分钟恢复1点"/>
-<Jump id="999015" describe="通过共生异质物的分解获得~"/>
-<Jump id="999016" describe="通过完成任务或者消耗体力获得~"/>
-<Jump id="999017" describe="通过提升小队成员的羁绊等级获得~"/>
+<Jump id="999015" describe="通过共生异质物的分解获得"/>
+<Jump id="999016" describe="通过完成任务或者消耗体力获得"/>
+<Jump id="999017" describe="通过提升小队成员的羁绊等级获得"/>
+<Jump id="999018" type="1" param="5010" describe="通过完成聂飞发放的巡逻任务获得"/>
 </root>

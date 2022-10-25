@@ -27,7 +27,7 @@
 <C3_VSHuangquan id="25" originalRow="25" groupSign="" debugClose="" action="高级镜头" data="第三章_1V1_黄权_1" param="玩家腰线视角" param2="" param3=""/>
 <C3_VSHuangquan id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="（要小心引导他暴露出更多情报）" param2="" param3=""/>
 <C3_VSHuangquan id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="（等他漏出马脚，{0.2}再一击毙命！）" param2="" param3=""/>
-<C3_VSHuangquan id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="（就先问问&lt;color=red&gt;&lt;b&gt;昨天晚上到底发生了什么&lt;/color&gt;&lt;/b&gt;吧）{角色动作,,周易_思考_动作_结束_01}" param2="" param3=""/>
+<C3_VSHuangquan id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="（就先问问&lt;z=highlight&gt;&lt;b&gt;昨天晚上到底发生了什么&lt;/z&gt;&lt;/b&gt;吧）{角色动作,,周易_思考_动作_结束_01}" param2="" param3=""/>
 <C3_VSHuangquan id="29" originalRow="29" groupSign="" debugClose="" action="高级镜头" data="第三章_1V1_黄权_1" param="玩家特写视角" param2="" param3=""/>
 <C3_VSHuangquan id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易成功2表情}{#周易胜利2动作}要不{0.2}咱们还是开始正题吧？" param2="" param3=""/>
 <C3_VSHuangquan id="31" originalRow="31" groupSign="" debugClose="" action="高级镜头" data="第三章_1V1_黄权_1" param="敌对正面视角" param2="" param3=""/>
@@ -50,7 +50,7 @@
 <C3_VSHuangquan id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="黄权先生，我希望你可以想清楚！我需要再问你一次 ——" param2="" param3=""/>
 <C3_VSHuangquan id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易成功2表情}你！{0.5}是否知道！！！{1}{#周易胜利2动作}关于异质物的事情！！！" param2="" param3=""/>
 <C3_VSHuangquan id="50" originalRow="50" groupSign="" debugClose="" action="高级镜头" data="第三章_1V1_黄权_1" param="敌对正面视角" param2="" param3=""/>
-<C3_VSHuangquan id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权平静表情}{#黄权平静动作}哎，其实公司发生的事，{shake=1}其实我&lt;color=red&gt;并不知情&lt;/color&gt;！" param2="" param3=""/>
+<C3_VSHuangquan id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权平静表情}{#黄权平静动作}哎，其实公司发生的事，{shake=1}其实我&lt;z=highlight&gt;并不知情&lt;/z&gt;！" param2="" param3=""/>
 <C3_VSHuangquan id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{角色动作,,1005}哎！{0.2}要是我第一时间在————" param2="" param3=""/>
 <C3_VSHuangquan id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权忧伤表情}{#黄权忧伤动作}可能就不会发生这种悲剧了。。。{2}{#黄权忧伤动作恢复}" param2="" param3=""/>
 <C3_VSHuangquan id="54" originalRow="54" groupSign="" debugClose="" action="跳转-标签" data="" param="正式舌战1-1" param2="" param3=""/>

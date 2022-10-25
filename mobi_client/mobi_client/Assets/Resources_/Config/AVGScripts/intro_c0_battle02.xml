@@ -4,28 +4,50 @@
 <Intro_C0_battle02 id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
 <Intro_C0_battle02 id="3" originalRow="3" debugClose="1" action="角色台词" data="" param="{music=low}" param2="" param3=""/>
 <Intro_C0_battle02 id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
-<Intro_C0_battle02 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="诶！？你用的……跟那个鲨鱼服不一样。" param2="" param3=""/>
+<Intro_C0_battle02 id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="wo" param="诶！？你使用的……跟那个鲨鱼服少女不一样呢。" param2="" param3=""/>
 <Intro_C0_battle02 id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
 <Intro_C0_battle02 id="7" originalRow="7" groupSign="" debugClose="" action="角色动作" data="kaiselin02" param="凯瑟琳_严肃_动作_循环_01" param2="" param3=""/>
 <Intro_C0_battle02 id="8" originalRow="8" groupSign="" debugClose="" action="角色表情" data="kaiselin02" param="凯瑟琳_得意_上脸_开始_01;凯瑟琳_得意_下嘴_开始_01" param2="" param3=""/>
-<Intro_C0_battle02 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你说的是涂凌吗？" param2="" param3="type=0"/>
-<Intro_C0_battle02 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我的常用异质物
-就是这两个小家伙~" param2="" param3="type=0"/>
-<Intro_C0_battle02 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="范围性打击的【1-047织线偶童】
-与强力防御的【2-120禁止通行】" param2="" param3="type=0"/>
-<Intro_C0_battle02 id="12" originalRow="12" groupSign="" debugClose="" action="角色动作" data="kaiselin02" param="凯瑟琳_得意_动作_循环_01" param2="" param3=""/>
-<Intro_C0_battle02 id="13" originalRow="13" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="就像抗生素配点激素才能达到最佳药效~" param2="" param3="type=0"/>
-<Intro_C0_battle02 id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
-<Intro_C0_battle02 id="15" originalRow="15" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<Intro_C0_battle02 id="16" originalRow="16" groupSign="能量介绍" debugClose="" action="" data="" param="" param2="" param3=""/>
-<Intro_C0_battle02 id="17" originalRow="17" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
-<Intro_C0_battle02 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;每次行动都会积攒一点能量值&lt;/z&gt;" param2="" param3="type=1"/>
-<Intro_C0_battle02 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;能量值攒满后，会转化为一次终结技次数&lt;/z&gt;" param2="" param3="type=1"/>
-<Intro_C0_battle02 id="20" originalRow="20" groupSign="" debugClose="1" action="播放音效" data="voice_ding" param="" param2="" param3=""/>
-<Intro_C0_battle02 id="21" originalRow="21" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<Intro_C0_battle02 id="22" originalRow="22" groupSign="引导偶童" debugClose="" action="" data="" param="" param2="" param3=""/>
-<Intro_C0_battle02 id="23" originalRow="23" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
-<Intro_C0_battle02 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;就是现在！释放织线偶童的终结技！&lt;/z&gt;" param2="" param3="type=1"/>
-<Intro_C0_battle02 id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<Intro_C0_battle02 id="26" originalRow="26" groupSign="结束" debugClose="" action="" data="" param=""/>
+<Intro_C0_battle02 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="你说的是涂凌吧！
+&lt;z=highlight&gt;我们每个人都有常用的异质物。&lt;/z&gt;" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="上阵越多我们擅长的异质物，我们自身的能力也会被强化哦。" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="我的常用异质物就是这两个小家伙~" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="范围性打击的&lt;z=highlight&gt;『1-047织线偶童』&lt;/z&gt;，
+与强力防御的&lt;z=highlight&gt;『2-120禁止通行』&lt;/z&gt;。" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="13" originalRow="13" groupSign="" debugClose="" action="角色动作" data="kaiselin02" param="凯瑟琳_得意_动作_循环_01" param2="" param3=""/>
+<Intro_C0_battle02 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="把能量一股脑分配给&lt;z=highlight&gt;『1-047织线偶童』&lt;/z&gt;去释放&lt;z=highlight&gt;终结技&lt;/z&gt;的感觉真是太美妙了。" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=highlight&gt;能量？&lt;/z&gt;" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="嗯？你不知道嘛？
+异质物释放终结技，是需要消耗&lt;z=highlight&gt;能量点&lt;/z&gt;的。" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="&lt;z=highlight&gt;异质物每次行动都会回复一点能量值，
+能量值涨满转换为一点能量点。&lt;/z&gt;" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="喏，相信你也注意到了，就是右下角那里。" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="19" originalRow="19" groupSign="" debugClose="" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
+<Intro_C0_battle02 id="20" originalRow="20" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="21" originalRow="21" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="22" originalRow="22" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="23" originalRow="23" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<Intro_C0_battle02 id="24" originalRow="24" groupSign="能量介绍" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Intro_C0_battle02 id="25" originalRow="25" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<Intro_C0_battle02 id="26" originalRow="26" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
+<Intro_C0_battle02 id="27" originalRow="27" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<Intro_C0_battle02 id="28" originalRow="28" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
+<Intro_C0_battle02 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="&lt;z=green&gt;异质物每次行动都会积攒一点进度值&lt;/z&gt;" param2="" param3="type=1"/>
+<Intro_C0_battle02 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="&lt;z=green&gt;进度值攒满后，会转化为一个能量点数。&lt;/z&gt;" param2="" param3="type=1"/>
+<Intro_C0_battle02 id="31" originalRow="31" groupSign="" debugClose="1" action="播放音效" data="voice_ding" param="" param2="" param3=""/>
+<Intro_C0_battle02 id="32" originalRow="32" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="33" originalRow="33" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="34" originalRow="34" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="35" originalRow="35" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<Intro_C0_battle02 id="36" originalRow="36" groupSign="引导偶童" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Intro_C0_battle02 id="37" originalRow="37" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<Intro_C0_battle02 id="38" originalRow="38" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
+<Intro_C0_battle02 id="39" originalRow="39" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<Intro_C0_battle02 id="40" originalRow="40" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_guidence" param="no_postprocessing" param2="" param3=""/>
+<Intro_C0_battle02 id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="就是现在！释放织线偶童的终结技！" param2="" param3="type=0"/>
+<Intro_C0_battle02 id="42" originalRow="42" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="43" originalRow="43" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="44" originalRow="44" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_C0_battle02 id="45" originalRow="45" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<Intro_C0_battle02 id="46" originalRow="46" groupSign="结束" debugClose="" action="" data="" param=""/>
 </root>

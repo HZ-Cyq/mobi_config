@@ -7,7 +7,7 @@
 <C3_QYZ_camera id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3="TRUE;TRUE;FALSE"/>
 <C3_QYZ_camera id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞忧伤表情}呃……我还是有点糊涂……" param2="" param3="type=0"/>
 <C3_QYZ_camera id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}你们是怎么知道，顶石有内部的加密通信软件？" param2="" param3="type=0"/>
-<C3_QYZ_camera id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tushanao" param="根据七年前的&lt;z=yellow&gt;《战时保密法》&lt;/z&gt;，{0.4}涉密项目的承包商必须按照国家保密部门同等标准进行管理。{&amp;战时保密法}" param2="" param3="type=4"/>
+<C3_QYZ_camera id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tushanao" param="根据七年前的&lt;z=highlight&gt;《战时保密法》&lt;/z&gt;，{0.4}涉密项目的承包商必须按照国家保密部门同等标准进行管理。{&amp;战时保密法}" param2="" param3="type=4"/>
 <C3_QYZ_camera id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tushanao" param="虽然现在战争结束了，但大多数条款依然有效。" param2="" param3="type=4"/>
 <C3_QYZ_camera id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tushanao" param="如果企业违反规定{0.2}不仅会面临严厉的处罚，{0.5}甚至可能被没收相关项目的全部资产。" param2="" param3="type=4"/>
 <C3_QYZ_camera id="11" originalRow="11" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
@@ -18,7 +18,7 @@
 <C3_QYZ_camera id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tushanao" param="对了，{0.3}刚才杜博士请求的授权都拿到了吗？" param2="" param3="type=4"/>
 <C3_QYZ_camera id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作恢复}{#涂凌抬头}{#涂凌平静表情}大厦监控系统的通证已经拿到了，75层的调查授权还没下来。" param2="" param3="type=0"/>
 <C3_QYZ_camera id="18" originalRow="18" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C3_QYZ_camera id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="{播放音效,avg_sinspiration}&lt;z=yellow&gt;获得了在漆异之电脑上查看监控数据的权限。&lt;/z&gt;" param2="" param3="type=1"/>
+<C3_QYZ_camera id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="{播放音效,avg_sinspiration}&lt;z=highlight&gt;获得了在漆异之电脑上查看监控数据的权限。&lt;/z&gt;" param2="" param3="type=1"/>
 <C3_QYZ_camera id="20" originalRow="20" groupSign="1.5&gt;&gt;" debugClose="" action="打开插画" data="UI_3Dexplorebegin" param="" param2="" param3=""/>
 <C3_QYZ_camera id="21" originalRow="21" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
 <C3_QYZ_camera id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="" param="去漆异之的电脑桌上调查一下吧。" param2="" param3="type=1"/>
@@ -32,7 +32,7 @@
 <C3_QYZ_camera id="30" originalRow="30" groupSign="" debugClose="" action="播放音乐" data="bgm_disccusion" param="" param2="" param3=""/>
 <C3_QYZ_camera id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="总感觉这个电脑有点奇怪，
 算了，还是先看看里面都有什么吧。" param2="" param3=""/>
-<C3_QYZ_camera id="32" originalRow="32" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_思考_动作_循环_01" param3=""/>
+<C3_QYZ_camera id="32" originalRow="32" groupSign="" debugClose="1" action="设置角色" data="tuling" param="pos=中" param2="涂凌_思考_动作_循环_01" param3=""/>
 <C3_QYZ_camera id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考表情}这台电脑太干净了，很明显有人专门清理过……" param2="" param3="type=0"/>
 <C3_QYZ_camera id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌思考动作恢复}希望可以找到一些线索……" param2="" param3="type=0"/>
 <C3_QYZ_camera id="35" originalRow="35" groupSign="" debugClose="" action="RPGActor" data="UI_QYZOffice_Computer" param="1" param2="" param3=""/>
@@ -116,8 +116,7 @@
 <C3_QYZ_camera id="111" originalRow="111" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="wo" param="等等，好像有新消息？" param2="" param3=""/>
 <C3_QYZ_camera id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="tushanao" param="对了，警方把漆异之死亡时手里的那张照片的3D扫描件传回来了──" param2="" param3="type=4"/>
 <C3_QYZ_camera id="113" originalRow="113" groupSign="" debugClose="" action="语法-数值" data="ri_第三章_漆异之和邱染照片=1" param="" param2="" param3=""/>
-<C3_QYZ_camera id="114" originalRow="114" groupSign="" debugClose="" action="可选对话框" data="" param="$$查看照片==&gt;正常相框调查
-$$跳过照片调查==&gt;Debug跳过" param2="" param3=""/>
+<C3_QYZ_camera id="114" originalRow="114" groupSign="" debugClose="" action="可选对话框" data="" param="$$查看照片==&gt;正常相框调查" param2="" param3=""/>
 <C3_QYZ_camera id="115" originalRow="115" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_QYZ_camera id="116" originalRow="116" groupSign="正常相框调查" debugClose="" action="RPGGoL3" data="31112" param="FALSE" param2="" param3=""/>
 <C3_QYZ_camera id="117" originalRow="117" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>

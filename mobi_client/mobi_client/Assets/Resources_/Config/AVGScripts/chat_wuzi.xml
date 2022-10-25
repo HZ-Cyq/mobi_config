@@ -12,12 +12,12 @@ $$应该的。==&gt;客气2"/>
 <chat_wuzi id="9" originalRow="9" groupSign="" debugClose="" action="跳转-标签" param="继续剧情"/>
 <chat_wuzi id="10" originalRow="10" groupSign="" debugClose="" param=""/>
 <chat_wuzi id="11" originalRow="11" groupSign="继续剧情" debugClose="" param=""/>
-<chat_wuzi id="12" originalRow="12" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="作为奖励，后勤部准备了新人福利。"/>
+<chat_wuzi id="12" originalRow="12" groupSign="2.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="作为奖励，后勤部准备了新人福利。"/>
 <chat_wuzi id="13" originalRow="13" groupSign="" debugClose="" action="可选对话框" param="$$福利！？==&gt;福利"/>
 <chat_wuzi id="14" originalRow="14" groupSign="福利" debugClose="" param=""/>
 <chat_wuzi id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="福利！？"/>
-<chat_wuzi id="16" originalRow="16" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="嗯哼，一些对你很有用的物资。"/>
-<chat_wuzi id="17" originalRow="17" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="去昭离公馆大厅找工作人员领取。"/>
+<chat_wuzi id="16" originalRow="16" groupSign="2.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="嗯哼，一些对你很有用的物资。"/>
+<chat_wuzi id="17" originalRow="17" groupSign="2.5&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="去昭离公馆大厅找工作人员领取。"/>
 <chat_wuzi id="18" originalRow="18" groupSign="" debugClose="" action="可选对话框" param="$$收到==&gt;收到"/>
 <chat_wuzi id="19" originalRow="19" groupSign="收到" debugClose="" param=""/>
 <chat_wuzi id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="收到！"/>

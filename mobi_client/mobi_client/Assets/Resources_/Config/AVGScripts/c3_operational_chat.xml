@@ -57,7 +57,7 @@
 <C3_operational_chat id="51" originalRow="51" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
 <C3_operational_chat id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#凯瑟琳2得意动作恢复}{角色动作,,聂总_愤怒_动作_开始_01}{角色表情,,聂总_愤怒_上脸_开始_01;聂总_愤怒_下嘴_开始_01}{sleep=0.5}{播放音效,voice_slash}{特殊-闪白效果,1}{shake=1}什么！{sleep=1}
 就为了满足这帮{播放音效,voice_slash}{特殊-闪白效果,1}{shake=1}老东西，让咱们天天练得这么晚！" param2="" param3="type=0"/>
-<C3_operational_chat id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞军体拳}{播放音效,avg_Sslash}老子要求加班费喵！！" param2="" param3="type=0"/>
+<C3_operational_chat id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞军体拳}{播放音效,avg_sslash}老子要求加班费喵！！" param2="" param3="type=0"/>
 <C3_operational_chat id="54" originalRow="54" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
 <C3_operational_chat id="55" originalRow="55" groupSign="" debugClose="1" action="角色台词" data="wo" param="考核？" param2="" param3="type=0"/>
 <C3_operational_chat id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白ding}考核？{0.4}

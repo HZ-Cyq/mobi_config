@@ -1,17 +1,17 @@
 <root>
 <chat_day4 id="0" originalRow="0" groupSign="稳定剂"/>
-<chat_day4 id="1" originalRow="1" groupSign="1.1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="很勤奋嘛~看来你非常适应接触异质物的工作。"/>
+<chat_day4 id="1" originalRow="1" groupSign="2.1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="很勤奋嘛~看来你非常适应接触异质物的工作。"/>
 <chat_day4 id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" param="$$你突然这么说……==&gt;有问题"/>
 <chat_day4 id="3" originalRow="3" groupSign="有问题" debugClose="" param=""/>
 <chat_day4 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="你突然这么说……我身体指标有问题！？"/>
-<chat_day4 id="5" originalRow="5" groupSign="1.1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="完全没有呀。"/>
-<chat_day4 id="6" originalRow="6" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="不过如果你有任何不舒服，都可以找我要一些自研药回去。"/>
+<chat_day4 id="5" originalRow="5" groupSign="2.1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="完全没有呀。"/>
+<chat_day4 id="6" originalRow="6" groupSign="2.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="不过如果你有任何不舒服，都可以找我要一些自研药回去。"/>
 <chat_day4 id="7" originalRow="7" groupSign="" debugClose="" action="可选对话框" param="$$那些都是还没临床过的吧！==&gt;没临床"/>
 <chat_day4 id="8" originalRow="8" groupSign="没临床" debugClose="" param=""/>
 <chat_day4 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="那些都是还没临床过的吧！"/>
 <chat_day4 id="10" originalRow="10" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="你拿点普通药品给我就好……"/>
 <chat_day4 id="11" originalRow="11" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="wo" param="不过我现在状态很好，准备上班了。"/>
-<chat_day4 id="12" originalRow="12" groupSign="1.1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嘻嘻，勤奋的队长最可爱。"/>
+<chat_day4 id="12" originalRow="12" groupSign="2.1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="嘻嘻，勤奋的队长最可爱。"/>
 <chat_day4 id="13" originalRow="13" groupSign="" debugClose="" action="可选对话框" param="$$少来。==&gt;少来"/>
 <chat_day4 id="14" originalRow="14" groupSign="少来" debugClose="" param=""/>
 <chat_day4 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="少来。"/>

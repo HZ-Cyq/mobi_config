@@ -5,7 +5,7 @@
 $$没什么头绪，你呢？==&gt;你呢"/>
 <chat_kaiselin_3 id="3" originalRow="3" groupSign="感觉" debugClose="" param=""/>
 <chat_kaiselin_3 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="我觉得不太像遇到的那个异质物干的。"/>
-<chat_kaiselin_3 id="5" originalRow="5" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我也是这么想。"/>
+<chat_kaiselin_3 id="5" originalRow="5" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我也是这么想。"/>
 <chat_kaiselin_3 id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" param="分支结束"/>
 <chat_kaiselin_3 id="7" originalRow="7" groupSign="" debugClose="" param=""/>
 <chat_kaiselin_3 id="8" originalRow="8" groupSign="你呢" debugClose="" param=""/>
@@ -13,18 +13,18 @@ $$没什么头绪，你呢？==&gt;你呢"/>
 <chat_kaiselin_3 id="10" originalRow="10" groupSign="" debugClose="" action="跳转-标签" param="分支结束"/>
 <chat_kaiselin_3 id="11" originalRow="11" groupSign="" debugClose="" param=""/>
 <chat_kaiselin_3 id="12" originalRow="12" groupSign="分支结束" debugClose="" param=""/>
-<chat_kaiselin_3 id="13" originalRow="13" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="他身上有一些针孔，是更早之前的。"/>
-<chat_kaiselin_3 id="14" originalRow="14" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我看了所有化验结果，他并不是瘾君子。"/>
+<chat_kaiselin_3 id="13" originalRow="13" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="他身上有一些针孔，是更早之前的。"/>
+<chat_kaiselin_3 id="14" originalRow="14" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="我看了所有化验结果，他并不是瘾君子。"/>
 <chat_kaiselin_3 id="15" originalRow="15" groupSign="" debugClose="" action="可选对话框" param="$$那这些血是怎么短期内突然离开他的身体的？==&gt;短期内突然离开"/>
 <chat_kaiselin_3 id="16" originalRow="16" groupSign="短期内突然离开" debugClose="" param=""/>
 <chat_kaiselin_3 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="wo" param="那这些血是怎么短期内突然离开他的身体的？"/>
-<chat_kaiselin_3 id="18" originalRow="18" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="问题是他也并非死于失血过多。"/>
-<chat_kaiselin_3 id="19" originalRow="19" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="而是心脏猝停~"/>
+<chat_kaiselin_3 id="18" originalRow="18" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="问题是他也并非死于失血过多。"/>
+<chat_kaiselin_3 id="19" originalRow="19" groupSign="2.5&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="而是心脏猝停~"/>
 <chat_kaiselin_3 id="20" originalRow="20" groupSign="" debugClose="" action="可选对话框" param="$$看起来简直跟意外一样……==&gt;意外一样"/>
 <chat_kaiselin_3 id="21" originalRow="21" groupSign="意外一样"/>
 <chat_kaiselin_3 id="22" originalRow="22" action="角色台词" data="wo" param="看起来简直跟意外一样……"/>
 <chat_kaiselin_3 id="23" originalRow="23" groupSign="1&gt;&gt;" action="角色台词" data="wo" param="缺失的信息有点多，再继续调查吧。"/>
-<chat_kaiselin_3 id="24" originalRow="24" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="加油呀队长~"/>
+<chat_kaiselin_3 id="24" originalRow="24" groupSign="1.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin" param="加油呀队长~"/>
 <chat_kaiselin_3 id="25" originalRow="25"/>
 <chat_kaiselin_3 id="26" originalRow="26" groupSign="结束"/>
 </root>

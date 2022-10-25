@@ -68,7 +68,7 @@ $$根本没打算结婚？==&gt;后续对话3" param2="" param3=""/>
 <xt_dayfind_confidentwomen id="64" originalRow="64" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param2="" param3=""/>
 <xt_dayfind_confidentwomen id="65" originalRow="65" groupSign="" debugClose="" action="设置角色" data="nfc_90007" param="pos=中" param2="" param3=""/>
 <xt_dayfind_confidentwomen id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="nfc_90007" param="{#FANN愤怒动作}{#FANN愤怒表情}你的意思是……姐的未婚夫被异质物吃掉了吗！" param2="" param3=""/>
-<xt_dayfind_confidentwomen id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="nfc_90032" param="不行！就算是这样，姐今天也要结婚！" param2="" param3=""/>
+<xt_dayfind_confidentwomen id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="nfc_90007" param="不行！就算是这样，姐今天也要结婚！" param2="" param3=""/>
 <xt_dayfind_confidentwomen id="68" originalRow="68" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_dayfind_confidentwomen id="69" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_dayfind_confidentwomen id="70" originalRow="70" groupSign="竹姐问候" debugClose="" action="" data="" param="" param2="" param3=""/>

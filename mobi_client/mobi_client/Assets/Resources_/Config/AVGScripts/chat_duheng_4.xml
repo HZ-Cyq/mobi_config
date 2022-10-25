@@ -1,34 +1,34 @@
 <root>
 <chat_duheng_4 id="0" originalRow="0" groupSign="关于土山奥" debugClose="" action="" data="" param="" param2=""/>
 <chat_duheng_4 id="1" originalRow="1" groupSign="" debugClose="" action="角色台词" data="wo" param="联合议会这么轻易就放过了土山，总觉得……" param2=""/>
-<chat_duheng_4 id="2" originalRow="2" groupSign="1.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="他们那么想要水晶，应该把土山带回去研究？" param2=""/>
+<chat_duheng_4 id="2" originalRow="2" groupSign="2.6&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="他们那么想要水晶，应该把土山带回去研究？" param2=""/>
 <chat_duheng_4 id="3" originalRow="3" groupSign="" debugClose="" action="可选对话框" data="" param="$$不应该这样吗？==&gt;应该
 $$是我们做了条件交换？==&gt;交换" param2=""/>
 <chat_duheng_4 id="4" originalRow="4" groupSign="应该" debugClose="" action="" data="" param="" param2=""/>
 <chat_duheng_4 id="5" originalRow="5" action="角色台词" data="wo" param="不应该这样吗？"/>
-<chat_duheng_4 id="6" originalRow="6" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="呵呵呵，可他们当初选择放弃土山。"/>
-<chat_duheng_4 id="7" originalRow="7" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="已经让土山生了嫌隙，怎么敢赌土山一定会配合。"/>
+<chat_duheng_4 id="6" originalRow="6" groupSign="2&gt;&gt;" action="角色台词" data="duheng" param="呵呵呵，可他们当初选择放弃土山。"/>
+<chat_duheng_4 id="7" originalRow="7" groupSign="2.5&gt;&gt;" action="角色台词" data="duheng" param="已经让土山生了嫌隙，怎么敢赌土山一定会配合。"/>
 <chat_duheng_4 id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2=""/>
 <chat_duheng_4 id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <chat_duheng_4 id="10" originalRow="10" groupSign="交换" debugClose="" action="" data="" param="" param2=""/>
 <chat_duheng_4 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="是我们做了条件交换？" param2=""/>
-<chat_duheng_4 id="12" originalRow="12" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="说不上交换。既然他们当初选择放弃土山。"/>
-<chat_duheng_4 id="13" originalRow="13" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="就不敢赌土山一定会配合。"/>
+<chat_duheng_4 id="12" originalRow="12" groupSign="2&gt;&gt;" action="角色台词" data="duheng" param="说不上交换。既然他们当初选择放弃土山。"/>
+<chat_duheng_4 id="13" originalRow="13" groupSign="2.5&gt;&gt;" action="角色台词" data="duheng" param="就不敢赌土山一定会配合。"/>
 <chat_duheng_4 id="14" originalRow="14" groupSign="" debugClose="" action="跳转-标签" data="" param="分支结束" param2=""/>
 <chat_duheng_4 id="15" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <chat_duheng_4 id="16" originalRow="16" groupSign="分支结束" debugClose="" action="" data="" param="" param2=""/>
-<chat_duheng_4 id="17" originalRow="17" groupSign="2&gt;&gt;" action="角色台词" data="duheng" param="所有的异质物研究还是得回到STS，既然我们愿意全盘接手，他们何乐而不为？"/>
+<chat_duheng_4 id="17" originalRow="17" groupSign="2.8&gt;&gt;" action="角色台词" data="duheng" param="所有的异质物研究还是得回到STS，既然我们愿意全盘接手，他们何乐而不为？"/>
 <chat_duheng_4 id="18" originalRow="18" action="可选对话框" param="$$原来是这样==&gt;原来"/>
 <chat_duheng_4 id="19" originalRow="19" groupSign="原来"/>
 <chat_duheng_4 id="20" originalRow="20" action="角色台词" data="wo" param="原来是这样，果然是一群冷血善变的老狐狸。"/>
-<chat_duheng_4 id="21" originalRow="21" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="嗯哼，毕竟我答应了他们会同步研究进展跟后续追踪给他们。"/>
-<chat_duheng_4 id="22" originalRow="22" groupSign="1.5&gt;&gt;" action="角色台词" data="duheng" param="用一个价值不大的探员换取STS为他们干活的机会。"/>
+<chat_duheng_4 id="21" originalRow="21" groupSign="2&gt;&gt;" action="角色台词" data="duheng" param="嗯哼，毕竟我答应了他们会同步研究进展跟后续追踪给他们。"/>
+<chat_duheng_4 id="22" originalRow="22" groupSign="2.5&gt;&gt;" action="角色台词" data="duheng" param="用一个价值不大的探员换取STS为他们干活的机会。"/>
 <chat_duheng_4 id="23" originalRow="23" groupSign="2&gt;&gt;" action="角色台词" data="duheng" param="傻子都知道怎么选。"/>
 <chat_duheng_4 id="24" originalRow="24" action="可选对话框" param="$$但是土山那么厉害……==&gt;但是"/>
 <chat_duheng_4 id="25" originalRow="25" groupSign="但是"/>
 <chat_duheng_4 id="26" originalRow="26" action="角色台词" data="wo" param="但是土山那么厉害……"/>
-<chat_duheng_4 id="27" originalRow="27" groupSign="1&gt;&gt;" action="角色台词" data="duheng" param="现在的她，加入STS后可以变得更厉害。"/>
-<chat_duheng_4 id="28" originalRow="28" groupSign="1&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="要好好发掘她的能力，好好相处哟。" param2=""/>
+<chat_duheng_4 id="27" originalRow="27" groupSign="2&gt;&gt;" action="角色台词" data="duheng" param="现在的她，加入STS后可以变得更厉害。"/>
+<chat_duheng_4 id="28" originalRow="28" groupSign="2&gt;&gt;" debugClose="" action="角色台词" data="duheng" param="要好好发掘她的能力，好好相处哟。" param2=""/>
 <chat_duheng_4 id="29" originalRow="29" groupSign="" debugClose="" action="可选对话框" data="" param="$$我明白了！==&gt;明白"/>
 <chat_duheng_4 id="30" originalRow="30" groupSign="明白" debugClose="" action="" data="" param=""/>
 <chat_duheng_4 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="我明白了！"/>

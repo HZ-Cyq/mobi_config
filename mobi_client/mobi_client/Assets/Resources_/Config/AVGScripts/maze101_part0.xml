@@ -10,35 +10,38 @@
 <maze101_part0 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="wo" param="我已经准备好了！" param2=""/>
 <maze101_part0 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="干劲不错。这就是为什么企业喜欢招新的原因啊。" param2=""/>
 <maze101_part0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="很遗憾地通知大家，虽然404的危机已经解除。{#杜衡思考动作恢复}" param2=""/>
-<maze101_part0 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="但安江市监测到了新的『巢化反应』， 需要紧急处理。{#杜衡紧张动作}" param2=""/>
+<maze101_part0 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="但安江市监测到了新的『巢化反应』， 需要立刻处理。{#杜衡紧张动作}" param2=""/>
 <maze101_part0 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="诶诶！？又出现了！？" param2=""/>
 <maze101_part0 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="niefei" param="好家伙，间隔不到12小时连续出现的例子，从来没有过吧？{#杜衡紧张动作恢复}" param2=""/>
-<maze101_part0 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="duheng" param="想来昨晚的巢化并不是个意外呢……" param2=""/>
-<maze101_part0 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="等下！你们是说昨晚那种空间扭曲的『巢』 又出现了？" param2=""/>
-<maze101_part0 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="是的，这次地点是老城区『泉舜公寓』。{#杜衡看文件动作}" param2=""/>
-<maze101_part0 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="监测员已经现场取过数据了，『泉舜公寓』目前处于『巢』化初级阶段。" param2=""/>
-<maze101_part0 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="duheng" param="跟昨晚的404引发的『巢』同级。" param2=""/>
-<maze101_part0 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="wo" param="！那岂不是很危险！{#杜衡看文件动作恢复}" param2=""/>
-<maze101_part0 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="duheng" param="已经紧急疏散附近居民了，但仍有3人失踪。" param2=""/>
-<maze101_part0 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="这么说『巢』不止一个，还出现在了居民区？{#杜衡思考动作}" param2=""/>
-<maze101_part0 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="duheng" param="其实从2年前开始，安江市内已陆续出现的多起『巢化』事件，" param2=""/>
-<maze101_part0 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="duheng" param="如果不是STS及时解决，" param2=""/>
-<maze101_part0 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="duheng" param="安江市早就是一个大型『巢体』了。" param2=""/>
-<maze101_part0 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="wo" param="这……这么夸张！？我之前怎么没有听说过？{#杜衡思考动作恢复}" param2=""/>
-<maze101_part0 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="duheng" param="你听到的许多都市怪谈，都是信息部门所释放的烟雾弹罢了。" param2=""/>
-<maze101_part0 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作}不引起恐慌，避免让民众情绪再次陷入对异质物的恐惧里，这也是STS的职责之一。" param2=""/>
-<maze101_part0 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="wo" param="原来是这样。" param2=""/>
-<maze101_part0 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="duheng" param="呵呵，人对未知的恐惧，有时候比未知本身 可怕得多。{#杜衡紧张动作恢复}" param2=""/>
-<maze101_part0 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="duheng" param="STS，就是为了维持这个脆弱但严密的规则 而建立的。" param2=""/>
-<maze101_part0 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="我明白了。" param2=""/>
-<maze101_part0 id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="duheng" param="了解事情的严重性，就带队出发吧。{#杜衡送客动作}" param2=""/>
-<maze101_part0 id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2=""/>
-<maze101_part0 id="34" originalRow="34" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2=""/>
-<maze101_part0 id="35" originalRow="35" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2=""/>
-<maze101_part0 id="36" originalRow="36" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2=""/>
-<maze101_part0 id="37" originalRow="37" groupSign="" debugClose="" action="切换场景" data="home" param="" param2=""/>
-<maze101_part0 id="38" originalRow="38" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
-<maze101_part0 id="39" originalRow="39" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze101_part0 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="wo" param="等下！你们是说昨晚那种空间扭曲的『巢』 又出现了？" param2=""/>
+<maze101_part0 id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="duheng" param="是的，这次地点是老城区『泉舜公寓』。{#杜衡看文件动作}" param2=""/>
+<maze101_part0 id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="监测员已经现场取过数据了，『泉舜公寓』目前处于『巢』化初级阶段。" param2=""/>
+<maze101_part0 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="duheng" param="跟昨晚的404引发的『巢』同级。" param2=""/>
+<maze101_part0 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="wo" param="！那岂不是很危险！{#杜衡看文件动作恢复}" param2=""/>
+<maze101_part0 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="duheng" param="已经紧急疏散附近居民了，但仍有3人失踪。" param2=""/>
+<maze101_part0 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="wo" param="这么说『巢』不止一个，还出现在了居民区？{#杜衡思考动作}" param2=""/>
+<maze101_part0 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="duheng" param="其实从2年前开始，安江市内已陆续出现的多起『巢化』事件，" param2=""/>
+<maze101_part0 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="duheng" param="如果不是STS及时解决，
+安江市早就是一个大型『巢体』了。" param2=""/>
+<maze101_part0 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="wo" param="这……这么夸张！？我之前怎么没有听说过？{#杜衡思考动作恢复}" param2=""/>
+<maze101_part0 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="duheng" param="你听到的许多都市怪谈，都是信息部门所释放的烟雾弹罢了。" param2=""/>
+<maze101_part0 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作}不引起恐慌，避免让民众情绪再次陷入对异质物的恐惧里，这也是STS的职责之一。" param2=""/>
+<maze101_part0 id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="duheng" param="呵呵，人对未知的恐惧，有时候比未知本身可怕得多。{#杜衡紧张动作恢复}" param2=""/>
+<maze101_part0 id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="我明白了。" param2=""/>
+<maze101_part0 id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="duheng" param="另外，这次是你作为队长带队的第一次外勤任务。
+既是任务，也是一种考核。" param2=""/>
+<maze101_part0 id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="duheng" param="这个任务完成得好，
+下次我会给你一个&lt;z=highlight&gt;更为重要的任务&lt;/z&gt;哦~" param2=""/>
+<maze101_part0 id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="duheng" param="做好觉悟了，就带队出发吧。{#杜衡送客动作}" param2=""/>
+<maze101_part0 id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2=""/>
+<maze101_part0 id="32" originalRow="32" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2=""/>
+<maze101_part0 id="33" originalRow="33" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2=""/>
+<maze101_part0 id="34" originalRow="34" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2=""/>
+<maze101_part0 id="35" originalRow="35" groupSign="" debugClose="" action="切换场景" data="home" param="" param2=""/>
+<maze101_part0 id="36" originalRow="36" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<maze101_part0 id="37" originalRow="37" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+<maze101_part0 id="38" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<maze101_part0 id="39" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze101_part0 id="40" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze101_part0 id="41" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze101_part0 id="42" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2=""/>
@@ -51,6 +54,4 @@
 <maze101_part0 id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze101_part0 id="50" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 <maze101_part0 id="51" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<maze101_part0 id="52" originalRow="52" groupSign="" debugClose="" action="" data="" param="" param2=""/>
-<maze101_part0 id="53" originalRow="53" groupSign="" debugClose="" action="" data="" param="" param2=""/>
 </root>

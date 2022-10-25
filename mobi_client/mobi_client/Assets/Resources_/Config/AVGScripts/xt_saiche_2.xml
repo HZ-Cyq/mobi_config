@@ -19,7 +19,8 @@
 <xt_saiche_2 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="{#白秀竹思考表情}等！等！等一下！我的采访环节可不能漏了。{#白秀竹惊讶动作恢复}{0.8}" param2="" param3="type=0"/>
 <xt_saiche_2 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="{#白秀竹录像动作}请问这位刚脱离危险的受害人，您是什么时候意识到对方是异质物的呢？" param2="" param3="type=0"/>
 <xt_saiche_2 id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="nfc_90011" param="pos=右" param2="" param3=""/>
-<xt_saiche_2 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="nfc_90011" param="{#FANN开心表情}{#FANN开心动作}哼，像我这么聪明的女孩，当然是一上车就发现了。{#白秀竹录像动作恢复}" param2="" param3="type=0"/>
+<xt_saiche_2 id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="nfc_90011" param="{#FANN开心表情}{#FANN开心动作}哼，像我这么聪明的女孩，
+当然是一上车就发现了。{#白秀竹录像动作恢复}" param2="" param3="type=0"/>
 <xt_saiche_2 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="{#白秀竹思考动作}哦哦哦！青春少女与异质物共行一路斗智斗勇！好像有点拗口，我再想想……{#白秀竹思考动作恢复}{1}" param2="" param3="type=0"/>
 <xt_saiche_2 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="baixiuzhu" param="{#白秀竹录像动作}那么那么！你一定是掌握到了他是异质物的关键性证据吧！" param2="" param3="type=0"/>
 <xt_saiche_2 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="nfc_90011" param="{#FANN愤怒动作}{#FANN紧张表情}我……我哪里来的什么证据，他的样子你们也看到了，那不明摆着的吗！{#FANN待机表情}" param2="" param3="type=0"/>

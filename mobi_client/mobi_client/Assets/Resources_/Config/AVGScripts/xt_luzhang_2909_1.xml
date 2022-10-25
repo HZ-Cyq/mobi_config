@@ -98,7 +98,7 @@ $$放水淹掉走廊==&gt;选C" param2="" param3=""/>
 <xt_luzhang_2909_1 id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}上钩了，比刚才那次还快。" param2="" param3="type=0"/>
 <xt_luzhang_2909_1 id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="tuling" param="那个交通锥正向这边快速移动！" param2="" param3="type=0"/>
 <xt_luzhang_2909_1 id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="wo" param="作战开始，守住环线！{music=off}" param2="" param3="type=0"/>
-<xt_luzhang_2909_1 id="97" originalRow="97" groupSign="" debugClose="" action="RPGActor" data="obj_luzhang_anim" param="150" param2="luzhangweiyi4" param3=""/>
+<xt_luzhang_2909_1 id="97" originalRow="97" groupSign="" debugClose="1" action="RPGActor" data="obj_luzhang_anim" param="150" param2="luzhangweiyi4" param3=""/>
 <xt_luzhang_2909_1 id="98" originalRow="98" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_luzhang_2909_1 id="99" originalRow="99" groupSign="" debugClose="1" action="语法-数值" data="rqs_3001006路障支线6=2" param="" param2="" param3=""/>
 <xt_luzhang_2909_1 id="100" originalRow="100" groupSign="" debugClose="1" action="语法-数值" data="rqs_3001007路障支线7=1" param="" param2="" param3=""/>

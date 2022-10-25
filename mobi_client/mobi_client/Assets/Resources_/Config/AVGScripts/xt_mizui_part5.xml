@@ -25,8 +25,8 @@
 <xt_mizui_part5 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你常给她放这些录音，希望她别忘了说话的感觉。" param2="" param3="type=0"/>
 <xt_mizui_part5 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>
 <xt_mizui_part5 id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="如果你输了，这些仅剩的声音也会消失。" param2="" param3="type=0"/>
-<xt_mizui_part5 id="26" originalRow="26" action="角色台词" data="" param="男人深吸了几口气。" param2="" param3="type=1"/>
-<xt_mizui_part5 id="27" originalRow="27" action="设置角色" data="yanjingnan" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="26" originalRow="26" action="设置角色" data="yanjingnan" param="pos=中" param2="" param3=""/>
+<xt_mizui_part5 id="27" originalRow="27" action="角色台词" data="" param="男人深吸了几口气。" param2="" param3="type=1"/>
 <xt_mizui_part5 id="28" originalRow="28" action="角色台词" data="yanjingnan" param="我明白了。" param2="" param3="type=0"/>
 <xt_mizui_part5 id="29" originalRow="29" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_mizui_part5 id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param=""/>
@@ -50,9 +50,9 @@
 <xt_mizui_part5 id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="没关系，你还有东西可以抵押。" param2="" param3="type=0"/>
 <xt_mizui_part5 id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="你那些黑暗的隐私，抢夺、偷窃、玷污的过去。" param2="" param3="type=0"/>
 <xt_mizui_part5 id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="mizuijinchao" param="如果你输了，我就把这些交给收留你的那孩子。" param2="" param3="type=0"/>
-<xt_mizui_part5 id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="" param="砰！猥琐男双拳砸在圆桌桌面。" param2="" param3="type=1"/>
-<xt_mizui_part5 id="52" originalRow="52" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_mizui_part5 id="53" originalRow="53" groupSign="" debugClose="" action="设置角色" data="nfc_90024" param="" param2="" param3=""/>
+<xt_mizui_part5 id="51" originalRow="51" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_mizui_part5 id="52" originalRow="52" groupSign="" debugClose="" action="设置角色" data="nfc_90024" param="" param2="" param3=""/>
+<xt_mizui_part5 id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="" param="砰！猥琐男双拳砸在圆桌桌面。" param2="" param3="type=1"/>
 <xt_mizui_part5 id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="nfc_90024" param="{#MANN愤怒动作}{#MANN愤怒表情}你……你……我……" param2="" param3="type=0"/>
 <xt_mizui_part5 id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="" param="他重重地叹了口气。" param2="" param3="type=1"/>
 <xt_mizui_part5 id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="nfc_90024" param="{#MANN待机动作}{#MANN待机表情}好……吧。" param2="" param3="type=0"/>

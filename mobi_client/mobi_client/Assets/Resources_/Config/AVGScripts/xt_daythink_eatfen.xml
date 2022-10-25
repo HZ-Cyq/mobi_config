@@ -5,14 +5,14 @@
 <xt_daythink_eatfen id="3" originalRow="3" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_daythink_eatfen id="4" originalRow="4" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <xt_daythink_eatfen id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}我怀疑他们中间有两个人说了真话！你帮我找到说真话的人吧。" param2="" param3="type=0"/>
-<xt_daythink_eatfen id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="xiaozhen" param="pos=中" param2="" param3=""/>
-<xt_daythink_eatfen id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="xiaozhen" param="喂，别搞得好像你的粉很好吃一样，我们&lt;z=highlight&gt;四个可是连一碗都没吃呢！&lt;/z&gt;" param2="" param3="name=小梓"/>
-<xt_daythink_eatfen id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="xiaode" param="pos=右" param2="" param3=""/>
-<xt_daythink_eatfen id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="xiaode" param="此言非也，我们&lt;z=highlight&gt;四人全都吃得一干二净&lt;/z&gt;，好吃好吃。" param2="" param3="name=小海"/>
-<xt_daythink_eatfen id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="xiaobu" param="pos=左" param2="" param3=""/>
-<xt_daythink_eatfen id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="xiaobu" param="呃……我悄悄告诉你，反正&lt;z=highlight&gt;小海和小星里面至少有一个人没吃哦！&lt;/z&gt;" param2="" param3="name=小可"/>
-<xt_daythink_eatfen id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="xiaoxing" param="pos=中" param2="" param3=""/>
-<xt_daythink_eatfen id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="xiaoxing" param="其他人我不清楚，&lt;z=highlight&gt;反正我可没吃！真没吃啊！&lt;/z&gt;" param2="" param3="name=小星"/>
+<xt_daythink_eatfen id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=中" param2="" param3=""/>
+<xt_daythink_eatfen id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="喂，别搞得好像你的粉很好吃一样，我们&lt;z=highlight&gt;四个可是连一碗都没吃呢！&lt;/z&gt;" param2="" param3="name=小梓"/>
+<xt_daythink_eatfen id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=右" param2="" param3=""/>
+<xt_daythink_eatfen id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="此言非也，我们&lt;z=highlight&gt;四人全都吃得一干二净&lt;/z&gt;，好吃。" param2="" param3="name=小海"/>
+<xt_daythink_eatfen id="10" originalRow="10" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=左" param2="" param3=""/>
+<xt_daythink_eatfen id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="呃……我悄悄告诉你，反正&lt;z=highlight&gt;小海和小星里面至少有一个人没吃哦！&lt;/z&gt;" param2="" param3="name=小可"/>
+<xt_daythink_eatfen id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="keyanrenyuan" param="pos=中" param2="" param3=""/>
+<xt_daythink_eatfen id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="keyanrenyuan" param="其他人我不清楚，&lt;z=highlight&gt;反正我可没吃！真没吃啊！&lt;/z&gt;" param2="" param3="name=小星"/>
 <xt_daythink_eatfen id="14" originalRow="14" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_daythink_eatfen id="15" originalRow="15" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <xt_daythink_eatfen id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="niefei" param="怎么样，找到两个说真话的人了吗？没考虑清楚的话可以再问问他们。" param2="" param3="type=0"/>
@@ -20,7 +20,8 @@
 <xt_daythink_eatfen id="18" originalRow="18" groupSign="生存答案选择" debugClose="" action="可选对话框" data="" param="$$说真话的是小梓和小星==&gt;错误答案
 $$说真话的是小海和小可==&gt;正确答案
 $$说真话的是小海和小梓==&gt;错误答案
-$$说真话的是小星和小布==&gt;错误答案" param2="" param3=""/>
+$$说真话的是小星和小布==&gt;错误答案
+$$重听==&gt;询问吃了几碗" param2="" param3=""/>
 <xt_daythink_eatfen id="19" originalRow="19" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_daythink_eatfen id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_eatfen id="21" originalRow="21" groupSign="错误答案" debugClose="" action="" data="" param="" param2="" param3=""/>
@@ -30,8 +31,8 @@ $$说真话的是小星和小布==&gt;错误答案" param2="" param3=""/>
 <xt_daythink_eatfen id="25" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_eatfen id="26" originalRow="26" groupSign="正确答案" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_eatfen id="27" originalRow="27" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_daythink_eatfen id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心动作}{#聂飞得意表情}哈哈！真相已经水落石出了！你们可以不用再吵了！" param2="" param3="type=0"/>
-<xt_daythink_eatfen id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="谢谢你啦，周易！{#聂飞开心动作恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
+<xt_daythink_eatfen id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞开心动作}{#聂飞得意表情}哈哈！真相已经水落石出了！你们可以不用吵了！" param2="" param3="type=0"/>
+<xt_daythink_eatfen id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="谢谢你啦！{#聂飞开心动作恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
 <xt_daythink_eatfen id="30" originalRow="30" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_daythink_eatfen id="31" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_eatfen id="32" originalRow="32" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>

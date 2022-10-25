@@ -790,7 +790,7 @@
 <DialogMacro id="5036" key_name="周易思考表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易思考表情恢复}"/>
 <DialogMacro id="5037" key_name="周易思考2表情" macroContent="{角色表情,zhouyi,周易_平静_上脸_开始_01;周易_平静_下嘴_开始_01}{1.2}{角色表情,zhouyi,周易_成功_上脸_开始_01;周易_成功_下嘴_开始_01}" macroName="{#周易思考2表情}"/>
 <DialogMacro id="5038" key_name="周易思考2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易思考2表情恢复}"/>
-<DialogMacro id="5039" key_name="周易思考3表情" macroContent="{角色表情,zhouyi,周易_思考_上脸_开始_03;周易_思考_下嘴_开始_01,0.25}" macroName="{#周易思考3表情}"/>
+<DialogMacro id="5039" key_name="周易思考3表情" macroContent="{角色表情,zhouyi,周易_思考_上脸_开始_02;周易_思考_下嘴_开始_02,0.25}" macroName="{#周易思考3表情}"/>
 <DialogMacro id="5040" key_name="周易思考3表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易思考3表情恢复}"/>
 <DialogMacro id="5041" key_name="周易思考4表情" macroContent="{角色表情,zhouyi,周易_思考_上脸_开始_02;周易_思考_下嘴_开始_02,0.25}" macroName="{#周易思考4表情}"/>
 <DialogMacro id="5042" key_name="周易思考4表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易思考4表情恢复}"/>
@@ -1122,7 +1122,7 @@
 <DialogMacro id="11007" key_name="冰酒思考动作" macroContent="{角色动作,bingjiu,冰酒_思考_动作_开始_01}" macroName="{#冰酒思考动作}"/>
 <DialogMacro id="11008"/>
 <DialogMacro id="11009"/>
-<DialogMacro id="11010" key_name="冰酒出棋动作" macroContent="{角色动作,bingjiu,冰酒_出棋_动作_开始_01}" macroName="{#冰酒出棋动作}"/>
+<DialogMacro id="11010" key_name="冰酒出棋动作" macroContent="{角色动作,bingjiu,冰酒_出棋_动作_结束_01}" macroName="{#冰酒出棋动作}"/>
 <DialogMacro id="11011" key_name="冰酒推算动作" macroContent="{角色动作,bingjiu,冰酒_推算_动作_开始_01}" macroName="{#冰酒推算动作}"/>
 <DialogMacro id="11012" key_name="冰酒装傻动作" macroContent="{角色动作,bingjiu,冰酒_装傻_动作_开始_01}" macroName="{#冰酒装傻动作}"/>
 <DialogMacro id="11013" key_name="冰酒震惊动作" macroContent="{角色动作,bingjiu,冰酒_震惊_动作_开始_01}" macroName="{#冰酒震惊动作}"/>
@@ -1145,7 +1145,7 @@
 <DialogMacro id="11030" key_name="冰酒震惊动作恢复" macroContent="{角色动作,bingjiu,冰酒_震惊_动作_结束_01}" macroName="{#冰酒震惊动作恢复}"/>
 <DialogMacro id="11031" key_name="冰酒挑衅动作恢复" macroContent="{角色动作,bingjiu,冰酒_挑衅_动作_结束_01}" macroName="{#冰酒挑衅动作恢复}"/>
 <DialogMacro id="11032" key_name="冰酒将军动作恢复" macroContent="{角色动作,bingjiu,冰酒_将军_动作_结束_01}" macroName="{#冰酒将军动作恢复}"/>
-<DialogMacro id="11033" key_name="冰酒待机2动作恢复" macroContent="{角色动作,bingjiu,冰酒_待机_动作_结束_02}" macroName="{#冰酒待机2动作恢复}"/>
+<DialogMacro id="11033" key_name="冰酒待机2动作恢复" macroContent="{角色动作,bingjiu,冰酒_待机_动作_循环_01}" macroName="{#冰酒待机2动作恢复}"/>
 <DialogMacro id="11034"/>
 <DialogMacro id="11035"/>
 <DialogMacro id="11036" key_name="冰酒待机表情" macroContent="{角色表情,bingjiu,冰酒_待机_上脸_开始_01;冰酒_待机_下嘴_开始_01,0.25}" macroName="{#冰酒待机表情}"/>

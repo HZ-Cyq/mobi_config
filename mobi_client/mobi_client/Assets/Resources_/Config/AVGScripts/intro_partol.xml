@@ -5,87 +5,95 @@
 <Intro_partol id="3" originalRow="3" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
 <Intro_partol id="4" originalRow="4" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
 <Intro_partol id="5" originalRow="5" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<Intro_partol id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="" param3=""/>
-<Intro_partol id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意动作}快来我这接巡逻任务啦！" param2="" param3=""/>
-<Intro_partol id="8" originalRow="8" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
-<Intro_partol id="9" originalRow="9" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
-<Intro_partol id="10" originalRow="10" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
-<Intro_partol id="11" originalRow="11" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<Intro_partol id="12" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<Intro_partol id="13" originalRow="13" groupSign="巡逻引导1" debugClose="" param2="" param3=""/>
-<Intro_partol id="14" originalRow="14" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
-<Intro_partol id="15" originalRow="15" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
-<Intro_partol id="16" originalRow="16" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
-<Intro_partol id="17" originalRow="17" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<Intro_partol id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="" param3=""/>
-<Intro_partol id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="niefei" param="" param2="" param3=""/>
-<Intro_partol id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}维系安江市日常安全，也是我们STS重要的职责之一。" param2="" param3=""/>
-<Intro_partol id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="niefei" param="日常的巡逻安防，就是不可或缺的了。" param2="" param3=""/>
-<Intro_partol id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="niefei" param="&lt;z=highlight&gt;巡逻任务&lt;/z&gt;，需要矫健的身姿和敏锐的视野。{#聂飞思考动作恢复}{#聂飞待机表情}" param2="" param3=""/>
-<Intro_partol id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="niefei" param="STS虽然藏龙卧虎，也只有本大爷可以胜任~{#聂飞得意动作}{#聂飞得意表情}" param2="" param3=""/>
-<Intro_partol id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="今天心情好，就免费教教你吧！" param2="" param3=""/>
-<Intro_partol id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（那不就是让我们帮你干活嘛。。）&lt;/z&gt;{#聂飞得意动作恢复}" param2="" param3=""/>
-<Intro_partol id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="niefei" param="你说什么，喵？{#聂飞愤怒表情}" param2="" param3=""/>
-<Intro_partol id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="wo" param="没，没什么。。" param2="" param3=""/>
-<Intro_partol id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="niefei" param="当然好处肯定少不了你的。{#聂飞思考动作}{#聂飞得意表情}
+<Intro_partol id="6" originalRow="6" groupSign="" debugClose="" action="跳转-标签" data="rqs_完成任务报告聂飞==1" param="巡逻问候22" param2="" param3=""/>
+<Intro_partol id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="" param3=""/>
+<Intro_partol id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意动作}快来我这接巡逻任务啦！" param2="" param3=""/>
+<Intro_partol id="9" originalRow="9" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_partol id="10" originalRow="10" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_partol id="11" originalRow="11" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_partol id="12" originalRow="12" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<Intro_partol id="13" originalRow="13" groupSign="巡逻问候22" debugClose="" param2="" param3=""/>
+<Intro_partol id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="" param3=""/>
+<Intro_partol id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意动作}完成后继续来我这继续接巡逻任务哦！" param2="" param3=""/>
+<Intro_partol id="16" originalRow="16" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_partol id="17" originalRow="17" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_partol id="18" originalRow="18" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<Intro_partol id="19" originalRow="19" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<Intro_partol id="20" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Intro_partol id="21" originalRow="21" groupSign="巡逻引导1" debugClose="" param2="" param3=""/>
+<Intro_partol id="22" originalRow="22" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
+<Intro_partol id="23" originalRow="23" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="0" param2="" param3=""/>
+<Intro_partol id="24" originalRow="24" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
+<Intro_partol id="25" originalRow="25" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<Intro_partol id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="" param3=""/>
+<Intro_partol id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="niefei" param="" param2="" param3=""/>
+<Intro_partol id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}维系安江市日常安全，也是我们STS重要的职责之一。" param2="" param3=""/>
+<Intro_partol id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="日常的巡逻安防，就是不可或缺的了。" param2="" param3=""/>
+<Intro_partol id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="niefei" param="&lt;z=highlight&gt;巡逻任务&lt;/z&gt;，需要矫健的身姿和敏锐的视野。{#聂飞思考动作恢复}{#聂飞待机表情}" param2="" param3=""/>
+<Intro_partol id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="niefei" param="STS虽然藏龙卧虎，也只有本大爷可以胜任~{#聂飞得意动作}{#聂飞得意表情}" param2="" param3=""/>
+<Intro_partol id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="niefei" param="今天心情好，就免费教教你吧！" param2="" param3=""/>
+<Intro_partol id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（那不就是让我们帮你干活嘛。。）&lt;/z&gt;{#聂飞得意动作恢复}" param2="" param3=""/>
+<Intro_partol id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="niefei" param="你说什么，喵？{#聂飞愤怒表情}" param2="" param3=""/>
+<Intro_partol id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="wo" param="没，没什么。。" param2="" param3=""/>
+<Intro_partol id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="niefei" param="当然好处肯定少不了你的。{#聂飞思考动作}{#聂飞得意表情}
 这里的工作跟日常津贴直接挂钩。" param2="" param3=""/>
-<Intro_partol id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="想要多赚到&lt;z=highlight&gt;『战斗记忆』&lt;/z&gt;和&lt;z=highlight&gt;『元年币』&lt;/z&gt;，
+<Intro_partol id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="niefei" param="想要多赚到&lt;z=highlight&gt;『战斗记忆』&lt;/z&gt;和&lt;z=highlight&gt;『元年币』&lt;/z&gt;，
 就多来本大爷这里完成巡逻任务。" param2="" param3=""/>
-<Intro_partol id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}目前比较紧急的任务，还是跟3-404有关的。{#聂飞待机表情}" param2="" param3=""/>
-<Intro_partol id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞紧张表情}接到群众报道，&lt;z=highlight&gt;康新雅苑&lt;/z&gt;和&lt;z=highlight&gt;槐树里小区&lt;/z&gt;发现了奇怪的电视机。" param2="" param3=""/>
-<Intro_partol id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="niefei" param="目前推测为3-404分身。
+<Intro_partol id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}目前比较紧急的任务，还是跟3-404有关的。{#聂飞待机表情}" param2="" param3=""/>
+<Intro_partol id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞紧张表情}接到群众报道，&lt;z=highlight&gt;康新雅苑&lt;/z&gt;和&lt;z=highlight&gt;槐树里小区&lt;/z&gt;发现了奇怪的电视机。" param2="" param3=""/>
+<Intro_partol id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="niefei" param="目前推测为3-404分身。
 接取它，准备开展异质物回收工作！{#聂飞紧张动作恢复}" param2="" param3=""/>
-<Intro_partol id="33" originalRow="33" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
-<Intro_partol id="34" originalRow="34" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
-<Intro_partol id="35" originalRow="35" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
-<Intro_partol id="36" originalRow="36" action="跳转-标签" data="" param="结束"/>
-<Intro_partol id="37" originalRow="37"/>
-<Intro_partol id="38" originalRow="38" groupSign="巡逻引导2"/>
-<Intro_partol id="39" originalRow="39" action="场景-执行脚本" data="AvgShow:btn_auto" param="0"/>
-<Intro_partol id="40" originalRow="40" action="场景-执行脚本" data="AvgShow:btn_options" param="0"/>
-<Intro_partol id="41" originalRow="41" action="场景-执行脚本" data="AvgShow:btn_review" param="0"/>
-<Intro_partol id="42" originalRow="42" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
-<Intro_partol id="43" originalRow="43" action="设置角色" data="niefei" param="pos=0"/>
-<Intro_partol id="44" originalRow="44" action="角色台词" data="niefei" param="这样就接取好了！我们走！"/>
-<Intro_partol id="45" originalRow="45" action="场景-执行脚本" data="AvgShow:btn_auto" param="1"/>
-<Intro_partol id="46" originalRow="46" action="场景-执行脚本" data="AvgShow:btn_options" param="1"/>
-<Intro_partol id="47" originalRow="47" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
-<Intro_partol id="48" originalRow="48" action="跳转-标签" data="" param="结束"/>
-<Intro_partol id="49" originalRow="49"/>
-<Intro_partol id="50" originalRow="50" groupSign="巡逻引导3"/>
-<Intro_partol id="51" originalRow="51" action="场景-执行脚本" data="AvgShow:btn_auto" param="0"/>
-<Intro_partol id="52" originalRow="52" action="场景-执行脚本" data="AvgShow:btn_options" param="0"/>
-<Intro_partol id="53" originalRow="53" action="场景-执行脚本" data="AvgShow:btn_review" param="0"/>
-<Intro_partol id="54" originalRow="54" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
-<Intro_partol id="55" originalRow="55" action="设置角色" data="niefei" param="pos=0"/>
-<Intro_partol id="56" originalRow="56" action="角色台词" data="niefei" param="每天都会有3个新的需求到我手上。虽然没必要每天都来做，但太懒散的话任务就放不下了！最好定期来完成！{#聂飞思考动作}{#聂飞思考表情}"/>
-<Intro_partol id="57" originalRow="57" action="角色台词" data="niefei" param="如果觉得目前的任务难度较高，可以更换任务。
+<Intro_partol id="41" originalRow="41" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<Intro_partol id="42" originalRow="42" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<Intro_partol id="43" originalRow="43" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
+<Intro_partol id="44" originalRow="44" action="跳转-标签" data="" param="结束"/>
+<Intro_partol id="45" originalRow="45"/>
+<Intro_partol id="46" originalRow="46" groupSign="巡逻引导2"/>
+<Intro_partol id="47" originalRow="47" action="场景-执行脚本" data="AvgShow:btn_auto" param="0"/>
+<Intro_partol id="48" originalRow="48" action="场景-执行脚本" data="AvgShow:btn_options" param="0"/>
+<Intro_partol id="49" originalRow="49" action="场景-执行脚本" data="AvgShow:btn_review" param="0"/>
+<Intro_partol id="50" originalRow="50" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Intro_partol id="51" originalRow="51" action="设置角色" data="niefei" param="pos=0"/>
+<Intro_partol id="52" originalRow="52" action="角色台词" data="niefei" param="这样就接取好了！我们走！"/>
+<Intro_partol id="53" originalRow="53" action="场景-执行脚本" data="AvgShow:btn_auto" param="1"/>
+<Intro_partol id="54" originalRow="54" action="场景-执行脚本" data="AvgShow:btn_options" param="1"/>
+<Intro_partol id="55" originalRow="55" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
+<Intro_partol id="56" originalRow="56" action="跳转-标签" data="" param="结束"/>
+<Intro_partol id="57" originalRow="57"/>
+<Intro_partol id="58" originalRow="58" groupSign="巡逻引导3"/>
+<Intro_partol id="59" originalRow="59" action="场景-执行脚本" data="AvgShow:btn_auto" param="0"/>
+<Intro_partol id="60" originalRow="60" action="场景-执行脚本" data="AvgShow:btn_options" param="0"/>
+<Intro_partol id="61" originalRow="61" action="场景-执行脚本" data="AvgShow:btn_review" param="0"/>
+<Intro_partol id="62" originalRow="62" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Intro_partol id="63" originalRow="63" action="设置角色" data="niefei" param="pos=0"/>
+<Intro_partol id="64" originalRow="64" action="角色台词" data="niefei" param="每天都会有3个新的需求到我手上。虽然没必要每天都来做，但太懒散的话任务就放不下了！最好定期来完成！{#聂飞思考动作}{#聂飞思考表情}"/>
+<Intro_partol id="65" originalRow="65" action="角色台词" data="niefei" param="如果觉得目前的任务难度较高，可以更换任务。
 但每天次数是有限制的。这次本大爷特许你不消耗次数。"/>
-<Intro_partol id="58" originalRow="58" action="角色台词" data="niefei" param="试试更换看看吧。{#聂飞思考动作恢复}{#聂飞待机表情}"/>
-<Intro_partol id="59" originalRow="59" action="场景-执行脚本" data="AvgShow:btn_auto" param="1"/>
-<Intro_partol id="60" originalRow="60" action="场景-执行脚本" data="AvgShow:btn_options" param="1"/>
-<Intro_partol id="61" originalRow="61" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
-<Intro_partol id="62" originalRow="62" action="跳转-标签" data="" param="结束"/>
-<Intro_partol id="63" originalRow="63"/>
-<Intro_partol id="64" originalRow="64"/>
-<Intro_partol id="65" originalRow="65" groupSign="巡逻引导4"/>
-<Intro_partol id="66" originalRow="66" action="场景-执行脚本" data="AvgShow:btn_auto" param="0"/>
-<Intro_partol id="67" originalRow="67" action="场景-执行脚本" data="AvgShow:btn_options" param="0"/>
-<Intro_partol id="68" originalRow="68" action="场景-执行脚本" data="AvgShow:btn_review" param="0"/>
-<Intro_partol id="69" originalRow="69" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
-<Intro_partol id="70" originalRow="70" action="设置角色" data="niefei" param="pos=0"/>
-<Intro_partol id="71" originalRow="71" action="角色台词" data="niefei" param="{#聂飞得意动作}{#聂飞得意表情}这样就换好了！记得，接取中的任务不会被更换掉！"/>
-<Intro_partol id="72" originalRow="72" action="角色台词" data="niefei" param="巡逻相关就是这些，相信我讲的也已经够明白了。"/>
-<Intro_partol id="73" originalRow="73" action="角色台词" data="niefei" param="总之想要快速提升异质物等级，{#聂飞得意动作恢复}{#聂飞待机表情}
+<Intro_partol id="66" originalRow="66" action="角色台词" data="niefei" param="试试更换看看吧。{#聂飞思考动作恢复}{#聂飞待机表情}"/>
+<Intro_partol id="67" originalRow="67" action="场景-执行脚本" data="AvgShow:btn_auto" param="1"/>
+<Intro_partol id="68" originalRow="68" action="场景-执行脚本" data="AvgShow:btn_options" param="1"/>
+<Intro_partol id="69" originalRow="69" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
+<Intro_partol id="70" originalRow="70" action="跳转-标签" data="" param="结束"/>
+<Intro_partol id="71" originalRow="71"/>
+<Intro_partol id="72" originalRow="72"/>
+<Intro_partol id="73" originalRow="73" groupSign="巡逻引导4"/>
+<Intro_partol id="74" originalRow="74" action="场景-执行脚本" data="AvgShow:btn_auto" param="0"/>
+<Intro_partol id="75" originalRow="75" action="场景-执行脚本" data="AvgShow:btn_options" param="0"/>
+<Intro_partol id="76" originalRow="76" action="场景-执行脚本" data="AvgShow:btn_review" param="0"/>
+<Intro_partol id="77" originalRow="77" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<Intro_partol id="78" originalRow="78" action="设置角色" data="niefei" param="pos=0"/>
+<Intro_partol id="79" originalRow="79" action="角色台词" data="niefei" param="{#聂飞得意动作}{#聂飞得意表情}这样就换好了！记得，接取中的任务不会被更换掉！"/>
+<Intro_partol id="80" originalRow="80" action="角色台词" data="niefei" param="巡逻相关就是这些，相信我讲的也已经够明白了。"/>
+<Intro_partol id="81" originalRow="81" action="角色台词" data="niefei" param="总之想要快速提升异质物等级，{#聂飞得意动作恢复}{#聂飞待机表情}
 就多来我这里赚点&lt;z=highlight&gt;『战斗记忆』&lt;/z&gt;和&lt;z=highlight&gt;『元年币』&lt;/z&gt;。"/>
-<Intro_partol id="74" originalRow="74" action="场景-执行脚本" data="AvgShow:btn_auto" param="1"/>
-<Intro_partol id="75" originalRow="75" action="场景-执行脚本" data="AvgShow:btn_options" param="1"/>
-<Intro_partol id="76" originalRow="76" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
-<Intro_partol id="77" originalRow="77" action="跳转-标签" data="" param="结束"/>
-<Intro_partol id="78" originalRow="78"/>
-<Intro_partol id="79" originalRow="79"/>
-<Intro_partol id="80" originalRow="80"/>
-<Intro_partol id="81" originalRow="81" groupSign="结束"/>
-<Intro_partol id="82" originalRow="82"/>
-<Intro_partol id="83" originalRow="83"/>
+<Intro_partol id="82" originalRow="82" action="场景-执行脚本" data="AvgShow:btn_auto" param="1"/>
+<Intro_partol id="83" originalRow="83" action="场景-执行脚本" data="AvgShow:btn_options" param="1"/>
+<Intro_partol id="84" originalRow="84" action="场景-执行脚本" data="AvgShow:btn_review" param="1"/>
+<Intro_partol id="85" originalRow="85" action="跳转-标签" data="" param="结束"/>
+<Intro_partol id="86" originalRow="86"/>
+<Intro_partol id="87" originalRow="87"/>
+<Intro_partol id="88" originalRow="88"/>
+<Intro_partol id="89" originalRow="89" groupSign="结束"/>
+<Intro_partol id="90" originalRow="90"/>
+<Intro_partol id="91" originalRow="91"/>
 </root>

@@ -116,7 +116,7 @@
 <C2_jiudian_sts_crystal id="113" originalRow="113" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="tuling" param="杜杜说过，{#涂凌开心}凡是涉及心灵控制效果的异质物都要特别小心，如果被坏蛋将效果利用了就麻烦啦。" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="115" originalRow="115" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="" param3=""/>
-<C2_jiudian_sts_crystal id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞得意表情}还是昭离公馆方便{#涂凌开心恢复}……{播放音效,avg_sding}“叮”的一下就分好级标在门牌号上了。" param2="" param3="type=0"/>
+<C2_jiudian_sts_crystal id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃动作}{#聂飞得意表情}还是昭离公馆方便{#涂凌开心恢复}……{播放音效,avg_Sding}“叮”的一下就分好级标在门牌号上了。" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="117" originalRow="117" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="wo" param="那种其实更可怕吧……" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="wo" param="总感觉昭离公馆背后有股人类完全无法理解的强大力量，在搞清楚之前就加以利用真的好吗？" param2="" param3="type=0"/>

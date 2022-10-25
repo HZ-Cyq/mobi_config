@@ -5,7 +5,7 @@
 <NPC id="4" key_alias="stskeyanrenyuan" avg_alias="stskeyanrenyuan" greetings="common_greetings|问候_普通男" game_functions="前往Room9001002;;1;9001002|打开商店界面;ui_inspector_shop;2;ui_shop/ui_shop"/>
 <NPC id="5" key_alias="dianshiniang" avg_alias="dianshiniang" greetings="common_greetings|问候_普通女" game_functions="开启debug;;2;ui_debug/ui_debug|前往Room9001001;;1;9001001"/>
 <NPC id="6" key_alias="tuling" avg_alias="tuling" greetings="common_greetings|问候_普通女"/>
-<NPC id="7" key_alias="secretshopmanager" avg_alias="npc_biaonan001" showName="流浪商贩" npc_type="1" greetings="spical_shop|问候" preQuest="1115" game_functions="打开商店(黑市)界面;ui_inspector_shop;2;ui_shop/ui_shop;1"/>
+<NPC id="7" key_alias="secretshopmanager" avg_alias="nfc_90026" showName="流浪商贩" npc_type="1" greetings="spical_shop|问候" preQuest="1115" game_functions="流浪商店;ui_inspector_shop;2;ui_shop/ui_shop;1"/>
 <NPC id="8" key_alias="maze_101_1" avg_alias="char_maze101_1"/>
 <NPC id="9" key_alias="maze_101_2" avg_alias="char_maze101_2" showName="" icon_name="" greetings="maze101_npc72|问候"/>
 <NPC id="10" key_alias="maze_102_1" avg_alias="char_maze101_2"/>
@@ -127,4 +127,5 @@
 <NPC id="1037" key_alias="obj_dianzhuangrobot" avg_alias="obj_dianzhuangrobot" showName="" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
 <NPC id="1038" key_alias="obj_xiangjiniang" avg_alias="obj_xiangjiniang" showName="" npc_type="2" obj_icon="0" icon_name="" NPC_pos_offset="" NPC_scale_offset=""/>
 <NPC id="1039" key_alias="obj_chunyuyinzi" avg_alias="obj_chunyuyinzi" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
+<NPC id="1040" key_alias="obj_suiyu" avg_alias="obj_suiyu" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
 </root>

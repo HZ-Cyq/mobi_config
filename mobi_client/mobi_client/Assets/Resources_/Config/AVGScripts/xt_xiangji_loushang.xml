@@ -15,158 +15,165 @@
 <xt_xiangji_loushang id="13" originalRow="13" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="" param2="" param3=""/>
 <xt_xiangji_loushang id="14" originalRow="14" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="pos=中" param2="" param3=""/>
 <xt_xiangji_loushang id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="还是没来得及吗……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_loushang id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}快住手！
+<xt_xiangji_loushang id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="" param="余阿南此时正在熟睡，他的身上泛出黄色的光芒，并且吐出鲜血。" param2="" param3="type=1"/>
+<xt_xiangji_loushang id="17" originalRow="17" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_loushang id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}快住手！
 来不及了，准备强行收容！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌愤怒动作}这次不能让她逃掉了！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="20" originalRow="20" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="21" originalRow="21" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="pos=中" param2="" param3=""/>
-<xt_xiangji_loushang id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="你们既然已经查到了我是异质物，那应该也知道，关于余阿南的幻想的事吧。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="23" originalRow="23" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<xt_xiangji_loushang id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}我们当然知道，他把你幻想成了他大学时的暗恋对象！这一切都是因你而起！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="25" originalRow="25" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
-<xt_xiangji_loushang id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2愤怒表情}包括他现在的病情，也在异质物能力的影响下逐渐恶化。你还有什么好说的！" param2="" param3=""/>
-<xt_xiangji_loushang id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="" param="异质物递给了凯瑟琳两张照片，都是余阿南和异质物的合影，" param2="" param3="type=1"/>
-<xt_xiangji_loushang id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="" param="其中一张照片已经泛黄了。" param2="" param3="type=1"/>
-<xt_xiangji_loushang id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="niefei" param="你伪装成了他暗恋对象的样子，可恶！你对他有什么企图！" param2="" param3=""/>
-<xt_xiangji_loushang id="30" originalRow="30" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我本来就是这样子的哦。
+<xt_xiangji_loushang id="19" originalRow="19" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌愤怒动作}这次不能让她逃掉了！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="21" originalRow="21" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="pos=中" param2="" param3=""/>
+<xt_xiangji_loushang id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="你们既然已经查到了我是异质物，那应该也知道，关于余阿南的幻想的事吧。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="24" originalRow="24" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
+<xt_xiangji_loushang id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}我们当然知道，他把你幻想成了他大学时的暗恋对象！这一切都是因你而起！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="26" originalRow="26" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
+<xt_xiangji_loushang id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2严肃动作}{#凯瑟琳2愤怒表情}包括他现在的病情，也在异质物能力的影响下逐渐恶化。你还有什么好说的！" param2="" param3=""/>
+<xt_xiangji_loushang id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="" param="异质物递给了凯瑟琳两张照片，都是余阿南和异质物的合影，" param2="" param3="type=1"/>
+<xt_xiangji_loushang id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="" param="其中一张照片已经泛黄了。" param2="" param3="type=1"/>
+<xt_xiangji_loushang id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="niefei" param="你伪装成了他暗恋对象的样子，可恶！你对他有什么企图！" param2="" param3=""/>
+<xt_xiangji_loushang id="31" originalRow="31" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="32" originalRow="32" groupSign="" debugClose="" action="设置角色" data="xiangjiniang" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我本来就是这样子的哦。
 说实话，第一次看到他的回忆时，我也很震惊……" param2="" param3=""/>
-<xt_xiangji_loushang id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="虽然只是长得一样，这种巧合和相遇，也许是早就注定了的。" param2="" param3=""/>
-<xt_xiangji_loushang id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我开始成为夏树，过着平凡的，人类的生活。" param2="" param3=""/>
-<xt_xiangji_loushang id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="有好多好多个瞬间，我会忘记自己原来是异质物，而不是人类……" param2="" param3=""/>
-<xt_xiangji_loushang id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我看过无数张相片，见过很多人的回忆，
+<xt_xiangji_loushang id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="虽然只是长得一样，这种巧合和相遇，也许是早就注定了的。" param2="" param3=""/>
+<xt_xiangji_loushang id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我开始成为夏树，过着平凡的，人类的生活。" param2="" param3=""/>
+<xt_xiangji_loushang id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="有好多好多个瞬间，我会忘记自己原来是异质物，而不是人类……" param2="" param3=""/>
+<xt_xiangji_loushang id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我看过无数张相片，见过很多人的回忆，
 但这是我第一次，真的参与到别人的回忆里……" param2="" param3=""/>
-<xt_xiangji_loushang id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="就算你这样说，但你之前对其他人造成的危害，
+<xt_xiangji_loushang id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="就算你这样说，但你之前对其他人造成的危害，
 还有余阿南的病情，我们都不能坐视不管。" param2="" param3=""/>
-<xt_xiangji_loushang id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我知道，所以，我想跟你们谈个条件。" param2="" param3=""/>
-<xt_xiangji_loushang id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我可以被你们收容，但是，等他醒来之后，
+<xt_xiangji_loushang id="39" originalRow="39" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我知道，所以，我想跟你们谈个条件。" param2="" param3=""/>
+<xt_xiangji_loushang id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我可以被你们收容，但是，等他醒来之后，
 请你们不要告诉他关于我的真相。" param2="" param3=""/>
-<xt_xiangji_loushang id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我不愿让他承受真相的痛苦……" param2="" param3=""/>
-<xt_xiangji_loushang id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="这样子，可以吗？" param2="" param3=""/>
-<xt_xiangji_loushang id="42" originalRow="42" groupSign="" debugClose="" action="可选对话框" data="" param="$$接受==&gt;接受选项
+<xt_xiangji_loushang id="41" originalRow="41" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="我不愿让他承受真相的痛苦……" param2="" param3=""/>
+<xt_xiangji_loushang id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="这样子，可以吗？" param2="" param3=""/>
+<xt_xiangji_loushang id="43" originalRow="43" groupSign="" debugClose="" action="可选对话框" data="" param="$$接受==&gt;接受选项
 $$不接受==&gt;不接受选项" param2="" param3=""/>
-<xt_xiangji_loushang id="43" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_xiangji_loushang id="44" originalRow="44" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_xiangji_loushang id="45" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="46" originalRow="46" groupSign="接受选项" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="47" originalRow="47" groupSign="" debugClose="" action="角色台词" data="wo" param="我们答应你。救人本来就是我们STS的职责所在。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="那我就，放心了。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="49" originalRow="49" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="50" originalRow="50" groupSign="" debugClose="" action="画面特效效果" data="dark" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="51" originalRow="51" groupSign="" debugClose="" action="角色台词" data="" param="爱的拍立得被收容完成，余阿南清醒了过来。" param2="" param3="type=1"/>
-<xt_xiangji_loushang id="52" originalRow="52" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="53" originalRow="53" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=中" param2="" param3=""/>
-<xt_xiangji_loushang id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我这是？你们，你们怎么在这儿？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="55" originalRow="55" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞尴尬表情}我们……我们在散步的时候遇到了你爱人！
+<xt_xiangji_loushang id="46" originalRow="46" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="47" originalRow="47" groupSign="接受选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="wo" param="我们答应你。救人本来就是我们STS的职责所在。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="xiangjiniang" param="那我就，放心了。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="50" originalRow="50" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="51" originalRow="51" groupSign="" debugClose="" action="画面特效效果" data="dark" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="" param="爱的拍立得被收容完成，余阿南清醒了过来。" param2="" param3="type=1"/>
+<xt_xiangji_loushang id="53" originalRow="53" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="54" originalRow="54" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=中" param2="" param3=""/>
+<xt_xiangji_loushang id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我这是？你们，你们怎么在这儿？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="56" originalRow="56" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞尴尬表情}我们……我们在散步的时候遇到了你爱人！
 她说自己有急事要回趟老家，就先走啦！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞待机}……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}所以她叫我们来给你带句话啊！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="60" originalRow="60" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}哎~就不应该让这蠢猫开口的。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="yuanan" param="原来如此，她已经被收容了吗。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="63" originalRow="63" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}你你你，你别乱讲啊，我可没说啊！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们会照顾好她的吗？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="66" originalRow="66" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="67" originalRow="67" groupSign="" debugClose="" action="角色台词" data="wo" param="余阿南先生……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="68" originalRow="68" groupSign="" debugClose="" action="跳转-标签" data="" param="真相揭露" param2="" param3=""/>
-<xt_xiangji_loushang id="69" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="70" originalRow="70" groupSign="不接受选项" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="wo" param="收容本来就是STS的职责，还谈什么条件？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="72" originalRow="72" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_loushang id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}哈哈，不愧是我们队长。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="74" originalRow="74" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意动作}准备战斗，强制收容！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="76" originalRow="76" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4019" param3=""/>
-<xt_xiangji_loushang id="77" originalRow="77" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞待机}……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}所以她叫我们来给你带句话啊！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="61" originalRow="61" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}哎~就不应该让这蠢猫开口的。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="yuanan" param="原来如此，她已经被收容了吗。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="64" originalRow="64" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}你你你，你别乱讲啊，我可没说啊！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们会照顾好她的吗？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="67" originalRow="67" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="wo" param="余阿南先生……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="69" originalRow="69" groupSign="" debugClose="" action="跳转-标签" data="" param="真相揭露" param2="" param3=""/>
+<xt_xiangji_loushang id="70" originalRow="70" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="71" originalRow="71" groupSign="不接受选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="wo" param="收容本来就是STS的职责，还谈什么条件？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="73" originalRow="73" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_loushang id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}哈哈，不愧是我们队长。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="75" originalRow="75" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意动作}准备战斗，强制收容！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="77" originalRow="77" groupSign="" debugClose="" action="结束且返回值" data="" param="FALSE" param2="4019" param3=""/>
 <xt_xiangji_loushang id="78" originalRow="78" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="79" originalRow="79" groupSign="战斗胜利后" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="80" originalRow="80" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<xt_xiangji_loushang id="79" originalRow="79" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="80" originalRow="80" groupSign="战斗结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_xiangji_loushang id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="" param="爱的拍立得被收容完成，余阿南清醒了过来。" param2="" param3="type=1"/>
-<xt_xiangji_loushang id="82" originalRow="82" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=中" param2="" param3=""/>
-<xt_xiangji_loushang id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我这是？你们，你们怎么在这儿？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="84" originalRow="84" groupSign="" debugClose="" action="可选对话框" data="" param="$$告知真相==&gt;告知真相选项
-$$隐瞒真相==&gt;隐瞒真相选项" param2="" param3=""/>
+<xt_xiangji_loushang id="82" originalRow="82" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_xiangji_loushang id="83" originalRow="83" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="84" originalRow="84" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_xiangji_loushang id="85" originalRow="85" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="86" originalRow="86" groupSign="告知真相选项" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="wo" param="还是把真相告诉他吧。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="88" originalRow="88" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞尴尬表情}其实，一直是异质物伪装成你的爱人待在你身边，刚刚被我们强制收容了……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="91" originalRow="91" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞待机}……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}这就是真相啊！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="93" originalRow="93" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}哎~就不应该让这蠢猫开口的。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="yuanan" param="这一天还是来了吗？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="96" originalRow="96" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}你你你，你怎么一副自己早就知道了的样子？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们会照顾好她的吗？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="wo" param="余阿南先生……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="100" originalRow="100" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="101" originalRow="101" groupSign="" debugClose="" action="跳转-标签" data="" param="真相揭露" param2="" param3=""/>
-<xt_xiangji_loushang id="102" originalRow="102" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="103" originalRow="103" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="104" originalRow="104" groupSign="隐瞒真相选项" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="105" originalRow="105" groupSign="" debugClose="" action="角色台词" data="wo" param="不要把真相告诉他吧。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="106" originalRow="106" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞尴尬表情}我们……我们在散步的时候遇到了你爱人！
+<xt_xiangji_loushang id="86" originalRow="86" groupSign="战斗胜利后" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="87" originalRow="87" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<xt_xiangji_loushang id="88" originalRow="88" groupSign="" debugClose="1" action="角色台词" data="" param="爱的拍立得被收容完成，余阿南清醒了过来。" param2="" param3="type=1"/>
+<xt_xiangji_loushang id="89" originalRow="89" groupSign="" debugClose="" action="设置角色" data="yuanan" param="pos=中" param2="" param3=""/>
+<xt_xiangji_loushang id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我这是？你们，你们怎么在这儿？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="91" originalRow="91" groupSign="" debugClose="" action="可选对话框" data="" param="$$告知真相==&gt;告知真相选项
+$$隐瞒真相==&gt;隐瞒真相选项" param2="" param3=""/>
+<xt_xiangji_loushang id="92" originalRow="92" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="93" originalRow="93" groupSign="告知真相选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="wo" param="还是把真相告诉他吧。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="95" originalRow="95" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞尴尬表情}其实，一直是异质物伪装成你的爱人待在你身边，刚刚被我们强制收容了……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞待机}……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="99" originalRow="99" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}这就是真相啊！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="100" originalRow="100" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="101" originalRow="101" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}哎~就不应该让这蠢猫开口的。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="yuanan" param="这一天还是来了吗？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="103" originalRow="103" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}你你你，你怎么一副自己早就知道了的样子？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="105" originalRow="105" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们会照顾好她的吗？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="wo" param="余阿南先生……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="107" originalRow="107" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="108" originalRow="108" groupSign="" debugClose="" action="跳转-标签" data="" param="真相揭露" param2="" param3=""/>
+<xt_xiangji_loushang id="109" originalRow="109" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="110" originalRow="110" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="111" originalRow="111" groupSign="隐瞒真相选项" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="wo" param="不要把真相告诉他吧。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="113" originalRow="113" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张动作}{#聂飞尴尬表情}我们……我们在散步的时候遇到了你爱人！
 她说自己有急事要回趟老家，就先走啦！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞待机}……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}所以她叫我们来给你带句话啊！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="111" originalRow="111" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}哎~就不应该让这蠢猫开口的。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="yuanan" param="原来如此，她已经被收容了吗。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="114" originalRow="114" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}你你你，你别乱讲啊，我可没说啊！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们会照顾好她的吗？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="wo" param="余阿南先生……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="118" originalRow="118" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="119" originalRow="119" groupSign="" debugClose="" action="跳转-标签" data="" param="真相揭露" param2="" param3=""/>
-<xt_xiangji_loushang id="120" originalRow="120" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="121" originalRow="121" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="122" originalRow="122" groupSign="真相揭露" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="yuanan" param="其实，我早就知道，她不是记忆里的那个爱人了。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们说巧不巧？她真的和我大学喜欢的姑娘长得一模一样！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="yuanan" param="这谁看了能不认错呢？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我以为夏树终于回来了，可把我高兴坏了，我要把我最好的都留给她！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="yuanan" param="她喜欢橘皮泡啤酒，但是又不吃橘肉，我那几天吃得舌头都黄了。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="yuanan" param="她不喜欢枕头只喜欢枕着胳膊睡，我的手臂现在还是麻的。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="129" originalRow="129" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="tuling" param="那你是怎么发现她是异质物的呢？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我发现，她好像没有了以前的习惯，
+<xt_xiangji_loushang id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="yuanan" param="……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞待机}……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="117" originalRow="117" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒表情}所以她叫我们来给你带句话啊！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="118" originalRow="118" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2威慑动作}哎~就不应该让这蠢猫开口的。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="yuanan" param="原来如此，她已经被收容了吗。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="121" originalRow="121" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="122" originalRow="122" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞惊讶}你你你，你别乱讲啊，我可没说啊！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们会照顾好她的吗？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="wo" param="余阿南先生……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="125" originalRow="125" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="126" originalRow="126" groupSign="" debugClose="" action="跳转-标签" data="" param="真相揭露" param2="" param3=""/>
+<xt_xiangji_loushang id="127" originalRow="127" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="128" originalRow="128" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="129" originalRow="129" groupSign="真相揭露" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="yuanan" param="其实，我早就知道，她不是记忆里的那个爱人了。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="yuanan" param="你们说巧不巧？她真的和我大学喜欢的姑娘长得一模一样！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="132" originalRow="132" groupSign="" debugClose="" action="角色台词" data="yuanan" param="这谁看了能不认错呢？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="133" originalRow="133" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我以为夏树终于回来了，可把我高兴坏了，我要把我最好的都留给她！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="134" originalRow="134" groupSign="" debugClose="" action="角色台词" data="yuanan" param="她喜欢橘皮泡啤酒，但是又不吃橘肉，我那几天吃得舌头都黄了。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="135" originalRow="135" groupSign="" debugClose="" action="角色台词" data="yuanan" param="她不喜欢枕头只喜欢枕着胳膊睡，我的手臂现在还是麻的。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="136" originalRow="136" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="137" originalRow="137" groupSign="" debugClose="" action="角色台词" data="tuling" param="那你是怎么发现她是异质物的呢？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="yuanan" param="我发现，她好像没有了以前的习惯，
 只是在默默接受我对她的好，仅此而已。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="132" originalRow="132" groupSign="" debugClose="" action="角色台词" data="yuanan" param="有了这个疑问后，我就悄悄跟着她，看到了她的真容。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="133" originalRow="133" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="134" originalRow="134" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}你可以报警的呀！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="135" originalRow="135" groupSign="" debugClose="" action="角色台词" data="yuanan" param="在她之前，我还没遇到过一个人会包容我的全部。
+<xt_xiangji_loushang id="139" originalRow="139" groupSign="" debugClose="" action="角色台词" data="yuanan" param="有了这个疑问后，我就悄悄跟着她，看到了她的真容。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="140" originalRow="140" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃}你可以报警的呀！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="yuanan" param="在她之前，我还没遇到过一个人会包容我的全部。
 在我发现她是异质物后，我才发现，" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="136" originalRow="136" groupSign="" debugClose="" action="角色台词" data="yuanan" param="不管她是谁，我喜欢的都是面前的她，咳咳……" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="137" originalRow="137" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤动作}{#凯瑟琳2严肃表情}余阿南先生，异质物对您身体造成的损伤，昭离公馆会尽全力帮助您治疗的。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="139" originalRow="139" groupSign="" debugClose="" action="角色台词" data="yuanan" param="这不关她的事！是我自己的病，这你们也能治吗？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤动作恢复}这样啊……我们会帮您的，放心吧。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="141" originalRow="141" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌灵感动作}如果可以的话，你想不想来昭离公馆上班？
+<xt_xiangji_loushang id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="yuanan" param="不管她是谁，我喜欢的都是面前的她，咳咳……" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="144" originalRow="144" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤动作}{#凯瑟琳2严肃表情}余阿南先生，异质物对您身体造成的损伤，昭离公馆会尽全力帮助您治疗的。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="yuanan" param="这不关她的事！是我自己的病，这你们也能治吗？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2忧伤动作恢复}这样啊……我们会帮您的，放心吧。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="148" originalRow="148" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌灵感动作}如果可以的话，你想不想来昭离公馆上班？
 现在刚好有一份IT职员的工作很适合你！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="yuanan" param="哈哈哈，IT职员，可以见到被收容的异质物吗？" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="tuling" param="欸嘿。" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="145" originalRow="145" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="146" originalRow="146" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<xt_xiangji_loushang id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}没想到真相原来是这样！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="148" originalRow="148" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
-<xt_xiangji_loushang id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}就算是杜博士知道了，也会大吃一惊的吧~" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="150" originalRow="150" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
-<xt_xiangji_loushang id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}好啦，事件告一段落，我们回去昭离公馆吧！" param2="" param3="type=0"/>
-<xt_xiangji_loushang id="152" originalRow="152" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<xt_xiangji_loushang id="153" originalRow="153" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="154" originalRow="154" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="155" originalRow="155" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="156" originalRow="156" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_xiangji_loushang id="157" originalRow="157" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="yuanan" param="哈哈哈，IT职员，可以见到被收容的异质物吗？" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="tuling" param="欸嘿。" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="152" originalRow="152" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="153" originalRow="153" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
+<xt_xiangji_loushang id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}没想到真相原来是这样！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="155" originalRow="155" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
+<xt_xiangji_loushang id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}就算是杜博士知道了，也会大吃一惊的吧~" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="157" originalRow="157" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
+<xt_xiangji_loushang id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}好啦，事件告一段落，我们回去昭离公馆吧！" param2="" param3="type=0"/>
+<xt_xiangji_loushang id="159" originalRow="159" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<xt_xiangji_loushang id="160" originalRow="160" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="161" originalRow="161" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="162" originalRow="162" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="163" originalRow="163" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<xt_xiangji_loushang id="164" originalRow="164" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

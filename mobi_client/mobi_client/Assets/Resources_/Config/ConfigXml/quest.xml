@@ -168,7 +168,7 @@
 |最佳损友"/>
 <Quest id="1012" key_alias="迷宫102支线1" name="「内战」" type="2" wayOfGetting="0" level="0" isXT="1" canGiveUp="0" npc_publisher="maze_102|maze_102_1|询问情况|maze102_npc71|开始" npc_greetings="" questScene="|apartment" activeRooms="" inactiveRooms="" awards="10120" awardCompleteDesc="|支线任务
 |内战"/>
-<Quest id="1020" key_alias="迷宫副本2" name="「迷失在今夕」" type="2" wayOfGetting="0" level="0" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" questScene="|jin_oldhome" activeRooms="" inactiveRooms="" awards="10200" awardCompleteDesc="|支线任务
+<Quest id="1020" key_alias="迷宫副本2" name="「迷失在今夕」" type="2" wayOfGetting="0" level="0" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" questScene="|jin_oldhome" activeAreas="|副本-今夕养老院" activeRooms="" inactiveRooms="" awards="10200" awardCompleteDesc="|支线任务
 |迷失在今夕"/>
 <Quest id="1021" key_alias="迷宫副本2机关" name="「迷失在今夕」" type="2" wayOfGetting="1" level="5" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" questScene="|jin_oldhome" activeRooms="" inactiveRooms="" awards="0" awardCompleteDesc=""/>
 <Quest id="1030" key_alias="迷宫副本3_1" name="「来之不易的假期」" type="1" wayOfGetting="2" level="0" preQuest="21" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" urgentPriority="13" urgentRole="duheng" urgentBg="Plane" urgentAvg="maze301_part0" questScene="|long_wineshop" activeRooms="" inactiveRooms="" awards="0" awardCompleteDesc=""/>

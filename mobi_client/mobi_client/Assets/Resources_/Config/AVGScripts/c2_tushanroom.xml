@@ -6,7 +6,7 @@
 <C2_tushanroom id="4" originalRow="4" groupSign="" debugClose="" action="RPGActor" data="前往土山房间" param="2" param2="" param3=""/>
 <C2_tushanroom id="5" originalRow="5" groupSign="" debugClose="" action="画面特效效果" data="变暗" param="" param2="" param3=""/>
 <C2_tushanroom id="6" originalRow="6" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<C2_tushanroom id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌惊讶表情}看！前面有个小房间！{播放音效,avg_sding}" param2="" param3="type=0"/>
+<C2_tushanroom id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌惊讶表情}看！前面有个小房间！{播放音效,avg_Sding}" param2="" param3="type=0"/>
 <C2_tushanroom id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="走廊的尽头是一扇积满灰尘的木门。似乎轻轻一碰它便会腐朽碎裂。" param2="" param3="type=1"/>
 <C2_tushanroom id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="那些异质物想要阻止我们来这里……" param2="" param3="type=0"/>
 <C2_tushanroom id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="看来这里就是异链反应的核心了？" param2="" param3="type=0"/>
@@ -130,7 +130,7 @@
 <C2_tushanroom id="128" originalRow="128" groupSign="2" debugClose="" action="RPGActor" data="cam_photoall" param="1" param2="" param3=""/>
 <C2_tushanroom id="129" originalRow="129" groupSign="" debugClose="" action="打开插画" data="C2_circusphoto" param="" param2="" param3=""/>
 <C2_tushanroom id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="" param="墙上挂着一张发黄的旧海报，五位肤色各异的小演员展示着自己的招牌技巧。" param2="" param3="type=1"/>
-<C2_tushanroom id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="" param="他们都戴着一枚{播放音效,avg_sding}&lt;z=highlight&gt;似曾相识的&lt;/z&gt;胸针。" param2="" param3="type=1"/>
+<C2_tushanroom id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="" param="他们都戴着一枚{播放音效,avg_Sding}&lt;z=highlight&gt;似曾相识的&lt;/z&gt;胸针。" param2="" param3="type=1"/>
 <C2_tushanroom id="132" originalRow="132" groupSign="" debugClose="1" action="角色台词" data="wo" param="这些是你当年在马戏团的同伴吧？" param2="" param3="type=0"/>
 <C2_tushanroom id="133" originalRow="133" groupSign="" debugClose="1" action="角色台词" data="tushanao" param="嗯……" param2="" param3="type=0"/>
 <C2_tushanroom id="134" originalRow="134" groupSign="" debugClose="1" action="角色台词" data="tushanao" param="那是财前刚刚成功收购马戏团时照的，当时每个人都觉得自己很快就要迎来幸福的生活了……" param2="" param3="type=0"/>

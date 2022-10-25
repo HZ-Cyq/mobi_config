@@ -130,7 +130,7 @@
 <C3_tulang_hotel01 id="125" originalRow="125" groupSign="" debugClose="" action="特殊-转场效果" data="0" param="" param2="" param3=""/>
 <C3_tulang_hotel01 id="126" originalRow="126" groupSign="" debugClose="" action="子任务完成" data="3第一次分析形势" param="" param2="" param3=""/>
 <C3_tulang_hotel01 id="127" originalRow="127" groupSign="1.5&gt;&gt;" debugClose="1" action="RPGGoL2" data="电脑桌区域L2S" param="" param2="" param3=""/>
-<C3_tulang_hotel01 id="128" originalRow="128" groupSign="1&gt;&gt;" debugClose="1" action="角色台词" data="" param="&lt;color=#aeff00&gt;{s=0.09}2037年5月6日 23:18 {0.5}\n顶石大厦75层 特种研发部&lt;/color&gt;" param2="" param3="type=1"/>
+<C3_tulang_hotel01 id="128" originalRow="128" groupSign="1&gt;&gt;" debugClose="1" action="角色台词" data="" param="&lt;z=green&gt;{s=0.09}2037年5月6日 23:18 {0.5}\n顶石大厦75层 特种研发部&lt;/z&gt;" param2="" param3="type=1"/>
 <C3_tulang_hotel01 id="129" originalRow="129" groupSign="1.5" debugClose="1" action="打开插画" data="UI_3Dexplorebegin" param="" param2="" param3=""/>
 <C3_tulang_hotel01 id="130" originalRow="130" groupSign="" debugClose="1" action="关闭插画" data="" param="" param2="" param3=""/>
 <C3_tulang_hotel01 id="131" originalRow="131" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
