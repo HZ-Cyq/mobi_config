@@ -51,11 +51,11 @@
 <Theater02 id="35" originalRow="35" groupSign="1" debugClose="" action="角色台词" data="shamo" param="{角色动作,shamo,鲨默_流泪_动作_循环_01}不不不，还是算了，
 我可不想成为她展示柜的藏品。" param2="" param3=""/>
 <Theater02 id="36" originalRow="36" groupSign="1" debugClose="" action="角色台词" data="cangling" param="{角色动作,cangling,仓铃_说话_动作_循环_01}好了，今天的节目就到这里了，
-你这笨鲨，回去好好补补课吧，观众朋友们，拜拜~" param2="" param3=""/>
+你这笨鲨，回去好好补课吧，观众朋友们，拜拜~" param2="" param3=""/>
 <Theater02 id="37" originalRow="37" groupSign="1.5" debugClose="" action="播放timeline" data="EndTimeline" param="" param2="" param3=""/>
 <Theater02 id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
 <Theater02 id="39" originalRow="39" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<Theater02 id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_Search}" param2="" param3=""/>
+<Theater02 id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_duoffice1}" param2="" param3=""/>
 <Theater02 id="41" originalRow="41" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <Theater02 id="42" originalRow="42" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

@@ -27,6 +27,7 @@ if exist xml\AVGScripts\*.xml del /q xml\AVGScripts\*.xml
 
 if exist xml\clientXml rd /s /Q xml\clientXml
 md xml\clientXml
+if exist error.log del /q error.log
 
 java -jar parserconfig.jar %server_package_name%
 

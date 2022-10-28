@@ -4,5 +4,14 @@
 <maze302_npc75 id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="@char_1" param="" param2="" param3=""/>
 <maze302_npc75 id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="@char_1" param="是他让你们来救我的吗？啊实在感谢，但是我似乎并不需要救援哦……我只想躺着……" param2="" param3="name=懒散的人"/>
 <maze302_npc75 id="4" originalRow="4" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<maze302_npc75 id="5" originalRow="5" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<maze302_npc75 id="5" originalRow="5" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<maze302_npc75 id="6" originalRow="6" debugClose=""/>
+<maze302_npc75 id="7" originalRow="7" groupSign="问候"/>
+<maze302_npc75 id="8" originalRow="8" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing"/>
+<maze302_npc75 id="9" originalRow="9" action="设置角色" data="@char_1" param=""/>
+<maze302_npc75 id="10" originalRow="10" action="角色台词" data="@char_1" param="躺在这里还蛮舒服的嘛。" param3="name=懒散的人"/>
+<maze302_npc75 id="11" originalRow="11" action="移除角色" data="" param=""/>
+<maze302_npc75 id="12" originalRow="12" action="跳转-标签" data="" param="结束"/>
+<maze302_npc75 id="13" originalRow="13"/>
+<maze302_npc75 id="14" originalRow="14" groupSign="结束"/>
 </root>

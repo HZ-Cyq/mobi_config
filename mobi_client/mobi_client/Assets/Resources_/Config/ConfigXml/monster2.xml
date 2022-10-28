@@ -1,0 +1,12 @@
+<root>
+<Monster2 id="101" name="凯瑟琳" character_type="1" gender="2" profession="" race="" model_id="11" skills="1101" Skill_cycle="" drawing="" hero_icon="hero_11" dyeId="0" attribute_base="" char_script="" boss_type="0"/>
+<Monster2 id="102" name="聂总" character_type="1" gender="1" profession="" race="" model_id="12" skills="1201" Skill_cycle="" drawing="" hero_icon="hero_12" dyeId="0" attribute_base="" char_script="" boss_type="0"/>
+<Monster2 id="103" name="涂凌" character_type="1" gender="2" profession="" race="" model_id="13" skills="1301" Skill_cycle="" drawing="" hero_icon="hero_13" dyeId="0" attribute_base="" char_script="" boss_type="0"/>
+<Monster2 id="104" name="迷幻映像" character_type="1" gender="2" profession="" race="" model_id="13" skills="101401" Skill_cycle="" drawing="" hero_icon="hero_16" dyeId="0" attribute_base="" char_script="CharScript_DianshijiNiangBoss" boss_type="1"/>
+<Monster2 id="105" name="迷幻映像" character_type="1" gender="2" profession="" race="" model_id="13" skills="101501" Skill_cycle="" drawing="" hero_icon="hero_16" dyeId="0" attribute_base="" char_script="CharScript_DianshijiNiangBoss" boss_type="1"/>
+<Monster2 id="106" name="土山奥" character_type="1" gender="2" profession="" race="" model_id="13" skills="101601" Skill_cycle="" drawing="" hero_icon="hero_15" dyeId="0" attribute_base="" char_script="CharScript_DianshijiNiangBoss" boss_type="1"/>
+<Monster2 id="107" name="测试用-输出角色" character_type="1" gender="1" profession="" race="" model_id="91" skills="9101|9102" Skill_cycle="" drawing="" hero_icon="hero_11" dyeId="0" attribute_base="" char_script="" boss_type="0"/>
+<Monster2 id="108" name="测试用-平衡角色" character_type="1" gender="1" profession="" race="" model_id="92" skills="9201|9202" Skill_cycle="" drawing="" hero_icon="hero_12" dyeId="0" attribute_base="" char_script="" boss_type="0"/>
+<Monster2 id="109" name="测试用-防御角色" character_type="1" gender="1" profession="" race="" model_id="93" skills="9301|9302" Skill_cycle="" drawing="" hero_icon="hero_13" dyeId="0" attribute_base="" char_script="" boss_type="0"/>
+<Monster2 id="110" name="电视娘分身1" character_type="2" gender="1" profession="1" race="1" model_id="9991" skills="999101|999104|999901" Skill_cycle="0" drawing="" hero_icon="hero_TVanger" dyeId="0" attribute_base="1;679|2;239|3;0|19;0|20;100|21;500|22;50|23;0|24;300|33;50|34;0|25;0|26;0|30;0|35;500|38;200|37;100|36;0|" char_script="CharScript_DianshijiNiang" boss_type="0"/>
+</root>

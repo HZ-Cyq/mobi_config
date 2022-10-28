@@ -130,11 +130,11 @@
 |日常任务19"/>
 <Quest id="519" key_alias="日常任务20" name="日常任务20" type="3" patrolType="3" isXT="1" canGiveUp="1" npc_publisher="" npc_greetings="" desc="日常任务20描述" awards="5190" awardCompleteDesc="|日常任务
 |日常任务20"/>
-<Quest id="520" key_alias="日常致命拥抱" name="「关于小熊的事」" type="3" patrolType="1" isXT="1" desc="致命拥抱出现在了顶石大厦内，找到她并收容吧！" awards="5200" awardCompleteDesc="|日常任务
+<Quest id="520" key_alias="日常致命拥抱" name="「关于小熊的事」" type="3" patrolType="1" isXT="1" canGiveUp="1" desc="致命拥抱出现在了葡萄日报社办公室，找到她并收容吧！" activeRooms="" inactiveRooms="" awards="5200" awardCompleteDesc="|日常任务
 |关于小熊的事"/>
-<Quest id="521" key_alias="日常一般麻烦" name="「一般麻烦」" type="3" patrolType="1" isXT="1" desc="异质物正在入侵康新嘉苑，配合平民的疏散工作，清理异质物吧。" awards="5210" awardCompleteDesc="|日常任务
+<Quest id="521" key_alias="日常一般麻烦" name="「一般麻烦」" type="3" patrolType="1" isXT="1" canGiveUp="1" desc="异质物正在入侵康新嘉苑，配合平民的疏散工作，清理异质物吧。" awards="5210" awardCompleteDesc="|日常任务
 |安江保卫战"/>
-<Quest id="522" key_alias="日常聂飞特烦恼" name="「聂飞特烦恼」" type="3" patrolType="2" isXT="1" desc="聂飞似乎很焦虑，找他聊聊天吧。" awards="5220" awardCompleteDesc="|日常任务
+<Quest id="522" key_alias="日常聂飞特烦恼" name="「聂飞特烦恼」" type="3" patrolType="2" isXT="1" canGiveUp="1" desc="聂飞似乎很焦虑，找他聊聊天吧。" awards="5220" awardCompleteDesc="|日常任务
 |聂飞特烦恼"/>
 <Quest id="523" key_alias="日常不吃早餐的人" name="「不吃早餐的人」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="康新嘉苑早餐店的老板最近很惆怅，去找找她吧。" awards="5230" awardCompleteDesc="|日常任务
 |不吃早餐的人"/>
@@ -146,19 +146,19 @@
 |安江大秘宝"/>
 <Quest id="527" key_alias="日常钥匙" name="「钥匙」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="凯瑟琳似乎有些心事，找她聊聊天吧。" awards="5270" awardCompleteDesc="|日常任务
 |钥匙"/>
-<Quest id="528" key_alias="日常超波频520A" name="「超波频520」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="日常超波频520" awards="5280" awardCompleteDesc="|日常任务
+<Quest id="528" key_alias="日常超波频520A" name="「超波频520」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="去和平广场天台试试看和超波频667沟通吧。" awards="5280" awardCompleteDesc="|日常任务
 |超波频520"/>
-<Quest id="529" key_alias="日常消灭404分身" name="「清理404分身」" type="3" patrolType="1" isXT="1" desc="404分身泄露出昭离公馆。找聂飞了解一下详细情况吧。" awards="5290" awardCompleteDesc="|日常任务
+<Quest id="529" key_alias="日常消灭404分身" name="「清理404分身」" type="3" patrolType="1" isXT="1" canGiveUp="0" desc="404分身泄露出昭离公馆。找聂飞了解一下详细情况吧。" awards="5290" awardCompleteDesc="|日常任务
 |清理404的分身"/>
-<Quest id="530" key_alias="日常DJ领域" name="「DJ领域」" type="3" patrolType="1" isXT="1" canGiveUp="1" desc="爆热音符出现在了皇庭金融中心内，找到她并收容吧！" awards="5300" awardCompleteDesc="|日常任务
+<Quest id="530" key_alias="日常DJ领域" name="「DJ领域」" type="3" patrolType="1" isXT="1" canGiveUp="1" desc="爆热音符出现在了镜潮湖公园内，找到她并收容吧！" activeRooms="" inactiveRooms="" awards="5300" awardCompleteDesc="|日常任务
 |DJ领域"/>
 <Quest id="531" key_alias="日常任性涂鸦" name="「任性涂鸦」" type="3" patrolType="1" isXT="1" canGiveUp="1" desc="涂鸦爆弹出现在了顶石大厦内，找到她并收容吧！" awards="5310" awardCompleteDesc="|日常任务
 |任性涂鸦"/>
 <Quest id="532" key_alias="日常吃了几碗" name="「吃了几碗」" type="3" patrolType="2" isXT="1" canGiveUp="1" desc="康新雅苑的市民们似乎闹得不可开交，去看看是怎么回事吧！" awards="5320" awardCompleteDesc="|日常任务
 |吃了几碗"/>
-<Quest id="533" key_alias="日常超波频520B" name="「超波频520」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="日常超波频520" awards="5330" awardCompleteDesc="|日常任务
+<Quest id="533" key_alias="日常超波频520B" name="「超波频520」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="去和平广场天台试试看和超波频667沟通吧。" awards="5330" awardCompleteDesc="|日常任务
 |超波频520"/>
-<Quest id="534" key_alias="日常超波频520C" name="「超波频520」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="日常超波频520" awards="5340" awardCompleteDesc="|日常任务
+<Quest id="534" key_alias="日常超波频520C" name="「超波频520」" type="3" patrolType="3" isXT="1" canGiveUp="1" desc="去和平广场天台试试看和超波频667沟通吧。" awards="5340" awardCompleteDesc="|日常任务
 |超波频520"/>
 <Quest id="1001" key_alias="第二章预告" name="「第二章预告」" type="1" wayOfGetting="1" level="0" preQuest="11" isXT="1" npc_publisher="" npc_greetings="" activeRooms="" inactiveRooms="" awards="0" awardCompleteDesc=""/>
 <Quest id="1002" key_alias="第三章预告" name="「第三章预告」" type="1" wayOfGetting="1" level="0" preQuest="21" isXT="1" npc_publisher="" npc_greetings="" activeRooms="" inactiveRooms="" awards="0" awardCompleteDesc=""/>
@@ -178,8 +178,10 @@
 |来之不易的假期"/>
 <Quest id="1033" key_alias="迷宫副本3_2支线1" name="「失踪的同伴」" type="2" wayOfGetting="1" level="0" preQuest="1030" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" questScene="|long_wineshop" activeRooms="" inactiveRooms="" awards="10330" awardCompleteDesc="|支线任务
 |失踪的同伴"/>
-<Quest id="1034" key_alias="迷宫副本3_2支线2" name="「继承财产」" type="2" wayOfGetting="1" level="0" preQuest="1030" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" questScene="|long_wineshop" activeRooms="" inactiveRooms="" awards="10340" awardCompleteDesc="|支线任务
-|继承财产"/>
+<Quest id="1034" key_alias="迷宫副本3_2支线2" name="「生命在于战斗」" type="2" wayOfGetting="1" level="0" preQuest="1030" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" questScene="|long_wineshop" activeRooms="" inactiveRooms="" awards="10340" awardCompleteDesc="|支线任务
+|生命在于战斗"/>
+<Quest id="1035" key_alias="迷宫副本3_2支线3" name="「打探消息」" type="2" wayOfGetting="1" level="0" preQuest="1030" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" questScene="|long_wineshop" activeRooms="" inactiveRooms="" awards="10350" awardCompleteDesc="|支线任务
+|财宝的消息"/>
 <Quest id="1110" key_alias="装备副本1" name="「通用装备副本」" type="1" wayOfGetting="1" level="99" canGiveUp="0" npc_publisher="" npc_greetings="" activeRooms="" inactiveRooms="" awards="11100" awardCompleteDesc=""/>
 <Quest id="1120" key_alias="装备副本2" name="「天目剧院」" type="1" wayOfGetting="2" level="0" preQuest="31" isXT="1" canGiveUp="0" npc_publisher="" npc_greetings="" urgentPriority="10" urgentRole="duheng" urgentBg="Plane" urgentAvg="maze2_part0" questScene="|theater" activeRooms="" inactiveRooms="" awards="11200" awardCompleteDesc="|主线任务
 |天目剧院"/>

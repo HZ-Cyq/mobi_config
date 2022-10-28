@@ -30,7 +30,7 @@
 <C3_reception id="28" originalRow="28" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
 <C3_reception id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌平静表情}昨天顶石的发布会上，我看到过他——
 他就是顶石的CEO，黄权。" param2="" param3=""/>
-<C3_reception id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="C……{0.6}{#闪白震punch}{播放音效,avg_Spunch}CEO？" param2="" param3="type=0"/>
+<C3_reception id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="wo" param="C……{0.6}{#闪白震punch}{播放音效,avg_spunch}CEO？" param2="" param3="type=0"/>
 <C3_reception id="31" originalRow="31" groupSign="" debugClose="" action="设置角色" data="huangquan" param="pos=中" param2="" param3=""/>
 <C3_reception id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="huangquan" param="{#黄权开心表情}没错，是我。" param2="" param3=""/>
 <C3_reception id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="huangquan" param="不过小兄弟，你也不用太紧张的。{0.6}{#黄权待机表情}
@@ -75,7 +75,7 @@ $$关于头环发布会==&gt;关于头环发布会" param2="" param3=""/>
 <C3_reception id="67" originalRow="67" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
 <C3_reception id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2平静表情}不好说，明明说配合也没说出什么有用的情报来。" param2="" param3="type=0"/>
 <C3_reception id="69" originalRow="69" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<C3_reception id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="niefei" param="别说啦，快上楼吧。{#聂飞得意动作}{角色表情,niefei,聂总_紧张_上脸_开始_01;聂总_得意_下嘴_开始_01}如果真的有『打工怨念人』，老子可要大显身手了。" param2="" param3="type=4"/>
+<C3_reception id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="niefei" param="别说啦，快上楼吧。{#聂飞得意动作}{角色表情,niefei,聂总_紧张_上脸_开始_01;聂总_得意_下嘴_开始_01}如果真的有『打工怨念人』，老子可要大显身手了。" param2="" param3="type=0"/>
 <C3_reception id="71" originalRow="71" groupSign="" debugClose="" action="角色台词" data="wo" param="……去现场看看吧！{停止音效,amb_dingshi}" param2="" param3="type=0"/>
 <C3_reception id="72" originalRow="72" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_reception id="73" originalRow="73" groupSign="" debugClose="" action="RPGActor" data="电梯" param="1" param2="" param3=""/>

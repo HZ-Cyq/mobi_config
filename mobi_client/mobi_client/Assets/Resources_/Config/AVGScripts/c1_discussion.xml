@@ -221,7 +221,7 @@ $$第一章_老旧的飞机模型==&gt;问题三错误3" param2="" param3="type=
 <C1_Discussion id="164" originalRow="164" groupSign="" debugClose="" action="镜头移动" data="vcam2" param="0.3" param2="" param3=""/>
 <C1_Discussion id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="tuling" param="嗯，钱越真的接不到工作吗？" param2="97T钱越真的" param3=""/>
 <C1_Discussion id="166" originalRow="166" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
-<C1_Discussion id="167" originalRow="167" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易思考表情}连收入都没有吗……那要怎么生活呢？" param2="97T钱越真的" param3=""/>
+<C1_Discussion id="167" originalRow="167" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易思考表情}连收入都没有吗……那要怎么生活呢？" param2="" param3=""/>
 <C1_Discussion id="168" originalRow="168" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{#周易无奈2动作恢复}{#周易思考表情恢复}" param2="" param3=""/>
 <C1_Discussion id="169" originalRow="169" groupSign="" debugClose="" action="跳转-标签" data="" param="问题三继续2" param2="" param3=""/>
 <C1_Discussion id="170" originalRow="170" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
@@ -330,7 +330,7 @@ $$第一章_老人孙女合影==&gt;问题四错误3" param2="" param3="type=1"/
 <C1_Discussion id="248" originalRow="248" groupSign="" debugClose="" action="角色台词" data="niefei" param="难道你有什么新的发现？{#聂飞严肃恢复}" param2="86难道你" param3=""/>
 <C1_Discussion id="249" originalRow="249" groupSign="" debugClose="" action="镜头移动" data="vcam3" param="0.3" param2="" param3=""/>
 <C1_Discussion id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易思考表情}的确，这个东西无法证明机票的问题。" param2="" param3=""/>
-<C1_Discussion id="251" originalRow="251" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{#周易无奈2动作恢复}{#周易思考表情恢复" param2="" param3=""/>
+<C1_Discussion id="251" originalRow="251" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="再仔细想想！{#周易无奈2动作恢复}{#周易思考表情恢复}" param2="" param3=""/>
 <C1_Discussion id="252" originalRow="252" groupSign="" debugClose="" action="跳转-标签" data="" param="问题四继续2" param2="" param3=""/>
 <C1_Discussion id="253" originalRow="253" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_Discussion id="254" originalRow="254" groupSign="问题四错误3" debugClose="" action="" data="" param="" param2="" param3=""/>

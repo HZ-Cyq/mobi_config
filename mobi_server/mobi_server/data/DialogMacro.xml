@@ -351,7 +351,7 @@
 <DialogMacro id="350" key_name="macro_震屏闪红" macroContent="{shake=1}{特殊-闪红效果}" macroName="{#macro_震屏闪红}"/>
 <DialogMacro id="351" key_name="震屏闪红" macroContent="{shake=1}{特殊-闪红效果}" macroName="{#震屏闪红}"/>
 <DialogMacro id="352" key_name="闪红震slash" macroContent="{shake=1}{特殊-闪红效果}{播放音效,avg_sslash}" macroName="{#闪红震slash}"/>
-<DialogMacro id="353" key_name="闪红震punch" macroContent="{shake=1}{特殊-闪红效果}{播放音效,voice_lightpunch}" macroName="{#闪红震punch}"/>
+<DialogMacro id="353" key_name="闪红震punch" macroContent="{shake=1}{特殊-闪红效果}{播放音效,avg_Slightpunch}" macroName="{#闪红震punch}"/>
 <DialogMacro id="354" key_name="闪红ding" macroContent="{特殊-闪红效果}{播放音效,avg_Sding}" macroName="{#闪红ding}"/>
 <DialogMacro id="355" key_name="闪红inspiration" macroContent="{特殊-闪红效果}{播放音效,voice_inspiration}" macroName="{#闪红inspiration}"/>
 <DialogMacro id="356" key_name="隐藏跳过" macroContent="{场景-执行脚本,AvgShow:btn_skip,0}" macroName="{#隐藏跳过}"/>

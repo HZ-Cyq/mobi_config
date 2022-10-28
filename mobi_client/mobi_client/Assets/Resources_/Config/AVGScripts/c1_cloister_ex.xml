@@ -266,8 +266,8 @@ $$先回答聂飞==&gt;回答聂飞" param2="" param3=""/>
 <C1_cloister_ex id="246" originalRow="246" groupSign="" debugClose="" action="角色台词" data="" param="看着门牌号已经恢复成了“2-404”，我们知道危机终于彻底解除了。" param2="" param3="type=1"/>
 <C1_cloister_ex id="247" originalRow="247" groupSign="" debugClose="1" action="角色台词" data="" param="凯瑟琳告诉我应该是404力量耗尽，收容室自动调整了危险等级。" param2="" param3="type=1"/>
 <C1_cloister_ex id="248" originalRow="248" groupSign="1.2&gt;&gt;" debugClose="" action="角色台词" data="wo" param="{移除角色,kaiselin02}这一晚上紧张刺激的经历，真像做梦一样……" param2="" param3="type=1"/>
-<C1_cloister_ex id="249" originalRow="249" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_开心_动作_恢复_01" param3=""/>
-<C1_cloister_ex id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="tuling" param="STS今天也圆满完成了任务！回去向杜杜汇报啦！" param2="118T今天也圆满" param3=""/>
+<C1_cloister_ex id="249" originalRow="249" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_开心_动作_循环_01" param3=""/>
+<C1_cloister_ex id="250" originalRow="250" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心表情}STS今天也圆满完成了任务！回去向杜杜汇报啦！" param2="118T今天也圆满" param3=""/>
 <C1_cloister_ex id="251" originalRow="251" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=左" param2="聂总_开心_动作_循环_01" param3=""/>
 <C1_cloister_ex id="252" originalRow="252" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}我可是头等功喵——" param2="116我可是" param3=""/>
 <C1_cloister_ex id="253" originalRow="253" groupSign="" debugClose="" action="角色台词" data="wo" param="{#聂飞开心动作恢复}……终于，结束了啊。" param2="" param3=""/>

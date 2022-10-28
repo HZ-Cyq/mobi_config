@@ -4,7 +4,7 @@
 <C2_overdarkroom id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C2_overdarkroom id="3" originalRow="3" groupSign="" debugClose="" action="RPGActor" data="黑屏" param="1" param2="" param3=""/>
 <C2_overdarkroom id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;{s=0.09}同一时间{0.5}\n某一昏暗房间内&lt;/z&gt;" param2="" param3="type=1"/>
-<C2_overdarkroom id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="bingjiu" param="pos=中" param2="冰酒_紧张_上脸_开始_01" param3=""/>
+<C2_overdarkroom id="5" originalRow="5" groupSign="" debugClose="" action="设置角色" data="bingjiu" param="pos=中" param2="" param3=""/>
 <C2_overdarkroom id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="{music=bgm_Disccusion}冰酒拿着一部加密手机。" param2="" param3="type=1"/>
 <C2_overdarkroom id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="抱歉，是我的失误。" param2="" param3="type=0"/>
 <C2_overdarkroom id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="bingjiu" param="{#冰酒紧张动作}计划内的不安定因素太多，最后只能选择暴露。" param2="" param3="type=0"/>

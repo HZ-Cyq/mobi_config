@@ -19,4 +19,5 @@
 <Server id="1023" ip="172.30.224.42" port="8844" name="chenyuqun"/>
 <Server id="1099" ip="127.0.0.1" port="8844" name="本机私服"/>
 <Server id="10011" ip="101.43.199.39" port="10110" name="兼容测试服"/>
+<Server id="10012" ip="101.43.199.39" port="10120" name="10012服"/>
 </root>

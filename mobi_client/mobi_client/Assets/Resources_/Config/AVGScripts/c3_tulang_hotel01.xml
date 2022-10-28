@@ -81,7 +81,7 @@
 <C3_tulang_hotel01 id="77" originalRow="77" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3="TRUE;TRUE;FALSE"/>
 <C3_tulang_hotel01 id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白ding}{角色动作,niefei,聂总_开心_动作_开始_01}{角色表情,niefei,聂总_开心_上脸_开始_01;聂总_开心_下嘴_开始_01;}那个秘书小姐姐的声线真不错啊……" param2="" param3=""/>
 <C3_tulang_hotel01 id="79" originalRow="79" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3="TRUE;TRUE;FALSE"/>
-<C3_tulang_hotel01 id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,涂凌_鄙视_动作_开始_01}{角色表情,,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;}{0.5}{角色动作,niefei,涂凌_惊讶_动作_开始_01}{角色表情,niefei,涂凌_惊讶_上脸_开始_01;涂凌_惊讶_下嘴_开始_01;}{#闪白震punch}色猫！{0.5}阉了吧！" param2="" param3=""/>
+<C3_tulang_hotel01 id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,涂凌_鄙视_动作_开始_01}{角色表情,,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;}{0.5}{角色动作,tuling,涂凌_惊讶_动作_开始_01}{角色表情,tuling,涂凌_惊讶_上脸_开始_01;涂凌_惊讶_下嘴_开始_01;}{#闪白震punch}色猫！{0.5}阉了吧！" param2="" param3=""/>
 <C3_tulang_hotel01 id="81" originalRow="81" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,niefei,聂总_愤怒_动作_开始_01}{角色表情,niefei,聂总_尴尬_上脸_开始_01;聂总_尴尬_下嘴_开始_01;}喂！！{特殊-闪白效果,1}{镜头振动,1}" param2="" param3=""/>
 <C3_tulang_hotel01 id="82" originalRow="82" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_tulang_hotel01 id="83" originalRow="83" groupSign="" debugClose="" action="角色台词" data="duheng" param="那你们说说，有什么收获？" param2="" param3="type=4"/>

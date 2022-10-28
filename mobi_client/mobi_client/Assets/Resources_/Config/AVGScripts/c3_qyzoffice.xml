@@ -383,7 +383,7 @@ $$暂时没有什么要问的==&gt;暂时没有什么要问的" param2="" param3
 <C3_QYZoffice id="377" originalRow="377" groupSign="" debugClose="" action="播放音乐" data="bgm_search2" param="" param2="" param3=""/>
 <C3_QYZoffice id="378" originalRow="378" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="pos=中" param2="" param3=""/>
 <C3_QYZoffice id="379" originalRow="379" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎忧伤表情}{#李加虎忧伤动作}我悄悄和你们说哦……" param2="" param3=""/>
-<C3_QYZoffice id="380" originalRow="380" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="昨天晚上公司确实死了个人，好像是{播放音效,voice_inspiration}加班猝死的。" param2="" param3=""/>
+<C3_QYZoffice id="380" originalRow="380" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="昨天晚上公司确实死了个人，好像是{播放音效,avg_sinspiration}加班猝死的。" param2="" param3=""/>
 <C3_QYZoffice id="381" originalRow="381" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="虽然报警处理了，但是公司要求员工严格保密。" param2="" param3=""/>
 <C3_QYZoffice id="382" originalRow="382" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="那、那个……我可以走了吗……" param2="" param3="type=0"/>
 <C3_QYZoffice id="383" originalRow="383" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="我知道的都已经说完了……" param2="" param3="type=0"/>
@@ -414,7 +414,7 @@ $$暂时没有什么要问的==&gt;暂时没有什么要问的" param2="" param3
 <C3_QYZoffice id="406" originalRow="406" groupSign="" debugClose="" action="角色台词" data="duheng" param="我会打开录音设备，你们旁听一下。" param2="" param3="type=4"/>
 <C3_QYZoffice id="407" originalRow="407" groupSign="" debugClose="" action="角色台词" data="wo" param="明白。" param2="" param3="type=0"/>
 <C3_QYZoffice id="408" originalRow="408" groupSign="1&gt;&gt;" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C3_QYZoffice id="409" originalRow="409" groupSign="" debugClose="" action="角色台词" data="" param="{播放音效,avg_sInspiration}&lt;z=green&gt;凯瑟琳暂时离开了队伍。&lt;/z&gt;" param2="" param3="type=1"/>
+<C3_QYZoffice id="409" originalRow="409" groupSign="" debugClose="" action="角色台词" data="" param="{播放音效,avg_sinspiration}&lt;z=green&gt;凯瑟琳暂时离开了队伍。&lt;/z&gt;" param2="" param3="type=1"/>
 <C3_QYZoffice id="410" originalRow="410" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
 <C3_QYZoffice id="411" originalRow="411" groupSign="1&gt;&gt;" debugClose="" action="RPGGoL2" data="L2main" param="" param2="" param3=""/>
 <C3_QYZoffice id="412" originalRow="412" groupSign="" debugClose="" action="子任务完成" data="3目击证人" param="" param2="" param3=""/>

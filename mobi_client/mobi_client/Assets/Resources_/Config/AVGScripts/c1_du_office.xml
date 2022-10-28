@@ -53,7 +53,7 @@
 <C1_du_office id="44" originalRow="44" groupSign="" debugClose="1" action="角色台词" data="wo" param="去问问她吧——" param2="" param3=""/>
 <C1_du_office id="45" originalRow="45" groupSign="" debugClose="1" action="角色台词" data="" param="眼熟的鲨鱼帽缩在沙发角落里──" param2="" param3=""/>
 <C1_du_office id="46" originalRow="46" groupSign="1" debugClose="" action="RPGActor" data="cam_right" param="1" param2="" param3=""/>
-<C1_du_office id="47" originalRow="47" groupSign="" debugClose="" action="RPGActor" data="涂凌" param="1" param2="" param3=""/>
+<C1_du_office id="47" originalRow="47" groupSign="" debugClose="" action="RPGActor" data="涂凌" param="4" param2="" param3=""/>
 <C1_du_office id="48" originalRow="48" groupSign="" debugClose="" action="RPGActor" data="cam_left" param="2" param2="" param3=""/>
 <C1_du_office id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="wo" param="咦？{0.6}
 {#闪白ding}那边是……" param2="" param3=""/>
@@ -104,7 +104,7 @@ $$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
 她突然就像开关被触发一样反弹开了。" param2="" param3="type=1"/>
 <C1_du_office id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="wo" param="哇……" param2="" param3=""/>
 <C1_du_office id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="" param="好像憋气憋得很辛苦，
-身体已然开始微微的颤抖。{#涂凌动漫颤抖}{sleep=0.6}\n{播放音效,voice_inspiration}{特殊-闪白效果,1}{shake=1}" param2="" param3="type=1"/>
+身体已然开始微微的颤抖。{#涂凌动漫颤抖}{sleep=0.6}\n{播放音效,avg_sinspiration}{特殊-闪白效果,1}{shake=1}" param2="" param3="type=1"/>
 <C1_du_office id="91" originalRow="91" groupSign="" debugClose="" action="角色台词" data="wo" param="嗯……是仿生机器人吗？
 做工真不错啊，好像死机了……" param2="" param3=""/>
 <C1_du_office id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="wo" param="果然这种机构就应该有专门操作电脑的机器人，
@@ -129,180 +129,180 @@ $$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
 不远处的凯瑟琳白了我一眼。" param2="" param3="type=1"/>
 <C1_du_office id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫震动背景慢}再说，一般人憋气的极限不超过一分钟，
 不然大脑很快会开始缺氧，损伤神经。" param2="" param3=""/>
-<C1_du_office id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫颤抖关闭}就是说会慢慢的{#涂凌动漫紧张}{#闪白ding}变成笨蛋。" param2="" param3=""/>
-<C1_du_office id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}呜嗯…………" param2="29T呜嗯" param3=""/>
+<C1_du_office id="107" originalRow="107" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫颤抖关闭}就是说会慢慢的{#涂凌动漫紧张}{#闪白ding}变成笨蛋。" param2="" param3="type=0"/>
+<C1_du_office id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}呜嗯…………" param2="29T呜嗯" param3="type=0"/>
 <C1_du_office id="109" originalRow="109" groupSign="" debugClose="1" action="角色台词" data="" param="{#涂凌动漫震动背景慢关闭}她的小脸涨的通红，身体抖得更厉害了。{#涂凌动漫震动背景中}" param2="" param3="type=1"/>
 <C1_du_office id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="" param="她的眼角已经泛起泪花，还在死撑。" param2="" param3="type=1"/>
-<C1_du_office id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜啊~~~！！{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="28T呜啊" param3=""/>
+<C1_du_office id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.5}{特殊-闪白效果,1}" param2="28T呜啊" param3="type=1"/>
 <C1_du_office id="112" originalRow="112" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌破防" param2="" param3=""/>
 <C1_du_office id="113" originalRow="113" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_du_office id="114" originalRow="114" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_du_office id="115" originalRow="115" groupSign="涂凌破防" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="" param="{角色动作,tuling,涂凌_憋气_动作_结束_01}{0.9}{角色表情,tuling,涂凌_喘气_上脸_开始_01;涂凌_喘气_下嘴_开始_01;}{#涂凌动漫哈字}{#涂凌动漫出窍}{#涂凌动漫震动背景快关闭}{播放音效,voice_lightpunch}{特殊-闪白效果,1}{角色镜头关闭,tuling}{shake=1}{播放音效,涂凌_喘气2}{2.5}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_思考_下嘴_开始_01;}" param2="" param3="type=1"/>
-<C1_du_office id="117" originalRow="117" groupSign="" debugClose="1" action="角色台词" data="" param="她终于破防，大口大口地喘着气。" param2="" param3=""/>
-<C1_du_office id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌动漫哈字关闭}{#涂凌动漫出窍关闭}我刚想靠近，她立刻缩到沙发缝边，{#涂凌待机2动作}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;}{角色转头,tuling,下中}{#涂凌动漫愤怒}
+<C1_du_office id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="" param="{角色动作,tuling,涂凌_憋气_动作_结束_01}{1}{角色表情,tuling,涂凌_喘气_上脸_开始_01;涂凌_喘气_下嘴_开始_01;}{#涂凌动漫哈字}{#涂凌动漫出窍}{#涂凌动漫震动背景快关闭}{播放音效,avg_Slightpunch}{特殊-闪白效果,1}{角色镜头关闭,tuling}{shake=1}{2.5}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_思考_下嘴_开始_01;}" param2="01_01涂凌_喘气2" param3="type=1"/>
+<C1_du_office id="117" originalRow="117" groupSign="" debugClose="1" action="角色台词" data="" param="" param2="01_01涂凌_喘气2" param3="type=1"/>
+<C1_du_office id="118" originalRow="118" groupSign="" debugClose="1" action="角色台词" data="" param="她终于破防，大口大口地喘着气。" param2="" param3=""/>
+<C1_du_office id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌动漫哈字关闭}{#涂凌动漫出窍关闭}我刚想靠近，她立刻缩到沙发缝边，{#涂凌待机2动作}{角色表情,tuling,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;}{角色转头,tuling,下中}{#涂凌动漫愤怒}
 用看**大叔般的眼神的看着我。" param2="" param3="type=1"/>
-<C1_du_office id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="tuling" param="&lt;size=35&gt;走，{shake=1}走开……&lt;/size&gt;" param2="01_01TL走，走开" param3=""/>
-<C1_du_office id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="wo" param="哈抱歉，我不是故意捉弄你的。
+<C1_du_office id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="tuling" param="&lt;size=35&gt;走，{shake=1}走开……&lt;/size&gt;" param2="01_01TL走，走开" param3="type=0"/>
+<C1_du_office id="121" originalRow="121" groupSign="" debugClose="" action="角色台词" data="wo" param="哈抱歉，我不是故意捉弄你的。
 &lt;z=blue&gt;（只是没忍住……）&lt;/z&gt;" param2="" param3=""/>
-<C1_du_office id="121" originalRow="121" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌慌张表情}最，最讨厌人摸我头了！！" param2="01_01TL最，最讨" param3=""/>
-<C1_du_office id="122" originalRow="122" groupSign="" debugClose="" action="角色台词" data="tuling" param="还总是在我工作的时候……" param2="01_01TL还总是在" param3=""/>
-<C1_du_office id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.02}……哈？" param2="" param3=""/>
-<C1_du_office id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="" param="感觉涂凌的鲨鱼头套上好像有一个机关，" param2="" param3="type=1"/>
-<C1_du_office id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="" param="只要一碰，她就会惊慌失措。" param2="" param3="type=1"/>
-<C1_du_office id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="wo" param="你这个到底算弱点还是萌点呢？" param2="" param3=""/>
-<C1_du_office id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="tuling" param="警告你喔，不要再靠近了。{#涂凌扔东西动作}" param2="01_01TL警告你喔" param3=""/>
-<C1_du_office id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="tuling" param="{s=0.09}&lt;size=50&gt;&lt;b&gt;{shake=1}最·不·正·常·的·{shake=1}新·人。&lt;/b&gt;&lt;/size&gt;" param2="01_01TL最·不" param3=""/>
-<C1_du_office id="129" originalRow="129" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}&lt;z=blue&gt;（啊！！！！！！！！！
+<C1_du_office id="122" originalRow="122" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌慌张表情}最，最讨厌人摸我头了！！" param2="01_01TL最，最讨" param3=""/>
+<C1_du_office id="123" originalRow="123" groupSign="" debugClose="" action="角色台词" data="tuling" param="还总是在我工作的时候……" param2="01_01TL还总是在" param3=""/>
+<C1_du_office id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="wo" param="{s=0.02}……哈？" param2="" param3=""/>
+<C1_du_office id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="" param="感觉涂凌的鲨鱼头套上好像有一个机关，" param2="" param3="type=1"/>
+<C1_du_office id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="" param="只要一碰，她就会惊慌失措。" param2="" param3="type=1"/>
+<C1_du_office id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="wo" param="你这个到底算弱点还是萌点呢？" param2="" param3=""/>
+<C1_du_office id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="tuling" param="警告你喔，不要再靠近了。{#涂凌扔东西动作}" param2="01_01TL警告你喔" param3=""/>
+<C1_du_office id="129" originalRow="129" groupSign="" debugClose="" action="角色台词" data="tuling" param="{s=0.09}&lt;size=50&gt;&lt;b&gt;{shake=1}最·不·正·常·的·{shake=1}新·人。&lt;/b&gt;&lt;/size&gt;" param2="01_01TL最·不" param3=""/>
+<C1_du_office id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震punch}&lt;z=blue&gt;（啊！！！！！！！！！
 {#闪白震punch}这是来自小鲨鱼的反击吗！！）&lt;/z&gt;" param2="" param3=""/>
-<C1_du_office id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="wo" param="我、我哪里不正常了！" param2="" param3=""/>
-<C1_du_office id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="wo" param="不就是没被MV彻底感染吧？{#涂凌待机2动作}{#涂凌动漫愤怒关闭}" param2="" param3=""/>
-<C1_du_office id="132" originalRow="132" groupSign="" debugClose="1" action="角色台词" data="wo" param="我是刚才被你扔在医务室里的周易……" param2="" param3=""/>
-<C1_du_office id="133" originalRow="133" groupSign="" debugClose="1" action="RPGActor" data="杜博士" param="1" param2="" param3=""/>
-<C1_du_office id="134" originalRow="134" groupSign="" debugClose="1" action="RPGActor" data="凯瑟琳" param="1" param2="" param3=""/>
-<C1_du_office id="135" originalRow="135" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌动漫愤怒关闭}{#涂凌严肃动作}{角色挂件,tuling,涂凌_电子表情_惊慌,,TRUE}{ntalk}我知道呀！！{0.6}
+<C1_du_office id="131" originalRow="131" groupSign="" debugClose="" action="角色台词" data="wo" param="我、我哪里不正常了！" param2="" param3=""/>
+<C1_du_office id="132" originalRow="132" groupSign="" debugClose="" action="角色台词" data="wo" param="不就是没被MV彻底感染吧？{#涂凌待机2动作}{#涂凌动漫愤怒关闭}" param2="" param3=""/>
+<C1_du_office id="133" originalRow="133" groupSign="" debugClose="1" action="角色台词" data="wo" param="我是刚才被你扔在医务室里的周易……" param2="" param3=""/>
+<C1_du_office id="134" originalRow="134" groupSign="" debugClose="1" action="RPGActor" data="杜博士" param="1" param2="" param3=""/>
+<C1_du_office id="135" originalRow="135" groupSign="" debugClose="1" action="RPGActor" data="凯瑟琳" param="1" param2="" param3=""/>
+<C1_du_office id="136" originalRow="136" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{#闪白震slash}{#涂凌动漫愤怒关闭}{#涂凌严肃动作}{角色挂件,tuling,涂凌_电子表情_惊慌,,TRUE}{ntalk}我知道呀！！{0.6}
 {#涂凌紧张表情}所、所以才可怕……" param2="31T我知道" param3=""/>
-<C1_du_office id="136" originalRow="136" groupSign="" debugClose="1" action="角色台词" data="wo" param="{s=0.02}……哈？" param2="" param3=""/>
-<C1_du_office id="137" originalRow="137" groupSign="" debugClose="1" action="角色台词" data="" param="突然切换成了智能AI声，看来只能这么交流了。" param2="" param3="type=1"/>
-<C1_du_office id="138" originalRow="138" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色挂件,tuling,涂凌_电子表情_惊慌,,FALSE}{角色转头,tuling,下中,0.4}{角色挂件,tuling,涂凌_电子表情_害羞,,TRUE}{ntalk}我的『稳定剂』用完了，只能去医务室拿。
+<C1_du_office id="137" originalRow="137" groupSign="" debugClose="1" action="角色台词" data="wo" param="{s=0.02}……哈？" param2="" param3=""/>
+<C1_du_office id="138" originalRow="138" groupSign="" debugClose="1" action="角色台词" data="" param="突然切换成了智能AI声，看来只能这么交流了。" param2="" param3="type=1"/>
+<C1_du_office id="139" originalRow="139" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色挂件,tuling,涂凌_电子表情_惊慌,,FALSE}{角色转头,tuling,下中,0.4}{角色挂件,tuling,涂凌_电子表情_害羞,,TRUE}{ntalk}我的『稳定剂』用完了，只能去医务室拿。
 然后就看到你和另一个感染者躺在床上。" param2="" param3=""/>
-<C1_du_office id="139" originalRow="139" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色转头,tuling,正,0.4}{角色转眼,tuling,正,0.4}{角色挂件,tuling,涂凌_电子表情_害羞,,FALSE}{#涂凌憋气2表情}{ntalk}结果.......{0.6}{角色挂件,tuling,涂凌_电子表情_愤怒,,TRUE}你比那些感染者还不正常！" param2="33T结果" param3=""/>
-<C1_du_office id="140" originalRow="140" groupSign="" debugClose="1" action="角色台词" data="wo" param="{#闪白震slash}{角色挂件,tuling,涂凌_电子表情_愤怒,,FALSE}{#涂凌待机2动作}我、我哪里不正常了！
+<C1_du_office id="140" originalRow="140" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色转头,tuling,正,0.4}{角色转眼,tuling,正,0.4}{角色挂件,tuling,涂凌_电子表情_害羞,,FALSE}{#涂凌憋气2表情}{ntalk}结果.......{0.6}{角色挂件,tuling,涂凌_电子表情_愤怒,,TRUE}你比那些感染者还不正常！" param2="33T结果" param3=""/>
+<C1_du_office id="141" originalRow="141" groupSign="" debugClose="1" action="角色台词" data="wo" param="{#闪白震slash}{角色挂件,tuling,涂凌_电子表情_愤怒,,FALSE}{#涂凌待机2动作}我、我哪里不正常了！
 医务室里要没有我，你说不定就挂掉了！" param2="" param3=""/>
-<C1_du_office id="141" originalRow="141" groupSign="" debugClose="1" action="角色台词" data="wo" param="下午我在做入职报到时看了一会大厅的电视，
+<C1_du_office id="142" originalRow="142" groupSign="" debugClose="1" action="角色台词" data="wo" param="下午我在做入职报到时看了一会大厅的电视，
 然后不知怎么就昏了过去……{#涂凌待机2动作恢复}" param2="" param3=""/>
-<C1_du_office id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转眼,tuling,上中,0.3}{#涂凌待机表情}可能因为你是那种，
+<C1_du_office id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转眼,tuling,上中,0.3}{#涂凌待机表情}可能因为你是那种，
 每天都对着美少女偶像照片舔屏的变态……" param2="34T可能因为" param3=""/>
-<C1_du_office id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{角色动作,tuling,涂凌_鄙视_动作_循环_01}{#涂凌平静表情}所以才对那种东西的抵抗力特别高。" param2="34T所以" param3=""/>
-<C1_du_office id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}哪有！！{0.5}
+<C1_du_office id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#闪白ding}{角色动作,tuling,涂凌_鄙视_动作_循环_01}{#涂凌平静表情}所以才对那种东西的抵抗力特别高。" param2="34T所以" param3=""/>
+<C1_du_office id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="wo" param="{#闪白震slash}哪有！！{0.5}
 别、{0.3}别瞎说……" param2="" param3=""/>
-<C1_du_office id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机表情}{角色转眼,tuling,下中,0.3}哦？{1.2}{#涂凌待机表情}{#涂凌紧张动作}{播放音效,avg_keyboard}你的手机壁纸是高崎Akira，
-上个月还买了她的写真集……{&amp;高崎Akira}" param2="35T你的手机壁纸" param3=""/>
-<C1_du_office id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="wo" param="你怎么知道的？！{1.2]
+<C1_du_office id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机表情}{角色转眼,tuling,下中,0.3}哦？{1.2}{#涂凌待机表情}{#涂凌紧张动作}{播放音效,avg_keyboard}你的手机壁纸是高崎Akira，
+上个月还买了她的写真集……" param2="35T你的手机壁纸" param3=""/>
+<C1_du_office id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="wo" param="你怎么知道的？！{1.2]
 {#闪白震punch}
 不对……那、那是侵犯个人隐私吧！" param2="" param3=""/>
-<C1_du_office id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}再看看你浏览器的历史记录……
+<C1_du_office id="148" originalRow="148" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌休闲动作}{#涂凌打字表情}再看看你浏览器的历史记录……
 哎呀呀，啧啧啧啧……" param2="36T再看看" param3=""/>
-<C1_du_office id="148" originalRow="148" groupSign="" debugClose="" action="角色台词" data="wo" param="住、{0.3}住手啊！！！{#闪白震slash}" param2="" param3=""/>
-<C1_du_office id="149" originalRow="149" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=右" param2="杜衡_平静_动作_循环_01" param3="TRUE;FALSE;TRUE"/>
-<C1_du_office id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="duheng" param="咳咳──{0.5}{#杜衡平静动作恢复}{music=off}{#杜衡待机表情}" param2="38D咳咳" param3=""/>
-<C1_du_office id="151" originalRow="151" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
-<C1_du_office id="152" originalRow="152" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡思考动作}杜博士不知道什么时候站到了身后，轻咳了两声，涂凌总算老实了下来。" param2="" param3="type=1"/>
-<C1_du_office id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}新同事这么快就熟络了？{#涂凌愤怒动作}" param2="01_01DH新同事这" param3=""/>
-<C1_du_office id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="tuling" param="哼！" param2="01_01TL哼！" param3=""/>
-<C1_du_office id="155" originalRow="155" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}目前来看，身体指标都没有问题。" param2="37D目前" param3=""/>
-<C1_du_office id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="完全可以去执行任务呢~" param2="50K完全可以" param3=""/>
-<C1_du_office id="157" originalRow="157" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="wo" param="住、{0.3}住手啊！！！{#闪白震slash}" param2="" param3=""/>
+<C1_du_office id="150" originalRow="150" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=右" param2="杜衡_平静_动作_循环_01" param3="TRUE;FALSE;TRUE"/>
+<C1_du_office id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="duheng" param="咳咳──{0.5}{#杜衡平静动作恢复}{music=off}{#杜衡待机表情}" param2="38D咳咳" param3=""/>
+<C1_du_office id="152" originalRow="152" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
+<C1_du_office id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="" param="{#杜衡思考动作}杜博士不知道什么时候站到了身后，轻咳了两声，涂凌总算老实了下来。" param2="" param3="type=1"/>
+<C1_du_office id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}新同事这么快就熟络了？{#涂凌愤怒动作}" param2="01_01DH新同事这" param3=""/>
+<C1_du_office id="155" originalRow="155" groupSign="" debugClose="" action="角色台词" data="tuling" param="哼！" param2="01_01TL哼！" param3=""/>
+<C1_du_office id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}目前来看，身体指标都没有问题。" param2="37D目前" param3=""/>
+<C1_du_office id="157" originalRow="157" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="完全可以去执行任务呢~" param2="50K完全可以" param3=""/>
 <C1_du_office id="158" originalRow="158" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_du_office id="159" originalRow="159" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="160" originalRow="160" groupSign="" debugClose="1" action="角色台词" data="duheng" param="如你所见，涂凌是STS的情报专员，而凯瑟琳是医疗官。" param2="" param3=""/>
-<C1_du_office id="161" originalRow="161" groupSign="" debugClose="1" action="角色台词" data="duheng" param="涂凌回来汇报了你的情况，所以我让凯瑟琳去医务室带你过来。" param2="" param3=""/>
-<C1_du_office id="162" originalRow="162" groupSign="" debugClose="1" action="角色台词" data="wo" param="看着杜衡的笑容，我突然想起了刚开始遇到凯瑟琳时她说过的话。" param2="" param3=""/>
-<C1_du_office id="163" originalRow="163" groupSign="" debugClose="1" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
-<C1_du_office id="164" originalRow="164" groupSign="" debugClose="1" action="角色台词" data="" param="“那么，逻辑推理测试——70分，安全意识测试——0分。”" param2="" param3=""/>
-<C1_du_office id="165" originalRow="165" groupSign="" debugClose="1" action="角色台词" data="" param="“救？严格来说，对一个有实验意义的对象，" param2="" param3=""/>
-<C1_du_office id="166" originalRow="166" groupSign="" debugClose="1" action="角色台词" data="" param="“保存”可能是更准确的说法。”" param2="" param3=""/>
-<C1_du_office id="167" originalRow="167" groupSign="" debugClose="1" action="角色台词" data="" param="“体力测试——100分。" param2="" param3=""/>
-<C1_du_office id="168" originalRow="168" groupSign="" debugClose="1" action="角色台词" data="" param="杜博士的任务顺利完成。 ”" param2="" param3=""/>
-<C1_du_office id="169" originalRow="169" groupSign="" debugClose="1" action="画面特效移除" data="" param="" param2="" param3=""/>
-<C1_du_office id="170" originalRow="170" groupSign="" debugClose="1" action="角色台词" data="wo" param="等、等下！！" param2="" param3=""/>
-<C1_du_office id="171" originalRow="171" groupSign="" debugClose="1" action="角色台词" data="wo" param="凯瑟琳一开始就对我做了类似战斗人员的评估……" param2="" param3=""/>
-<C1_du_office id="172" originalRow="172" groupSign="" debugClose="1" action="角色台词" data="wo" param="杜博士你说要让我撤离和躲起来……是欲擒故纵吧！？" param2="" param3=""/>
-<C1_du_office id="173" originalRow="173" groupSign="" debugClose="1" action="角色台词" data="duheng" param="不错，记忆力与逻辑串联可以打90分。" param2="" param3=""/>
-<C1_du_office id="174" originalRow="174" groupSign="" debugClose="1" action="角色台词" data="wo" param="……！！" param2="" param3=""/>
-<C1_du_office id="175" originalRow="175" groupSign="" debugClose="1" action="角色台词" data="duheng" param="……我不否认我一开始就有这样的计划。" param2="" param3=""/>
-<C1_du_office id="176" originalRow="176" groupSign="" debugClose="1" action="角色台词" data="wo" param="这这这……" param2="" param3=""/>
-<C1_du_office id="177" originalRow="177" groupSign="" debugClose="1" action="角色台词" data="duheng" param="但如果你不愿意，我也用尽全力首先保护你的安全。" param2="" param3=""/>
-<C1_du_office id="178" originalRow="178" groupSign="" debugClose="1" action="角色台词" data="wo" param="（这个女人……）" param2="" param3=""/>
-<C1_du_office id="179" originalRow="179" groupSign="" debugClose="1" action="角色台词" data="duheng" param="你们都准备好了？" param2="" param3=""/>
-<C1_du_office id="180" originalRow="180" groupSign="" debugClose="1" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<C1_du_office id="181" originalRow="181" groupSign="" debugClose="1" action="角色台词" data="tuling" param="已经搞定了！" param2="" param3=""/>
-<C1_du_office id="182" originalRow="182" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
-<C1_du_office id="183" originalRow="183" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="我没问题。" param2="" param3=""/>
-<C1_du_office id="184" originalRow="184" groupSign="" debugClose="1" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
-<C1_du_office id="185" originalRow="185" groupSign="" debugClose="" action="角色台词" data="" param="杜衡突然看向我。" param2="" param3="type=1"/>
-<C1_du_office id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机动作}{#杜衡待机表情}既然你已经是作战小队一员了，" param2="01_01DH既然你已" param3=""/>
-<C1_du_office id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="duheng" param="那你有权限知道这个站点最重要的机密──" param2="01_01DH那你有权" param3=""/>
-<C1_du_office id="188" originalRow="188" groupSign="" debugClose="" action="角色台词" data="" param="望着杜衡深邃的眼神，
+<C1_du_office id="160" originalRow="160" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="161" originalRow="161" groupSign="" debugClose="1" action="角色台词" data="duheng" param="如你所见，涂凌是STS的情报专员，而凯瑟琳是医疗官。" param2="" param3=""/>
+<C1_du_office id="162" originalRow="162" groupSign="" debugClose="1" action="角色台词" data="duheng" param="涂凌回来汇报了你的情况，所以我让凯瑟琳去医务室带你过来。" param2="" param3=""/>
+<C1_du_office id="163" originalRow="163" groupSign="" debugClose="1" action="角色台词" data="wo" param="看着杜衡的笑容，我突然想起了刚开始遇到凯瑟琳时她说过的话。" param2="" param3=""/>
+<C1_du_office id="164" originalRow="164" groupSign="" debugClose="1" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
+<C1_du_office id="165" originalRow="165" groupSign="" debugClose="1" action="角色台词" data="" param="“那么，逻辑推理测试——70分，安全意识测试——0分。”" param2="" param3=""/>
+<C1_du_office id="166" originalRow="166" groupSign="" debugClose="1" action="角色台词" data="" param="“救？严格来说，对一个有实验意义的对象，" param2="" param3=""/>
+<C1_du_office id="167" originalRow="167" groupSign="" debugClose="1" action="角色台词" data="" param="“保存”可能是更准确的说法。”" param2="" param3=""/>
+<C1_du_office id="168" originalRow="168" groupSign="" debugClose="1" action="角色台词" data="" param="“体力测试——100分。" param2="" param3=""/>
+<C1_du_office id="169" originalRow="169" groupSign="" debugClose="1" action="角色台词" data="" param="杜博士的任务顺利完成。 ”" param2="" param3=""/>
+<C1_du_office id="170" originalRow="170" groupSign="" debugClose="1" action="画面特效移除" data="" param="" param2="" param3=""/>
+<C1_du_office id="171" originalRow="171" groupSign="" debugClose="1" action="角色台词" data="wo" param="等、等下！！" param2="" param3=""/>
+<C1_du_office id="172" originalRow="172" groupSign="" debugClose="1" action="角色台词" data="wo" param="凯瑟琳一开始就对我做了类似战斗人员的评估……" param2="" param3=""/>
+<C1_du_office id="173" originalRow="173" groupSign="" debugClose="1" action="角色台词" data="wo" param="杜博士你说要让我撤离和躲起来……是欲擒故纵吧！？" param2="" param3=""/>
+<C1_du_office id="174" originalRow="174" groupSign="" debugClose="1" action="角色台词" data="duheng" param="不错，记忆力与逻辑串联可以打90分。" param2="" param3=""/>
+<C1_du_office id="175" originalRow="175" groupSign="" debugClose="1" action="角色台词" data="wo" param="……！！" param2="" param3=""/>
+<C1_du_office id="176" originalRow="176" groupSign="" debugClose="1" action="角色台词" data="duheng" param="……我不否认我一开始就有这样的计划。" param2="" param3=""/>
+<C1_du_office id="177" originalRow="177" groupSign="" debugClose="1" action="角色台词" data="wo" param="这这这……" param2="" param3=""/>
+<C1_du_office id="178" originalRow="178" groupSign="" debugClose="1" action="角色台词" data="duheng" param="但如果你不愿意，我也用尽全力首先保护你的安全。" param2="" param3=""/>
+<C1_du_office id="179" originalRow="179" groupSign="" debugClose="1" action="角色台词" data="wo" param="（这个女人……）" param2="" param3=""/>
+<C1_du_office id="180" originalRow="180" groupSign="" debugClose="1" action="角色台词" data="duheng" param="你们都准备好了？" param2="" param3=""/>
+<C1_du_office id="181" originalRow="181" groupSign="" debugClose="1" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
+<C1_du_office id="182" originalRow="182" groupSign="" debugClose="1" action="角色台词" data="tuling" param="已经搞定了！" param2="" param3=""/>
+<C1_du_office id="183" originalRow="183" groupSign="" debugClose="1" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
+<C1_du_office id="184" originalRow="184" groupSign="" debugClose="1" action="角色台词" data="kaiselin02" param="我没问题。" param2="" param3=""/>
+<C1_du_office id="185" originalRow="185" groupSign="" debugClose="1" action="移除角色" data="kaiselin02" param="" param2="" param3=""/>
+<C1_du_office id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="" param="杜衡突然看向我。" param2="" param3="type=1"/>
+<C1_du_office id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机动作}{#杜衡待机表情}既然你已经是作战小队一员了，" param2="01_01DH既然你已" param3=""/>
+<C1_du_office id="188" originalRow="188" groupSign="" debugClose="" action="角色台词" data="duheng" param="那你有权限知道这个站点最重要的机密──" param2="01_01DH那你有权" param3=""/>
+<C1_du_office id="189" originalRow="189" groupSign="" debugClose="" action="角色台词" data="" param="望着杜衡深邃的眼神，
 我不由屏住了呼吸。" param2="" param3="type=1"/>
-<C1_du_office id="189" originalRow="189" groupSign="" debugClose="" action="可选对话框" data="" param="$$最重要的机密……==&gt;最重要的机密" param2="" param3=""/>
-<C1_du_office id="190" originalRow="190" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="191" originalRow="191" groupSign="最重要的机密" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="192" originalRow="192" groupSign="" debugClose="" action="角色台词" data="duheng" param="昭离公馆的地下是一家豪华酒店，
+<C1_du_office id="190" originalRow="190" groupSign="" debugClose="" action="可选对话框" data="" param="$$最重要的机密……==&gt;最重要的机密" param2="" param3=""/>
+<C1_du_office id="191" originalRow="191" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="192" originalRow="192" groupSign="最重要的机密" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="193" originalRow="193" groupSign="" debugClose="" action="角色台词" data="duheng" param="昭离公馆的地下是一家豪华酒店，
 其自身就是高位格{&amp;位格}的&lt;z=highlight&gt;空间型异质物&lt;/z&gt;。" param2="59D昭离" param3=""/>
-<C1_du_office id="193" originalRow="193" groupSign="" debugClose="" action="角色台词" data="duheng" param="这家『酒店』的客房，
+<C1_du_office id="194" originalRow="194" groupSign="" debugClose="" action="角色台词" data="duheng" param="这家『酒店』的客房，
 目前被STS用作异质物的『收容』。" param2="01_01DH这家『酒" param3=""/>
-<C1_du_office id="194" originalRow="194" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡平静表情}当异质物&lt;z=highlight&gt;“入住”&lt;/z&gt;时，{0.4}{#杜衡待机表情}这家酒店可以任意变换客房的形态，变成最适宜收容它的样子。{0.4}{#杜衡惊讶动作恢复}" param2="60D当异质物" param3=""/>
-<C1_du_office id="195" originalRow="195" groupSign="" debugClose="" action="角色台词" data="duheng" param="3-404是从收容房间中逃逸的，现在还潜藏在&lt;z=highlight&gt;异界回廊&lt;/z&gt;{&amp;异界回廊}的某个地方。" param2="01_01DH 3-404" param3=""/>
-<C1_du_office id="196" originalRow="196" groupSign="" debugClose="1" action="角色台词" data="duheng" param="你刚才所乘坐的&lt;color=#ECFE1E&gt;『电梯』&lt;/color&gt;，{&amp;0号电梯}
+<C1_du_office id="195" originalRow="195" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡平静表情}当异质物&lt;z=highlight&gt;“入住”&lt;/z&gt;时，{0.4}{#杜衡待机表情}这家酒店可以任意变换客房的形态，变成最适宜收容它的样子。{0.4}{#杜衡惊讶动作恢复}" param2="60D当异质物" param3=""/>
+<C1_du_office id="196" originalRow="196" groupSign="" debugClose="" action="角色台词" data="duheng" param="3-404是从收容房间中逃逸的，现在还潜藏在&lt;z=highlight&gt;异界回廊&lt;/z&gt;{&amp;异界回廊}的某个地方。" param2="01_01DH 3-404" param3=""/>
+<C1_du_office id="197" originalRow="197" groupSign="" debugClose="1" action="角色台词" data="duheng" param="你刚才所乘坐的&lt;color=#ECFE1E&gt;『电梯』&lt;/color&gt;，{&amp;0号电梯}
 就是通过这个空间下到世界边缘处的手段之一。" param2="59D你刚才" param3=""/>
-<C1_du_office id="197" originalRow="197" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡平静表情}当异质物“&lt;z=yellow&gt;入住&lt;/z&gt;”时，{0.4}{#杜衡待机表情}这家酒店可以任意变换客房的形态，变成最适宜收容它的样子。{0.4}{#杜衡惊讶动作恢复}" param2="60D当异质物" param3=""/>
-<C1_du_office id="198" originalRow="198" groupSign="" debugClose="" action="角色台词" data="duheng" param="异质物虽然能引发各种超出常识的现象，
+<C1_du_office id="198" originalRow="198" groupSign="" debugClose="1" action="角色台词" data="duheng" param="{#杜衡惊讶动作}{#杜衡平静表情}当异质物“&lt;z=yellow&gt;入住&lt;/z&gt;”时，{0.4}{#杜衡待机表情}这家酒店可以任意变换客房的形态，变成最适宜收容它的样子。{0.4}{#杜衡惊讶动作恢复}" param2="60D当异质物" param3=""/>
+<C1_du_office id="199" originalRow="199" groupSign="" debugClose="" action="角色台词" data="duheng" param="异质物虽然能引发各种超出常识的现象，
 但自身总要遵循一定的规则和模式。" param2="61D异质物" param3=""/>
-<C1_du_office id="199" originalRow="199" groupSign="" debugClose="" action="角色台词" data="duheng" param="对于3-404这种&lt;z=highlight&gt;人形异质物&lt;/z&gt;{&amp;人形异质物}，最重要的就是{#杜衡送客动作}分析她的{#闪白ding}『人格』，才能找出隐藏其背后的行为规律。" param2="62D对于" param3=""/>
-<C1_du_office id="200" originalRow="200" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}而想要了解3-404最便捷的方法，
+<C1_du_office id="200" originalRow="200" groupSign="" debugClose="" action="角色台词" data="duheng" param="对于3-404这种&lt;z=highlight&gt;人形异质物&lt;/z&gt;{&amp;人形异质物}，最重要的就是{#杜衡送客动作}分析她的{#闪白ding}『人格』，才能找出隐藏其背后的行为规律。" param2="62D对于" param3=""/>
+<C1_du_office id="201" originalRow="201" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}而想要了解3-404最便捷的方法，
 就是探查曾经收容它的房间。{0.6}" param2="63D而想要" param3=""/>
-<C1_du_office id="201" originalRow="201" groupSign="" debugClose="" action="角色台词" data="duheng" param="找出它的本体，击败它，然后重新收容。" param2="64D找出" param3=""/>
-<C1_du_office id="202" originalRow="202" groupSign="" debugClose="" action="角色台词" data="duheng" param="一切异质物收容前，都不可避免要经历许多战斗。{#杜衡思考表情}" param2="65D一切" param3=""/>
-<C1_du_office id="203" originalRow="203" groupSign="" debugClose="" action="角色台词" data="duheng" param="可以说STS作战小队的日常，
+<C1_du_office id="202" originalRow="202" groupSign="" debugClose="" action="角色台词" data="duheng" param="找出它的本体，击败它，然后重新收容。" param2="64D找出" param3=""/>
+<C1_du_office id="203" originalRow="203" groupSign="" debugClose="" action="角色台词" data="duheng" param="一切异质物收容前，都不可避免要经历许多战斗。{#杜衡思考表情}" param2="65D一切" param3=""/>
+<C1_du_office id="204" originalRow="204" groupSign="" debugClose="" action="角色台词" data="duheng" param="可以说STS作战小队的日常，
 就是与异质物的各种战斗。" param2="66D可以说" param3=""/>
-<C1_du_office id="204" originalRow="204" groupSign="" debugClose="" action="角色台词" data="wo" param="我大概明白，从0号电梯侦测战斗用异质物的重要性了。" param2="" param3=""/>
-<C1_du_office id="205" originalRow="205" groupSign="1" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3="TRUE;TRUE;TRUE"/>
-<C1_du_office id="206" originalRow="206" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#杜衡待机表情}{#凯瑟琳2得意表情}现在跟他说这些肯定没办法想象啦，
+<C1_du_office id="205" originalRow="205" groupSign="" debugClose="" action="角色台词" data="wo" param="我大概明白，从0号电梯侦测战斗用异质物的重要性了。" param2="" param3=""/>
+<C1_du_office id="206" originalRow="206" groupSign="1" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3="TRUE;TRUE;TRUE"/>
+<C1_du_office id="207" originalRow="207" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#杜衡待机表情}{#凯瑟琳2得意表情}现在跟他说这些肯定没办法想象啦，
 总之去了就知道了──" param2="54K现在跟他" param3=""/>
-<C1_du_office id="207" originalRow="207" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}其他的知识，我们会慢慢教他的~" param2="55K其他的" param3=""/>
-<C1_du_office id="208" originalRow="208" groupSign="" debugClose="" action="角色台词" data="" param="忽然，办公桌上的电话响起，杜衡看了一眼号码便按下了免提键。" param2="" param3="type=1"/>
-<C1_du_office id="209" originalRow="209" groupSign="" debugClose="" action="RPGActor" data="电话触发器" param="1" param2="" param3=""/>
-<C1_du_office id="210" originalRow="210" groupSign="" debugClose="" action="子任务完成" data="第一章_探讨对策" param="" param2="" param3=""/>
-<C1_du_office id="211" originalRow="211" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C1_du_office id="212" originalRow="212" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="208" originalRow="208" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}其他的知识，我们会慢慢教他的~" param2="55K其他的" param3=""/>
+<C1_du_office id="209" originalRow="209" groupSign="" debugClose="" action="角色台词" data="" param="忽然，办公桌上的电话响起，杜衡看了一眼号码便按下了免提键。" param2="" param3="type=1"/>
+<C1_du_office id="210" originalRow="210" groupSign="" debugClose="" action="RPGActor" data="电话触发器" param="1" param2="" param3=""/>
+<C1_du_office id="211" originalRow="211" groupSign="" debugClose="" action="子任务完成" data="第一章_探讨对策" param="" param2="" param3=""/>
+<C1_du_office id="212" originalRow="212" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <C1_du_office id="213" originalRow="213" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="214" originalRow="214" groupSign="接电话" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="215" originalRow="215" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<C1_du_office id="216" originalRow="216" groupSign="" debugClose="" action="停止音效" data="ui_videotelephone" param="" param2="" param3=""/>
-<C1_du_office id="217" originalRow="217" groupSign="" debugClose="" action="RPGActor" data="电话触发器" param="2" param2="" param3=""/>
-<C1_du_office id="218" originalRow="218" groupSign="" debugClose="" action="角色台词" data="stranger" param="喂喂？
+<C1_du_office id="214" originalRow="214" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="215" originalRow="215" groupSign="接电话" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="216" originalRow="216" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
+<C1_du_office id="217" originalRow="217" groupSign="" debugClose="" action="停止音效" data="ui_videotelephone" param="" param2="" param3=""/>
+<C1_du_office id="218" originalRow="218" groupSign="" debugClose="" action="RPGActor" data="电话触发器" param="2" param2="" param3=""/>
+<C1_du_office id="219" originalRow="219" groupSign="" debugClose="" action="角色台词" data="stranger" param="喂喂？
 我是聂飞，听得到吗？" param2="1喂喂我是" param3="type=4"/>
-<C1_du_office id="219" originalRow="219" groupSign="" debugClose="" action="角色台词" data="" param="电话另一头是个刻意压低声音的中年男性，
+<C1_du_office id="220" originalRow="220" groupSign="" debugClose="" action="角色台词" data="" param="电话另一头是个刻意压低声音的中年男性，
 背景音里似乎隐约还能听到那首MV的歌声。" param2="" param3="type=1"/>
-<C1_du_office id="220" originalRow="220" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
-<C1_du_office id="221" originalRow="221" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="听得到，刚才用电磁炸弹打断了异质物的爆发，
+<C1_du_office id="221" originalRow="221" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
+<C1_du_office id="222" originalRow="222" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="听得到，刚才用电磁炸弹打断了异质物的爆发，
 现在地下的情况怎么样？" param2="51K听得到" param3=""/>
-<C1_du_office id="222" originalRow="222" groupSign="" debugClose="" action="角色台词" data="stranger" param="我去怪不得……用有线电话才能接通。{#凯瑟琳2严肃动作恢复}" param2="2我去" param3="type=4"/>
-<C1_du_office id="223" originalRow="223" groupSign="" debugClose="" action="角色台词" data="stranger" param="前面突然冒出一台大电视，循环播放着那首歌，
+<C1_du_office id="223" originalRow="223" groupSign="" debugClose="" action="角色台词" data="stranger" param="我去怪不得……用有线电话才能接通。{#凯瑟琳2严肃动作恢复}" param2="2我去" param3="type=4"/>
+<C1_du_office id="224" originalRow="224" groupSign="" debugClose="" action="角色台词" data="stranger" param="前面突然冒出一台大电视，循环播放着那首歌，
 嗡嗡嗡的，简直烦死了！{0.4}{#凯瑟琳2紧张动作}" param2="3前面突然" param3="type=4"/>
-<C1_du_office id="224" originalRow="224" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}用手榴弹炸掉不就行了~" param2="52K用手榴弹" param3=""/>
-<C1_du_office id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="stranger" param="不可能，我现在根本没法靠近404房间，
+<C1_du_office id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意表情}用手榴弹炸掉不就行了~" param2="52K用手榴弹" param3=""/>
+<C1_du_office id="226" originalRow="226" groupSign="" debugClose="" action="角色台词" data="stranger" param="不可能，我现在根本没法靠近404房间，
 请求增援！" param2="4不可能" param3="type=4"/>
-<C1_du_office id="226" originalRow="226" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3="TRUE;TRUE;TRUE"/>
-<C1_du_office id="227" originalRow="227" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒表情}{#杜衡惊讶动作}怎么回事？
+<C1_du_office id="227" originalRow="227" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3="TRUE;TRUE;TRUE"/>
+<C1_du_office id="228" originalRow="228" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡愤怒表情}{#杜衡惊讶动作}怎么回事？
 安保队的装备全部失效了？{0.6}{#杜衡惊讶动作恢复}" param2="47D怎么回事" param3=""/>
-<C1_du_office id="228" originalRow="228" groupSign="" debugClose="" action="角色台词" data="stranger" param="没错，好像只要看到和听到就会被感染。" param2="5没错好像" param3="type=4"/>
-<C1_du_office id="229" originalRow="229" groupSign="" debugClose="" action="角色台词" data="stranger" param="他们全都变成了僵尸一样的东西，
+<C1_du_office id="229" originalRow="229" groupSign="" debugClose="" action="角色台词" data="stranger" param="没错，好像只要看到和听到就会被感染。" param2="5没错好像" param3="type=4"/>
+<C1_du_office id="230" originalRow="230" groupSign="" debugClose="" action="角色台词" data="stranger" param="他们全都变成了僵尸一样的东西，
 四处游荡，看见活物就扑上去攻击。" param2="5他们全都变成" param3="type=4"/>
-<C1_du_office id="230" originalRow="230" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_惊讶_动作_开始_01" param3=""/>
-<C1_du_office id="231" originalRow="231" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}全、{0.4}{#闪白ding}全军覆没……？" param2="37T全军覆没" param3=""/>
-<C1_du_office id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="stranger" param="啊，有一个算一个──{0.6}{#涂凌惊讶动作恢复}{#涂凌忧伤表情}
+<C1_du_office id="231" originalRow="231" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_惊讶_动作_开始_01" param3=""/>
+<C1_du_office id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}全、{0.4}{#闪白ding}全军覆没……？" param2="37T全军覆没" param3=""/>
+<C1_du_office id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="stranger" param="啊，有一个算一个──{0.6}{#涂凌惊讶动作恢复}{#涂凌忧伤表情}
 全都变成了电视头。" param2="6有一个算" param3="type=4"/>
-<C1_du_office id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="stranger" param="靠，好像有东西过来了！
+<C1_du_office id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="stranger" param="靠，好像有东西过来了！
 不说了，快点派增援──" param2="7靠" param3="type=4"/>
-<C1_du_office id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌待机2动作}没等我们回复，那边便挂断了电话。" param2="" param3="type=1"/>
-<C1_du_office id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="" param="房间内陷入了短暂了寂静，
+<C1_du_office id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌待机2动作}没等我们回复，那边便挂断了电话。" param2="" param3="type=1"/>
+<C1_du_office id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="" param="房间内陷入了短暂了寂静，
 似乎大家都在努力消化刚才的信息。" param2="" param3="type=1"/>
-<C1_du_office id="236" originalRow="236" groupSign="" debugClose="1" action="RPGActor" data="杜衡发指令" param="1" param2="" param3=""/>
-<C1_du_office id="237" originalRow="237" groupSign="" debugClose="1" action="子任务完成" data="第一章_接电话" param="" param2="" param3=""/>
-<C1_du_office id="238" originalRow="238" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<C1_du_office id="239" originalRow="239" groupSign="" debugClose="1" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="240" originalRow="240" groupSign="杜博士发指令" debugClose="1" action="" data="" param="" param2="" param3=""/>
-<C1_du_office id="241" originalRow="241" groupSign="" debugClose="1" action="RPGActor" data="杜衡发指令" param="2" param2="" param3=""/>
-<C1_du_office id="242" originalRow="242" groupSign="" debugClose="" action="角色台词" data="" param="杜博士很快便整理好了思路，
+<C1_du_office id="237" originalRow="237" groupSign="" debugClose="1" action="RPGActor" data="杜衡发指令" param="1" param2="" param3=""/>
+<C1_du_office id="238" originalRow="238" groupSign="" debugClose="1" action="子任务完成" data="第一章_接电话" param="" param2="" param3=""/>
+<C1_du_office id="239" originalRow="239" groupSign="" debugClose="1" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C1_du_office id="240" originalRow="240" groupSign="" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="241" originalRow="241" groupSign="杜博士发指令" debugClose="1" action="" data="" param="" param2="" param3=""/>
+<C1_du_office id="242" originalRow="242" groupSign="" debugClose="1" action="RPGActor" data="杜衡发指令" param="2" param2="" param3=""/>
+<C1_du_office id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="" param="杜博士很快便整理好了思路，
 发出一系列指令──" param2="" param3="type=1"/>
-<C1_du_office id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#闪白震slash}{注视,duheng,tuling,0.4}{#杜衡送客动作}涂凌，封锁整个东区。" param2="48D封锁整个" param3=""/>
-<C1_du_office id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}啊……{#涂凌平静表情}好、好的！{注视,duheng,,0.4}{角色转身,duheng,正,0.4}{角色转头,duheng,正,0.4}{#涂凌紧张动作}" param2="38T好的" param3=""/>
-<C1_du_office id="245" originalRow="245" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
+<C1_du_office id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#闪白震slash}{注视,duheng,tuling,0.4}{#杜衡送客动作}涂凌，封锁整个东区。" param2="48D封锁整个" param3=""/>
+<C1_du_office id="245" originalRow="245" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌抬头}啊……{#涂凌平静表情}好、好的！{注视,duheng,,0.4}{角色转身,duheng,正,0.4}{角色转头,duheng,正,0.4}{#涂凌紧张动作}" param2="38T好的" param3=""/>
 <C1_du_office id="246" originalRow="246" groupSign="1" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="凯瑟琳_紧张_动作_开始_01" param3=""/>
 <C1_du_office id="247" originalRow="247" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡待机动作}{注视,kaiselin02,duheng,0.4}{注视,duheng,kaiselin02,0.4}{#杜衡紧张表情}凯瑟琳，刚才我们确认过获得的异质物的状态，
-直接编队使用吧。{移除角色,tuling}" param2="49D凯瑟琳" param3=""/>
+直接编队使用吧。" param2="49D凯瑟琳" param3=""/>
 <C1_du_office id="248" originalRow="248" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{注视,kaiselin02,,0.4}{注视,duheng,,0.4}{角色转身,kaiselin02,正,0.4}{角色转头,kaiselin02,正,0.4}{角色转眼,kaiselin02,正,0.4}明白！" param2="53K明白" param3=""/>
 <C1_du_office id="249" originalRow="249" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_du_office id="250" originalRow="250" groupSign="0.8&gt;&gt;" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
@@ -361,7 +361,7 @@ $$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
 唯一能恢复意识的。" param2="41D而你" param3=""/>
 <C1_du_office id="302" originalRow="302" groupSign="" debugClose="" action="角色台词" data="wo" param="等、{#闪白ding}等一下！
 你是说那个像二流偶像歌手拍的廉价MV，" param2="" param3=""/>
-<C1_du_office id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="wo" param="其实{0.5}是一段{0.3}{#闪白震punch}{播放音效,avg_slightpunch}杀人视频！？" param2="" param3=""/>
+<C1_du_office id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="wo" param="其实{0.5}是一段{0.3}{#闪白震punch}{播放音效,avg_Slightpunch}杀人视频！？" param2="" param3=""/>
 <C1_du_office id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;(虽然来STS报到之前我就设想过各种危险情况，{#杜衡开心动作恢复}
 但没想到第一天就中了头彩。)&lt;/z&gt;" param2="" param3=""/>
 <C1_du_office id="305" originalRow="305" groupSign="" debugClose="" action="角色台词" data="duheng" param="如你所见，

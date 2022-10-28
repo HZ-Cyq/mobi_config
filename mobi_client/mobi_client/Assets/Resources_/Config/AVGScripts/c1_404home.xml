@@ -113,7 +113,7 @@
 <C1_404home id="85" originalRow="85" groupSign="" debugClose="" action="角色台词" data="wo" param="{#凯瑟琳2严肃动作恢复}{#凯瑟琳2待机表情}大概是位性格坚韧而且自律的老人家吧……" param2="" param3=""/>
 <C1_404home id="86" originalRow="86" groupSign="1" debugClose="" action="RPGActor" data="cam_bed" param="2" param2="" param3=""/>
 <C1_404home id="87" originalRow="87" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3="TRUE;TRUE;TRUE"/>
-<C1_404home id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}{播放音效,voice_typing}老奶奶被送往医院后突发心梗，{0.6}
+<C1_404home id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌紧张动作}老奶奶被送往医院后突发心梗，{0.6}
 一直在ICU里。" param2="64T老奶奶" param3=""/>
 <C1_404home id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="wo" param="也就是说，如果发现的再晚一点，恐怕……" param2="" param3=""/>
 <C1_404home id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳微微点了下头。" param2="" param3="type=1"/>
@@ -336,7 +336,7 @@ $$正常流程==&gt;飞机正常流程" param2="" param3=""/>
 <C1_404home id="276" originalRow="276" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}看起来像是专业机构的手笔。{#涂凌严肃动作恢复}{#涂凌紧张动作}" param2="115K看起来" param3=""/>
 <C1_404home id="277" originalRow="277" groupSign="" debugClose="" action="角色台词" data="tuling" param="哼哼！{#闪白ding}{#涂凌点赞动作}{#涂凌平静表情}还是被我查到了当时保险公司公布的罹难乘客名单。" param2="84T还是被我" param3=""/>
 <C1_404home id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}" param2="" param3=""/>
-<C1_404home id="279" originalRow="279" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
+<C1_404home id="279" originalRow="279" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C1_404home id="280" originalRow="280" groupSign="" debugClose="" action="打开插画" data="C1_DeathToll" param="FALSE" param2="" param3=""/>
 <C1_404home id="281" originalRow="281" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（好像……并没有钱越的名字啊。）&lt;/z&gt;" param2="" param3=""/>
 <C1_404home id="282" originalRow="282" groupSign="1&gt;&gt;" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>

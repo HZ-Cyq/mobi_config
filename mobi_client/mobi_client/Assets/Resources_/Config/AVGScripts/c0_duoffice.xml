@@ -56,8 +56,8 @@
 <C0_duoffice id="41" originalRow="41" groupSign="" debugClose="1" action="角色台词" data="" param="她并没有理会我的目光，{0.4}{#杜衡看文件2动作恢复}{角色镜头关闭,duheng,个人镜头_杜衡_展示调整}
 而是一脸玩味地低头看着手中的平板设备——{角色转眼,duheng,正,0.4}" param2="" param3="type=1"/>
 <C0_duoffice id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="{#杜衡看文件2动作恢复}{角色镜头关闭,duheng,个人镜头_杜衡_展示调整}{播放音效,avg_scan}心跳加快，血压升高，{0.2}
-下半身体温提升了0.5度……{autoend}" param2="4D心跳" param3=""/>
-<C0_duoffice id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="呵呵，确实是这个年纪男生正常的生理反应~{autoend}" param2="4D确实是" param3=""/>
+下半身体温提升了0.5度……" param2="4D心跳" param3=""/>
+<C0_duoffice id="43" originalRow="43" groupSign="" debugClose="" action="角色台词" data="duheng_stranger" param="呵呵，确实是这个年纪男生正常的生理反应~" param2="4D确实是" param3=""/>
 <C0_duoffice id="44" originalRow="44" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
 <C0_duoffice id="45" originalRow="45" groupSign="" debugClose="" action="角色台词" data="wo" param="诶{播放音效,avg_Sding}？" param2="" param3=""/>
 <C0_duoffice id="46" originalRow="46" groupSign="" debugClose="1" action="角色台词" data="duheng_stranger" param="{#杜衡思考动作}{#杜衡平静表情}{角色转头,duheng,正,0.4}你开发的这套人体扫描设备还不错嘛……{1.5}{#杜衡待机表情}" param2="5D你开发" param3=""/>

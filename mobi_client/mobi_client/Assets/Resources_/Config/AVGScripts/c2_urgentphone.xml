@@ -4,16 +4,26 @@
 <c2_UrgentPhone id="2" originalRow="2" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
 <c2_UrgentPhone id="3" originalRow="3" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
 <c2_UrgentPhone id="4" originalRow="4" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<c2_UrgentPhone id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡思考表情}我接到一件临时报案。" param2="" param3="type=0"/>
-<c2_UrgentPhone id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="duheng" param="如果你们忙完了，就优先处理一下。{#杜衡思考动作恢复}{#杜衡待机表情}" param2="" param3="type=0"/>
-<c2_UrgentPhone id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="wo" param="收到！是什么事情？" param2="" param3="type=0"/>
-<c2_UrgentPhone id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作}槐树里4栋701发现了疑似异质物引起的诡异现象。 具体资料我传到涂凌那边了。" param2="" param3="type=0"/>
-<c2_UrgentPhone id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="那我们现在就出发去现场！" param2="" param3="type=0"/>
-<c2_UrgentPhone id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作恢复}好，保持联系。" param2="" param3="type=0"/>
-<c2_UrgentPhone id="11" originalRow="11" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
-<c2_UrgentPhone id="12" originalRow="12" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
-<c2_UrgentPhone id="13" originalRow="13" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
-<c2_UrgentPhone id="14" originalRow="14" groupSign="" debugClose="" action="切换场景" data="home" param="" param2="" param3=""/>
-<c2_UrgentPhone id="15" originalRow="15" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
-<c2_UrgentPhone id="16" originalRow="16" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
+<c2_UrgentPhone id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="duheng" param="涂凌的报告，我已经收到了。
+这么快就解决问题了，倒是超出我预期呢，新人。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（已经花光所有力气了。。。）&lt;/z&gt;" param2="" param3="type=0"/>
+<c2_UrgentPhone id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作}{#杜衡待机表情}异质物间会互相吞噬获取『心智导体』，从而成长为更危险的异质物。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="看来优胜劣汰的丛林法则，到哪儿都躲不开呢。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="duheng" param="以丛林法则进行合理推断——
+应该还存在着更上层的捕食者，危险等级也更高。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}{#杜衡开心表情}这次辛苦了。我会持续跟进『巢化反应』的发展。
+有新的『巢体』出现，我会再找你的哟~" param2="" param3="type=0"/>
+<c2_UrgentPhone id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="wo" param="好的，收到。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（还是不要再有了吧。。。）&lt;/z&gt;" param2="" param3="type=0"/>
+<c2_UrgentPhone id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="duheng" param="对了，我刚刚收到了报案：槐树里4栋701发现了疑似异质物引起的诡异现象。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作} 具体资料我传到涂凌那边了。
+正好你们这边有空，先去看一眼吧。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="wo" param="那我们现在就出发！" param2="" param3="type=0"/>
+<c2_UrgentPhone id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡看文件动作恢复}好，保持联系。" param2="" param3="type=0"/>
+<c2_UrgentPhone id="17" originalRow="17" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
+<c2_UrgentPhone id="18" originalRow="18" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_options" param="1" param2="" param3=""/>
+<c2_UrgentPhone id="19" originalRow="19" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
+<c2_UrgentPhone id="20" originalRow="20" groupSign="" debugClose="" action="切换场景" data="home" param="" param2="" param3=""/>
+<c2_UrgentPhone id="21" originalRow="21" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<c2_UrgentPhone id="22" originalRow="22" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>
 </root>

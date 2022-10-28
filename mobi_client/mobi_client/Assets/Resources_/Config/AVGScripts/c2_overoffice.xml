@@ -8,7 +8,7 @@
 <C2_overoffice id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞忧伤表情}呼……身体快要散架了。" param2="" param3="type=0"/>
 <C2_overoffice id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="凯瑟琳捏住聂飞的后颈，一把将它甩到了地上。" param2="" param3="type=1"/>
 <C2_overoffice id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_严肃_动作_开始_01" param3=""/>
-<C2_overoffice id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2愤怒表情}在外面浪半天爪子上都是泥和火药，想坐沙发先！去！洗！澡！{播放音效,ui_daodi2}" param2="" param3="type=0"/>
+<C2_overoffice id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2愤怒表情}在外面浪半天爪子上都是泥和火药，想坐沙发先！去！洗！澡！{播放音效,avg_daodi2}" param2="" param3="type=0"/>
 <C2_overoffice id="10" originalRow="10" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_overoffice id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="休息室的大门忽然打开，杜衡走了进来。" param2="" param3="type=1"/>
 <C2_overoffice id="12" originalRow="12" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=左" param2="" param3=""/>
@@ -173,7 +173,7 @@
 <C2_overoffice id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="" param="{#土山奥开心表情}她露出一个如释重负的微笑，将胸针丢进了旁边的垃圾桶。" param2="" param3="type=1"/>
 <C2_overoffice id="172" originalRow="172" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
 <C2_overoffice id="173" originalRow="173" groupSign="" debugClose="" action="角色台词" data="" param="{music=off}" param2="" param3=""/>
-<C2_overoffice id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="tushanao" param="嗯，我愿意。" param2="" param3="type=0"/>
+<C2_overoffice id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="tushanao" param="{#土山奥行礼动作}嗯，我愿意。" param2="" param3="type=0"/>
 <C2_overoffice id="175" originalRow="175" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
 <C2_overoffice id="176" originalRow="176" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="0" param2="" param3=""/>
 <C2_overoffice id="177" originalRow="177" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="0" param2="" param3=""/>
@@ -185,7 +185,7 @@
 <C2_overoffice id="183" originalRow="183" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
 <C2_overoffice id="184" originalRow="184" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_review" param="1" param2="" param3=""/>
 <C2_overoffice id="185" originalRow="185" groupSign="" debugClose="" action="场景-执行脚本" data="AvgShow:btn_auto" param="1" param2="" param3=""/>
-<C2_overoffice id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;土山奥加入队伍！&lt;/z&gt;{画面特效效果,Dark}" param2="" param3="type=1"/>
+<C2_overoffice id="186" originalRow="186" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;{#土山奥行礼动作恢复}土山奥加入队伍！&lt;/z&gt;{画面特效效果,Dark}" param2="" param3="type=1"/>
 <C2_overoffice id="187" originalRow="187" groupSign="1" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_overoffice id="188" originalRow="188" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
 <C2_overoffice id="189" originalRow="189" groupSign="" debugClose="" action="跳转-标签" data="" param="C2_overdarkroom.开始" param2="" param3=""/>

@@ -296,7 +296,7 @@
 还挺像个人形的。{#周易思考动作恢复}{music=off}" param2="" param3=""/>
 <C3_VSLiJiahu id="261" originalRow="261" groupSign="选择7" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_VSLiJiahu id="262" originalRow="262" groupSign="0.4&gt;&gt;" debugClose="" action="高级镜头" data="1v1李加虎" param="玩家正面大特写视角" param2="" param3=""/>
-<C3_VSLiJiahu id="263" originalRow="263" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易成功2表情}{打开特效板,,,avg_effect_1v1_imagination}{0.5}&lt;z=blue&gt;（画在地上的人形白线？{播放音效,voice_inspiration}
+<C3_VSLiJiahu id="263" originalRow="263" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易无奈2动作}{#周易成功2表情}{打开特效板,,,avg_effect_1v1_Imagination}{0.5}&lt;z=blue&gt;（画在地上的人形白线？{播放音效,avg_sinspiration}
 看来这就是真相了……）&lt;/z&gt;{music=bgm_Conclusion}" param2="" param3=""/>
 <C3_VSLiJiahu id="264" originalRow="264" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易胜利2动作}如果没猜错的话，
 昨晚这里发生的事件就是——{vscourt=dialog}" param2="" param3=""/>
@@ -377,8 +377,9 @@
 <C3_VSLiJiahu id="331" originalRow="331" groupSign="" debugClose="" action="角色动作" data="lijiahu" param="李加虎_击破_动作_开始_01" param2="" param3=""/>
 <C3_VSLiJiahu id="332" originalRow="332" groupSign="" debugClose="" action="角色表情" data="lijiahu" param="李加虎_击破_上脸_开始_01;李加虎_击破_下嘴_开始_01" param2="" param3=""/>
 <C3_VSLiJiahu id="333" originalRow="333" groupSign="16.3" debugClose="" action="新角色镜头" data="lijiahu" param="个人镜头_李加虎_击溃" param2="" param3=""/>
-<C3_VSLiJiahu id="334" originalRow="334" groupSign="" debugClose="" action="打开插画" data="UI_shezhanhuanjieshengli" param="" param2="" param3=""/>
-<C3_VSLiJiahu id="335" originalRow="335" groupSign="2&gt;&gt;" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<C3_VSLiJiahu id="334" originalRow="334" groupSign="" debugClose="" action="角色镜头关闭" data="" param="" param2="" param3=""/>
+<C3_VSLiJiahu id="335" originalRow="335" groupSign="" debugClose="" action="打开插画" data="UI_shezhanhuanjieshengli" param="" param2="" param3=""/>
+<C3_VSLiJiahu id="336" originalRow="336" groupSign="2&gt;&gt;" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
 <C3_VSLiJiahu id="336" originalRow="336" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
 <C3_VSLiJiahu id="337" originalRow="337" groupSign="" debugClose="" action="特殊-转场效果" data="2" param="" param2="" param3=""/>
 <C3_VSLiJiahu id="338" originalRow="338" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>

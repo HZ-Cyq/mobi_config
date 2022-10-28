@@ -11,7 +11,7 @@ $$累到崩溃==&gt;继续" param2="" param3=""/>
 <maze2_part0 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡思考动作恢复}是关于『共生型异质物』的。" param2=""/>
 <maze2_part0 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="wo" param="那是什么？" param2=""/>
 <maze2_part0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作}是一种需要宿主才能发挥出力量的异质物，之前遇到过的水晶和超感头环，" param2=""/>
-<maze2_part0 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="都属于『共生型异质物』的范畴。" param2=""/>
+<maze2_part0 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="duheng" param="都属于『共生型异质物』的范畴。{&amp;共生型异质物}" param2=""/>
 <maze2_part0 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="duheng" param="在他们与选择的宿主共生后，也能大幅提高宿主的能力。" param2=""/>
 <maze2_part0 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="duheng" param="{#杜衡紧张动作恢复}昭离公馆以及全世界范围内的STS都会用这种『共生型异质物』来为收容的异质物们增强力量。" param2=""/>
 <maze2_part0 id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="duheng" param="从目前掌握的信息来看，我们即将面对的敌人们已经掌握了这种技术，" param2=""/>

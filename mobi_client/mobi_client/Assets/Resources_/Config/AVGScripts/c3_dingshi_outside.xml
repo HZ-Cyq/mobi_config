@@ -61,7 +61,7 @@
 <C3_dingshi_outside id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="wo" param="可为什么这么专盯着凯瑟琳去呢？
 像有人指使似的……" param2="" param3="type=0"/>
 <C3_dingshi_outside id="57" originalRow="57" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
-<C3_dingshi_outside id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="kaislein02" param="{#闪白ding}{#凯瑟琳2思考表情}你是说，我有什么他们想要的东西？" param2="" param3=""/>
+<C3_dingshi_outside id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#闪白ding}{#凯瑟琳2思考表情}你是说，我有什么他们想要的东西？" param2="" param3="type=0"/>
 <C3_dingshi_outside id="59" originalRow="59" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
 <C3_dingshi_outside id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}你不是只带了化验报告回来吗？" param2="" param3="type=0"/>
 <C3_dingshi_outside id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作恢复}{#凯瑟琳2得意表情}你们肯定想不到，这些液体里含有多少血……" param2="" param3=""/>
@@ -82,8 +82,8 @@
 <C3_dingshi_outside id="76" originalRow="76" groupSign="" debugClose="" action="打开插画" data="C3_continue" param="" param2="" param3=""/>
 <C3_dingshi_outside id="77" originalRow="77" groupSign="3&gt;&gt;" debugClose="" action="关闭插画" data="C3_continue" param="" param2="" param3=""/>
 <C3_dingshi_outside id="78" originalRow="78" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
-<C3_dingshi_outside id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=yellow&gt;第三章，未完待续……&lt;/z&gt;" param2="" param3=""/>
-<C3_dingshi_outside id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=yellow&gt;欢迎大家继续体验其他内容。&lt;/z&gt;" param2="" param3=""/>
+<C3_dingshi_outside id="79" originalRow="79" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=yellow&gt;第三章，未完待续……&lt;/z&gt;" param2="" param3="type=1"/>
+<C3_dingshi_outside id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=yellow&gt;欢迎大家继续体验其他内容。&lt;/z&gt;" param2="" param3="type=1"/>
 <C3_dingshi_outside id="81" originalRow="81" groupSign="" debugClose="" action="子任务完成" data="3援助凯瑟琳" param="" param2="" param3=""/>
 <C3_dingshi_outside id="82" originalRow="82" groupSign="" debugClose="1" action="切换场景" data="" param="home" param2="" param3=""/>
 <C3_dingshi_outside id="83" originalRow="83" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>

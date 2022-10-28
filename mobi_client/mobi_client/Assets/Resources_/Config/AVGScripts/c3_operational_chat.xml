@@ -37,7 +37,7 @@
 <C3_operational_chat id="33" originalRow="33" groupSign="" debugClose="" action="RPGActor" data="涂凌模型" param="3" param2="" param3=""/>
 <C3_operational_chat id="34" originalRow="34" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C3_operational_chat id="35" originalRow="35" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<C3_operational_chat id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,聂总_愤怒_动作_开始_01}{角色表情,,聂总_尴尬_上脸_开始_01;聂总_尴尬_下嘴_开始_01}{sleep=0.5}{播放音效,voice_slash}{特殊-闪白效果,1}{shake=1}啊呀{shake=1}呀呀！{sleep=0.5}\n{特殊-闪白效果,1}要死了！要死了！" param2="" param3="type=0"/>
+<C3_operational_chat id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,聂总_愤怒_动作_开始_01}{角色表情,,聂总_尴尬_上脸_开始_01;聂总_尴尬_下嘴_开始_01}{sleep=0.5}{播放音效,avg_sslash}{特殊-闪白效果,1}{shake=1}啊呀{shake=1}呀呀！{sleep=0.5}\n{特殊-闪白效果,1}要死了！要死了！" param2="" param3="type=0"/>
 <C3_operational_chat id="37" originalRow="37" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,聂总_馋_动作_开始_01}{角色表情,,聂总_惊讶_上脸_开始_01;聂总_忧伤_下嘴_开始_01}天天练得这么晚，{sleep=0.5}\n老子再强健的身体也顶不住啊喵~~{角色挂件,niefei,涂凌_动漫_出窍,,TRUE}" param2="" param3="type=0"/>
 <C3_operational_chat id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞尴尬表情}再这样下去老子也要变成&lt;z=yellow&gt;『打工怨念人』&lt;/z&gt;了喵~！" param2="" param3="type=0"/>
 <C3_operational_chat id="39" originalRow="39" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
@@ -55,8 +55,8 @@
 <C3_operational_chat id="49" originalRow="49" groupSign="" debugClose="1" action="角色表情" data="kaiselin02" param="凯瑟琳_思考_上脸_开始_01;凯瑟琳_平静_下嘴_开始_01;" param2="" param3=""/>
 <C3_operational_chat id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}{#凯瑟琳2待机表情}不知道吗？{0.4}月底前，军方和公安系统的代表要来考核咱们的作战演习。" param2="" param3=""/>
 <C3_operational_chat id="51" originalRow="51" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>
-<C3_operational_chat id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#凯瑟琳2得意动作恢复}{角色动作,,聂总_愤怒_动作_开始_01}{角色表情,,聂总_愤怒_上脸_开始_01;聂总_愤怒_下嘴_开始_01}{sleep=0.5}{播放音效,voice_slash}{特殊-闪白效果,1}{shake=1}什么！{sleep=1}
-就为了满足这帮{播放音效,voice_slash}{特殊-闪白效果,1}{shake=1}老东西，让咱们天天练得这么晚！" param2="" param3="type=0"/>
+<C3_operational_chat id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#凯瑟琳2得意动作恢复}{角色动作,,聂总_愤怒_动作_开始_01}{角色表情,,聂总_愤怒_上脸_开始_01;聂总_愤怒_下嘴_开始_01}{sleep=0.5}{播放音效,avg_sslash}{特殊-闪白效果,1}{shake=1}什么！{sleep=1}
+就为了满足这帮{播放音效,avg_sslash}{特殊-闪白效果,1}{shake=1}老东西，让咱们天天练得这么晚！" param2="" param3="type=0"/>
 <C3_operational_chat id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白震slash}{#聂飞军体拳}{播放音效,avg_sslash}老子要求加班费喵！！" param2="" param3="type=0"/>
 <C3_operational_chat id="54" originalRow="54" groupSign="" debugClose="" action="移除角色" data="niefei" param="" param2="" param3=""/>
 <C3_operational_chat id="55" originalRow="55" groupSign="" debugClose="1" action="角色台词" data="wo" param="考核？" param2="" param3="type=0"/>
@@ -66,7 +66,7 @@
 <C3_operational_chat id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{单次眨眼}{#凯瑟琳2平静表情}{#凯瑟琳2紧张动作}那帮子高层领导，{0.3}哪个也不会心甘情愿的把『特别事态指挥权』交出来的──" param2="" param3="type=0"/>
 <C3_operational_chat id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{单次眨眼}{#凯瑟琳2得意表情}{凯瑟琳紧张动作恢复}" param2="" param3=""/>
 <C3_operational_chat id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="但如果演习结果能让那些老东西闭嘴的话……" param2="" param3=""/>
-<C3_operational_chat id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{特殊-闪白效果,1}{播放音效,voice_ding}{#凯瑟琳2得意动作}说不定能再批下一大笔经费……" param2="" param3="type=0"/>
+<C3_operational_chat id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{特殊-闪白效果,1}{播放音效,avg_Sding}{#凯瑟琳2得意动作}说不定能再批下一大笔经费……" param2="" param3="type=0"/>
 <C3_operational_chat id="62" originalRow="62" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_operational_chat id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="wo" param="嗯……" param2="" param3="type=0"/>
 <C3_operational_chat id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（杜衡搞钱确实有一手……）&lt;/z&gt;" param2="" param3="type=0"/>
@@ -74,7 +74,7 @@
 <C3_operational_chat id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="" param="站点各方面的配置都提升了一大截──" param2="" param3="type=1"/>
 <C3_operational_chat id="67" originalRow="67" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <C3_operational_chat id="68" originalRow="68" groupSign="2" debugClose="" action="角色台词" data="niefei" param="{角色动作,,聂总_思考_动作_开始_01}{角色表情,,聂总_紧张_上脸_开始_01;聂总_紧张_下嘴_开始_01}这还差不多，{0.4}\n好歹也算是咱们赚的血汗钱喵。" param2="" param3="type=0"/>
-<C3_operational_chat id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白ding}{#聂飞开心动作}{#聂飞得意表情}经费必须{特殊-闪白效果,1}{播放音效,voice_inspiration}到位！\n老子要马上换个高档猫架喵。" param2="" param3="type=0"/>
+<C3_operational_chat id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#闪白ding}{#聂飞开心动作}{#聂飞得意表情}经费必须{特殊-闪白效果,1}{播放音效,avg_sinspiration}到位！\n老子要马上换个高档猫架喵。" param2="" param3="type=0"/>
 <C3_operational_chat id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="wo" param="{#聂飞开心动作恢复}难怪……" param2="" param3="type=0"/>
 <C3_operational_chat id="71" originalRow="71" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C3_operational_chat id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="" param="我边说边打了个大大的哈欠，眼角都挤出了泪花。" param2="" param3="type=1"/>
@@ -152,11 +152,11 @@
 <C3_operational_chat id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="脑科学之所以研究进展缓慢，{0.3}主要是因为{s=0.03}临床实验这一块太缺少有献身精神的实验体──" param2="" param3="type=0"/>
 <C3_operational_chat id="144" originalRow="144" groupSign="" debugClose="" action="角色动作" data="kaiselin02" param="凯瑟琳_威慑_动作_开始_01" param2="" param3=""/>
 <C3_operational_chat id="145" originalRow="145" groupSign="1.5" debugClose="" action="角色表情" data="kaiselin02" param="凯瑟琳_威慑_上脸_开始_01;凯瑟琳_待机_下嘴_开始_01;" param2="" param3=""/>
-<C3_operational_chat id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="既然你不会死，{1.6}{特殊-闪白效果,1}{播放音效,voice_ding}{角色表情,kaiselin02,凯瑟琳_得意_上脸_开始_01;凯瑟琳_威慑_下嘴_开始_01}不如让我试试大脑植入式电极……" param2="" param3=""/>
-<C3_operational_chat id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{播放音效,voice_slash}{镜头振动,1}打住！{0.4}\n想都别想！{0.3}{#凯瑟琳2威慑动作恢复}{#凯瑟琳2得意表情}" param2="" param3=""/>
+<C3_operational_chat id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="既然你不会死，{1.6}{特殊-闪白效果,1}{播放音效,avg_Sding}{角色表情,kaiselin02,凯瑟琳_得意_上脸_开始_01;凯瑟琳_威慑_下嘴_开始_01}不如让我试试大脑植入式电极……" param2="" param3=""/>
+<C3_operational_chat id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{播放音效,avg_sslash}{镜头振动,1}打住！{0.4}\n想都别想！{0.3}{#凯瑟琳2威慑动作恢复}{#凯瑟琳2得意表情}" param2="" param3=""/>
 <C3_operational_chat id="148" originalRow="148" groupSign="" debugClose="" action="角色台词" data="tuling" param="就是因为周易这种人，{0.4}才无法实现{角色动作,,涂凌_鄙视_动作_开始_01}{角色表情,,涂凌_忧伤_上脸_开始_01;涂凌_待机_下嘴_开始_01;}赛{0.3}博{0.3}朋{0.3}克{0.3}。" param2="" param3=""/>
 <C3_operational_chat id="149" originalRow="149" groupSign="" debugClose="" action="移除角色" data="tuling" param="" param2="" param3=""/>
-<C3_operational_chat id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{镜头振动,1}{播放音效,voice_slash}小气个鬼啊！！\n{特殊-闪白效果,1}{镜头振动,1}{播放音效,voice_slash}养生朋克行不行！！" param2="" param3=""/>
+<C3_operational_chat id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{镜头振动,1}{播放音效,avg_sslash}小气个鬼啊！！\n{特殊-闪白效果,1}{镜头振动,1}{播放音效,avg_sslash}养生朋克行不行！！" param2="" param3=""/>
 <C3_operational_chat id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2得意动作}好吧，那小飞飞，能用你刚保养完的爪子帮我拆一下快递吗？" param2="" param3="type=0"/>
 <C3_operational_chat id="152" originalRow="152" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <C3_operational_chat id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞愤怒}喵——！休想！这套护爪可是我为了配枪械专门定制的！" param2="" param3="type=0"/>
@@ -178,17 +178,17 @@
 <C3_operational_chat id="169" originalRow="169" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <C3_operational_chat id="170" originalRow="170" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_operational_chat id="171" originalRow="171" groupSign="紧急来电" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C3_operational_chat id="172" originalRow="172" groupSign="" debugClose="" action="系统-打开界面" data="ui_phone_calling" param="1|1039" param2="" param3=""/>
+<C3_operational_chat id="172" originalRow="172" groupSign="" debugClose="" action="系统-打开界面" data="ui_phone\ui_phone_calling" param="1|1042" param2="" param3=""/>
 <C3_operational_chat id="173" originalRow="173" groupSign="" debugClose="" action="停止音效" data="phone_ring" param="" param2="" param3=""/>
 <C3_operational_chat id="174" originalRow="174" groupSign="" debugClose="" action="等待几秒" data="1.5" param="" param2="" param3=""/>
 <C3_operational_chat id="175" originalRow="175" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色表情,duheng,杜衡_紧张_上脸_开始_01;杜衡_待机_下嘴_循环_01;}特遣科全员，{0.3}做好整装出动准备！这不是演习！" param2="" param3="type=4"/>
-<C3_operational_chat id="176" originalRow="176" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{播放音效,voice_lightpunch}发生什么事了！？" param2="" param3="type=1"/>
+<C3_operational_chat id="176" originalRow="176" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{播放音效,avg_Slightpunch}发生什么事了！？" param2="" param3="type=0"/>
 <C3_operational_chat id="177" originalRow="177" groupSign="" debugClose="" action="角色台词" data="duheng" param="就在刚才，我收到了总部转交的异常事态报告……" param2="" param3="type=4"/>
-<C3_operational_chat id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="" param="{特殊-闪白效果,1}{播放音效,voice_ding}顶石？！" param2="" param3="type=0"/>
+<C3_operational_chat id="178" originalRow="178" groupSign="" debugClose="" action="角色台词" data="wo" param="{特殊-闪白效果,1}{播放音效,avg_Sding}顶石？！" param2="" param3="type=0"/>
 <C3_operational_chat id="179" originalRow="179" groupSign="1" debugClose="" action="角色台词" data="duheng" param="就是你们刚才说的那个顶石——
 它的总部顶石大厦……{0.3}有人目击到了异质物……" param2="" param3="type=4"/>
 <C3_operational_chat id="180" originalRow="180" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C3_operational_chat id="181" originalRow="181" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;请点击返回，从地图上选择前往顶石大厦。&lt;/z&gt;" param2="" param3="type=0"/>
+<C3_operational_chat id="181" originalRow="181" groupSign="" debugClose="" action="角色台词" data="" param="&lt;z=green&gt;请点击返回，从地图上选择前往顶石大厦。&lt;/z&gt;" param2="" param3="type=1"/>
 <C3_operational_chat id="182" originalRow="182" groupSign="" debugClose="" action="子任务完成" data="3和队友谈话" param="" param2="" param3=""/>
 <C3_operational_chat id="183" originalRow="183" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <C3_operational_chat id="184" originalRow="184" groupSign="结束" debugClose="" action="" data="" param="" param2="" param3=""/>

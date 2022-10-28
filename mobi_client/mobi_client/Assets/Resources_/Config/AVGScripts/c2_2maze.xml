@@ -94,7 +94,7 @@ $$先留下来==&gt;结束" param2="" param3=""/>
 <C2_2maze id="91" originalRow="91" groupSign="" debugClose="" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
 <C2_2maze id="92" originalRow="92" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C2_2maze id="93" originalRow="93" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
-<C2_2maze id="94" originalRow="94" groupSign="" debugClose="" action="设置角色" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}本体竟然跑了……" param2="" param3=""/>
+<C2_2maze id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作}{#聂飞思考表情}本体竟然跑了……" param2="" param3=""/>
 <C2_2maze id="95" originalRow="95" groupSign="" debugClose="" action="角色台词" data="" param="……这玩偶神出鬼没，几次差点来不及闪开它们的攻击。" param2="" param3="type=1"/>
 <C2_2maze id="96" originalRow="96" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="" param3=""/>
 <C2_2maze id="97" originalRow="97" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}不知道为什么，娃娃的动作让我有点在意。{#聂飞待机动作}{#聂飞待机表情}" param2="" param3="type=0"/>

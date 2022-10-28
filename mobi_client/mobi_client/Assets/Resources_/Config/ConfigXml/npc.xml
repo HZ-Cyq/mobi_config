@@ -11,7 +11,7 @@
 <NPC id="10" key_alias="maze_102_1" avg_alias="char_maze101_2"/>
 <NPC id="11" key_alias="maze_102_2" avg_alias="char_maze101_1"/>
 <NPC id="12" key_alias="maze_102_3" avg_alias="char_maze101_2"/>
-<NPC id="13" key_alias="maze_201_1" avg_alias="char_maze101_2"/>
+<NPC id="13" key_alias="maze_201_1" avg_alias="char_maze101_2" greetings="maze201_npc71|开始"/>
 <NPC id="14" key_alias="maze_202_1" avg_alias="obj_maze_button"/>
 <NPC id="15" key_alias="maze_202_2" avg_alias="obj_maze_button" greetings="maze202_npc72|开始"/>
 <NPC id="16" key_alias="maze_202_3" avg_alias="obj_maze_button" greetings="maze202_npc73|开始"/>
@@ -87,7 +87,7 @@
 <NPC id="86" key_alias="maze_302_1" avg_alias="nfc_90039" showName="顾客4"/>
 <NPC id="87" key_alias="maze_302_2" avg_alias="nfc_90038" showName="顾客5"/>
 <NPC id="88" key_alias="maze_302_3" avg_alias="nfc_90019" showName="顾客6"/>
-<NPC id="89" key_alias="maze_302_5" avg_alias="nfc_90018" showName="顾客7"/>
+<NPC id="89" key_alias="maze_302_5" avg_alias="nfc_90018" showName="顾客7" greetings="maze302_npc75|问候"/>
 <NPC id="1001" key_alias="obj_luzhang_anim" avg_alias="obj_luzhang_anim" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
 <NPC id="1002" key_alias="obj_dianshiniang" avg_alias="obj_dianshiniang" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
 <NPC id="1003" key_alias="obj_upan" avg_alias="obj_upan" npc_type="2"/>

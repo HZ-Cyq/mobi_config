@@ -31,7 +31,8 @@
 <xt_daythink_niefeidefannao id="29" originalRow="29" groupSign="" debugClose="" action="可选对话框" data="" param="$$说真话的是小德和小布==&gt;正确答案
 $$说真话的是小真和小星==&gt;错误答案
 $$说真话的是小真和小德==&gt;错误答案
-$$说真话的是小星和小布==&gt;错误答案" param2="" param3=""/>
+$$说真话的是小星和小布==&gt;错误答案
+$$重听==&gt;询问荒野生存" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="30" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="31" originalRow="31" groupSign="错误答案" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="32" originalRow="32" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>

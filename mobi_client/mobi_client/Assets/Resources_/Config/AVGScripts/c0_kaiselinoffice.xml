@@ -409,7 +409,8 @@ $$再调查一下==&gt;手术台相机归位" param2="" param3=""/>
 <C0_kaiselinoffice id="370" originalRow="370" groupSign="玻璃墙" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C0_kaiselinoffice id="371" originalRow="371" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
 <C0_kaiselinoffice id="372" originalRow="372" groupSign="1" debugClose="" action="RPGActor" data="cam_doll1" param="1" param2="" param3=""/>
-<C0_kaiselinoffice id="373" originalRow="373" groupSign="" debugClose="" action="角色台词" data="" param="一具人偶躺在手术台上，身上插满了仪器。" param2="" param3="type=1"/>
+<C0_kaiselinoffice id="373" originalRow="373" groupSign="" debugClose="" action="角色台词" data="" param="一具缠着绷带的人偶躺在手术台上。
+周围有三只机械手装置。" param2="" param3="type=1"/>
 <C0_kaiselinoffice id="374" originalRow="374" groupSign="" debugClose="" action="角色台词" data="" param="仪器连接到旁边的屏幕，
 上面显示着脑部和胸腔透视影像……" param2="" param3="type=1"/>
 <C0_kaiselinoffice id="375" originalRow="375" groupSign="" debugClose="" action="角色台词" data="" param="但手术台上躺着的，怎么看都只是一个木制人偶……" param2="" param3="type=1"/>
@@ -427,7 +428,7 @@ $$再调查一下==&gt;手术台相机归位" param2="" param3=""/>
 <C0_kaiselinoffice id="387" originalRow="387" groupSign="1" debugClose="" action="RPGActor" data="cam_doll1" param="1" param2="" param3=""/>
 <C0_kaiselinoffice id="388" originalRow="388" groupSign="" debugClose="" action="角色台词" data="" param="手术台上坐着浑身颤抖的木制人偶，
 就像是商店里卖的木质人偶的放大版。" param2="" param3="type=1"/>
-<C0_kaiselinoffice id="389" originalRow="389" groupSign="" debugClose="" action="角色台词" data="" param="它的身上插满了仪器。" param2="" param3="type=1"/>
+<C0_kaiselinoffice id="389" originalRow="389" groupSign="" debugClose="" action="角色台词" data="" param="它破损的身体似乎暗示着过往的经历。" param2="" param3="type=1"/>
 <C0_kaiselinoffice id="390" originalRow="390" groupSign="" debugClose="1" action="角色台词" data="wo" param="话说这个心率怎么看啊……" param2="" param3=""/>
 <C0_kaiselinoffice id="391" originalRow="391" groupSign="" debugClose="" action="角色台词" data="wo" param="如果这个人偶有“活着”的特性……
 那它能感觉到疼吗？" param2="" param3=""/>

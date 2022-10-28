@@ -27,6 +27,8 @@ if not exist data mkdir data
 if exist xml\AVGScripts\*.xml del /q xml\AVGScripts\*.xml
 if exist xml\clientXml rd /s /Q xml\clientXml
 md xml\clientXml
+if exist error.log del /q error.log
+
 set Path=%JAVA_HOME%\bin
 java -jar parserconfig.jar check=true
 

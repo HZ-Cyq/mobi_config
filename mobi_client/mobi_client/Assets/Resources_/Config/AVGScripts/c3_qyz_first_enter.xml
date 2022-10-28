@@ -9,7 +9,7 @@
 <C3_QYZ_first_enter id="7" originalRow="7" groupSign="" debugClose="" action="RPGActor" data="cam进场展示左" param="1" param2="" param3=""/>
 <C3_QYZ_first_enter id="8" originalRow="8" groupSign="1.5&gt;&gt;" debugClose="" action="RPGActor" data="cam进场展示右" param="1" param2="" param3=""/>
 <C3_QYZ_first_enter id="9" originalRow="9" groupSign="1.5&gt;&gt;" debugClose="" action="RPGActor" data="cam进场展示左" param="2" param2="" param3=""/>
-<C3_QYZ_first_enter id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="话说……{0.4}\n这就是{播放音效,voice_ding}{特殊-闪白效果,1}“闹鬼”的现场吗？" param2="" param3="type=0"/>
+<C3_QYZ_first_enter id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="话说……{0.4}\n这就是{播放音效,avg_Sding}{特殊-闪白效果,1}“闹鬼”的现场吗？" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="11" originalRow="11" groupSign="1" debugClose="" action="RPGActor" data="cam进场展示左" param="1" param2="" param3=""/>
 <C3_QYZ_first_enter id="12" originalRow="12" groupSign="" debugClose="" action="RPGActor" data="cam进场展示右" param="2" param2="" param3=""/>
 <C3_QYZ_first_enter id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="" param="整个房间充斥着绿阴阴的荧光，落地窗上布满了粘稠的黄绿色液体。{0.3}看起来的确有些诡异……" param2="" param3="type=1"/>
@@ -88,7 +88,7 @@
 <C3_QYZ_first_enter id="83" originalRow="83" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=左" param2="凯瑟琳_思考_动作_开始_01" param3=""/>
 <C3_QYZ_first_enter id="84" originalRow="84" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2平静表情}异质波动指向的就是这个？" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="85" originalRow="85" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_思考_动作_循环_01" param3=""/>
-<C3_QYZ_first_enter id="86" originalRow="86" groupSign="" debugClose="" action="角色台词" data="tuling" param="{播放音效,voice_typing}稍等，{0.4}{#涂凌思考动作恢复}我马上确认一下。" param2="" param3="type=0"/>
+<C3_QYZ_first_enter id="86" originalRow="86" groupSign="" debugClose="" action="角色台词" data="tuling" param="稍等，{0.4}{#涂凌思考动作恢复}我马上确认一下。" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="87" originalRow="87" groupSign="" debugClose="" action="角色台词" data="wo" param="没想到这么顺利……" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}{#常规点头动作}嗯……这次感觉事情很快就可以解决……简直就是开门红啊！" param2="" param3="type=0"/>
 <C3_QYZ_first_enter id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="wo" param="{#聂飞待机表情}话说……刚刚说的怨念很深……是什么意思？" param2="" param3="type=0"/>

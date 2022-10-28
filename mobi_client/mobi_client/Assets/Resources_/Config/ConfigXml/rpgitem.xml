@@ -142,7 +142,11 @@ AB两名死者肉体发生半金属化，头部转化为类电视的电器模样
 <RPGItem id="1317" key_alias="序章_前往杜博士办公室任务标记" name="序章_前往杜博士办公室任务标记" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1" isUpdata="0"/>
 <RPGItem id="1318" key_alias="序章_存档点任务标记" name="序章_存档点任务标记" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1"/>
 <RPGItem id="1319" key_alias="序章_和杜博士对话任务标记" name="序章_和杜博士对话任务标记" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1"/>
-<RPGItem id="1320" key_alias="序章_开始标记" name="序章_开始标记" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1" hideTips="1"/>
+<RPGItem id="1320" key_alias="序章_开始标记" name="序章_开始标记" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1"/>
+<RPGItem id="1321" key_alias="序章_调查凯瑟琳标记输液袋" name="输液袋" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1"/>
+<RPGItem id="1322" key_alias="序章_调查凯瑟琳标记面部" name="面部" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1"/>
+<RPGItem id="1323" key_alias="序章_调查凯瑟琳标记胸花" name="胸花" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1"/>
+<RPGItem id="1324" key_alias="序章_调查凯瑟琳标记工牌" name="工牌" group_quest="1" desc="内部线索" icon="ui_rpgcluepackage/logic_common" thumb="avg/avgImages/Think" type="0" clues="内部线索，线索引导用" hide="1"/>
 <RPGItem id="11101" key_alias="第一章_3-404研究档案" name="3-404研究档案" group_quest="11" desc="收容后对3-404的研究档案。" icon="ui_rpgcluepackage/prologue/C0_101001" thumb="avg/avgImages/C0_SCP404" type="0" clues="详细记录了收容后对3-404的研究结果。
 【基本信息】3-404身体为一名年轻女性，身着演出裙装。头部为一台老式电视机，通常屏幕显示一位年轻女性的面容。
 【播放MV的规律】每晚19:10，头部电视屏幕开始循环播放MV，持续15分钟自动结束。距离3-404一定范围内的显示设备均受影响，播放同样的MV。

@@ -4,9 +4,9 @@
 <maze201_part0 id="2" originalRow="2" groupSign="" debugClose="" action="可选对话框" data="" param="$$怎么了？==&gt;怎么了" param2="" param3=""/>
 <maze201_part0 id="3" originalRow="3" groupSign="怎么了" debugClose="" action="" data="" param="" param2="" param3=""/>
 <maze201_part0 id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="wo" param="怎么了？" param2="" param3=""/>
-<maze201_part0 id="5" originalRow="5" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="我们又在安江市内发现了一个新的巢。" param2=""/>
-<maze201_part0 id="6" originalRow="6" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="从数据波形来看，和泉舜公寓很像，但有有些不同……" param2=""/>
-<maze201_part0 id="7" originalRow="7" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="地点在金夕养老院。" param2=""/>
+<maze201_part0 id="5" originalRow="5" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="我们又在安江市内发现了一个新的巢。" param2=""/>
+<maze201_part0 id="6" originalRow="6" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="从数据波形来看，和泉舜公寓很像，但有有些不同……" param2=""/>
+<maze201_part0 id="7" originalRow="7" groupSign="1.5&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="地点在金夕养老院。" param2=""/>
 <maze201_part0 id="8" originalRow="8" groupSign="" debugClose="" action="可选对话框" data="" param="$$明白了，我们一起去看看~==&gt;明白" param2=""/>
 <maze201_part0 id="9" originalRow="9" groupSign="明白" debugClose="" action="" data="" param="" param2=""/>
 <maze201_part0 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="wo" param="明白了，我们一起去看看~" param2=""/>
