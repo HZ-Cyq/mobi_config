@@ -1,18 +1,13 @@
 package com.mobi.config;
 
 
-import cn.hutool.core.io.FileUtil;
-import com.mobi.config.wrappedArrayList.ArrArrInt;
-import com.mobi.config.wrappedArrayList.ArrArrString;
-import com.mobi.config.wrappedArrayList.ArrInt;
-import com.mobi.config.wrappedArrayList.ArrString;
+import com.mobi.config.checkStrategy.CheckStrategyService;
+import com.mobi.config.checkStrategy.ColumnInfo;
 import com.mobi.log.GameLog;
 
 import java.io.File;
 import java.lang.reflect.Field;
 import java.util.*;
-import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 
@@ -75,27 +70,16 @@ public class Config<T extends ConfigModel> {
                     continue;
                 }
                 // 算出该限制语句对应的一列数据
-                List<Object> values = dict.values().stream().map(ele -> {
-                    Field declaredField;
-                    try {
-                        declaredField = configModelClazz.getField(entry.getKey());
-                        return declaredField.get(ele);
-                    } catch (NoSuchFieldException | IllegalAccessException e) {
-                        GameLog.LogError(e.getMessage(), e);
-                        GameLog.LogError("表格数据检查错误，configModelClazz:{}, 列名:{}", configModelClazz.getName(), entry.getKey());
-                        throw new RuntimeException(e);
-                    }
-                }).collect(Collectors.toList());
-
                 GameLog.LogInfo("列名:{}, LimitState:{}", entry.getKey(), entry.getValue());
                 try {
-                    boolean check = CheckStrategy.check(values, entry.getValue(), excelName + "页签的" + entry.getKey() + "列：" + entry.getValue());
+                    ColumnInfo columnInfo = new ColumnInfo(configModelClazz.getName(), entry.getKey(), 0, 0);
+                    boolean check = CheckStrategyService.check(entry.getValue(), columnInfo);
                     if(!check) {
                         re = false;
                     }
                 } catch (RuntimeException exception) {
                     GameLog.LogError(exception.getMessage(), exception);
-                    GameLog.LogError("表格数据未通过检查,页签名:{}, 列名:{}. limitState:{}, values:{}",excelName, entry.getKey(), entry.getValue(), values);
+                    GameLog.LogError("表格数据未通过检查,页签名:{}, 列名:{}. limitState{}",excelName, entry.getKey(), entry.getValue());
                     re = false;
                 }
             }
@@ -104,275 +88,6 @@ public class Config<T extends ConfigModel> {
             GameLog.LogError(e.getMessage(), e);
         }
         return re;
-    }
-
-    private static class CheckStrategy {
-        public static List<Class<?>> ONE_DIM = new ArrayList<Class<?>>(){{add(Integer.class); add(String.class);}};
-        public static List<Class<?>> TWO_DIM = new ArrayList<Class<?>>(){{add(ArrInt.class);add(ArrString.class);}};
-        public static List<Class<?>> THREE_DIM = new ArrayList<Class<?>>(){{add(ArrArrInt.class); add(ArrArrString.class);}};
-        private static boolean check(List<Object> list, String limitState, String desc) {
-            if(list == null || list.isEmpty() || limitState == null || limitState.isEmpty()) {
-                return true;
-            }
-            Class<?> clazz = list.get(0).getClass();
-            if(ONE_DIM.contains(clazz)) {
-                return checkOneDim(list, limitState, desc);
-            }
-            if(TWO_DIM.contains(clazz)) {
-                return checkTwoDim(list, limitState, desc);
-            }
-            if(THREE_DIM.contains(clazz)) {
-                return checkThreeDim(list, limitState, desc);
-            }
-            GameLog.LogError("表格检查错误，不支持该类型的检查，{},clazz:{}, limitState:{}",desc, clazz, limitState);
-            return false;
-        }
-
-        /**
-         *
-         * @param list List<Integer>
-         *             {heroId1,heroId2,heroId3}
-         * @param oneDimState 格式：ID:Hero 或者 ID:Hero|IN:[1;3;4]
-         * @return
-         */
-        private static boolean checkOneDim(List<Object> list, String oneDimState, String desc) {
-            String[] limitStateUnits = oneDimState.split("\\|");
-            boolean re = true;
-            for (String limitStateUnit : limitStateUnits) {
-                if(!check0(list, limitStateUnit, desc)) {
-                    re = false;
-                }
-            }
-            return re;
-        }
-
-        /**
-         *
-         * @param list List<List<Integer>> 【一维的形式】
-         *             {heroId1,heroId2,heroId3},
-         *             {heroId2,heroId3,heroId4},
-         *             {heroId5,heroId6,heroId7}
-         *              或 【二维的形式】
-         *             {heroId1,1},
-         *             {heroId2,2},
-         *             {heroId3,3},
-         * @param twoDimState 格式：ID:Hero|IN:[1,3,4] 或 1:{ID:Hero}#2:{BETWEEN:[1;3]}
-         * @return
-         */
-        private static boolean checkTwoDim(List<Object> list, String twoDimState, String desc) {
-            // 一维的形式
-            if(!Pattern.matches("\\d+.*", twoDimState)) {
-                AtomicBoolean re = new AtomicBoolean(true);
-                list.forEach(ele -> {
-                    if(!checkOneDim((List<Object>) ele, twoDimState, desc)) {
-                        re.set(false);
-                    }
-                });
-                return re.get();
-            }
-            //
-            String[] split = twoDimState.split("#");
-            boolean re = true;
-            for (String s : split) {
-                int index = Integer.parseInt(s.split(":")[0]) - 1;
-                String oneDimState = s.substring(s.indexOf("{") + 1, s.indexOf("}"));
-                List<Object> collect = list.stream().map(oneRow -> {
-                    List<Object> oneRowList = (List<Object>) oneRow;
-                    Object o = index < oneRowList.size() ? oneRowList.get(index) : null;
-                    return o;
-                }).collect(Collectors.toList());
-                boolean check = checkOneDim(collect, oneDimState, desc);
-                if(!check) {
-                    re = false;
-                }
-            }
-            return re;
-        }
-
-        /**
-         *
-         * @param lists List<List<List<Integer>>>
-         *              {{heroId1, 1},{heroId2, 2},{heroId3, 3}},
-         *              {{heroId4, 4},{heroId5, 5},{heroId6, 6}},
-         *              {{heroId7, 7},{heroId8, 8},{heroId9, 9}},
-         * @param threeDimState 格式：1:{ID:Hero}#2:{BETWEEN:{1,10}}
-         *                      每一行的第一个元素是 Hero 表的id
-         *                      每一行的第二个元素在 [1,10] 之间
-         * @return
-         */
-        private static boolean checkThreeDim(List<Object> lists, String threeDimState, String desc) {
-            AtomicBoolean re = new AtomicBoolean(true);
-            lists.forEach(list -> {
-                if(!checkTwoDim((List<Object>) list, threeDimState, desc)) {
-                    re.set(false);
-                }
-            });
-            return re.get();
-        }
-
-        /**
-         * @param list 某一列数据，元素是基本类型。
-         * @param limitStateUnit 这一列数据的限制Unit，如"ID:HERO"
-         * @return
-         */
-        private static boolean check0(List<Object> list, String limitStateUnit, String desc) {
-            if(list == null || list.isEmpty()) {
-                boolean re = limitStateUnit.startsWith("ID_OR_NULL");
-                if(!re) {
-                    GameLog.LogError("{}, 传入的list为空，但是limitState不是ID_OR_NULL， limitStateUnit:{}",desc, limitStateUnit);
-                }
-                return re;
-            }
-            Object o = list.get(0);
-            String[] split = limitStateUnit.split(":");
-            CheckStrategyEnum strategy = CheckStrategyEnum.findStrategy(o.getClass(), split[0]);
-            if(strategy == null) {
-                return false;
-            }
-            return strategy.checkStrategy.check(list, split[1], desc);
-        }
-
-        private enum CheckStrategyEnum {
-            //"ID:Hero","int类型，并且值是Hero这张表的id",
-            INT_ID(Integer.class,"ID", new IntIdCheckStrategy()),
-            //"ID_OR_NULL:Hero","int类型，是Hero这张表的id或者是空"
-            INT_ID_OR_NULL(Integer.class, "ID_OR_NULL", new IntIdOrNullCheckStrategy()),
-            //"BETWEEN:[1;10]","int类型，并且值在1(包括)到10之间（包括）"
-            INT_BETWEEN(Integer.class, "BETWEEN", new IntBetweenStrategy()),
-            //"IN:[1;2;3;4]", "int类型，并且值是1,2,3,4中的1个"
-            INT_IN(Integer.class, "IN", new IntInStrategy()),
-            // "IN:[男;女]", "String类型，并且值是 男、女 中的1个"
-            STRING_IN(String.class, "IN", new StringInStrategy()),
-            ;
-            public static CheckStrategyEnum findStrategy(Class<?> clazz, String limitStateKey) {
-                for (CheckStrategyEnum value : values()) {
-                    if(value.clazz.equals(clazz) && value.limitStateKey.equals(limitStateKey)) {
-                        return value;
-                    }
-                }
-                GameLog.LogError("表格检查错误，无法找到对应的CheckStrategyEnum,{},{}", clazz, limitStateKey);
-                return null;
-            }
-
-            CheckStrategyEnum(Class<?> clazz, String limitStateKey, ICheckStrategy checkStrategy) {
-                this.checkStrategy = checkStrategy;
-                this.clazz = clazz;
-                this.limitStateKey = limitStateKey;
-            }
-
-            private final ICheckStrategy checkStrategy;
-            private final Class<?> clazz;
-            private final String limitStateKey;
-        }
-
-        private interface ICheckStrategy {
-            boolean check(List<Object> list, String limitStateUnitVal, String desc);
-        }
-
-        private static class IntIdCheckStrategy implements ICheckStrategy {
-            @Override
-            //"ID:Hero","int类型，并且值是Hero这张表的id",
-            public boolean check(List<Object> list, String limitStateVal, String desc) {
-                char firstChar = limitStateVal.charAt(0);
-                if(firstChar >= 'a' && firstChar <= 'z') {
-                    char replace = (char) (firstChar - 32);
-                    limitStateVal = replace + limitStateVal.substring(1);
-                }
-                String fileName = limitStateVal + "ConfigModels";
-                HashMap<Integer, ? extends ConfigModel> dict;
-                try {
-                    Field declaredField = ConfigManager.class.getDeclaredField(fileName);
-                    Config<? extends ConfigModel> config = (Config<? extends ConfigModel>) declaredField.get(null);
-                    dict = config.dict;
-                } catch (NoSuchFieldException | IllegalAccessException e) {
-                    throw new RuntimeException(e);
-                }
-                boolean re = true;
-                for (Object o : list) {
-                    if(!dict.containsKey(o)) {
-                        GameLog.LogError("IntIdCheckStrategy check error,{} , 元素：{}， list:{}, {}表格的id集合{}, ",desc, o, list, limitStateVal, dict.keySet());
-                        re = false;
-                    }
-                }
-                return re;
-            }
-        }
-
-        private static class IntIdOrNullCheckStrategy implements ICheckStrategy {
-            @Override
-            //"ID:Hero","int类型，并且值是Hero这张表的id",
-            public boolean check(List<Object> list, String limitStateVal, String desc) {
-                char firstChar = limitStateVal.charAt(0);
-                if(firstChar >= 'a' && firstChar <= 'z') {
-                    char replace = (char) (firstChar - 32);
-                    limitStateVal = replace + limitStateVal.substring(1);
-                }
-                String fileName = limitStateVal + "ConfigModels";
-                HashMap<Integer, ? extends ConfigModel> dict;
-                try {
-                    Field declaredField = ConfigManager.class.getDeclaredField(fileName);
-                    Config<? extends ConfigModel> config = (Config<? extends ConfigModel>) declaredField.get(null);
-                    dict = config.dict;
-                } catch (NoSuchFieldException | IllegalAccessException e) {
-                    throw new RuntimeException(e);
-                }
-                boolean re = true;
-                for (Object o : list) {
-                    if((int)o != 0 && !dict.containsKey(o)) {
-                        GameLog.LogError("IntIdOrNullCheckStrategy check error,{} , 元素：{}， list:{}, {}表格的id集合{}, ",desc , o, list, limitStateVal, dict.keySet());
-                        re = false;
-                    }
-                }
-                return re;
-            }
-        }
-
-        private static class IntBetweenStrategy implements ICheckStrategy {
-            @Override
-            //"BETWEEN:[1;10]","int类型，并且值在1(包括)到10之间（包括）"
-            public boolean check(List<Object> list, String limitStateUnitVal, String desc) {
-                String replace = limitStateUnitVal.replace("[", "").replace("]", "");
-                String[] split = replace.split(";");
-                int start = Integer.parseInt(split[0]);
-                int end = Integer.parseInt(split[1]);
-                boolean re = list.stream().allMatch(ele -> {
-                    int eleVal = (int) ele;
-                    return eleVal >= start && eleVal <= end;
-                });
-                if(!re) {
-                    GameLog.LogError("IntBetweenStrategy check error,{} , BETWEEN:{}, list:{}",desc, limitStateUnitVal, list);
-                }
-                return re;
-            }
-        }
-
-        private static class IntInStrategy implements ICheckStrategy {
-            @Override
-            //"IN:[1;2;3;4]", "int类型，并且值是1,2,3,4中的1个"
-            public boolean check(List<Object> list, String limitStateUnitVal, String desc) {
-                String replace = limitStateUnitVal.replace("[", "").replace("]", "");
-                Set<Integer> collect = Arrays.stream(replace.split(";")).map(Integer::parseInt).collect(Collectors.toSet());
-                boolean re = list.stream().allMatch(ele -> collect.contains((int) ele));
-                if(!re) {
-                    GameLog.LogError("IntInStrategy check error,{} , IN:{}, list:{}",desc , limitStateUnitVal, list);
-                }
-                return re;
-            }
-        }
-
-        private static class StringInStrategy implements ICheckStrategy {
-            @Override
-            // "IN:[男;女]", "String类型，并且值是 男、女 中的1个"
-            public boolean check(List<Object> list, String limitStateUnitVal, String desc) {
-                String replace = limitStateUnitVal.replace("[", "").replace("]", "");
-                Set<String> collect = Arrays.stream(replace.split(";")).collect(Collectors.toSet());
-                boolean re = list.stream().allMatch(ele -> collect.contains((String) ele));
-                if(!re) {
-                    GameLog.LogError("StringInStrategy check error,{} , IN:{}, list:{}",desc, limitStateUnitVal, limitStateUnitVal);
-                }
-                return re;
-            }
-        }
     }
 
     public boolean ReInit(Class<? extends ConfigModel> className) {

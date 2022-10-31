@@ -119,12 +119,12 @@
 <NPC id="1029" key_alias="obj_trash_box" avg_alias="obj_trash_box" npc_type="2" obj_icon="1"/>
 <NPC id="1030" key_alias="obj_mizuijinchao" avg_alias="obj_mizuijinchao" npc_type="2" greetings="xt_mizui_wenhou|迷醉金钞问候1"/>
 <NPC id="1031" key_alias="obj_mizuijinchao_fight" avg_alias="obj_mizuijinchao" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
-<NPC id="1032" key_alias="obj_saicheniang" avg_alias="obj_saicheniang" showName="" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
-<NPC id="1033" key_alias="obj_saicheniang_talk" avg_alias="obj_saicheniang" showName="" npc_type="2" obj_icon="1" icon_name="ui_inspector_talk" NPC_pos_offset="" NPC_scale_offset=""/>
-<NPC id="1034" key_alias="xt_tengjiang_battle" avg_alias="obj_tengjiangwuliu" showName="" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
+<NPC id="1032" key_alias="obj_saicheniang" avg_alias="obj_saicheniang" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
+<NPC id="1033" key_alias="obj_saicheniang_talk" avg_alias="obj_saicheniang" npc_type="2" obj_icon="1" icon_name="ui_inspector_talk" NPC_pos_offset="" NPC_scale_offset=""/>
+<NPC id="1034" key_alias="xt_tengjiang_battle" avg_alias="obj_tengjiangwuliu" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
 <NPC id="1035" key_alias="obj_blankclick_haveicon" avg_alias="obj_blankclick" showName="" npc_type="2" obj_icon="1" icon_name="ui_inspector_interact" NPC_pos_offset="" NPC_scale_offset=""/>
-<NPC id="1036" key_alias="obj_blankclick_dianzhuang" avg_alias="obj_blankclick_dianzhuang" showName="" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
-<NPC id="1037" key_alias="obj_dianzhuangrobot" avg_alias="obj_dianzhuangrobot" showName="" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
+<NPC id="1036" key_alias="obj_blankclick_dianzhuang" avg_alias="obj_blankclick_dianzhuang" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
+<NPC id="1037" key_alias="obj_dianzhuangrobot" avg_alias="obj_dianzhuangrobot" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
 <NPC id="1038" key_alias="obj_xiangjiniang" avg_alias="obj_xiangjiniang" showName="" npc_type="2" obj_icon="0" icon_name="" NPC_pos_offset="" NPC_scale_offset=""/>
 <NPC id="1039" key_alias="obj_chunyuyinzi" avg_alias="obj_chunyuyinzi" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>
 <NPC id="1040" key_alias="obj_suiyu" avg_alias="obj_suiyu" npc_type="2" obj_icon="1" icon_name="ui_inspector_fight"/>

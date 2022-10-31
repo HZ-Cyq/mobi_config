@@ -62,7 +62,7 @@
 <Room id="5002002" key_alias="箱庭-康新嘉苑-走廊" group_areaId="5002" openLv="1" name="走廊" scene_name="XT_HuaishuliB_zoulang" back_room="5002001"/>
 <Room id="5002003" key_alias="箱庭-康新嘉苑-实验室" group_areaId="5002" openLv="99" name="隐秘的实验室" scene_name="XT_HuaishuliB_institute" back_room="5002002"/>
 <Room id="5002004" key_alias="箱庭-康新嘉苑-家属房间" group_areaId="5002" openLv="99" name="异常房间" scene_name="XT_HuaishuliB_fangjian2" back_room="5002002"/>
-<Room id="5002005" key_alias="箱庭-康新嘉苑-实验室二" group_areaId="5002" openLv="99" name="隐秘的实验室" scene_name="XT_HuaishuliB_institute2" scene_bgm="" bgm_volumeLevel="" back_room="5002002" back_name=""/>
+<Room id="5002005" key_alias="箱庭-康新嘉苑-实验室二" group_areaId="5002" openLv="99" name="隐秘的实验室" scene_name="XT_HuaishuliB_institute2" back_room="5002002"/>
 <Room id="5003001" key_alias="箱庭-康新雅苑-门口" group_areaId="5003" openLv="1" name="" scene_name="XT_Kangxin_menkou"/>
 <Room id="5003002" key_alias="箱庭-康新雅苑-住宅" group_areaId="5003" openLv="1" name="住宅" scene_name="XT_Kangxin_fangjian" back_room="5003004"/>
 <Room id="5003003" key_alias="箱庭-康新雅苑-街道" group_areaId="5003" openLv="1" name="街道" scene_name="XT_Kangxin_jiedao" back_room="5003001"/>

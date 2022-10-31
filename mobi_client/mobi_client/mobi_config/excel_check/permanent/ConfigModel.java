@@ -236,7 +236,10 @@ public abstract class ConfigModel {
 
     private static HashMap<String, String> createLimitStateMap(String simpleName, Field[] fields) {
         HashMap<String, String> limitStateMap = new HashMap<>();
-        File limitStateFile = new File(Config._path + "__limitState.xml");
+        File limitStateFile = new File(Config._path + "__LimitState.xml");
+        if(!limitStateFile.exists()) {
+            return limitStateMap;
+        }
         Element rootElement = null;
         try {
             rootElement = (new SAXBuilder()).build(limitStateFile).getRootElement();
