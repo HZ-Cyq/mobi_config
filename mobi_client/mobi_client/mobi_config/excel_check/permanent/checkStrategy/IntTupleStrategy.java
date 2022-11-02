@@ -24,8 +24,8 @@ class IntTupleStrategy implements ICheckStrategy {
         if (Pattern.matches("[0-9].*", type)) {
             limitValColInfo = new ColumnInfo(columnInfo.getClassName(), columnInfo.getFieldName(), Integer.parseInt(type), columnInfo.getIndexInMap());
         } else {
-            limitValColInfo = new ColumnInfo(columnInfo.getClassName(), type,0, 0);
-            if (columnInfo.getIndex() != 0) {
+            limitValColInfo = new ColumnInfo(columnInfo.getClassName(), type,0, columnInfo.getIndexInMap());
+            if (columnInfo.getIndex() != 0 || columnInfo.getIndexInMap() != 0) {
                 limitValColInfo.setIndexInMap(columnInfo.getIndexInMap());
                 limitValColInfo.setRepeatNum(list.size());
             }

@@ -84,11 +84,22 @@ public class CheckStrategyService {
         // 一维的形式
         if(!Pattern.matches("\\d+.*", twoDimState)) {
             AtomicBoolean re = new AtomicBoolean(true);
-            list.forEach(ele -> {
-                if(!checkOneDim((List<Object>) ele,twoDimState, columnInfo)) {
+            for (int i = 0; i < list.size(); i++) {
+                ColumnInfo column = new ColumnInfo(columnInfo);
+                column.setIndexInMap(i + 1);
+                List<Object> oneRowList = (List<Object>) list.get(i);
+                if(oneRowList == null || oneRowList.isEmpty()) {
+                    continue;
+                }
+                if(!checkOneDim(oneRowList, twoDimState, column)) {
                     re.set(false);
                 }
-            });
+            }
+           // list.forEach(ele -> {
+           //     if(!checkOneDim((List<Object>) ele,twoDimState, columnInfo)) {
+           //         re.set(false);
+           //     }
+           // });
             return re.get();
         }
         String[] split = twoDimState.split("#");
@@ -97,6 +108,10 @@ public class CheckStrategyService {
             ColumnInfo column = new ColumnInfo(columnInfo);
             column.setIndex(Integer.parseInt(s.split(":")[0]));
             List<Object> collect = CheckStrategyService.findList(column);
+            // 兼容aaint或者aastring为空的情况，如果是空的话，不检查了。
+            if(collect == null || collect.isEmpty()) {
+                continue;
+            }
             String oneDimState = s.substring(s.indexOf("{") + 1, s.indexOf("}"));
             boolean check = checkOneDim(collect, oneDimState, column);
             if(!check) {
@@ -140,7 +155,7 @@ public class CheckStrategyService {
         Class<?> cla = list == null || list.isEmpty() ? Integer.class : list.get(0).getClass();
         int i = limitStateUnit.indexOf(":");
         String strategyStr = limitStateUnit.substring(0, i);
-        CheckStrategyEnum strategy = CheckStrategyEnum.findStrategy(cla, strategyStr);
+        CheckStrategyEnum strategy = CheckStrategyEnum.findStrategy(cla, strategyStr, columnInfo);
         if(strategy == null) {
             return false;
         }
@@ -206,7 +221,13 @@ public class CheckStrategyService {
                 // 找到对应行的ConfigModel
                 // 找到该model对应的字段值
                 List<List<Object>> list = (List<List<Object>>) configModelClazz.getField(columnInfo.getFieldName()).get(configModel);
-                return list.stream().map(ele -> ele.get(columnInfo.getIndex() - 1)).collect(Collectors.toList());
+                return list.stream().map(ele -> {
+                    if(columnInfo.getIndex() - 1 >= ele.size()) {
+                        return new ArrayList<>();
+                    } else {
+                        return ele.get(columnInfo.getIndex() - 1);
+                    }
+                }).collect(Collectors.toList());
             } else {
                 Object o = configModelClazz.getField(columnInfo.getFieldName()).get(configModel);
                 List<Object> list = new ArrayList<>();

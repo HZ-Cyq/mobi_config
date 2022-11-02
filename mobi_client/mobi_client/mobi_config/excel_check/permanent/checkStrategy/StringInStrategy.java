@@ -16,7 +16,7 @@ public class StringInStrategy implements ICheckStrategy {
         Set<String> collect = Arrays.stream(replace.split(";")).collect(Collectors.toSet());
         boolean re = list.stream().allMatch(ele -> collect.contains((String) ele));
         if (!re) {
-            GameLog.LogError("StringInStrategy check error,{} , IN:{}, list:{}", columnInfo.toDesc(), limitStateUnitVal, limitStateUnitVal);
+            GameLog.LogError("StringInStrategy check error,{} , limitStateUnitVal:IN:{}, list:{}", columnInfo.toDesc(), limitStateUnitVal, collect);
         }
         return re;
     }

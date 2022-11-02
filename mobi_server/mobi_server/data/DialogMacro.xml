@@ -803,7 +803,7 @@
 <DialogMacro id="5049" key_name="周易抬手2表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易抬手2表情恢复}"/>
 <DialogMacro id="5050" key_name="周易无奈表情" macroContent="{角色表情,zhouyi,周易_无奈_上脸_开始_01;周易_无奈_下嘴_开始_01,0.25}" macroName="{#周易无奈表情}"/>
 <DialogMacro id="5051" key_name="周易无奈表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈表情恢复}"/>
-<DialogMacro id="5052" key_name="周易害羞表情" macroContent="{角色表情,zhouyi,周易_害羞_上脸_结束_01;周易_害羞_下嘴_结束_01,0.25}" macroName="{#周易害羞表情}"/>
+<DialogMacro id="5052" key_name="周易害羞表情" macroContent="{角色表情,zhouyi,周易_害羞_上脸_开始_01;周易_害羞_下嘴_结束_01,0.25}" macroName="{#周易害羞表情}"/>
 <DialogMacro id="5053" key_name="周易害羞表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易害羞表情恢复}"/>
 <DialogMacro id="5054" key_name="周易平静表情" macroContent="{角色表情,zhouyi,周易_平静_上脸_开始_01;周易_平静_下嘴_开始_01,0.25}" macroName="{#周易平静表情}"/>
 <DialogMacro id="5055" key_name="周易平静表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易平静表情恢复}"/>
@@ -829,18 +829,20 @@
 <DialogMacro id="5075" key_name="周易无奈3表情恢复" macroContent="{角色表情,zhouyi,周易_待机_上脸_循环_01;周易_待机_下嘴_开始_01,0.25}" macroName="{#周易无奈3表情恢复}"/>
 <DialogMacro id="5076" key_name="周易惊讶动作" macroContent="{角色动作,zhouyi,周易_惊讶_动作_开始_01}" macroName="{#周易惊讶动作}"/>
 <DialogMacro id="5077" key_name="周易惊讶动作恢复" macroContent="{角色动作,zhouyi,周易_惊讶_动作_结束_01}" macroName="{#周易惊讶动作恢复}"/>
-<DialogMacro id="5078" key_name="周易转头左极眨眼转眼" macroContent="{角色转头,zhouyi,左极}{单次眨眼}{角色表情,zhouyi,;;右看_开始_01}" macroName="{#周易转头左极眨眼转眼}"/>
-<DialogMacro id="5079" key_name="周易转头右极眨眼转眼" macroContent="{角色转头,zhouyi,右极}{单次眨眼}{角色表情,zhouyi,;;左看_开始_01}" macroName="{#周易转头右极眨眼转眼}"/>
-<DialogMacro id="5080" key_name="周易待机2动作" macroContent="{角色动作,zhouyi,周易_待机_动作_循环_02}" macroName="{#周易待机2动作}"/>
-<DialogMacro id="5081" key_name="周易动漫说话挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.03,y=0.04,z=0.1}" macroName="{#周易动漫说话挂件}"/>
-<DialogMacro id="5082" key_name="周易动漫星星挂件" macroContent="{表情符号,动漫_星星,zhouyi,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#周易动漫星星挂件}"/>
-<DialogMacro id="5083" key_name="周易动漫疑问挂件" macroContent="{表情符号,动漫_疑问,zhouyi,头,1;x=0.04;y=-0.01;z=0.1}" macroName="{#周易动漫疑问挂件}"/>
-<DialogMacro id="5084" key_name="周易动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,zhouyi,头,1;x=0.05;y=0.034;z=0.1}" macroName="{#周易动漫汗滴挂件}"/>
-<DialogMacro id="5085" key_name="周易动漫黑线挂件" macroContent="{表情符号,动漫_黑线,zhouyi,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#周易动漫黑线挂件}"/>
-<DialogMacro id="5086" key_name="周易动漫叹气挂件" macroContent="{表情符号,动漫_叹气,zhouyi,头,1;x=0.03;y=0.01;z=0.1}" macroName="{#周易动漫叹气挂件}"/>
-<DialogMacro id="5087" key_name="周易动漫出窍挂件" macroContent="{表情符号,动漫_出窍,zhouyi,头,1;x=-0.1;y=0.15;z=0.1}" macroName="{#周易动漫出窍挂件}"/>
-<DialogMacro id="5088" key_name="关闭周易动漫挂件" macroContent="{关闭符号,,zhouyi}" macroName="{#关闭周易动漫挂件}"/>
-<DialogMacro id="5089"/>
+<DialogMacro id="5078" key_name="周易惊讶2动作" macroContent="{角色动作,zhouyi,周易_惊讶_动作_开始_02}" macroName="{#周易惊讶2动作}"/>
+<DialogMacro id="5079" key_name="周易惊讶2动作恢复" macroContent="{角色动作,zhouyi,周易_惊讶_动作_结束_02}" macroName="{#周易惊讶2动作恢复}"/>
+<DialogMacro id="5080" key_name="周易转头左极眨眼转眼" macroContent="{角色转头,zhouyi,左极}{单次眨眼}{角色表情,zhouyi,;;右看_开始_01}" macroName="{#周易转头左极眨眼转眼}"/>
+<DialogMacro id="5081" key_name="周易转头右极眨眼转眼" macroContent="{角色转头,zhouyi,右极}{单次眨眼}{角色表情,zhouyi,;;左看_开始_01}" macroName="{#周易转头右极眨眼转眼}"/>
+<DialogMacro id="5082" key_name="周易待机2动作" macroContent="{角色动作,zhouyi,周易_待机_动作_循环_02}" macroName="{#周易待机2动作}"/>
+<DialogMacro id="5083" key_name="周易动漫说话挂件" macroContent="{表情符号,动漫_说话,zhouyi,头,1;x=0.03,y=0.04,z=0.1}" macroName="{#周易动漫说话挂件}"/>
+<DialogMacro id="5084" key_name="周易动漫星星挂件" macroContent="{表情符号,动漫_星星,zhouyi,头,1;x=0.01;y=-0.4;z=0.1}" macroName="{#周易动漫星星挂件}"/>
+<DialogMacro id="5085" key_name="周易动漫疑问挂件" macroContent="{表情符号,动漫_疑问,zhouyi,头,1;x=0.04;y=-0.01;z=0.1}" macroName="{#周易动漫疑问挂件}"/>
+<DialogMacro id="5086" key_name="周易动漫汗滴挂件" macroContent="{表情符号,动漫_汗滴,zhouyi,头,1;x=0.05;y=0.034;z=0.1}" macroName="{#周易动漫汗滴挂件}"/>
+<DialogMacro id="5087" key_name="周易动漫黑线挂件" macroContent="{表情符号,动漫_黑线,zhouyi,头,1;x=-0.06;y=0.04;z=0.1}" macroName="{#周易动漫黑线挂件}"/>
+<DialogMacro id="5088" key_name="周易动漫叹气挂件" macroContent="{表情符号,动漫_叹气,zhouyi,头,1;x=0.03;y=0.01;z=0.1}" macroName="{#周易动漫叹气挂件}"/>
+<DialogMacro id="5089" key_name="周易动漫出窍挂件" macroContent="{表情符号,动漫_出窍,zhouyi,头,1;x=-0.1;y=0.15;z=0.1}" macroName="{#周易动漫出窍挂件}"/>
+<DialogMacro id="5090" key_name="关闭周易动漫挂件" macroContent="{关闭符号,,zhouyi}" macroName="{#关闭周易动漫挂件}"/>
+<DialogMacro id="5091"/>
 <DialogMacro id="6001" key_name="黄权待机动作" macroContent="{角色动作,huangquan,黄权_待机_动作_循环_01}" macroName="{#黄权待机动作}"/>
 <DialogMacro id="6002" key_name="黄权开心动作" macroContent="{角色动作,huangquan,黄权_开心_动作_开始_01}" macroName="{#黄权开心动作}"/>
 <DialogMacro id="6003" key_name="黄权平静动作" macroContent="{角色动作,huangquan,黄权_平静_动作_开始_01}" macroName="{#黄权平静动作}"/>

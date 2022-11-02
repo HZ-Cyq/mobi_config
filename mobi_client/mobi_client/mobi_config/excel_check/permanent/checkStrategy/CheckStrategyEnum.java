@@ -5,8 +5,10 @@ import com.mobi.log.GameLog;
 public enum CheckStrategyEnum {
     //"ID:Hero","int类型，并且值是Hero这张表的id",
     INT_ID(Integer.class,"ID", new IntIdCheckStrategy()),
+
     // TUPLE:[[type],[1:ID:Hero,2:ID:Monster,3:ID:MonsterGroup]]
     INT_TUPLE(Integer.class, "TUPLE", new IntTupleStrategy()),
+
     //"BETWEEN:[1;10]","int类型，并且值在1(包括)到10之间（包括）"
     INT_BETWEEN(Integer.class, "BETWEEN", new IntBetweenStrategy()),
     //"IN:[1;2;3;4]", "int类型，并且值是1,2,3,4中的1个"
@@ -14,15 +16,18 @@ public enum CheckStrategyEnum {
     // "IN:[男;女]", "String类型，并且值是 男、女 中的1个"
     STRING_IN(String.class, "IN", new StringInStrategy()),
 
+    //"BETWEEN:[1;10]","string类型，并且值在1(包括)到10之间（包括）"
+    STRING_BETWEEN(String.class, "BETWEEN", new StringBetweenStrategy()),
+
     STRING_KEY_ALIAS(String.class, "KEY_ALIAS", new StringKeyAliasStrategy()),
     ;
-    public static CheckStrategyEnum findStrategy(Class<?> clazz, String limitStateKey) {
+    public static CheckStrategyEnum findStrategy(Class<?> clazz, String limitStateKey, ColumnInfo columnInfo) {
         for (CheckStrategyEnum value : values()) {
             if(value.clazz.equals(clazz) && value.limitStateKey.equals(limitStateKey)) {
                 return value;
             }
         }
-        GameLog.LogError("表格检查错误，无法找到对应的CheckStrategyEnum,{},{}", clazz, limitStateKey);
+        GameLog.LogError("表格检查错误，无法找到对应的CheckStrategyEnum,{},{},{}",columnInfo.toDesc(), clazz, limitStateKey);
         return null;
     }
 

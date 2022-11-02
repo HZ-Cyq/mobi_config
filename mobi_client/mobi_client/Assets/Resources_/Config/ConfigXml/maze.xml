@@ -15,5 +15,5 @@
 <Maze id="202" name="左侧走廊" scene="jin_oldhome" openType="2" openParam="5" jsonName="Maze/MazeJson/cailiao2_2.json" reward="20;210025|40;210026|60;210027|80;210028|100;210029" resource="Maze/MazePrefab/DDXQ" scenePreset="Maze/ScenePreset/DDXQ_MazeScenePreset"/>
 <Maze id="203" name="二楼" scene="jin_oldhome" openType="4" openParam="1021002" jsonName="Maze/MazeJson/cailiao2_3.json" resource="Maze/MazePrefab/DDXQ" scenePreset="Maze/ScenePreset/DDXQ_MazeScenePreset"/>
 <Maze id="301" name="A区" scene="long_wineshop" openType="2" openParam="6" jsonName="Maze/MazeJson/cailiao3_1.json" questId="1031" reward="20;220011|40;220012|60;220013|80;220014|100;220015" resource="Maze/MazePrefab/HHZL" scenePreset="Maze/ScenePreset/HHZL_MazeScenePreset"/>
-<Maze id="302" name="B区" scene="long_wineshop" openType="1" openParam="301020" jsonName="Maze/MazeJson/cailiao3_2.json" questId="1033|1034" reward="20;220025|40;220026|60;220027|80;220028|100;220029" resource="Maze/MazePrefab/HHZL" scenePreset="Maze/ScenePreset/HHZL_MazeScenePreset"/>
+<Maze id="302" name="B区" scene="long_wineshop" openType="1" openParam="301025" jsonName="Maze/MazeJson/cailiao3_2.json" questId="1033|1034" reward="20;220025|40;220026|60;220027|80;220028|100;220029" resource="Maze/MazePrefab/HHZL" scenePreset="Maze/ScenePreset/HHZL_MazeScenePreset"/>
 </root>

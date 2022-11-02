@@ -188,6 +188,9 @@ public abstract class ConfigModel {
                                 ArrArrString lli = new ArrArrString();
                                 String[] as = val.split("[|]");
                                 for (String _as : as) {
+                                    if(_as == null || _as.isEmpty()) {
+                                        continue;
+                                    }
                                     ArrString li = new ArrString();
                                     String[] ls = _as.split(";");
                                     for (String s : ls) {
