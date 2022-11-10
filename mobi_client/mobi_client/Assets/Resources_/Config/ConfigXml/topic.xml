@@ -24,8 +24,8 @@
 <Topic id="23" roleId="13" passive="0" name="第二天收到" repeatCounts="0" topicScriptName="chat_day2" type="3" param="2" delayType="1" delayParam="10" priority="1" endTime="60" quest="0"/>
 <Topic id="24" roleId="11" passive="0" name="第四天收到" repeatCounts="0" topicScriptName="chat_day4" type="3" param="4" delayType="1" delayParam="10" priority="1" endTime="60" quest="0"/>
 <Topic id="25" roleId="12" passive="0" name="隔两天收到" repeatCounts="0" topicScriptName="chat_daypass" type="4" param="2" delayType="1" delayParam="10" priority="1" endTime="60" quest="0"/>
-<Topic id="26" roleId="13" passive="0" name="今夕养老院" repeatCounts="0" topicScriptName="maze201_part0" type="10" param="6" delayType="1" delayParam="30" priority="2" endTime="999999" quest="1020"/>
+<Topic id="26" roleId="13" passive="0" name="今夕养老院" repeatCounts="0" topicScriptName="maze201_part0" type="2" param="1010" delayType="1" delayParam="30" priority="2" endTime="999999" quest="1020"/>
 <Topic id="27" roleId="101" passive="0" name="藤江物流支线" repeatCounts="0" topicScriptName="xt_wuliu_message" type="10" param="8" delayType="1" delayParam="30" priority="3" endTime="999999" quest="3004"/>
-<Topic id="28" roleId="101" passive="0" name="致命拥抱" topicScriptName="xt_hug_start" type="10" param="12" delayType="1" delayParam="30" priority="4" endTime="999999" quest="3009"/>
-<Topic id="29" roleId="13" passive="0" name="迷醉金钞" topicScriptName="xt_chat_mizui" type="10" param="17" delayType="1" delayParam="30" priority="1" endTime="999999" quest="3023"/>
+<Topic id="28" roleId="101" passive="0" name="致命拥抱" topicScriptName="xt_hug_start" type="10" param="11" delayType="1" delayParam="30" priority="4" endTime="999999" quest="3009"/>
+<Topic id="29" roleId="13" passive="0" name="迷醉金钞" topicScriptName="xt_chat_mizui" type="10" param="16" delayType="1" delayParam="30" priority="5" endTime="999999" quest="3023"/>
 </root>

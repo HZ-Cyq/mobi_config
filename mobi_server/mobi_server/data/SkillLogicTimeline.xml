@@ -459,7 +459,7 @@
 <SkillLogicTimeline id="458" group_nodes="1280201" frame="0" step="2|2" targetSelector="0" condition="10001" c1="0" c2="0" cx="4|4" actionType="300" a1="12802014" a2="100" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="459" group_nodes="1280201" frame="0" step="2|2" targetSelector="0" condition="10001" c1="0" c2="0" cx="5|5" actionType="300" a1="12802015" a2="100" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="460" group_nodes="1280301" frame="0" step="1|2" targetSelector="0" condition="0" actionType="101" a1="2" a2="1500" a3="0" levelUp="30"/>
-<SkillLogicTimeline id="461" group_nodes="1280301" frame="0" step="1|2" targetSelector="0" condition="0" actionType="300" a1="12803011" a2="100" a3="0" levelUp="0"/>
+<SkillLogicTimeline id="461" group_nodes="1280301" frame="0" step="1|2" targetSelector="100" condition="0" actionType="300" a1="12803011" a2="100" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="462" group_nodes="1280301" frame="0" step="2|2" targetSelector="0" condition="0" actionType="300" a1="12803012" a2="100" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="463" group_nodes="1280401" frame="0" step="1|4" targetSelector="0" condition="0" actionType="300" a1="12804011" a2="100" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="464" group_nodes="1280401" frame="0" step="1|4" targetSelector="0" condition="0" actionType="300" a1="12804012" a2="100" a3="0" levelUp="0"/>
@@ -521,9 +521,9 @@
 <SkillLogicTimeline id="520" group_nodes="31690101" frame="0" step="1|1" targetSelector="0" condition="0" actionType="300" a1="316901011" a2="100" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="521" group_nodes="32010101" frame="0" step="1|1" targetSelector="0" targetSelectorParam="0" condition="0" floatId="0" actionType="100" a1="2" a2="3000" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="522" group_nodes="32020101" frame="0" step="1|1" targetSelector="0" condition="0" actionType="101" a1="2" a2="1800" a3="0" levelUp="0"/>
-<SkillLogicTimeline id="523" group_nodes="32030101" frame="0" step="1|1" targetSelector="0" condition="0" actionType="101" a1="2" a2="3000" a3="0" levelUp="0"/>
-<SkillLogicTimeline id="524" group_nodes="32040101" frame="0" step="1|1" targetSelector="0" targetSelectorParam="0" condition="0" actionType="101" a1="2" a2="3000" a3="0" levelUp="0"/>
-<SkillLogicTimeline id="525" group_nodes="32040201" frame="0" step="1|1" targetSelector="0" targetSelectorParam="0" condition="0" actionType="101" a1="2" a2="1500" a3="0" levelUp="0"/>
+<SkillLogicTimeline id="523" group_nodes="32030101" frame="0" step="1|1" targetSelector="0" condition="0" actionType="101" a1="2" a2="2000" a3="0" levelUp="0"/>
+<SkillLogicTimeline id="524" group_nodes="32040101" frame="0" step="1|1" targetSelector="0" targetSelectorParam="0" condition="0" actionType="101" a1="2" a2="2000" a3="0" levelUp="0"/>
+<SkillLogicTimeline id="525" group_nodes="32040201" frame="0" step="1|1" targetSelector="0" targetSelectorParam="0" condition="0" actionType="101" a1="2" a2="1000" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="526" group_nodes="32040201" frame="0" step="1|1" targetSelector="100" targetSelectorParam="0" condition="0" actionType="300" a1="320402011" a2="100" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="527" group_nodes="29910101" frame="0" step="1|1" targetSelector="0" targetSelectorParam="0" condition="0" actionType="100" a1="2" a2="1000" a3="0" levelUp="0"/>
 <SkillLogicTimeline id="528" group_nodes="29910201" frame="0" step="1|1" targetSelector="0" condition="0" actionType="100" a1="2" a2="1500" a3="0" levelUp="0"/>

@@ -362,8 +362,8 @@ $$第一章_老人孙女合影==&gt;问题四错误3" param2="" param3="type=1"/
 <C1_Discussion id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="niefei" param="一定是涂凌搜集名单的时候漏掉了！{#聂飞紧张恢复}{角色转身,zhouyi,-10,0.3}{#周易待机表情}" param2="91一定是涂凌" param3=""/>
 <C1_Discussion id="279" originalRow="279" groupSign="" debugClose="" action="角色移动" data="kaiselin02" param="charpoint1" param2="" param3=""/>
 <C1_Discussion id="280" originalRow="280" groupSign="" debugClose="" action="镜头移动" data="vcam234" param="0.8" param2="" param3=""/>
-<C1_Discussion id="281" originalRow="281" groupSign="" debugClose="" action="角色台词" data="tuling" param="{0.5}{#涂凌鄙视动作}不可能不可能！{角色转头,zhouyi,右大,0.2}{单次眨眼}{角色表情,zhouyi,;;周易_右看_眼睛_开始_01,0.2}
-由我追踪的名单绝对不可能遗漏！{1.1}{#涂凌鄙视动作恢复}{#涂凌打字表情}" param2="99T不可能" param3=""/>
+<C1_Discussion id="281" originalRow="281" groupSign="" debugClose="" action="角色台词" data="tuling" param="{0.5}{#涂凌拒绝动作}不可能不可能！{角色转头,zhouyi,右大,0.2}{单次眨眼}{角色表情,zhouyi,;;周易_右看_眼睛_开始_01,0.2}
+由我追踪的名单绝对不可能遗漏！{1.1}{#涂凌拒绝动作恢复}{#涂凌打字表情}" param2="99T不可能" param3=""/>
 <C1_Discussion id="282" originalRow="282" groupSign="" debugClose="" action="镜头移动" data="vcam1" param="0" param2="" param3=""/>
 <C1_Discussion id="283" originalRow="283" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}那你是说……{0.5}
 钱越没在那班空难的飞机上？{角色转头,zhouyi,无,0.1}" param2="131K那你是说" param3=""/>

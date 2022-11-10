@@ -113,7 +113,7 @@ $$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
 <C1_du_office id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="wo" param="{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}这种时候应该重启一下吧！
 开关在哪里呢~？" param2="" param3=""/>
 <C1_du_office id="95" originalRow="95" groupSign="" debugClose="1" action="角色台词" data="wo" param="难道{sleep=0.7}{特殊-闪白效果,1}{播放音效,voice_ding}和哆啦█梦一样在下面……" param2="" param3=""/>
-<C1_du_office id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}呜啊~~~！！{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="28T呜啊" param3=""/>
+<C1_du_office id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.6}{特殊-闪白效果,1}" param2="" param3=""/>
 <C1_du_office id="97" originalRow="97" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌破防" param2="" param3=""/>
 <C1_du_office id="98" originalRow="98" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_du_office id="99" originalRow="99" groupSign="档涂凌鼻孔" debugClose="" action="角色台词" data="" param="" param2="" param3="type=1"/>
@@ -133,7 +133,7 @@ $$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
 <C1_du_office id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫震动背景慢关闭}{#涂凌动漫震动背景中}呜嗯…………" param2="29T呜嗯" param3="type=0"/>
 <C1_du_office id="109" originalRow="109" groupSign="" debugClose="1" action="角色台词" data="" param="{#涂凌动漫震动背景慢关闭}她的小脸涨的通红，身体抖得更厉害了。{#涂凌动漫震动背景中}" param2="" param3="type=1"/>
 <C1_du_office id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="" param="她的眼角已经泛起泪花，还在死撑。" param2="" param3="type=1"/>
-<C1_du_office id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.5}{特殊-闪白效果,1}" param2="28T呜啊" param3="type=1"/>
+<C1_du_office id="111" originalRow="111" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌动漫紧张关闭}{#涂凌动漫震动背景中关闭}{新角色镜头,tuling,char_camTL推镜头尝试}{#涂凌动漫震动背景快}{特殊-闪白效果,1}{特殊-闪白效果,1}{#涂凌动漫颤抖关闭}{特殊-闪白效果,1}{特殊-闪白效果,1}{0.5}{特殊-闪白效果,1}" param2="" param3="type=1"/>
 <C1_du_office id="112" originalRow="112" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌破防" param2="" param3=""/>
 <C1_du_office id="113" originalRow="113" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C1_du_office id="114" originalRow="114" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
@@ -284,7 +284,7 @@ $$用手指挡住她的鼻孔==&gt;档涂凌鼻孔" param2="" param3=""/>
 <C1_du_office id="231" originalRow="231" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="涂凌_惊讶_动作_开始_01" param3=""/>
 <C1_du_office id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌惊讶表情}全、{0.4}{#闪白ding}全军覆没……？" param2="37T全军覆没" param3=""/>
 <C1_du_office id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="stranger" param="啊，有一个算一个──{0.6}{#涂凌惊讶动作恢复}{#涂凌忧伤表情}
-全都变成了电视头。" param2="6有一个算" param3="type=4"/>
+全都变成了电视机头。" param2="6有一个算" param3="type=4"/>
 <C1_du_office id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="stranger" param="靠，好像有东西过来了！
 不说了，快点派增援──" param2="7靠" param3="type=4"/>
 <C1_du_office id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="" param="{#涂凌待机2动作}没等我们回复，那边便挂断了电话。" param2="" param3="type=1"/>

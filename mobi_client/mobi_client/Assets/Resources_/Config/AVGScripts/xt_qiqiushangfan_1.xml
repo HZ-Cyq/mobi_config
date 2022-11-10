@@ -112,11 +112,11 @@
 <xt_qiqiushangfan_1 id="109" originalRow="109" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_qiqiushangfan_1 id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="wo" param="哈……哈，这种夸奖就不必了。" param2="" param3="type=0"/>
 <xt_qiqiushangfan_1 id="111" originalRow="111" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<xt_qiqiushangfan_1 id="112" originalRow="112" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}错了。他的变态体现在别的地方~" param2="" param3="type=0"/>
+<xt_qiqiushangfan_1 id="112" originalRow="112" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="{#涂凌拒绝动作}错了。他的变态体现在别的地方~" param2="" param3="type=0"/>
 <xt_qiqiushangfan_1 id="113" originalRow="113" groupSign="" debugClose="" action="角色台词" data="wo" param="别、别胡说了！" param2="" param3="type=0"/>
-<xt_qiqiushangfan_1 id="114" originalRow="114" groupSign="" debugClose="" action="打开插画" data="blackbgimg" param="" param2="" param3=""/>
+<xt_qiqiushangfan_1 id="114" originalRow="114" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
 <xt_qiqiushangfan_1 id="115" originalRow="115" groupSign="" debugClose="" action="角色台词" data="" param="送走了这位花枝招展的女士后，我们展开了讨论。" param2="" param3="type=1"/>
-<xt_qiqiushangfan_1 id="116" originalRow="116" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<xt_qiqiushangfan_1 id="116" originalRow="116" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
 <xt_qiqiushangfan_1 id="117" originalRow="117" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
 <xt_qiqiushangfan_1 id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}看来问题的关键就在于那位“吃球人”了。" param2="" param3="type=0"/>
 <xt_qiqiushangfan_1 id="119" originalRow="119" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="" param3=""/>

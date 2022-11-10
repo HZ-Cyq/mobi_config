@@ -188,7 +188,7 @@ $$认同丈夫==&gt;认同丈夫" param2="" param3=""/>
 <xt_dianzhuang_7_shiyan id="183" originalRow="183" groupSign="" debugClose="" action="角色台词" data="" param="谁也没想到，他突然扑向了一旁的操作台，也不知道按下了什么，实验室突然响起了刺耳的警报声。" param2="" param3="type=1"/>
 <xt_dianzhuang_7_shiyan id="184" originalRow="184" groupSign="" debugClose="" action="角色台词" data="" param="突然从周围发出一阵巨大的爆炸声，灼热的火蛇瞬间将他吞没。" param2="" param3="type=1"/>
 <xt_dianzhuang_7_shiyan id="185" originalRow="185" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
-<xt_dianzhuang_7_shiyan id="186" originalRow="186" groupSign="" debugClose="" action="打开插画" data="blackbgimg" param="" param2="" param3=""/>
+<xt_dianzhuang_7_shiyan id="186" originalRow="186" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
 <xt_dianzhuang_7_shiyan id="187" originalRow="187" groupSign="" debugClose="" action="角色台词" data="" param="我们也被爆炸的气浪掀翻了出去，在昏迷前似乎看到他妻子哭着扑向了火焰之中。" param2="" param3="type=1"/>
 <xt_dianzhuang_7_shiyan id="188" originalRow="188" groupSign="" debugClose="" action="角色台词" data="" param="昏迷之中依稀听到熙攘的声音中夹杂着STS救护人员的声音……" param2="" param3="type=1"/>
 <xt_dianzhuang_7_shiyan id="189" originalRow="189" groupSign="" debugClose="" action="切换场景" data="XT_Zhaoli_du_office" param="" param2="" param3=""/>

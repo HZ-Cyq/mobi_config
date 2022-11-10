@@ -57,7 +57,7 @@ public class CheckStrategyService {
      * @return
      */
     private static boolean checkOneDim(List<Object> list, String oneDimState,ColumnInfo columnInfo) {
-        String[] limitStateUnits = oneDimState.split("\\|");
+        String[] limitStateUnits = oneDimState.split("\\$");
         boolean re = true;
         for (String limitStateUnit : limitStateUnits) {
             if(!check0(list, limitStateUnit, columnInfo)) {

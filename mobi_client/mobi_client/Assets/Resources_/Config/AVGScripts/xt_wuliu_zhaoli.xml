@@ -51,9 +51,9 @@
 <xt_wuliu_zhaoli id="49" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_wuliu_zhaoli id="50" originalRow="50" groupSign="大厅" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_wuliu_zhaoli id="51" originalRow="51" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story_new" param="no_postprocessing" param2="" param3=""/>
-<xt_wuliu_zhaoli id="52" originalRow="52" groupSign="" debugClose="" action="打开插画" data="blackbgimg" param="" param2="" param3=""/>
+<xt_wuliu_zhaoli id="52" originalRow="52" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
 <xt_wuliu_zhaoli id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="" param="第二天昭离公馆的大厅内。" param2="" param3="type=1"/>
-<xt_wuliu_zhaoli id="54" originalRow="54" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<xt_wuliu_zhaoli id="54" originalRow="54" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
 <xt_wuliu_zhaoli id="55" originalRow="55" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
 <xt_wuliu_zhaoli id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色转身,tuling,左极,}{music=bgm_tuling1}……" param2="" param3="type=0"/>
 <xt_wuliu_zhaoli id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;（涂凌怎么了……等人吗？）&lt;/z&gt;" param2="" param3="type=0"/>

@@ -73,7 +73,7 @@
 <C2_tushanroom id="71" originalRow="71" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
 <C2_tushanroom id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌开心动作}{#涂凌开心表情}不过机会难得，还是来试一下好啦！" param2="" param3="type=0"/>
 <C2_tushanroom id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="" param="话音刚落，她便扭过头来盯着我。" param2="" param3="type=0"/>
-<C2_tushanroom id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}你可别想对我的影子做什么奇怪的事情啊！" param2="" param3="type=0"/>
+<C2_tushanroom id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}你可别想对我的影子做什么奇怪的事情啊！" param2="" param3="type=0"/>
 <C2_tushanroom id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="wo" param="我像是那种人吗？" param2="" param3="type=0"/>
 <C2_tushanroom id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌拒绝动作}{#涂凌开心表情}相似度50%以上吧。" param2="" param3="type=0"/>
 <C2_tushanroom id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="wo" param="……" param2="" param3="type=0"/>

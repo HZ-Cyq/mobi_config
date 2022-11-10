@@ -101,7 +101,7 @@
 <C3_QYZ_camera id="96" originalRow="96" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_QYZ_camera id="97" originalRow="97" groupSign="已调查的文件" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_QYZ_camera id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="" param="这个文件已经调查过了，看看其他的吧。" param2="" param3="type=1"/>
-<C3_QYZ_camera id="99" originalRow="99" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C3_QYZ_camera id="99" originalRow="99" groupSign="" debugClose="" action="跳转-标签" data="" param="已调查的文件" param2="" param3=""/>
 <C3_QYZ_camera id="100" originalRow="100" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_QYZ_camera id="101" originalRow="101" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_QYZ_camera id="102" originalRow="102" groupSign="电脑调查完毕" debugClose="" action="" data="" param="" param2="" param3=""/>

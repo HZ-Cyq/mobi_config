@@ -719,7 +719,7 @@ $$冲出重围！==&gt;狂奔到404房间" param2="" param3=""/>
 <C1_cloister id="648" originalRow="648" groupSign="" debugClose="" action="RPGActor" data="cam" param="2" param2="" param3=""/>
 <C1_cloister id="649" originalRow="649" groupSign="" debugClose="" action="角色台词" data="wo" param="聂、聂总好厉害！" param2="" param3=""/>
 <C1_cloister id="650" originalRow="650" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="聂总_思考_动作_开始_01" param3=""/>
-<C1_cloister id="651" originalRow="651" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}哼哼！本大爷以前可空战军服役，散弹投射技术年年拿王牌就是我！" param2="01_02NF哼哼！本" param3=""/>
+<C1_cloister id="651" originalRow="651" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}哼哼！本大爷以前可是在空战军服役，散弹投射技术年年拿王牌就是我！" param2="01_02NF哼哼！本" param3=""/>
 <C1_cloister id="652" originalRow="652" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
 <C1_cloister id="653" originalRow="653" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}上辈子的事还提来干嘛~{#聂飞军体拳动作}{#聂飞军体拳表情}" param2="01_02KSL上辈子的" param3=""/>
 <C1_cloister id="654" originalRow="654" groupSign="" debugClose="" action="角色台词" data="niefei" param="{shake=1}你——！哼哼，{#聂飞得意表情}大爷不跟你个叛国佬计较。" param2="01_02NF你——！" param3=""/>

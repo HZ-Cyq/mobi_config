@@ -113,7 +113,7 @@
 <ModelSkill id="2982" skills="298201|298202" model_qversion="char_jixiezhanshi" init_scale="0.8" onhit_audio1=" "/>
 <ModelSkill id="2983" skills="298301|298302" model_qversion="char_wulianroudun" init_scale="0.8"/>
 <ModelSkill id="2984" skills="298401|298402" model_qversion="char_jixiezhiliao" init_scale="0.8"/>
-<ModelSkill id="2985" skills="298501|298502" model_qversion="char_jixiecike" init_scale="0.8"/>
+<ModelSkill id="2985" skills="298501|298502" model_qversion="char_jixiecike" init_scale="1"/>
 <ModelSkill id="2986" skills="298101|298102" model_qversion="char_jixiesheshou" init_scale="1"/>
 <ModelSkill id="2987" skills="298201|298202" model_qversion="char_jixiezhanshi" init_scale="1" onhit_audio1=" "/>
 <ModelSkill id="2988" skills="298301|298302" model_qversion="char_wulianroudun" init_scale="1"/>

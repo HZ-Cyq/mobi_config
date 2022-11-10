@@ -9,7 +9,7 @@
 <xt_dianzhuang_5_duoffice id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="duheng" param="并且在你们回来前就已经派人将最新款充电桩安装回去了。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="duheng" param="甚至还扩充的充电站，给受到影响的居民发了一些物资补贴。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="9" originalRow="9" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
-<xt_dianzhuang_5_duoffice id="10" originalRow="10" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}丑陋的有钱人！(｀_ゝ´)。" param2="" param3="type=0"/>
+<xt_dianzhuang_5_duoffice id="10" originalRow="10" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}丑陋的有钱人！(｀_ゝ´)。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="11" originalRow="11" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_5_duoffice id="12" originalRow="12" groupSign="0.8&gt;&gt;" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2思考动作}我们在他实验室发现了异质物的分身，很有可能本体就藏在他的实验室里。" param2="" param3="type=0"/>
 <xt_dianzhuang_5_duoffice id="13" originalRow="13" groupSign="" debugClose="" action="设置角色" data="duheng" param="pos=中" param2="" param3=""/>

@@ -300,7 +300,7 @@ $$第二章_空气探测器线索==&gt;符号错误选择" param2="" param3="typ
 <C2_mirror id="288" originalRow="288" groupSign="符号错误选择" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C2_mirror id="289" originalRow="289" groupSign="" debugClose="" action="角色台词" data="tuling" param="这上面没有类似的符号啦！" param2="" param3="type=0"/>
 <C2_mirror id="290" originalRow="290" groupSign="" debugClose="" action="角色台词" data="wo" param="啊哈哈……我只是{shake=1}确认一下你们的记忆！" param2="" param3=""/>
-<C2_mirror id="291" originalRow="291" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}？" param2="" param3=""/>
+<C2_mirror id="291" originalRow="291" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}？" param2="" param3=""/>
 <C2_mirror id="292" originalRow="292" groupSign="" debugClose="" action="角色台词" data="" param="（应该是选错了……）" param2="" param3=""/>
 <C2_mirror id="293" originalRow="293" groupSign="" debugClose="" action="跳转-标签" data="" param="符号选择" param2="" param3=""/>
 <C2_mirror id="294" originalRow="294" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
@@ -349,7 +349,7 @@ $$财前影响了她的利益==&gt;错误选择" param2="" param3=""/>
 <C2_mirror id="335" originalRow="335" groupSign="" debugClose="1" action="角色台词" data="niefei" param="走吧，到外面去。" param2="" param3="type=0"/>
 <C2_mirror id="336" originalRow="336" groupSign="" debugClose="1" action="角色台词" data="" param="【回到舞台中央】" param2="" param3="type=1"/>
 <C2_mirror id="337" originalRow="337" groupSign="" debugClose="1" action="移除角色" data="" param="" param2="" param3=""/>
-<C2_mirror id="338" originalRow="338" groupSign="" debugClose="1" action="系统-打开界面" data="ui_phone\ui_phone_calling" param="" param2="" param3=""/>
+<C2_mirror id="338" originalRow="338" groupSign="" debugClose="1" action="系统-打开界面" data="ui_phone/ui_phone_calling" param="" param2="" param3=""/>
 <C2_mirror id="339" originalRow="339" groupSign="" debugClose="1" action="停止音效" data="phone_ring" param="" param2="" param3=""/>
 <C2_mirror id="340" originalRow="340" groupSign="" debugClose="1" action="等待几秒" data="1.5" param="" param2="" param3=""/>
 <C2_mirror id="341" originalRow="341" groupSign="" debugClose="1" action="角色台词" data="duheng" param="" param2="" param3="type=4"/>

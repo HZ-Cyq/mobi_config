@@ -6,7 +6,7 @@
 <xt_daythink_niefeidefannao id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞紧张}怎么办呀，周易！我想参加荒野生存训练营，但我听去过的四个同事说他们连一周都坚持不下来！" param2="" param3="type=0"/>
 <xt_daythink_niefeidefannao id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="我怀疑他们中间只有两个人说了真话！{#聂飞紧张恢复}{#聂飞待机表情}" param2="" param3="type=0"/>
 <xt_daythink_niefeidefannao id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="你帮我找到说真话的人吧，我好评估一下荒野生存的危险等级。" param2="" param3="type=0"/>
-<xt_daythink_niefeidefannao id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="他们现在应该就在康鑫雅苑，我们一起去问问吧。" param2="" param3="type=0"/>
+<xt_daythink_niefeidefannao id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="他们现在应该就在康新雅苑，我们一起去问问吧。" param2="" param3="type=0"/>
 <xt_daythink_niefeidefannao id="8" originalRow="8" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="9" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_daythink_niefeidefannao id="10" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>

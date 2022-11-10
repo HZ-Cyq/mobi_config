@@ -209,7 +209,7 @@
 <C2_huaishushibian id="204" originalRow="204" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2开心动作}{#凯瑟琳2开心表情}那处理现场吧，把这个娃娃收容起来。\n然后回去……" param2="" param3="type=0"/>
 <C2_huaishushibian id="205" originalRow="205" groupSign="" debugClose="" action="角色台词" data="tuling" param="诶！等下！有杜杜的电话！" param2="" param3="type=0"/>
 <C2_huaishushibian id="206" originalRow="206" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
-<C2_huaishushibian id="207" originalRow="207" groupSign="" debugClose="" action="系统-打开界面" data="ui_phone\ui_phone_calling" param="1|1042" param2="" param3=""/>
+<C2_huaishushibian id="207" originalRow="207" groupSign="" debugClose="" action="系统-打开界面" data="ui_phone/ui_phone_calling" param="1|1042" param2="" param3=""/>
 <C2_huaishushibian id="208" originalRow="208" groupSign="" debugClose="" action="停止音效" data="" param="" param2="" param3=""/>
 <C2_huaishushibian id="209" originalRow="209" groupSign="" debugClose="" action="等待几秒" data="1.5" param="" param2="" param3=""/>
 <C2_huaishushibian id="210" originalRow="210" groupSign="" debugClose="" action="角色台词" data="duheng" param="处理完了吗？" param2="" param3="type=4"/>

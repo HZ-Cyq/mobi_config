@@ -155,8 +155,8 @@ $$休息一会儿在聊==&gt;中途开始" param2="" param3=""/>
 <C2_jiudian_square id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作}没错，战争期间财前靠自己的渠道大肆走私物资和武器，甚至向军阀贩卖难民充作兵源。" param2="" param3="type=0"/>
 <C2_jiudian_square id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌点赞动作恢复}有统计认为，他在西亚和南亚地区间接造成了多达几十万人的死亡。" param2="" param3="type=0"/>
 <C2_jiudian_square id="152" originalRow="152" groupSign="" debugClose="" action="角色台词" data="wo" param="血债累累啊……" param2="" param3="type=0"/>
-<C2_jiudian_square id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}不过靠着八面玲珑的关系网，财前经常帮某些政权维持微妙的区域战场平衡，也因此总能逃过制裁。" param2="" param3="type=0"/>
-<C2_jiudian_square id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#涂凌鄙视动作恢复}{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}怪不得杜衡对他手上的情报这么感兴趣。" param2="" param3="type=0"/>
+<C2_jiudian_square id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌思考动作}不过靠着八面玲珑的关系网，财前经常帮某些政权维持微妙的区域战场平衡，也因此总能逃过制裁。" param2="" param3="type=0"/>
+<C2_jiudian_square id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#涂凌思考动作恢复}{#凯瑟琳2思考动作}{#凯瑟琳2思考表情}怪不得杜衡对他手上的情报这么感兴趣。" param2="" param3="type=0"/>
 <C2_jiudian_square id="155" originalRow="155" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_jiudian_square id="156" originalRow="156" groupSign="" debugClose="" action="语法-数值" data="ri_第二章_02广场涂凌对话标记2=1" param="" param2="" param3=""/>
 <C2_jiudian_square id="157" originalRow="157" groupSign="" debugClose="" action="跳转-标签" data="" param="涂凌对话选项" param2="" param3=""/>

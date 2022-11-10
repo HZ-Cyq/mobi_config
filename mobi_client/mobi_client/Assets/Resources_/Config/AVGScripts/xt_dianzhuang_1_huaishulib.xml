@@ -27,11 +27,11 @@
 <xt_dianzhuang_1_huaishulib id="25" originalRow="25" groupSign="" debugClose="" action="跳转-标签" data="" param="被偷的私家车" param2="" param3=""/>
 <xt_dianzhuang_1_huaishulib id="26" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <xt_dianzhuang_1_huaishulib id="27" originalRow="27" groupSign="被偷的私家车" debugClose="" action="" data="" param="" param2="" param3=""/>
-<xt_dianzhuang_1_huaishulib id="28" originalRow="28" groupSign="" debugClose="" action="打开插画" data="blackbgimg" param="" param2="" param3=""/>
+<xt_dianzhuang_1_huaishulib id="28" originalRow="28" groupSign="" debugClose="" action="画面特效效果" data="Dark" param="" param2="" param3=""/>
 <xt_dianzhuang_1_huaishulib id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="" param="就在我们要离开小区的时候，涂凌突然停了下来，扯了扯我的衣袖。" param2="" param3="type=1"/>
 <xt_dianzhuang_1_huaishulib id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="" param="示意我看向停在一旁的一辆薄荷绿色的私家车。" param2="" param3="type=1"/>
 <xt_dianzhuang_1_huaishulib id="31" originalRow="31" groupSign="" debugClose="" action="角色台词" data="wo" param="嗯？这车有什么问题吗？" param2="" param3="type=0"/>
-<xt_dianzhuang_1_huaishulib id="32" originalRow="32" groupSign="" debugClose="" action="关闭插画" data="" param="" param2="" param3=""/>
+<xt_dianzhuang_1_huaishulib id="32" originalRow="32" groupSign="" debugClose="" action="画面特效移除" data="" param="" param2="" param3=""/>
 <xt_dianzhuang_1_huaishulib id="33" originalRow="33" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="" param3=""/>
 <xt_dianzhuang_1_huaishulib id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}我收集了被偷窃充电桩小区附近道路上的监控摄像" param2="" param3="type=0"/>
 <xt_dianzhuang_1_huaishulib id="35" originalRow="35" groupSign="" debugClose="" action="角色台词" data="tuling" param="将出现在失窃时间点左右两小时内的车辆信息记录在一起，而这辆车就在这个范围内。" param2="" param3="type=0"/>

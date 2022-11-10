@@ -108,12 +108,12 @@
 <StageChallenge id="2233" type="4" param="0" point="1" description="没有异质物战败"/>
 <StageChallenge id="3101" type="10" param="3101" point="3" description="优先击杀兔子"/>
 <StageChallenge id="3102" type="1" param="5" point="3" description="5回合内战斗胜利"/>
-<StageChallenge id="3103" type="20" param="3" point="3" description="同一回合内，击杀3个单位敌方"/>
+<StageChallenge id="3103" type="20" param="3" point="3" description="同一回合内，击杀3个敌方单位"/>
 <StageChallenge id="3111" type="11" param="3112" point="3" description="最后击杀女王"/>
-<StageChallenge id="3112" type="20" param="3" point="3" description="同一回合内，击杀3个单位敌方"/>
+<StageChallenge id="3112" type="20" param="3" point="3" description="同一回合内，击杀3个敌方单位"/>
 <StageChallenge id="3113" type="1" param="3" point="3" description="3回合内战斗胜利"/>
 <StageChallenge id="3121" type="10" param="3121" point="3" description="优先击杀兔子"/>
-<StageChallenge id="3122" type="20" param="3" point="3" description="同一回合内，击杀3个单位敌方"/>
+<StageChallenge id="3122" type="20" param="3" point="3" description="同一回合内，击杀3个敌方单位"/>
 <StageChallenge id="3123" type="1" param="5" point="3" description="5回合内战斗胜利"/>
 <StageChallenge id="3131" type="12" param="3135" point="3" description="优先找到鸽子"/>
 <StageChallenge id="3132" type="11" param="3132" point="3" description="最后击杀女王"/>
@@ -122,7 +122,7 @@
 <StageChallenge id="3142" type="14" param="3147" point="3" description="场上同时不超过1个非帽子怪物"/>
 <StageChallenge id="3143" type="1" param="3" point="3" description="战斗胜利且时长不超过3回合"/>
 <StageChallenge id="3151" type="11" param="3152" point="3" description="最后击杀变身怪"/>
-<StageChallenge id="3152" type="20" param="3" point="3" description="同一回合内，击杀3个单位敌方"/>
+<StageChallenge id="3152" type="20" param="3" point="3" description="同一回合内，击杀3个敌方单位"/>
 <StageChallenge id="3153" type="1" param="3" point="3" description="战斗胜利且时长不超过3回合"/>
 <StageChallenge id="3161" type="20" param="3" point="3" description="一回合内，同时击杀所有敌人"/>
 <StageChallenge id="3162" type="1" param="3" point="3" description="战斗胜利且时长不超过3回合"/>

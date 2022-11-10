@@ -24,7 +24,7 @@
 <xt_think1_catsfish1_kaioffice id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
 <xt_think1_catsfish1_kaioffice id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作}{#涂凌待机表情}剩下的百分之一点四……" param2="" param3="type=0"/>
 <xt_think1_catsfish1_kaioffice id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞得意表情}{#聂飞得意动作}是本大爷没偷小鱼干的概率！" param2="" param3="type=0"/>
-<xt_think1_catsfish1_kaioffice id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}{#涂凌待机表情}是聂飞把小鱼干分给其他小母猫的概率。" param2="" param3="type=0"/>
+<xt_think1_catsfish1_kaioffice id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌愤怒动作}{#涂凌待机表情}是聂飞把小鱼干分给其他小母猫的概率。" param2="" param3="type=0"/>
 <xt_think1_catsfish1_kaioffice id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞尴尬表情}{#聂飞愤怒动作}差点被你绕进去了，本大爷明明就是百！分！百！没偷小鱼干呀。" param2="" param3="type=0"/>
 <xt_think1_catsfish1_kaioffice id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞忧伤表情}{#聂飞忧伤动作}你是相信本大爷的吧！快帮我评评理。" param2="" param3="type=0"/>
 <xt_think1_catsfish1_kaioffice id="28" originalRow="28" groupSign="" debugClose="" action="可选对话框" data="" param="$$我相信聂飞==&gt;相信聂飞

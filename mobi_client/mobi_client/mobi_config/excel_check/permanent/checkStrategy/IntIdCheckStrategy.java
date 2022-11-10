@@ -10,9 +10,9 @@ import java.util.stream.Collectors;
 
 class IntIdCheckStrategy implements ICheckStrategy {
     @Override
-    //"ID:Hero$Monster$NULL","int类型，并且值是Hero这张表的id或者Monster表的id或者是空",
+    //"ID:Hero|Monster|NULL","int类型，并且值是Hero这张表的id或者Monster表的id或者是空",
     public boolean check(List<Object> list, String limitStateVale, ColumnInfo columnInfo) {
-        String[] limitStateArray = limitStateVale.split("\\$");
+        String[] limitStateArray = limitStateVale.split("\\|");
         // 没有NULL
         Set<String> limitStateSet = Arrays.stream(limitStateArray).filter(ele -> !"Null".equals(ele)).collect(Collectors.toSet());
         boolean hasNull = limitStateSet.size() != limitStateArray.length;

@@ -5,6 +5,7 @@ import com.mobi.log.GameLog;
 
 import java.util.*;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 import static com.mobi.config.checkStrategy.CheckStrategyService.check0;
 
@@ -44,7 +45,7 @@ class IntTupleStrategy implements ICheckStrategy {
 
         // 添加一个检查，type列的值是limitMap的KeySet的,检查不通过，直接返回false,不进行后续的检查了。
         if(!limitMap.keySet().containsAll(limitValList)) {
-            GameLog.LogError("IntTupleStrategy check error, 类型组合不是limitMap的子集, limitMap:{}, limitValList:{}", limitMap, limitValList);
+            GameLog.LogError("IntTupleStrategy check error, 类型组合不是limitMap的子集, limitMap:{}, limitValList:{}, 不在Tupple的元素:{}", limitMap, limitValList, limitValList.stream().filter(ele -> !limitMap.containsKey(ele)).collect(Collectors.toList()));
             return false;
         }
 

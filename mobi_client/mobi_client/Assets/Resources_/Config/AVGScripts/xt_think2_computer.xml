@@ -20,9 +20,9 @@
 <xt_think2_computer id="16" originalRow="16" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=中" param2="" param3=""/>
 <xt_think2_computer id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞严肃表情}{#聂飞严肃动作}杜博士说的对，我觉得他们当中&lt;z=highlight&gt;真的有人连电脑都不会用&lt;/z&gt;，间接影响到了我这边的安保工作效率！" param2="" param3="type=0"/>
 <xt_think2_computer id="18" originalRow="18" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=左" param2="" param3=""/>
-<xt_think2_computer id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌鄙视动作}{#涂凌待机表情}哼，不要对我的部门进行抹黑。" param2="" param3="type=0"/>
+<xt_think2_computer id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌愤怒动作}{#涂凌待机表情}哼，不要对我的部门进行抹黑。" param2="" param3="type=0"/>
 <xt_think2_computer id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="tuling" param="作为信息安全部的负责人，我可以保证，电脑&lt;z=highlight&gt;肯定是有人会用的&lt;/z&gt;啊……" param2="" param3="type=0"/>
-<xt_think2_computer id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;{#涂凌鄙视动作恢复}（只是有人会用而已吗……）&lt;/z&gt;" param2="" param3=""/>
+<xt_think2_computer id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="wo" param="&lt;z=blue&gt;{#涂凌愤怒动作恢复}（只是有人会用而已吗……）&lt;/z&gt;" param2="" param3=""/>
 <xt_think2_computer id="22" originalRow="22" groupSign="" debugClose="" action="设置角色" data="kaiselin02" param="pos=右" param2="" param3=""/>
 <xt_think2_computer id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="kaiselin02" param="{#凯瑟琳2紧张动作}{#凯瑟琳2得意表情}{#聂飞严肃动作恢复}我倒是听说……部门的小黑，&lt;z=highlight&gt;是个电脑傻瓜&lt;/z&gt;呢~" param2="" param3="type=0"/>
 <xt_think2_computer id="24" originalRow="24" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>

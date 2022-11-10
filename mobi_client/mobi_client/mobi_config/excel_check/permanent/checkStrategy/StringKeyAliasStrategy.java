@@ -11,9 +11,9 @@ import static com.mobi.config.checkStrategy.CheckStrategyService.findSDict;
 
 class StringKeyAliasStrategy implements ICheckStrategy {
     @Override
-    //"KEY_ALIAS:Hero$Monster$NULL","String类型，并且值是Hero这张表的id或者Monster表的key_alias或者是空",
+    //"KEY_ALIAS:Hero|Monster|NULL","String类型，并且值是Hero这张表的id或者Monster表的key_alias或者是空",
     public boolean check(List<Object> list, String limitStateVales, ColumnInfo columnInfo) {
-        String[] limitStateArray = limitStateVales.split("\\$");
+        String[] limitStateArray = limitStateVales.split("\\|");
         // 没有NULL
         Set<String> limitStateSet = Arrays.stream(limitStateArray).filter(ele -> !"NULL".equals(ele)).collect(Collectors.toSet());
         boolean hasNull = limitStateSet.size() != limitStateArray.length;

@@ -11,7 +11,7 @@
 危难之际被杜衡带走，后加入STS，担任STS003站点的技术部负责人。" defaultRecord="1" records="有着生人社交恐惧症的少女黑客，极度排斥肢体接触。但却也有一个属于自己的小世界。
 她曾因攻破新丰洲核心区的斯蒂尔蒙特数据中心，而在黑客届名噪一时。但其实她并不是通过正常的黑客手段攻破的防火墙。而是接入了城市电网，通过对电网的数据化操作渗透进入了号称全世界最安全的数据库。
 天才美少女黑客，大家都这么形容她，但如果能走进她的内心，或许也可以发现一个完全不一样的涂凌呢。"/>
-<CharacterRecord id="104" key_alias="土山奥" name="土山奥" headIcon="hero_15" infoIcon="hero_15" modelName="char_tushanao" drawing="tushanao" serialNum="101940" gender="2" birthday="？？？" experience="联合议会高级探员，在暗杀财前事件中与异质物融合，加入STS后成为了研究员和行动队队员，拥有特殊防御能力，擅长操纵壁垒型异质物。" defaultRecord="1" records="联合议会高级探员，以不操作异质物破获异质物事件闻名。财前事件后被联合议会抹去了职位和个人信息，以异质物研究员身份留在了STS作战队。沉默寡言，习惯压抑情感，过于激动时会陷入奇怪的状态……虽然看起来很不好相处，却被同伴评价为外冷内热的害羞鬼。土山奥想要追查冰酒背叛的真相以及财前身后的组织，等待她的却是迷雾重重……"/>
+<CharacterRecord id="104" key_alias="土山奥" name="土山奥" headIcon="hero_15" infoIcon="hero_15" modelName="char_tushanao" drawing="tushanao" serialNum="101940" gender="2" birthday="？？？" stature="182" experience="联合议会高级探员，在暗杀财前事件中与异质物融合，加入STS后成为了研究员和行动队队员，拥有特殊防御能力，擅长操纵壁垒型异质物。" defaultRecord="1" records="联合议会高级探员，以不操作异质物破获异质物事件闻名。财前事件后被联合议会抹去了职位和个人信息，以异质物研究员身份留在了STS作战队。沉默寡言，习惯压抑情感，过于激动时会陷入奇怪的状态……虽然看起来很不好相处，却被同伴评价为外冷内热的害羞鬼。土山奥想要追查冰酒背叛的真相以及财前身后的组织，等待她的却是迷雾重重……"/>
 <CharacterRecord id="105" key_alias="聂飞" name="聂飞" headIcon="hero_12" infoIcon="hero_12" modelName="char_niezong" drawing="niefei" serialNum="101941" gender="1" birthday="？？？" stature="65" experience="生前本是雇佣兵，在非洲执行任务死亡后却变成了一只黑足豹猫。
 被杜衡收容后，成为STS作战队先锋侦查兵。" defaultRecord="1" records="一只雄性非洲黑足豹猫，体型小巧，猫龄约4-5岁。对其基因测定发现基因结构更接近人类，导致其衰老的速度异常缓慢。
 最初因为“特别乖巧”被在非洲执行任务的通信工程师发现并作为宠物带回魔都，主人打算对其进行节育手术前逃离。后因被监控录像发现，一只流浪猫不可思议地破解了自动贩卖机，随后而被杜衡博士收容。"/>

@@ -89,7 +89,7 @@
 <xt_wuliu_huaishuli_menkou2 id="87" originalRow="87" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <xt_wuliu_huaishuli_menkou2 id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="wo" param="只有斜杠？一道，两道，三道，五道……" param2="" param3="type=0"/>
 <xt_wuliu_huaishuli_menkou2 id="89" originalRow="89" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=中" param2="涂凌_待机_动作_循环_02" param3=""/>
-<xt_wuliu_huaishuli_menkou2 id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="tuling" param="1、2、3、5、7、11，这是质数序列。" param2="" param3="type=0"/>
+<xt_wuliu_huaishuli_menkou2 id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="tuling" param="2、3、5、7、11、13，这是质数序列。" param2="" param3="type=0"/>
 <xt_wuliu_huaishuli_menkou2 id="91" originalRow="91" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=右" param2="聂总_思考_动作_开始_01" param3=""/>
 <xt_wuliu_huaishuli_menkou2 id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考表情}怎么每个数还重复了一整行？" param2="" param3="type=0"/>
 <xt_wuliu_huaishuli_menkou2 id="93" originalRow="93" groupSign="" debugClose="" action="角色台词" data="tuling" param="{#涂凌待机2动作恢复}不能确定，博士也许会知道。" param2="" param3="type=0"/>

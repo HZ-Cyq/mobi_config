@@ -178,7 +178,7 @@
 <C3_operational_chat id="169" originalRow="169" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
 <C3_operational_chat id="170" originalRow="170" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
 <C3_operational_chat id="171" originalRow="171" groupSign="紧急来电" debugClose="" action="" data="" param="" param2="" param3=""/>
-<C3_operational_chat id="172" originalRow="172" groupSign="" debugClose="" action="系统-打开界面" data="ui_phone\ui_phone_calling" param="1|1042" param2="" param3=""/>
+<C3_operational_chat id="172" originalRow="172" groupSign="" debugClose="" action="系统-打开界面" data="ui_phone/ui_phone_calling" param="1|1042" param2="" param3=""/>
 <C3_operational_chat id="173" originalRow="173" groupSign="" debugClose="" action="停止音效" data="phone_ring" param="" param2="" param3=""/>
 <C3_operational_chat id="174" originalRow="174" groupSign="" debugClose="" action="等待几秒" data="1.5" param="" param2="" param3=""/>
 <C3_operational_chat id="175" originalRow="175" groupSign="" debugClose="" action="角色台词" data="duheng" param="{角色表情,duheng,杜衡_紧张_上脸_开始_01;杜衡_待机_下嘴_循环_01;}特遣科全员，{0.3}做好整装出动准备！这不是演习！" param2="" param3="type=4"/>

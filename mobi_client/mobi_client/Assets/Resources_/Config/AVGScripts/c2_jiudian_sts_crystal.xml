@@ -153,8 +153,8 @@
 <C2_jiudian_sts_crystal id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="wo" param="诶？" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="niefei" param="{#聂飞思考动作恢复}而真正有欲望杀掉财前并设计了那种诡异手法的其实另有其人？{#聂飞待机表情}" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="152" originalRow="152" groupSign="" debugClose="" action="设置角色" data="tuling" param="pos=右" param2="" param3=""/>
-<C2_jiudian_sts_crystal id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="tuling" param="笨蛋！{#涂凌鄙视动作}{#聂飞忧伤}" param2="" param3="type=0"/>
-<C2_jiudian_sts_crystal id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="wo" param="土山昨晚一直住在大厦地下的保安军单间宿舍，{#涂凌鄙视动作恢复}那层连窗户都没有，{0.3}{#涂凌思考}不可能秘密出入的。" param2="" param3="type=0"/>
+<C2_jiudian_sts_crystal id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="tuling" param="笨蛋！{#涂凌忧伤动作}{#聂飞忧伤}" param2="" param3="type=0"/>
+<C2_jiudian_sts_crystal id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="wo" param="土山昨晚一直住在大厦地下的保安军单间宿舍，{#涂凌忧伤动作恢复}那层连窗户都没有，{0.3}{#涂凌思考}不可能秘密出入的。" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="155" originalRow="155" groupSign="" debugClose="" action="角色台词" data="niefei" param="这样啊……" param2="" param3="type=0"/>
 <C2_jiudian_sts_crystal id="156" originalRow="156" groupSign="" debugClose="" action="移除角色" data="" param="" param2="" param3=""/>
 <C2_jiudian_sts_crystal id="157" originalRow="157" groupSign="" debugClose="" action="跳转-标签" data="" param="众人继续" param2="" param3=""/>

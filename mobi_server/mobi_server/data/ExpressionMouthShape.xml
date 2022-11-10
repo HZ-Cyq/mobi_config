@@ -107,7 +107,7 @@
 <ExpressionMouthShape id="106" key_charAlias="杜衡_调戏_01" talkAnimName="杜衡_待机_说话_循环_01"/>
 <ExpressionMouthShape id="107" key_charAlias="杜衡_送客_01"/>
 <ExpressionMouthShape id="108" key_charAlias="杜衡_看文件_01" talkAnimName="杜衡_待机_说话_循环_01"/>
-<ExpressionMouthShape id="109"/>
+<ExpressionMouthShape id="109" key_charAlias="杜衡_看文件_02" talkAnimName="杜衡_待机_说话_循环_01"/>
 <ExpressionMouthShape id="110"/>
 <ExpressionMouthShape id="111" talkAnimName=""/>
 <ExpressionMouthShape id="112"/>
